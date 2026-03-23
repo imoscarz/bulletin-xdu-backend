@@ -150,7 +150,7 @@ def test_save_index(tmp_path: Path):
     assert raw["notices"][0]["id"] == "test:001"
     assert raw["notices"][0]["source_name"] == "Test Source"
 
-    docs_text = (tmp_path / "output" / "index.md").read_text(encoding="utf-8")
-    assert "# bulletin-xdu API" in docs_text
+    docs_text = (tmp_path / "output" / "index.html").read_text(encoding="utf-8")
+    assert "<h1>bulletin-xdu API</h1>" in docs_text
     assert "feed.json" in docs_text
     assert "sources/test.json" in docs_text

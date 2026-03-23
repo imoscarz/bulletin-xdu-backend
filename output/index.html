@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>bulletin-xdu API</title>
+    <style>
+        :root {
+            color-scheme: light;
+            --bg: #f5f7fb;
+            --card: #ffffff;
+            --text: #1a2533;
+            --muted: #5c6b80;
+            --line: #d9e1ec;
+            --accent: #0f766e;
+            --accent-soft: #e6f7f5;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: "Segoe UI", "Microsoft YaHei", sans-serif;
+            background: radial-gradient(circle at 20% 0%, #e8f3ff 0%, var(--bg) 45%);
+            color: var(--text);
+            line-height: 1.6;
+            padding: 24px;
+        }
+
+        main {
+            max-width: 920px;
+            margin: 0 auto;
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: 14px;
+            padding: 20px 24px;
+            box-shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 1.9rem;
+            letter-spacing: 0.2px;
+        }
+
+        h2 {
+            margin-top: 1.6rem;
+            margin-bottom: 0.6rem;
+            font-size: 1.2rem;
+            color: #0b4f4a;
+        }
+
+        p {
+            margin: 0.6rem 0 1rem;
+            color: var(--muted);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 0.5rem;
+        }
+
+        th,
+        td {
+            border: 1px solid var(--line);
+            padding: 0.5rem 0.65rem;
+            text-align: left;
+            vertical-align: top;
+        }
+
+        th {
+            background: #eef4fb;
+            color: #24466a;
+            font-weight: 600;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s ease;
+        }
+
+        a:hover {
+            border-bottom-color: var(--accent);
+        }
+
+        code {
+            background: var(--accent-soft);
+            color: #0f4d47;
+            border-radius: 4px;
+            padding: 0.1rem 0.35rem;
+            font-family: "Consolas", "SFMono-Regular", monospace;
+            font-size: 0.92em;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>bulletin-xdu API</h1>
+        <p>generated_at: 2026-03-23T15:10:43.553994+00:00</p>
+
+        <h2>Endpoints</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>路径</th>
+                    <th>说明</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="feed.json"><code>feed.json</code></a></td>
+                    <td>全部通知（按发布时间倒序，受 content_limit 限制）</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>Sources</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>source_id</th>
+                    <th>名称</th>
+                    <th>文件</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td><code>jwc</code></td><td>教务处</td><td><a href="sources/jwc.json">sources/jwc.json</a></td></tr>
+                <tr><td><code>cs</code></td><td>计算机科学与技术学院</td><td><a href="sources/cs.json">sources/cs.json</a></td></tr>
+                <tr><td><code>math</code></td><td>数学与统计学院</td><td><a href="sources/math.json">sources/math.json</a></td></tr>
+                <tr><td><code>see</code></td><td>电子工程学院</td><td><a href="sources/see.json">sources/see.json</a></td></tr>
+                <tr><td><code>phy</code></td><td>物理与光电工程学院</td><td><a href="sources/phy.json">sources/phy.json</a></td></tr>
+                <tr><td><code>soe</code></td><td>光电工程学院</td><td><a href="sources/soe.json">sources/soe.json</a></td></tr>
+                <tr><td><code>sem</code></td><td>经济与管理学院</td><td><a href="sources/sem.json">sources/sem.json</a></td></tr>
+                <tr><td><code>sfl</code></td><td>语言智能学部</td><td><a href="sources/sfl.json">sources/sfl.json</a></td></tr>
+                <tr><td><code>life</code></td><td>生命科学技术学院</td><td><a href="sources/life.json">sources/life.json</a></td></tr>
+                <tr><td><code>amn</code></td><td>先进材料与纳米科技学院</td><td><a href="sources/amn.json">sources/amn.json</a></td></tr>
+                <tr><td><code>sai</code></td><td>人工智能学院</td><td><a href="sources/sai.json">sources/sai.json</a></td></tr>
+                <tr><td><code>xgc</code></td><td>学生工作处</td><td><a href="sources/xgc.json">sources/xgc.json</a></td></tr>
+                <tr><td><code>bksy</code></td><td>本科生院</td><td><a href="sources/bksy.json">sources/bksy.json</a></td></tr>
+                <tr><td><code>gr</code></td><td>研究生院</td><td><a href="sources/gr.json">sources/gr.json</a></td></tr>
+                <tr><td><code>jgrsrc</code></td><td>人才招聘</td><td><a href="sources/jgrsrc.json">sources/jgrsrc.json</a></td></tr>
+                <tr><td><code>eme</code></td><td>机电工程学院</td><td><a href="sources/eme.json">sources/eme.json</a></td></tr>
+                <tr><td><code>sast</code></td><td>空间科学与技术学院</td><td><a href="sources/sast.json">sources/sast.json</a></td></tr>
+                <tr><td><code>rwxy</code></td><td>人文学院</td><td><a href="sources/rwxy.json">sources/rwxy.json</a></td></tr>
+                <tr><td><code>jcdlyjy</code></td><td>集成电路研究院</td><td><a href="sources/jcdlyjy.json">sources/jcdlyjy.json</a></td></tr>
+                <tr><td><code>imse</code></td><td>信息力学与感知工程学院</td><td><a href="sources/imse.json">sources/imse.json</a></td></tr>
+                <tr><td><code>xdwy</code></td><td>网络与继续教育学院</td><td><a href="sources/xdwy.json">sources/xdwy.json</a></td></tr>
+                <tr><td><code>ce</code></td><td>网络与信息安全学院</td><td><a href="sources/ce.json">sources/ce.json</a></td></tr>
+                <tr><td><code>ygb</code></td><td>党委研究生工作部</td><td><a href="sources/ygb.json">sources/ygb.json</a></td></tr>
+                <tr><td><code>dzb</code></td><td>党政办公室</td><td><a href="sources/dzb.json">sources/dzb.json</a></td></tr>
+                <tr><td><code>jsfz</code></td><td>教师发展中心</td><td><a href="sources/jsfz.json">sources/jsfz.json</a></td></tr>
+                <tr><td><code>ste</code></td><td>通信工程学院</td><td><a href="sources/ste.json">sources/ste.json</a></td></tr>
+                <tr><td><code>hqbzb</code></td><td>后勤保障部</td><td><a href="sources/hqbzb.json">sources/hqbzb.json</a></td></tr>
+                <tr><td><code>sys</code></td><td>实验室与设备处</td><td><a href="sources/sys.json">sources/sys.json</a></td></tr>
+                <tr><td><code>sie</code></td><td>国际教育学院</td><td><a href="sources/sie.json">sources/sie.json</a></td></tr>
+                <tr><td><code>sme</code></td><td>集成电路学部</td><td><a href="sources/sme.json">sources/sme.json</a></td></tr>
+            </tbody>
+        </table>
+    </main>
+</body>
+</html>

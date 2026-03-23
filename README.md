@@ -70,7 +70,7 @@ ls output/
 
 - `feed.json` — 全部通知（按发布时间倒序，受 `content_limit` 限制）
 - `sources/{source_id}.json` — 单个数据源全部通知
-- `index.md` — API 目录与使用指引
+- `index.html` — API 目录与使用指引
 
 ## 添加新数据源
 
