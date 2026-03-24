@@ -3,10 +3,17 @@
     "source_id": "sfl",
     "name": "语言智能学部",
     "url": "https://sfl.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-24T02:36:26.156127Z",
-    "total_notices": 50
+    "last_scraped": "2026-03-24T07:12:32.496790Z",
+    "total_notices": 51
   },
   "notices": [
+    {
+      "id": "sfl:15888",
+      "source_id": "sfl",
+      "title": "语言智能学部2026年硕士研究生招生复试录取工作方案",
+      "url": "https://sfl.xidian.edu.cn/info/1031/15888.htm",
+      "date": "2026-03-24"
+    },
     {
       "id": "sfl:15698",
       "source_id": "sfl",

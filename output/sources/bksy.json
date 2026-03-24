@@ -3,10 +3,31 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-24T02:36:40.864628Z",
-    "total_notices": 200
+    "last_scraped": "2026-03-24T07:12:44.486647Z",
+    "total_notices": 203
   },
   "notices": [
+    {
+      "id": "bksy:32812",
+      "source_id": "bksy",
+      "title": "2025级智能制造创新班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32812.htm",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "bksy:32792",
+      "source_id": "bksy",
+      "title": "关于对2026年校内无息助学贷款评定结果进行公示的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32792.htm",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "bksy:32772",
+      "source_id": "bksy",
+      "title": "关于对2026年春季困难补助评定结果进行公示的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32772.htm",
+      "date": "2026-03-24"
+    },
     {
       "id": "bksy:32762",
       "source_id": "bksy",

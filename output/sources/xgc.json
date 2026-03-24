@@ -3,10 +3,24 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-03-24T02:36:35.889162Z",
-    "total_notices": 100
+    "last_scraped": "2026-03-24T07:12:43.029368Z",
+    "total_notices": 102
   },
   "notices": [
+    {
+      "id": "xgc:13684",
+      "source_id": "xgc",
+      "title": "关于对2026年校内无息助学贷款评定结果进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13684.htm",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "xgc:13674",
+      "source_id": "xgc",
+      "title": "关于对2026年春季困难补助评定结果进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13674.htm",
+      "date": "2026-03-24"
+    },
     {
       "id": "xgc:13614",
       "source_id": "xgc",

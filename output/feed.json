@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-03-24T02:37:15.228262+00:00",
-  "total_notices": 2148,
+  "generated_at": "2026-03-24T07:13:31.072815+00:00",
+  "total_notices": 2156,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:13684",
+      "source_id": "xgc",
+      "title": "关于对2026年校内无息助学贷款评定结果进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13684.htm",
+      "date": "2026-03-24",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "xgc:13674",
+      "source_id": "xgc",
+      "title": "关于对2026年春季困难补助评定结果进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13674.htm",
+      "date": "2026-03-24",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "sfl:15888",
+      "source_id": "sfl",
+      "title": "语言智能学部2026年硕士研究生招生复试录取工作方案",
+      "url": "https://sfl.xidian.edu.cn/info/1031/15888.htm",
+      "date": "2026-03-24",
+      "source_name": "语言智能学部"
+    },
     {
       "id": "sem:13341",
       "source_id": "sem",
@@ -44,12 +68,52 @@
       "source_name": "信息力学与感知工程学院"
     },
     {
+      "id": "gr:18724",
+      "source_id": "gr",
+      "title": "2026年各学院硕士研究生招生复试录取工作方案",
+      "url": "https://gr.xidian.edu.cn/info/1073/18724.htm",
+      "date": "2026-03-24",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "cs:23834",
+      "source_id": "cs",
+      "title": "北京电子科技学院简介",
+      "url": "https://cs.xidian.edu.cn/info/1003/23834.htm",
+      "date": "2026-03-24",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
       "id": "cs:23804",
       "source_id": "cs",
       "title": "国家特色化示范性软件学院联合培养项目​2026级研究生招生简章",
       "url": "https://cs.xidian.edu.cn/info/1003/23804.htm",
       "date": "2026-03-24",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:32812",
+      "source_id": "bksy",
+      "title": "2025级智能制造创新班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32812.htm",
+      "date": "2026-03-24",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:32792",
+      "source_id": "bksy",
+      "title": "关于对2026年校内无息助学贷款评定结果进行公示的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32792.htm",
+      "date": "2026-03-24",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:32772",
+      "source_id": "bksy",
+      "title": "关于对2026年春季困难补助评定结果进行公示的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32772.htm",
+      "date": "2026-03-24",
+      "source_name": "本科生院"
     },
     {
       "id": "sem:13331",
