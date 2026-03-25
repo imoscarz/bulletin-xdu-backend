@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-03-25T02:43:19.083774+00:00",
-  "total_notices": 2168,
+  "generated_at": "2026-03-25T07:11:15.406283+00:00",
+  "total_notices": 2169,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:16245",
+      "source_id": "soe",
+      "title": "光电工程学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://soe.xidian.edu.cn/info/1095/16245.htm",
+      "date": "2026-03-25",
+      "source_name": "光电工程学院"
+    },
     {
       "id": "sem:13351",
       "source_id": "sem",
