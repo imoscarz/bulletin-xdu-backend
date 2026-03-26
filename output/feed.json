@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T07:19:04.334015+00:00",
-  "total_notices": 2172,
+  "generated_at": "2026-03-26T13:42:43.687664+00:00",
+  "total_notices": 2175,
   "content_limit": 5000,
   "notices": [
     {
@@ -18,6 +18,30 @@
       "url": "https://ste.xidian.edu.cn/info/1337/14886.htm",
       "date": "2026-03-26",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3445",
+      "source_id": "sme",
+      "title": "集成电路学部2026年硕士研究生招生复试笔试通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0326/3445.html",
+      "date": "2026-03-26",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "phy:10383",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260326-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10383.htm",
+      "date": "2026-03-26",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "eme:14626",
+      "source_id": "eme",
+      "title": "机电工程学院2026年硕士研究生招生复试笔试面试相关通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/14626.htm",
+      "date": "2026-03-26",
+      "source_name": "机电工程学院"
     },
     {
       "id": "soe:16245",
