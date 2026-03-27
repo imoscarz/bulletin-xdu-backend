@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-03-27T07:26:19.079235+00:00",
-  "total_notices": 2178,
+  "generated_at": "2026-03-27T13:19:47.723749+00:00",
+  "total_notices": 2185,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10004",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学网络与继续教育学院关于2026级高等学历继续教育新生放弃入学资格的公示",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10004.htm",
+      "date": "2026-03-27",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "soe:16275",
+      "source_id": "soe",
+      "title": "光电工程学院2026年硕士研究生招生复试专业知识笔试通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/16275.htm",
+      "date": "2026-03-27",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "soe:16265",
+      "source_id": "soe",
+      "title": "光电工程学院推荐优秀二O二七届本科毕业生免试攻读硕士学位研究生工作实施细则",
+      "url": "https://soe.xidian.edu.cn/info/1095/16265.htm",
+      "date": "2026-03-27",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sast:17797",
+      "source_id": "sast",
+      "title": "关于对第三十七届“星火杯”暨2026年“挑战杯”空间学院选拔赛  获奖结果进行公示的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/17797.htm",
+      "date": "2026-03-27",
+      "source_name": "空间科学与技术学院"
+    },
     {
       "id": "phy:10413",
       "source_id": "phy",
@@ -28,6 +60,14 @@
       "source_name": "生命科学技术学院"
     },
     {
+      "id": "bksy:32862",
+      "source_id": "bksy",
+      "title": "关于举办2026年中国大学生计算机设计大赛校内选拔赛...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32862.htm",
+      "date": "2026-03-27",
+      "source_name": "本科生院"
+    },
+    {
       "id": "ste:14896",
       "source_id": "ste",
       "title": "通信工程学院申请2026年6月学位硕士研究生盲审名单",
@@ -42,6 +82,22 @@
       "url": "https://ste.xidian.edu.cn/info/1337/14886.htm",
       "date": "2026-03-26",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3447",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0327/3447.html",
+      "date": "2026-03-26",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3446",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0327/3446.html",
+      "date": "2026-03-26",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3445",

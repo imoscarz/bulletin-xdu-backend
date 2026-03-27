@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-27T02:51:39.189009Z",
-    "total_notices": 76
+    "last_scraped": "2026-03-27T13:19:29.579451Z",
+    "total_notices": 77
   },
   "notices": [
+    {
+      "id": "xdwy:10004",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学网络与继续教育学院关于2026级高等学历继续教育新生放弃入学资格的公示",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10004.htm",
+      "date": "2026-03-27"
+    },
     {
       "id": "xdwy:9914",
       "source_id": "xdwy",
