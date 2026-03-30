@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T07:52:23.648519+00:00",
-  "total_notices": 2196,
+  "generated_at": "2026-03-30T13:47:54.642057+00:00",
+  "total_notices": 2199,
   "content_limit": 5000,
   "notices": [
     {
@@ -20,6 +20,14 @@
       "source_name": "人工智能学院"
     },
     {
+      "id": "math:22372",
+      "source_id": "math",
+      "title": "关于公布数学与统计学院2026年硕士研究生复试成绩的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/22372.htm",
+      "date": "2026-03-30",
+      "source_name": "数学与统计学院"
+    },
+    {
       "id": "life:16781",
       "source_id": "life",
       "title": "关于公布生命科学技术学院2026年硕士研究生复试成绩的通知",
@@ -34,6 +42,14 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/21863.htm",
       "date": "2026-03-30",
       "source_name": "教务处"
+    },
+    {
+      "id": "cs:24074",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年春季博士新生学业奖学金评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24074.htm",
+      "date": "2026-03-30",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "cs:24024",
@@ -58,6 +74,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/32872.htm",
       "date": "2026-03-30",
       "source_name": "本科生院"
+    },
+    {
+      "id": "amn:17362",
+      "source_id": "amn",
+      "title": "2026年学校党委第一轮巡察第一巡察组巡察先进材料与纳米科技学院党委的公告",
+      "url": "https://amn.xidian.edu.cn/info/1013/17362.htm",
+      "date": "2026-03-30",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "cs:23964",
