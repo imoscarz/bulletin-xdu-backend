@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T02:58:12.671358+00:00",
-  "total_notices": 2192,
+  "generated_at": "2026-03-30T07:52:23.648519+00:00",
+  "total_notices": 2196,
   "content_limit": 5000,
   "notices": [
     {
@@ -12,12 +12,44 @@
       "source_name": "空间科学与技术学院"
     },
     {
+      "id": "sai:17122",
+      "source_id": "sai",
+      "title": "关于公布人工智能学院2026年硕士研究生复试成绩的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/17122.htm",
+      "date": "2026-03-30",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "life:16781",
+      "source_id": "life",
+      "title": "关于公布生命科学技术学院2026年硕士研究生复试成绩的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/16781.htm",
+      "date": "2026-03-30",
+      "source_name": "生命科学技术学院"
+    },
+    {
       "id": "jwc:21863",
       "source_id": "jwc",
       "title": "关于对2023级、2022级本科生进行设计层(B级)实验实践能力达标测试的通知",
       "url": "https://jwc.xidian.edu.cn/info/1012/21863.htm",
       "date": "2026-03-30",
       "source_name": "教务处"
+    },
+    {
+      "id": "cs:24024",
+      "source_id": "cs",
+      "title": "计科院2026年硕士研究生招生全日制一志愿专业内方向调整安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/24024.htm",
+      "date": "2026-03-30",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:23994",
+      "source_id": "cs",
+      "title": "关于公布计算机科学与技术学院2026年硕士研究生复试成绩的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23994.htm",
+      "date": "2026-03-30",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "bksy:32872",
