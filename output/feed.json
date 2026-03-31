@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-03-30T19:08:25.797243+00:00",
-  "total_notices": 2199,
+  "generated_at": "2026-03-31T02:51:39.433843+00:00",
+  "total_notices": 2201,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:14916",
+      "source_id": "ste",
+      "title": "关于公布2026届本科毕业设计中期报告及周记抽审学号的通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/14916.htm",
+      "date": "2026-03-31",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "sast:17827",
       "source_id": "sast",
@@ -42,6 +50,14 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/21863.htm",
       "date": "2026-03-30",
       "source_name": "教务处"
+    },
+    {
+      "id": "jgrsrc:17238",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年度面向校内选聘思想政治理论课教师的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17238.htm",
+      "date": "2026-03-30",
+      "source_name": "人才招聘"
     },
     {
       "id": "cs:24074",

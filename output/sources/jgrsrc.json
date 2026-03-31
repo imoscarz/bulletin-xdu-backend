@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-03-30T19:08:00.836776Z",
-    "total_notices": 75
+    "last_scraped": "2026-03-31T02:50:57.881857Z",
+    "total_notices": 76
   },
   "notices": [
+    {
+      "id": "jgrsrc:17238",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年度面向校内选聘思想政治理论课教师的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17238.htm",
+      "date": "2026-03-30"
+    },
     {
       "id": "jgrsrc:17168",
       "source_id": "jgrsrc",
@@ -309,13 +316,6 @@
       "date": "2025-04-08"
     },
     {
-      "id": "jgrsrc:14788",
-      "source_id": "jgrsrc",
-      "title": "关于遴选青年教师赴中国电子科技集团公司第十研究所挂职锻炼的通知（二）",
-      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=14788",
-      "date": "2025-04-03"
-    },
-    {
       "id": "jgrsrc:14808",
       "source_id": "jgrsrc",
       "title": "党委教师工作部/人力资源部2025年清明假期值班表",
@@ -323,17 +323,24 @@
       "date": "2025-04-03"
     },
     {
-      "id": "jgrsrc:14658",
+      "id": "jgrsrc:14788",
       "source_id": "jgrsrc",
-      "title": "关于遴选青年教师赴上海芯源创新中心挂职锻炼的通知",
-      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=14658",
-      "date": "2025-03-28"
+      "title": "关于遴选青年教师赴中国电子科技集团公司第十研究所挂职锻炼的通知（二）",
+      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=14788",
+      "date": "2025-04-03"
     },
     {
       "id": "jgrsrc:14688",
       "source_id": "jgrsrc",
       "title": "关于西安电子科技大学非教师岗位2025届校园招聘的有关公告",
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/14688.htm",
+      "date": "2025-03-28"
+    },
+    {
+      "id": "jgrsrc:14658",
+      "source_id": "jgrsrc",
+      "title": "关于遴选青年教师赴上海芯源创新中心挂职锻炼的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=14658",
       "date": "2025-03-28"
     },
     {
@@ -344,17 +351,17 @@
       "date": "2025-03-24"
     },
     {
-      "id": "jgrsrc:14458",
-      "source_id": "jgrsrc",
-      "title": "关于遴选青年教师赴中国工程物理研究院电子工程研究所挂职锻炼的通知（二）",
-      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=14458",
-      "date": "2025-03-20"
-    },
-    {
       "id": "jgrsrc:14508",
       "source_id": "jgrsrc",
       "title": "关于西安电子科技大学非教师岗位2025届校园招聘的有关公告",
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/14508.htm",
+      "date": "2025-03-20"
+    },
+    {
+      "id": "jgrsrc:14458",
+      "source_id": "jgrsrc",
+      "title": "关于遴选青年教师赴中国工程物理研究院电子工程研究所挂职锻炼的通知（二）",
+      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=14458",
       "date": "2025-03-20"
     },
     {
@@ -491,17 +498,17 @@
       "date": "2024-12-26"
     },
     {
-      "id": "jgrsrc:13638",
-      "source_id": "jgrsrc",
-      "title": "关于遴选青年教师赴中国航天科工二院二十五所挂职锻炼的通知",
-      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=13638",
-      "date": "2024-12-20"
-    },
-    {
       "id": "jgrsrc:13648",
       "source_id": "jgrsrc",
       "title": "西安电子科技大学校医院医生招聘公告",
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/13648.htm",
+      "date": "2024-12-20"
+    },
+    {
+      "id": "jgrsrc:13638",
+      "source_id": "jgrsrc",
+      "title": "关于遴选青年教师赴中国航天科工二院二十五所挂职锻炼的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=13638",
       "date": "2024-12-20"
     },
     {

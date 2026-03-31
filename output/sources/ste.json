@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-30T19:08:17.587251Z",
-    "total_notices": 55
+    "last_scraped": "2026-03-31T02:51:23.360539Z",
+    "total_notices": 56
   },
   "notices": [
+    {
+      "id": "ste:14916",
+      "source_id": "ste",
+      "title": "关于公布2026届本科毕业设计中期报告及周记抽审学号的通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/14916.htm",
+      "date": "2026-03-31"
+    },
     {
       "id": "ste:14896",
       "source_id": "ste",
