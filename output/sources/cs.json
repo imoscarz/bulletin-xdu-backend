@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-01T03:20:21.540670Z",
-    "total_notices": 86
+    "last_scraped": "2026-04-01T07:42:26.483387Z",
+    "total_notices": 87
   },
   "notices": [
+    {
+      "id": "cs:24144",
+      "source_id": "cs",
+      "title": "计科院2026年硕士研究生招生全日制一志愿专业内方向调整拟录取结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24144.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "cs:24114",
       "source_id": "cs",

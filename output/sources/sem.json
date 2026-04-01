@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-01T03:20:30.883225Z",
-    "total_notices": 102
+    "last_scraped": "2026-04-01T07:42:39.467577Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "sem:13491",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2026年硕士研究生复试成绩的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/13491.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "sem:13351",
       "source_id": "sem",

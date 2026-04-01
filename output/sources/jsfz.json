@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-01T03:20:57.411203Z",
-    "total_notices": 50
+    "last_scraped": "2026-04-01T07:43:47.612361Z",
+    "total_notices": 51
   },
   "notices": [
+    {
+      "id": "jsfz:11602",
+      "source_id": "jsfz",
+      "title": "【教学培训】2026年第27期 “半导体物理A/B”教学阶段性总结与青年教师培养",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11602.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "jsfz:11552",
       "source_id": "jsfz",
