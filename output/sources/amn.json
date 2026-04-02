@@ -3,10 +3,17 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-02T02:46:40.982984Z",
-    "total_notices": 77
+    "last_scraped": "2026-04-02T07:21:36.467573Z",
+    "total_notices": 78
   },
   "notices": [
+    {
+      "id": "amn:17392",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/17392.htm",
+      "date": "2026-04-02"
+    },
     {
       "id": "amn:17372",
       "source_id": "amn",

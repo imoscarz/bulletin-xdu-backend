@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-02T02:47:31.590856+00:00",
-  "total_notices": 2242,
+  "generated_at": "2026-04-02T07:22:20.001870+00:00",
+  "total_notices": 2246,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:14996",
+      "source_id": "ste",
+      "title": "通信工程学院2026年清明假期值班安排",
+      "url": "https://ste.xidian.edu.cn/info/1145/14996.htm",
+      "date": "2026-04-02",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:14986",
+      "source_id": "ste",
+      "title": "通信工程学院2027届优秀本科毕业生免试攻读硕士研究生推荐工作实施办法",
+      "url": "https://ste.xidian.edu.cn/info/1336/14986.htm",
+      "date": "2026-04-02",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "ste:14966",
       "source_id": "ste",
@@ -10,6 +26,14 @@
       "url": "https://ste.xidian.edu.cn/info/1337/14966.htm",
       "date": "2026-04-02",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3456",
+      "source_id": "sme",
+      "title": "集成电路学部2026年硕士研究生招生全日制一志愿专业内方向调整拟录取名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0402/3456.html",
+      "date": "2026-04-02",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sai:18292",
@@ -50,6 +74,14 @@
       "url": "https://imse.xidian.edu.cn/info/1030/5601.htm",
       "date": "2026-04-02",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "amn:17392",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/17392.htm",
+      "date": "2026-04-02",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "ste:14956",
