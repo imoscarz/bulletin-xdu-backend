@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-02T07:21:40.642621Z",
-    "total_notices": 208
+    "last_scraped": "2026-04-02T13:27:22.590613Z",
+    "total_notices": 209
   },
   "notices": [
+    {
+      "id": "bksy:32902",
+      "source_id": "bksy",
+      "title": "【教学培训】2026年第28期 公共课“人工智能概论”课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32902.htm",
+      "date": "2026-04-02"
+    },
     {
       "id": "bksy:32892",
       "source_id": "bksy",

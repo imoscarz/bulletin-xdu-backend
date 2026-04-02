@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-02T07:22:20.001870+00:00",
-  "total_notices": 2246,
+  "generated_at": "2026-04-02T13:27:55.465474+00:00",
+  "total_notices": 2262,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10014",
+      "source_id": "xdwy",
+      "title": "关于开展2026级高等学历继续教育新生学籍注册自查校对工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10014.htm",
+      "date": "2026-04-02",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:15006",
+      "source_id": "ste",
+      "title": "通信工程学院2026年硕士研究生招生北电院专项综合能力面试安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/15006.htm",
+      "date": "2026-04-02",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "ste:14996",
       "source_id": "ste",
@@ -28,6 +44,54 @@
       "source_name": "通信工程学院"
     },
     {
+      "id": "soe:16305",
+      "source_id": "soe",
+      "title": "关于公布光电工程学院2026年硕士研究生复试成绩的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/16305.htm",
+      "date": "2026-04-02",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3463",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0402/3463.html",
+      "date": "2026-04-02",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3462",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0402/3462.html",
+      "date": "2026-04-02",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3461",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0402/3461.html",
+      "date": "2026-04-02",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3460",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0402/3460.html",
+      "date": "2026-04-02",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3457",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2024、2025年 本科教育教学改革项目结题验收工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0402/3457.html",
+      "date": "2026-04-02",
+      "source_name": "集成电路学部"
+    },
+    {
       "id": "sme:3456",
       "source_id": "sme",
       "title": "集成电路学部2026年硕士研究生招生全日制一志愿专业内方向调整拟录取名单公示",
@@ -36,12 +100,28 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "see:103241",
+      "source_id": "see",
+      "title": "电子工程学院2026年清明节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/103241.htm",
+      "date": "2026-04-02",
+      "source_name": "电子工程学院"
+    },
+    {
       "id": "sai:18292",
       "source_id": "sai",
       "title": "人工智能学院关于一志愿拟录取考生选取意向导师的通知",
       "url": "https://sai.xidian.edu.cn/info/1106/18292.htm",
       "date": "2026-04-02",
       "source_name": "人工智能学院"
+    },
+    {
+      "id": "rwxy:16584",
+      "source_id": "rwxy",
+      "title": "人文学院2026年全日制硕士研究生招生调剂方案",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/16584.htm",
+      "date": "2026-04-02",
+      "source_name": "人文学院"
     },
     {
       "id": "rwxy:16554",
@@ -68,12 +148,44 @@
       "source_name": "物理与光电工程学院"
     },
     {
+      "id": "jsfz:11612",
+      "source_id": "jsfz",
+      "title": "【教学培训】2026年第28期 公共课“人工智能概论”课程教学研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11612.htm",
+      "date": "2026-04-02",
+      "source_name": "教师发展中心"
+    },
+    {
       "id": "imse:5601",
       "source_id": "imse",
       "title": "信息力学与感知工程学院2026年硕士研究生招生一志愿统考拟录取名单公示",
       "url": "https://imse.xidian.edu.cn/info/1030/5601.htm",
       "date": "2026-04-02",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "eme:14706",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260402-2",
+      "url": "https://eme.xidian.edu.cn/info/1012/14706.htm",
+      "date": "2026-04-02",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:14696",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260402-1",
+      "url": "https://eme.xidian.edu.cn/info/1012/14696.htm",
+      "date": "2026-04-02",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:32902",
+      "source_id": "bksy",
+      "title": "【教学培训】2026年第28期 公共课“人工智能概论”课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32902.htm",
+      "date": "2026-04-02",
+      "source_name": "本科生院"
     },
     {
       "id": "amn:17392",
@@ -106,6 +218,22 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16295.htm",
       "date": "2026-04-01",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3459",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0402/3459.html",
+      "date": "2026-04-01",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3458",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0402/3458.html",
+      "date": "2026-04-01",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3453",

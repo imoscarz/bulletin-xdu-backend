@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-02T07:21:56.086570Z",
-    "total_notices": 77
+    "last_scraped": "2026-04-02T13:27:34.611949Z",
+    "total_notices": 78
   },
   "notices": [
+    {
+      "id": "xdwy:10014",
+      "source_id": "xdwy",
+      "title": "关于开展2026级高等学历继续教育新生学籍注册自查校对工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10014.htm",
+      "date": "2026-04-02"
+    },
     {
       "id": "xdwy:10004",
       "source_id": "xdwy",

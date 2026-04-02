@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-02T07:22:03.951692Z",
-    "total_notices": 51
+    "last_scraped": "2026-04-02T13:27:43.100964Z",
+    "total_notices": 52
   },
   "notices": [
+    {
+      "id": "jsfz:11612",
+      "source_id": "jsfz",
+      "title": "【教学培训】2026年第28期 公共课“人工智能概论”课程教学研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11612.htm",
+      "date": "2026-04-02"
+    },
     {
       "id": "jsfz:11602",
       "source_id": "jsfz",
