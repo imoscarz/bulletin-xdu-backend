@@ -3,10 +3,24 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-03T07:18:12.869536Z",
-    "total_notices": 78
+    "last_scraped": "2026-04-03T13:15:48.064548Z",
+    "total_notices": 80
   },
   "notices": [
+    {
+      "id": "amn:17572",
+      "source_id": "amn",
+      "title": "关于调整2026年硕士研究生招生指标的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/17572.htm",
+      "date": "2026-04-03"
+    },
+    {
+      "id": "amn:17402",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年清明节假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/17402.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "amn:17392",
       "source_id": "amn",

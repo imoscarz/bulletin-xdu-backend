@@ -3,10 +3,24 @@
     "source_id": "imse",
     "name": "信息力学与感知工程学院",
     "url": "https://imse.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-03T07:18:54.742310Z",
-    "total_notices": 20
+    "last_scraped": "2026-04-03T13:16:06.442457Z",
+    "total_notices": 22
   },
   "notices": [
+    {
+      "id": "imse:5701",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年全日制硕士研究生招生调剂方案",
+      "url": "https://imse.xidian.edu.cn/info/1030/5701.htm",
+      "date": "2026-04-03"
+    },
+    {
+      "id": "imse:5671",
+      "source_id": "imse",
+      "title": "关于公示信息力学与感知工程学院2026年硕士研究生招生统考拟录取名单的通知（三）",
+      "url": "https://imse.xidian.edu.cn/info/1030/5671.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "imse:5631",
       "source_id": "imse",

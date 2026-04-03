@@ -3,10 +3,24 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-04-03T07:17:49.943320Z",
-    "total_notices": 52
+    "last_scraped": "2026-04-03T13:15:32.320690Z",
+    "total_notices": 54
   },
   "notices": [
+    {
+      "id": "math:22412",
+      "source_id": "math",
+      "title": "数学与统计学院2026年全日制硕士研究生招生调剂方案",
+      "url": "https://math.xidian.edu.cn/info/1020/22412.htm",
+      "date": "2026-04-03"
+    },
+    {
+      "id": "math:22402",
+      "source_id": "math",
+      "title": "数学与统计学院2026年清明节假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/22402.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "math:22392",
       "source_id": "math",

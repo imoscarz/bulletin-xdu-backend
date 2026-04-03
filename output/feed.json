@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T07:19:56.161408+00:00",
-  "total_notices": 2280,
+  "generated_at": "2026-04-03T13:16:38.469338+00:00",
+  "total_notices": 2299,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,46 @@
       "url": "https://xdwy.xidian.edu.cn/info/1194/10024.htm",
       "date": "2026-04-03",
       "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:15026",
+      "source_id": "ste",
+      "title": "关于调整2026年硕士研究生招生指标的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15026.htm",
+      "date": "2026-04-03",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:16325",
+      "source_id": "soe",
+      "title": "光电工程学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/16325.htm",
+      "date": "2026-04-03",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "soe:16315",
+      "source_id": "soe",
+      "title": "光电工程学院2026年清明节假期值班安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/16315.htm",
+      "date": "2026-04-03",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3467",
+      "source_id": "sme",
+      "title": "集成电路学部关于开放2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0403/3467.html",
+      "date": "2026-04-03",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3466",
+      "source_id": "sme",
+      "title": "集成电路学部2026年非全日制硕士研究生招生调剂方案",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0403/3466.html",
+      "date": "2026-04-03",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3464",
@@ -26,6 +66,14 @@
       "url": "https://sfl.xidian.edu.cn/info/1031/16188.htm",
       "date": "2026-04-03",
       "source_name": "语言智能学部"
+    },
+    {
+      "id": "sem:13571",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年全日制硕士研究生招生调剂方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/13571.htm",
+      "date": "2026-04-03",
+      "source_name": "经济与管理学院"
     },
     {
       "id": "sem:13461",
@@ -84,12 +132,44 @@
       "source_name": "物理与光电工程学院"
     },
     {
+      "id": "math:22412",
+      "source_id": "math",
+      "title": "数学与统计学院2026年全日制硕士研究生招生调剂方案",
+      "url": "https://math.xidian.edu.cn/info/1020/22412.htm",
+      "date": "2026-04-03",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "math:22402",
+      "source_id": "math",
+      "title": "数学与统计学院2026年清明节假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/22402.htm",
+      "date": "2026-04-03",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "life:16811",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年全日制硕士研究生招生调剂方案",
+      "url": "https://life.xidian.edu.cn/info/1048/16811.htm",
+      "date": "2026-04-03",
+      "source_name": "生命科学技术学院"
+    },
+    {
       "id": "life:16801",
       "source_id": "life",
       "title": "生命科学技术学院2026年清明节值班安排",
       "url": "https://life.xidian.edu.cn/info/1048/16801.htm",
       "date": "2026-04-03",
       "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "jwc:21913",
+      "source_id": "jwc",
+      "title": "关于2026年校级本科教育教学改革拟立项项目的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/21913.htm",
+      "date": "2026-04-03",
+      "source_name": "教务处"
     },
     {
       "id": "jgrsrc:17378",
@@ -106,6 +186,22 @@
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/17368.htm",
       "date": "2026-04-03",
       "source_name": "人才招聘"
+    },
+    {
+      "id": "imse:5701",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年全日制硕士研究生招生调剂方案",
+      "url": "https://imse.xidian.edu.cn/info/1030/5701.htm",
+      "date": "2026-04-03",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "imse:5671",
+      "source_id": "imse",
+      "title": "关于公示信息力学与感知工程学院2026年硕士研究生招生统考拟录取名单的通知（三）",
+      "url": "https://imse.xidian.edu.cn/info/1030/5671.htm",
+      "date": "2026-04-03",
+      "source_name": "信息力学与感知工程学院"
     },
     {
       "id": "imse:5631",
@@ -132,12 +228,60 @@
       "source_name": "研究生院"
     },
     {
+      "id": "gr:19154",
+      "source_id": "gr",
+      "title": "研究生院/卓越工程师学院/研工部2026年（清明）值班安排表",
+      "url": "https://gr.xidian.edu.cn/info/1073/19154.htm",
+      "date": "2026-04-03",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "eme:14726",
+      "source_id": "eme",
+      "title": "2026年机电工程学院清明假期值班安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/14726.htm",
+      "date": "2026-04-03",
+      "source_name": "机电工程学院"
+    },
+    {
       "id": "cs:24204",
       "source_id": "cs",
       "title": "计算机科学与技术学院清明节值班安排",
       "url": "https://cs.xidian.edu.cn/info/1003/24204.htm",
       "date": "2026-04-03",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:32932",
+      "source_id": "bksy",
+      "title": "关于2026年校级本科教育教学改革拟立项项目的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32932.htm",
+      "date": "2026-04-03",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:32922",
+      "source_id": "bksy",
+      "title": "本科生院2026年清明节值班安排",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32922.htm",
+      "date": "2026-04-03",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "amn:17572",
+      "source_id": "amn",
+      "title": "关于调整2026年硕士研究生招生指标的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/17572.htm",
+      "date": "2026-04-03",
+      "source_name": "先进材料与纳米科技学院"
+    },
+    {
+      "id": "amn:17402",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年清明节假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/17402.htm",
+      "date": "2026-04-03",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "xdwy:10014",
@@ -634,6 +778,14 @@
       "url": "https://cs.xidian.edu.cn/info/1003/24084.htm",
       "date": "2026-03-31",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:32912",
+      "source_id": "bksy",
+      "title": "关于举办2026年西安电子科技大学“北太天元杯”数学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32912.htm",
+      "date": "2026-03-31",
+      "source_name": "本科生院"
     },
     {
       "id": "amn:17372",

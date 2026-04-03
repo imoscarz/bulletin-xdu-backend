@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-03T07:18:17.342024Z",
-    "total_notices": 209
+    "last_scraped": "2026-04-03T13:15:55.301449Z",
+    "total_notices": 212
   },
   "notices": [
+    {
+      "id": "bksy:32932",
+      "source_id": "bksy",
+      "title": "关于2026年校级本科教育教学改革拟立项项目的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32932.htm",
+      "date": "2026-04-03"
+    },
+    {
+      "id": "bksy:32922",
+      "source_id": "bksy",
+      "title": "本科生院2026年清明节值班安排",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32922.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "bksy:32902",
       "source_id": "bksy",
@@ -27,6 +41,13 @@
       "title": "关于认真做好2025～2026学年第二学期期中考试工作的...",
       "url": "https://bksy.xidian.edu.cn/info/1003/32882.htm",
       "date": "2026-04-01"
+    },
+    {
+      "id": "bksy:32912",
+      "source_id": "bksy",
+      "title": "关于举办2026年西安电子科技大学“北太天元杯”数学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32912.htm",
+      "date": "2026-03-31"
     },
     {
       "id": "bksy:32872",

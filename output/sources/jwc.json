@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-03T07:17:46.245107Z",
-    "total_notices": 68
+    "last_scraped": "2026-04-03T13:15:28.317366Z",
+    "total_notices": 69
   },
   "notices": [
+    {
+      "id": "jwc:21913",
+      "source_id": "jwc",
+      "title": "关于2026年校级本科教育教学改革拟立项项目的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/21913.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "jwc:21873",
       "source_id": "jwc",

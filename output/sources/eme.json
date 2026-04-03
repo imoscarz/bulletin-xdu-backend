@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-04-03T07:18:44.341695Z",
-    "total_notices": 105
+    "last_scraped": "2026-04-03T13:16:00.242792Z",
+    "total_notices": 106
   },
   "notices": [
+    {
+      "id": "eme:14726",
+      "source_id": "eme",
+      "title": "2026年机电工程学院清明假期值班安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/14726.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "eme:14706",
       "source_id": "eme",

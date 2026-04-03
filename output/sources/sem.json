@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-03T07:17:56.772378Z",
-    "total_notices": 104
+    "last_scraped": "2026-04-03T13:15:41.011503Z",
+    "total_notices": 105
   },
   "notices": [
+    {
+      "id": "sem:13571",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年全日制硕士研究生招生调剂方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/13571.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "sem:13461",
       "source_id": "sem",
