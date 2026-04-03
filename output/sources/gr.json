@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-04-03T02:49:32.344430Z",
-    "total_notices": 102
+    "last_scraped": "2026-04-03T07:18:31.579423Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "gr:19174",
+      "source_id": "gr",
+      "title": "西安电子科技大学2026年硕士研究生招生调剂工作方案",
+      "url": "https://gr.xidian.edu.cn/info/1073/19174.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "gr:18854",
       "source_id": "gr",
