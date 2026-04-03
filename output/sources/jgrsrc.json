@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-02T19:04:37.332134Z",
-    "total_notices": 78
+    "last_scraped": "2026-04-03T02:49:34.009508Z",
+    "total_notices": 79
   },
   "notices": [
+    {
+      "id": "jgrsrc:17368",
+      "source_id": "jgrsrc",
+      "title": "党委教师工作部/人力资源部2026年清明节假期值班表",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17368.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "jgrsrc:17338",
       "source_id": "jgrsrc",

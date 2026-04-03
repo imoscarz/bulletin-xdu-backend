@@ -3,10 +3,31 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-02T19:03:54.201256Z",
-    "total_notices": 55
+    "last_scraped": "2026-04-03T02:49:15.468116Z",
+    "total_notices": 58
   },
   "notices": [
+    {
+      "id": "phy:10513",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260403-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10513.htm",
+      "date": "2026-04-03"
+    },
+    {
+      "id": "phy:10493",
+      "source_id": "phy",
+      "title": "物理学院关于2026年硕士研究生专业内方向调整报名的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10493.htm",
+      "date": "2026-04-03"
+    },
+    {
+      "id": "phy:10483",
+      "source_id": "phy",
+      "title": "物理学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/10483.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "phy:10473",
       "source_id": "phy",

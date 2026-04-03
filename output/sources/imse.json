@@ -3,10 +3,17 @@
     "source_id": "imse",
     "name": "信息力学与感知工程学院",
     "url": "https://imse.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-02T19:05:04.170534Z",
-    "total_notices": 18
+    "last_scraped": "2026-04-03T02:49:41.529944Z",
+    "total_notices": 19
   },
   "notices": [
+    {
+      "id": "imse:5611",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年清明节放假值班表",
+      "url": "https://imse.xidian.edu.cn/info/1030/5611.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "imse:5601",
       "source_id": "imse",

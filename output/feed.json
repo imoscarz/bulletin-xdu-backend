@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-04-02T19:05:53.526442+00:00",
-  "total_notices": 2263,
+  "generated_at": "2026-04-03T02:50:05.333683+00:00",
+  "total_notices": 2271,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sem:13461",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年清明节假期值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/13461.htm",
+      "date": "2026-04-03",
+      "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sai:18312",
+      "source_id": "sai",
+      "title": "关于公布人工智能学院2026年硕士研究生追加指标及拟录取名单的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18312.htm",
+      "date": "2026-04-03",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:10513",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260403-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10513.htm",
+      "date": "2026-04-03",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:10493",
+      "source_id": "phy",
+      "title": "物理学院关于2026年硕士研究生专业内方向调整报名的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10493.htm",
+      "date": "2026-04-03",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:10483",
+      "source_id": "phy",
+      "title": "物理学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/10483.htm",
+      "date": "2026-04-03",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "life:16801",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年清明节值班安排",
+      "url": "https://life.xidian.edu.cn/info/1048/16801.htm",
+      "date": "2026-04-03",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "jgrsrc:17368",
+      "source_id": "jgrsrc",
+      "title": "党委教师工作部/人力资源部2026年清明节假期值班表",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17368.htm",
+      "date": "2026-04-03",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "imse:5611",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年清明节放假值班表",
+      "url": "https://imse.xidian.edu.cn/info/1030/5611.htm",
+      "date": "2026-04-03",
+      "source_name": "信息力学与感知工程学院"
+    },
     {
       "id": "xdwy:10014",
       "source_id": "xdwy",

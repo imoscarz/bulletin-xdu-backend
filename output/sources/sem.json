@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-02T19:03:56.963109Z",
-    "total_notices": 103
+    "last_scraped": "2026-04-03T02:49:18.399453Z",
+    "total_notices": 104
   },
   "notices": [
+    {
+      "id": "sem:13461",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年清明节假期值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/13461.htm",
+      "date": "2026-04-03"
+    },
     {
       "id": "sem:13491",
       "source_id": "sem",
