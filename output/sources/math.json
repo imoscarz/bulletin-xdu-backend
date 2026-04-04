@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-04-04T07:08:16.215151Z",
-    "total_notices": 54
+    "last_scraped": "2026-04-04T13:07:37.144574Z",
+    "total_notices": 55
   },
   "notices": [
+    {
+      "id": "math:22422",
+      "source_id": "math",
+      "title": "关于数学与统计学院2026年全日制硕士研究生招生调剂方案的补充说明",
+      "url": "https://math.xidian.edu.cn/info/1020/22422.htm",
+      "date": "2026-04-04"
+    },
     {
       "id": "math:22412",
       "source_id": "math",

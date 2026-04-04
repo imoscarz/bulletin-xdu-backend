@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-04-04T07:09:12.214756+00:00",
-  "total_notices": 2301,
+  "generated_at": "2026-04-04T13:09:06.119351+00:00",
+  "total_notices": 2302,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "math:22422",
+      "source_id": "math",
+      "title": "关于数学与统计学院2026年全日制硕士研究生招生调剂方案的补充说明",
+      "url": "https://math.xidian.edu.cn/info/1020/22422.htm",
+      "date": "2026-04-04",
+      "source_name": "数学与统计学院"
+    },
     {
       "id": "xdwy:10024",
       "source_id": "xdwy",
