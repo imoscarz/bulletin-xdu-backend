@@ -3,10 +3,24 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-06T19:09:54.647318Z",
-    "total_notices": 107
+    "last_scraped": "2026-04-07T02:52:20.453369Z",
+    "total_notices": 109
   },
   "notices": [
+    {
+      "id": "sai:18342",
+      "source_id": "sai",
+      "title": "人工智能学院关于开放2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18342.htm",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "sai:18332",
+      "source_id": "sai",
+      "title": "人工智能学院2026年非全日制硕士研究生招生调剂方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/18332.htm",
+      "date": "2026-04-07"
+    },
     {
       "id": "sai:18312",
       "source_id": "sai",

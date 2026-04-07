@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-04-06T19:10:21.422481+00:00",
-  "total_notices": 2303,
+  "generated_at": "2026-04-07T02:52:57.659467+00:00",
+  "total_notices": 2307,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sai:18342",
+      "source_id": "sai",
+      "title": "人工智能学院关于开放2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18342.htm",
+      "date": "2026-04-07",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "sai:18332",
+      "source_id": "sai",
+      "title": "人工智能学院2026年非全日制硕士研究生招生调剂方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/18332.htm",
+      "date": "2026-04-07",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "imse:5741",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院关于开放2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂的通知",
+      "url": "https://imse.xidian.edu.cn/info/1030/5741.htm",
+      "date": "2026-04-07",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "bksy:32942",
+      "source_id": "bksy",
+      "title": "关于2026年全国大学生英语竞赛（NECCS） 参赛时间、...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32942.htm",
+      "date": "2026-04-07",
+      "source_name": "本科生院"
+    },
     {
       "id": "phy:10543",
       "source_id": "phy",
