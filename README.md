@@ -1,13 +1,13 @@
 # bulletin-xdu
 
-XDU 校园通知聚合平台后端。基于 GitHub Actions 定时爬取学校各学院/部门通知网站，归档为 JSON 并通过 GitHub Pages 提供静态 API 访问。
+XDU 校园通知聚合平台后端。基于 GitHub Actions 定时爬取学校各学院/部门通知网站，归档为 JSON 并通过 Cloudflare Pages 提供静态 API 访问。
 
 ## 特性
 
 - **Adapter 模式**: 可扩展的适配器架构，针对不同网站格式编写 adapter
 - **配置驱动**: 通过 YAML 文件配置数据源，无需修改代码即可添加新站点
 - **增量爬取**: 仅抓取新通知，避免重复
-- **零成本部署**: GitHub Actions + GitHub Pages，无需服务器
+- **零成本部署**: GitHub Actions + Cloudflare Pages，无需服务器
 
 ## 支持的数据源
 
@@ -66,11 +66,21 @@ ls output/
 
 ## API 端点
 
-部署到 GitHub Pages 后：
+部署到 Cloudflare Pages 后：
 
 - `feed.json` — 全部通知（按发布时间倒序，受 `content_limit` 限制）
 - `sources/{source_id}.json` — 单个数据源全部通知
 - `index.html` — API 目录与使用指引
+
+## Cloudflare Pages 部署配置
+
+仓库需要配置以下 GitHub Actions Secrets：
+
+- `CLOUDFLARE_API_TOKEN`：Cloudflare API Token（建议最小权限）
+- `CLOUDFLARE_ACCOUNT_ID`：Cloudflare Account ID
+- `CLOUDFLARE_PROJECT_NAME`：Cloudflare Pages 项目名
+
+部署工作流位于 `.github/workflows/deploy-cloudflare-pages.yml`，会在 `Scrape Bulletins` 成功后自动触发，也支持手动触发。
 
 ## 添加新数据源
 
