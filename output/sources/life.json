@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-08T07:43:54.099384Z",
-    "total_notices": 80
+    "last_scraped": "2026-04-08T13:44:35.114997Z",
+    "total_notices": 81
   },
   "notices": [
+    {
+      "id": "life:16821",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年硕士研究生招生调剂复试考生名单公布",
+      "url": "https://life.xidian.edu.cn/info/1048/16821.htm",
+      "date": "2026-04-08"
+    },
     {
       "id": "life:16811",
       "source_id": "life",

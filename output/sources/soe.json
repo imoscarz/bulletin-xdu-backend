@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-04-08T07:43:46.620147Z",
-    "total_notices": 28
+    "last_scraped": "2026-04-08T13:44:23.822174Z",
+    "total_notices": 29
   },
   "notices": [
+    {
+      "id": "soe:16395",
+      "source_id": "soe",
+      "title": "光电工程学院高质量招生宣传专场培训",
+      "url": "https://soe.xidian.edu.cn/info/1095/16395.htm",
+      "date": "2026-04-08"
+    },
     {
       "id": "soe:16385",
       "source_id": "soe",

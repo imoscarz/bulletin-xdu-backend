@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-08T07:44:13.711870Z",
-    "total_notices": 86
+    "last_scraped": "2026-04-08T13:44:48.617493Z",
+    "total_notices": 87
   },
   "notices": [
+    {
+      "id": "sast:18167",
+      "source_id": "sast",
+      "title": "空间科学与技术学院关于开展2026年春季钱学森空间科学实验班选拔面试的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18167.htm",
+      "date": "2026-04-08"
+    },
     {
       "id": "sast:18097",
       "source_id": "sast",
