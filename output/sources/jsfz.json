@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-08T02:53:30.725265Z",
-    "total_notices": 55
+    "last_scraped": "2026-04-08T07:44:31.153149Z",
+    "total_notices": 56
   },
   "notices": [
+    {
+      "id": "jsfz:11652",
+      "source_id": "jsfz",
+      "title": "【教学活动】2026年第34期光电工程学院高质量招生宣传专场研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11652.htm",
+      "date": "2026-04-08"
+    },
     {
       "id": "jsfz:11642",
       "source_id": "jsfz",

@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-04-08T02:53:44.869174+00:00",
-  "total_notices": 2325,
+  "generated_at": "2026-04-08T07:44:45.845011+00:00",
+  "total_notices": 2329,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15056",
+      "source_id": "ste",
+      "title": "通信工程学院2026年非全日制硕士研究生招生调剂方案",
+      "url": "https://ste.xidian.edu.cn/info/1337/15056.htm",
+      "date": "2026-04-08",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "jsfz:11652",
+      "source_id": "jsfz",
+      "title": "【教学活动】2026年第34期光电工程学院高质量招生宣传专场研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11652.htm",
+      "date": "2026-04-08",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:32992",
+      "source_id": "bksy",
+      "title": "【教学活动】2026年第34期光电工程学院高质量招生宣...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32992.htm",
+      "date": "2026-04-08",
+      "source_name": "本科生院"
+    },
     {
       "id": "ygb:10563",
       "source_id": "ygb",
@@ -274,6 +298,14 @@
       "url": "https://sem.xidian.edu.cn/info/1536/13461.htm",
       "date": "2026-04-03",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sast:18147",
+      "source_id": "sast",
+      "title": "关于开展4月7日-12日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18147.htm",
+      "date": "2026-04-03",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "sast:18007",

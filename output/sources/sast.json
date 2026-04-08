@@ -3,8 +3,8 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-08T02:53:21.306228Z",
-    "total_notices": 85
+    "last_scraped": "2026-04-08T07:44:13.711870Z",
+    "total_notices": 86
   },
   "notices": [
     {
@@ -20,6 +20,13 @@
       "title": "空间科学与技术学院2026年非全日制硕招生调剂方案",
       "url": "https://sast.xidian.edu.cn/info/1014/18077.htm",
       "date": "2026-04-07"
+    },
+    {
+      "id": "sast:18147",
+      "source_id": "sast",
+      "title": "关于开展4月7日-12日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18147.htm",
+      "date": "2026-04-03"
     },
     {
       "id": "sast:18007",
