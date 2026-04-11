@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-11T07:08:50.427829+00:00",
-  "total_notices": 2356,
+  "generated_at": "2026-04-11T13:12:05.362440+00:00",
+  "total_notices": 2358,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15096",
+      "source_id": "ste",
+      "title": "通信工程学院2026年非全日制硕士研究生调剂复试安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/15096.htm",
+      "date": "2026-04-11",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sast:18357",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年硕士研究生招生  新一代电子信息技术（含量子技术等）非全日制调剂拟录取名单公示",
+      "url": "https://sast.xidian.edu.cn/info/1014/18357.htm",
+      "date": "2026-04-11",
+      "source_name": "空间科学与技术学院"
+    },
     {
       "id": "soe:16435",
       "source_id": "soe",

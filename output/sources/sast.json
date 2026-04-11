@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-11T07:08:10.118662Z",
-    "total_notices": 88
+    "last_scraped": "2026-04-11T13:11:28.128603Z",
+    "total_notices": 89
   },
   "notices": [
+    {
+      "id": "sast:18357",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年硕士研究生招生  新一代电子信息技术（含量子技术等）非全日制调剂拟录取名单公示",
+      "url": "https://sast.xidian.edu.cn/info/1014/18357.htm",
+      "date": "2026-04-11"
+    },
     {
       "id": "sast:18257",
       "source_id": "sast",
