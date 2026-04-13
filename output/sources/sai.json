@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-13T03:29:20.458692Z",
-    "total_notices": 111
+    "last_scraped": "2026-04-13T08:12:35.079650Z",
+    "total_notices": 112
   },
   "notices": [
+    {
+      "id": "sai:18432",
+      "source_id": "sai",
+      "title": "关于人工智能学院2025-2026年度共青团先进集体和先进个人的公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/18432.htm",
+      "date": "2026-04-13"
+    },
     {
       "id": "sai:18422",
       "source_id": "sai",

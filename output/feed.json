@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-13T03:29:57.162752+00:00",
-  "total_notices": 2365,
+  "generated_at": "2026-04-13T08:13:14.638675+00:00",
+  "total_notices": 2370,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sast:18377",
+      "source_id": "sast",
+      "title": "关于对空间科学与技术学院2025-2026年度共青团先进集体和  先进个人荣誉称号评审结果进行公示的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18377.htm",
+      "date": "2026-04-13",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sai:18432",
+      "source_id": "sai",
+      "title": "关于人工智能学院2025-2026年度共青团先进集体和先进个人的公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/18432.htm",
+      "date": "2026-04-13",
+      "source_name": "人工智能学院"
+    },
     {
       "id": "life:16871",
       "source_id": "life",
@@ -12,12 +28,28 @@
       "source_name": "生命科学技术学院"
     },
     {
+      "id": "jwc:21963",
+      "source_id": "jwc",
+      "title": "关于2026年校级本科教育教学改革专项—团队式毕业设计拟立项项目的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/21963.htm",
+      "date": "2026-04-13",
+      "source_name": "教务处"
+    },
+    {
       "id": "imse:5761",
       "source_id": "imse",
       "title": "信息力学与感知工程学院2026年硕士研究生招生调剂拟录取名单公示",
       "url": "https://imse.xidian.edu.cn/info/1030/5761.htm",
       "date": "2026-04-13",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "bksy:33022",
+      "source_id": "bksy",
+      "title": "关于2026年校级本科教育教学改革专项—团队式毕业设...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33022.htm",
+      "date": "2026-04-13",
+      "source_name": "本科生院"
     },
     {
       "id": "ste:15126",
@@ -138,6 +170,14 @@
       "url": "https://gr.xidian.edu.cn/info/1073/19244.htm",
       "date": "2026-04-10",
       "source_name": "研究生院"
+    },
+    {
+      "id": "eme:14796",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息260410",
+      "url": "https://eme.xidian.edu.cn/info/1012/14796.htm",
+      "date": "2026-04-10",
+      "source_name": "机电工程学院"
     },
     {
       "id": "eme:14786",

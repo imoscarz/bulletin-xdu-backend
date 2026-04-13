@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-13T03:29:29.211784Z",
-    "total_notices": 89
+    "last_scraped": "2026-04-13T08:12:45.342790Z",
+    "total_notices": 90
   },
   "notices": [
+    {
+      "id": "sast:18377",
+      "source_id": "sast",
+      "title": "关于对空间科学与技术学院2025-2026年度共青团先进集体和  先进个人荣誉称号评审结果进行公示的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18377.htm",
+      "date": "2026-04-13"
+    },
     {
       "id": "sast:18357",
       "source_id": "sast",
