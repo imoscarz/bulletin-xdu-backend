@@ -3,10 +3,24 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-14T07:56:46.087974Z",
-    "total_notices": 74
+    "last_scraped": "2026-04-14T13:58:41.620483Z",
+    "total_notices": 76
   },
   "notices": [
+    {
+      "id": "ste:15186",
+      "source_id": "ste",
+      "title": "通信工程学院2026年非全日制硕士研究生调剂考生联培企业专项综合能力面试安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/15186.htm",
+      "date": "2026-04-14"
+    },
+    {
+      "id": "ste:15176",
+      "source_id": "ste",
+      "title": "关于公布通信工程学院2026年硕士研究生招生非全日制调剂复试成绩的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15176.htm",
+      "date": "2026-04-14"
+    },
     {
       "id": "ste:15166",
       "source_id": "ste",

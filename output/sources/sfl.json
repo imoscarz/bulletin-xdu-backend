@@ -3,10 +3,17 @@
     "source_id": "sfl",
     "name": "语言智能学部",
     "url": "https://sfl.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-14T07:56:12.505474Z",
-    "total_notices": 53
+    "last_scraped": "2026-04-14T13:58:02.763242Z",
+    "total_notices": 54
   },
   "notices": [
+    {
+      "id": "sfl:16498",
+      "source_id": "sfl",
+      "title": "语言智能学部（外国语学院）2026年硕士研究生招生一志愿统考补录名单公示",
+      "url": "https://sfl.xidian.edu.cn/info/1031/16498.htm",
+      "date": "2026-04-14"
+    },
     {
       "id": "sfl:16188",
       "source_id": "sfl",
