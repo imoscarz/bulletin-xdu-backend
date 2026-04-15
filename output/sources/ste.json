@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-15T03:17:54.975565Z",
-    "total_notices": 76
+    "last_scraped": "2026-04-15T07:57:42.542051Z",
+    "total_notices": 77
   },
   "notices": [
+    {
+      "id": "ste:15206",
+      "source_id": "ste",
+      "title": "通信工程学院2026年春季博士学业奖学金评审结果公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/15206.htm",
+      "date": "2026-04-15"
+    },
     {
       "id": "ste:15186",
       "source_id": "ste",
