@@ -3,10 +3,17 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-15T07:57:18.909378Z",
-    "total_notices": 80
+    "last_scraped": "2026-04-15T13:51:39.676169Z",
+    "total_notices": 81
   },
   "notices": [
+    {
+      "id": "amn:17632",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于对春季博士2026年研究生学业奖学金评选结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/17632.htm",
+      "date": "2026-04-15"
+    },
     {
       "id": "amn:17572",
       "source_id": "amn",

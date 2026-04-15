@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T07:57:56.537658+00:00",
-  "total_notices": 2393,
+  "generated_at": "2026-04-15T13:53:24.965997+00:00",
+  "total_notices": 2395,
   "content_limit": 5000,
   "notices": [
     {
@@ -28,12 +28,28 @@
       "source_name": "电子工程学院"
     },
     {
+      "id": "hqbzb:7876",
+      "source_id": "hqbzb",
+      "title": "西安电子科技大学校园碳排放核算报告（2024 年度)公示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/7876.htm",
+      "date": "2026-04-15",
+      "source_name": "后勤保障部"
+    },
+    {
       "id": "eme:14826",
       "source_id": "eme",
       "title": "机电工程学院关于开展2026年春季实验班选拔面试的通知",
       "url": "https://eme.xidian.edu.cn/info/1012/14826.htm",
       "date": "2026-04-15",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "amn:17632",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于对春季博士2026年研究生学业奖学金评选结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/17632.htm",
+      "date": "2026-04-15",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "ste:15186",
