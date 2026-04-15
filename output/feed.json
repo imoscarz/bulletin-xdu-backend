@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-14T19:25:14.929468+00:00",
-  "total_notices": 2387,
+  "generated_at": "2026-04-15T03:18:06.161161+00:00",
+  "total_notices": 2389,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "see:103401",
+      "source_id": "see",
+      "title": "关于申报2026年研究生各类课程与教材建设项目的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/103401.htm",
+      "date": "2026-04-15",
+      "source_name": "电子工程学院"
+    },
+    {
+      "id": "eme:14826",
+      "source_id": "eme",
+      "title": "机电工程学院关于开展2026年春季实验班选拔面试的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/14826.htm",
+      "date": "2026-04-15",
+      "source_name": "机电工程学院"
+    },
     {
       "id": "ste:15186",
       "source_id": "ste",
