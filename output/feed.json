@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T03:26:24.924309+00:00",
-  "total_notices": 2396,
+  "generated_at": "2026-04-16T07:57:40.251462+00:00",
+  "total_notices": 2398,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,22 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16555.htm",
       "date": "2026-04-16",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "jwc:22023",
+      "source_id": "jwc",
+      "title": "西安电子科技大学学生体质测试补测的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22023.htm",
+      "date": "2026-04-16",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:33072",
+      "source_id": "bksy",
+      "title": "西安电子科技大学学生体质测试补测的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33072.htm",
+      "date": "2026-04-16",
+      "source_name": "本科生院"
     },
     {
       "id": "ste:15206",
