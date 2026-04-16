@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-04-16T07:57:40.251462+00:00",
-  "total_notices": 2398,
+  "generated_at": "2026-04-16T14:01:17.096804+00:00",
+  "total_notices": 2401,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:13714",
+      "source_id": "xgc",
+      "title": "关于组织开展第十一届“助学·筑梦·铸人” 主题活动的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13714.htm",
+      "date": "2026-04-16",
+      "source_name": "学生工作处"
+    },
     {
       "id": "soe:16555",
       "source_id": "soe",
@@ -18,6 +26,22 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/22023.htm",
       "date": "2026-04-16",
       "source_name": "教务处"
+    },
+    {
+      "id": "bksy:33092",
+      "source_id": "bksy",
+      "title": "关于组织开展第十一届“助学·筑梦·铸人” 主题活动的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33092.htm",
+      "date": "2026-04-16",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33082",
+      "source_id": "bksy",
+      "title": "2026年TI杯模拟电子线路设计赛暨电赛校赛通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33082.htm",
+      "date": "2026-04-16",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33072",

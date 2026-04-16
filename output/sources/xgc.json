@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-04-16T07:56:58.382817Z",
-    "total_notices": 102
+    "last_scraped": "2026-04-16T14:00:23.551115Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "xgc:13714",
+      "source_id": "xgc",
+      "title": "关于组织开展第十一届“助学·筑梦·铸人” 主题活动的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13714.htm",
+      "date": "2026-04-16"
+    },
     {
       "id": "xgc:13684",
       "source_id": "xgc",
