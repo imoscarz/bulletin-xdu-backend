@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-19T07:27:04.360571Z",
-    "total_notices": 72
+    "last_scraped": "2026-04-19T13:13:12.024689Z",
+    "total_notices": 73
   },
   "notices": [
+    {
+      "id": "jwc:22053",
+      "source_id": "jwc",
+      "title": "西安电子科技大学关于2026年春季实验班选拔结果的公示（一）",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22053.htm",
+      "date": "2026-04-19"
+    },
     {
       "id": "jwc:22023",
       "source_id": "jwc",
