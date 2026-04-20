@@ -3,10 +3,24 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-19T18:59:48.635139Z",
-    "total_notices": 78
+    "last_scraped": "2026-04-20T03:30:09.918593Z",
+    "total_notices": 80
   },
   "notices": [
+    {
+      "id": "ste:15246",
+      "source_id": "ste",
+      "title": "通信工程学院2026级春季博士新生学业奖学金答辩工作安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/15246.htm",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ste:15236",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15236.htm",
+      "date": "2026-04-17"
+    },
     {
       "id": "ste:15216",
       "source_id": "ste",
