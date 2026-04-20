@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-20T03:29:29.507026Z",
-    "total_notices": 91
+    "last_scraped": "2026-04-20T08:18:50.546074Z",
+    "total_notices": 92
   },
   "notices": [
+    {
+      "id": "cs:24474",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年硕士研究生拟录取考生党组织关系转接等补充通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24474.htm",
+      "date": "2026-04-20"
+    },
     {
       "id": "cs:24464",
       "source_id": "cs",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T03:30:24.092211+00:00",
-  "total_notices": 2415,
+  "generated_at": "2026-04-20T08:19:34.097200+00:00",
+  "total_notices": 2418,
   "content_limit": 5000,
   "notices": [
     {
@@ -20,12 +20,36 @@
       "source_name": "人工智能学院"
     },
     {
+      "id": "phy:10663",
+      "source_id": "phy",
+      "title": "物理学院推荐优秀二O二七届本科毕业生免试攻读硕士学位研究生工作实施细则",
+      "url": "https://phy.xidian.edu.cn/info/1012/10663.htm",
+      "date": "2026-04-20",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "eme:14876",
+      "source_id": "eme",
+      "title": "机电工程学院2026年拟录取硕士研究生办理相关事宜的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/14876.htm",
+      "date": "2026-04-20",
+      "source_name": "机电工程学院"
+    },
+    {
       "id": "eme:14856",
       "source_id": "eme",
       "title": "科研协作项目公示信息260420",
       "url": "https://eme.xidian.edu.cn/info/1012/14856.htm",
       "date": "2026-04-20",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24474",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年硕士研究生拟录取考生党组织关系转接等补充通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24474.htm",
+      "date": "2026-04-20",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "jwc:22053",
