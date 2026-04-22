@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-04-22T07:59:14.432833+00:00",
-  "total_notices": 2434,
+  "generated_at": "2026-04-22T13:57:08.183155+00:00",
+  "total_notices": 2435,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15266",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15266.htm",
+      "date": "2026-04-22",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "sfl:16748",
       "source_id": "sfl",
