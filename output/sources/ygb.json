@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-23T08:04:14.986946Z",
-    "total_notices": 76
+    "last_scraped": "2026-04-23T13:58:45.205418Z",
+    "total_notices": 77
   },
   "notices": [
+    {
+      "id": "ygb:11163",
+      "source_id": "ygb",
+      "title": "关于开展2026届毕业研究生评优工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/11163.htm",
+      "date": "2026-04-23"
+    },
     {
       "id": "ygb:10563",
       "source_id": "ygb",

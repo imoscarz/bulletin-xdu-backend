@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-04-23T08:04:33.345883+00:00",
-  "total_notices": 2442,
+  "generated_at": "2026-04-23T13:59:10.248755+00:00",
+  "total_notices": 2446,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:11163",
+      "source_id": "ygb",
+      "title": "关于开展2026届毕业研究生评优工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/11163.htm",
+      "date": "2026-04-23",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "soe:16615",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260423-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/16615.htm",
+      "date": "2026-04-23",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3499",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0423/3499.html",
+      "date": "2026-04-23",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sem:13781",
       "source_id": "sem",
@@ -34,6 +58,14 @@
       "url": "https://gr.xidian.edu.cn/info/1073/19394.htm",
       "date": "2026-04-23",
       "source_name": "研究生院"
+    },
+    {
+      "id": "eme:14966",
+      "source_id": "eme",
+      "title": "机电工程学院2026年博士学位论文培优计划资助人员名单公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/14966.htm",
+      "date": "2026-04-23",
+      "source_name": "机电工程学院"
     },
     {
       "id": "eme:14956",
