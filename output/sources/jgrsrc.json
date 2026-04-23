@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-23T03:23:28.280061Z",
-    "total_notices": 83
+    "last_scraped": "2026-04-23T08:04:01.698491Z",
+    "total_notices": 84
   },
   "notices": [
+    {
+      "id": "jgrsrc:17518",
+      "source_id": "jgrsrc",
+      "title": "关于遴选青年教师赴成都飞机工业(集团)有限责任公司挂职锻炼的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17518.htm",
+      "date": "2026-04-23"
+    },
     {
       "id": "jgrsrc:17488",
       "source_id": "jgrsrc",

@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-23T03:23:09.144586Z",
-    "total_notices": 105
+    "last_scraped": "2026-04-23T08:03:50.435909Z",
+    "total_notices": 106
   },
   "notices": [
+    {
+      "id": "sem:13781",
+      "source_id": "sem",
+      "title": "2026年陕西省第十七届工业工程改善创意竞赛西电校赛通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/13781.htm",
+      "date": "2026-04-23"
+    },
     {
       "id": "sem:13571",
       "source_id": "sem",
