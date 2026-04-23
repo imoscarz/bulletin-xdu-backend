@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-04-22T19:22:45.182886+00:00",
-  "total_notices": 2435,
+  "generated_at": "2026-04-23T03:23:56.823444+00:00",
+  "total_notices": 2439,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jwc:22063",
+      "source_id": "jwc",
+      "title": "关于2022级、2023级本科生基础层（C2级）实验实践能力达标测试补测的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22063.htm",
+      "date": "2026-04-23",
+      "source_name": "教务处"
+    },
+    {
+      "id": "gr:19394",
+      "source_id": "gr",
+      "title": "关于2026年度教育部大中小学课程教材研究项目申报工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/19394.htm",
+      "date": "2026-04-23",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "bksy:33172",
+      "source_id": "bksy",
+      "title": "关于2022级、2023级本科生基础层（C2级）实验实践能...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33172.htm",
+      "date": "2026-04-23",
+      "source_name": "本科生院"
+    },
     {
       "id": "ste:15266",
       "source_id": "ste",
@@ -18,6 +42,14 @@
       "url": "https://sfl.xidian.edu.cn/info/1031/16748.htm",
       "date": "2026-04-22",
       "source_name": "语言智能学部"
+    },
+    {
+      "id": "sast:18647",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/18647.htm",
+      "date": "2026-04-22",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "phy:10713",

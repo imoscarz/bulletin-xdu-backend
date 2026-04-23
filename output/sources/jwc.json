@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-22T19:21:53.846437Z",
-    "total_notices": 73
+    "last_scraped": "2026-04-23T03:23:01.150852Z",
+    "total_notices": 74
   },
   "notices": [
+    {
+      "id": "jwc:22063",
+      "source_id": "jwc",
+      "title": "关于2022级、2023级本科生基础层（C2级）实验实践能力达标测试补测的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22063.htm",
+      "date": "2026-04-23"
+    },
     {
       "id": "jwc:22053",
       "source_id": "jwc",

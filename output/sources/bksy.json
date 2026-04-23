@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-22T19:22:17.709451Z",
-    "total_notices": 229
+    "last_scraped": "2026-04-23T03:23:16.882677Z",
+    "total_notices": 230
   },
   "notices": [
+    {
+      "id": "bksy:33172",
+      "source_id": "bksy",
+      "title": "关于2022级、2023级本科生基础层（C2级）实验实践能...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33172.htm",
+      "date": "2026-04-23"
+    },
     {
       "id": "bksy:33142",
       "source_id": "bksy",
