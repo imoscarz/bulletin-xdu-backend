@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-27T03:37:06.957914+00:00",
-  "total_notices": 2457,
+  "generated_at": "2026-04-27T08:35:37.112450+00:00",
+  "total_notices": 2463,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3500",
+      "source_id": "sme",
+      "title": "关于做好集成电路学部2026年度研究生学位论文或实践成果开题和中期考核工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0427/3500.html",
+      "date": "2026-04-27",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sfl:16848",
+      "source_id": "sfl",
+      "title": "关于征集2026年度教材、专著出版项目的通知",
+      "url": "https://sfl.xidian.edu.cn/info/1031/16848.htm",
+      "date": "2026-04-27",
+      "source_name": "语言智能学部"
+    },
     {
       "id": "sem:13831",
       "source_id": "sem",
@@ -10,6 +26,14 @@
       "url": "https://sem.xidian.edu.cn/info/1536/13831.htm",
       "date": "2026-04-27",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sai:18592",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2026届毕业研究生评优工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18592.htm",
+      "date": "2026-04-27",
+      "source_name": "人工智能学院"
     },
     {
       "id": "sai:18572",
@@ -20,12 +44,36 @@
       "source_name": "人工智能学院"
     },
     {
+      "id": "jwc:22103",
+      "source_id": "jwc",
+      "title": "关于2026年（2022级）本科生毕业设计（论文）盲审工作安排的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22103.htm",
+      "date": "2026-04-27",
+      "source_name": "教务处"
+    },
+    {
       "id": "jwc:22093",
       "source_id": "jwc",
       "title": "关于2026年春季计算机应用 “实验实践能力达标测试（C1-1）”的通知",
       "url": "https://jwc.xidian.edu.cn/info/1012/22093.htm",
       "date": "2026-04-27",
       "source_name": "教务处"
+    },
+    {
+      "id": "bksy:33222",
+      "source_id": "bksy",
+      "title": "西安电子科技大学2026年国际创新实践周本科生学分课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33222.htm",
+      "date": "2026-04-27",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33212",
+      "source_id": "bksy",
+      "title": "关于2026年（2022级）本科生毕业设计（论文）盲审工...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33212.htm",
+      "date": "2026-04-27",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33182",

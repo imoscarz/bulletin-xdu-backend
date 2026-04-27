@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-27T03:36:29.469774Z",
-    "total_notices": 231
+    "last_scraped": "2026-04-27T08:34:47.011427Z",
+    "total_notices": 233
   },
   "notices": [
+    {
+      "id": "bksy:33222",
+      "source_id": "bksy",
+      "title": "西安电子科技大学2026年国际创新实践周本科生学分课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33222.htm",
+      "date": "2026-04-27"
+    },
+    {
+      "id": "bksy:33212",
+      "source_id": "bksy",
+      "title": "关于2026年（2022级）本科生毕业设计（论文）盲审工...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33212.htm",
+      "date": "2026-04-27"
+    },
     {
       "id": "bksy:33182",
       "source_id": "bksy",

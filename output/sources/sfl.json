@@ -3,10 +3,17 @@
     "source_id": "sfl",
     "name": "语言智能学部",
     "url": "https://sfl.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-27T03:36:20.638581Z",
-    "total_notices": 56
+    "last_scraped": "2026-04-27T08:34:29.971066Z",
+    "total_notices": 57
   },
   "notices": [
+    {
+      "id": "sfl:16848",
+      "source_id": "sfl",
+      "title": "关于征集2026年度教材、专著出版项目的通知",
+      "url": "https://sfl.xidian.edu.cn/info/1031/16848.htm",
+      "date": "2026-04-27"
+    },
     {
       "id": "sfl:16838",
       "source_id": "sfl",
