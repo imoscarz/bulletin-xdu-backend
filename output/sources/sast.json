@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-28T08:33:03.194962Z",
-    "total_notices": 92
+    "last_scraped": "2026-04-28T14:28:10.575327Z",
+    "total_notices": 93
   },
   "notices": [
+    {
+      "id": "sast:18857",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/18857.htm",
+      "date": "2026-04-28"
+    },
     {
       "id": "sast:18687",
       "source_id": "sast",

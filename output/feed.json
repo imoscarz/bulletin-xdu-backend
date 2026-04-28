@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-04-28T08:33:29.437137+00:00",
-  "total_notices": 2470,
+  "generated_at": "2026-04-28T14:28:40.112382+00:00",
+  "total_notices": 2476,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:16655",
+      "source_id": "soe",
+      "title": "光电工程学院2026年（春季）博士研究生学业奖学金名单公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/16655.htm",
+      "date": "2026-04-28",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3507",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0428/3507.html",
+      "date": "2026-04-28",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3506",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0428/3506.html",
+      "date": "2026-04-28",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3505",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0428/3505.html",
+      "date": "2026-04-28",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3504",
       "source_id": "sme",
@@ -18,6 +50,22 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0427/3503.html",
       "date": "2026-04-28",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "sast:18857",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/18857.htm",
+      "date": "2026-04-28",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "phy:10803",
+      "source_id": "phy",
+      "title": "物理学院关于2026~2028年度专业技术职务分级申报材料公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10803.htm",
+      "date": "2026-04-28",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "bksy:33242",
