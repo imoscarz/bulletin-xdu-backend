@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-29T08:27:12.972766+00:00",
-  "total_notices": 2477,
+  "generated_at": "2026-04-29T14:13:09.191400+00:00",
+  "total_notices": 2482,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15296",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15296.htm",
+      "date": "2026-04-29",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:15286",
+      "source_id": "ste",
+      "title": "通信工程学院2026年五一假期值班安排",
+      "url": "https://ste.xidian.edu.cn/info/1145/15286.htm",
+      "date": "2026-04-29",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "sie:7365",
       "source_id": "sie",
@@ -10,6 +26,30 @@
       "url": "https://sie.xidian.edu.cn/info/1130/7365.htm",
       "date": "2026-04-29",
       "source_name": "国际教育学院"
+    },
+    {
+      "id": "jwc:22133",
+      "source_id": "jwc",
+      "title": "西安电子科技大学关于2026年春季实验班选拔结果的公示（二）",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22133.htm",
+      "date": "2026-04-29",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:33262",
+      "source_id": "bksy",
+      "title": "“第七届CCF中国计算机应用技术大赛“报名通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33262.htm",
+      "date": "2026-04-29",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33252",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于2026年春季实验班选拔结果的公...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33252.htm",
+      "date": "2026-04-29",
+      "source_name": "本科生院"
     },
     {
       "id": "soe:16655",

@@ -3,10 +3,24 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-29T08:27:00.097883Z",
-    "total_notices": 82
+    "last_scraped": "2026-04-29T14:12:48.230944Z",
+    "total_notices": 84
   },
   "notices": [
+    {
+      "id": "ste:15296",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15296.htm",
+      "date": "2026-04-29"
+    },
+    {
+      "id": "ste:15286",
+      "source_id": "ste",
+      "title": "通信工程学院2026年五一假期值班安排",
+      "url": "https://ste.xidian.edu.cn/info/1145/15286.htm",
+      "date": "2026-04-29"
+    },
     {
       "id": "ste:15276",
       "source_id": "ste",
