@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-04-29T03:39:38.781514+00:00",
-  "total_notices": 2476,
+  "generated_at": "2026-04-29T08:27:12.972766+00:00",
+  "total_notices": 2477,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sie:7365",
+      "source_id": "sie",
+      "title": "关于发布西安电子科技大学来华留学品牌课程建设申报的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/7365.htm",
+      "date": "2026-04-29",
+      "source_name": "国际教育学院"
+    },
     {
       "id": "soe:16655",
       "source_id": "soe",

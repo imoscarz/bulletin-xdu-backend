@@ -3,10 +3,17 @@
     "source_id": "sie",
     "name": "国际教育学院",
     "url": "https://sie.xidian.edu.cn/sy/tzgg.htm",
-    "last_scraped": "2026-04-29T03:39:29.135715Z",
-    "total_notices": 64
+    "last_scraped": "2026-04-29T08:27:03.928819Z",
+    "total_notices": 65
   },
   "notices": [
+    {
+      "id": "sie:7365",
+      "source_id": "sie",
+      "title": "关于发布西安电子科技大学来华留学品牌课程建设申报的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/7365.htm",
+      "date": "2026-04-29"
+    },
     {
       "id": "sie:7295",
       "source_id": "sie",
