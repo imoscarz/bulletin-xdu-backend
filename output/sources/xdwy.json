@@ -3,10 +3,24 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-30T08:29:48.208723Z",
-    "total_notices": 83
+    "last_scraped": "2026-04-30T14:10:28.610680Z",
+    "total_notices": 85
   },
   "notices": [
+    {
+      "id": "xdwy:10234",
+      "source_id": "xdwy",
+      "title": "关于2026年春季学期课程考核的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10234.htm",
+      "date": "2026-04-30"
+    },
+    {
+      "id": "xdwy:10204",
+      "source_id": "xdwy",
+      "title": "网教院2026年劳动节值班表",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10204.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "xdwy:10194",
       "source_id": "xdwy",

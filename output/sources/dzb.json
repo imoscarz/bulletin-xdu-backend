@@ -3,10 +3,17 @@
     "source_id": "dzb",
     "name": "党政办公室",
     "url": "https://dzb.xidian.edu.cn/gzdt/tzgg.htm",
-    "last_scraped": "2026-04-30T08:29:52.867852Z",
-    "total_notices": 17
+    "last_scraped": "2026-04-30T14:10:32.929317Z",
+    "total_notices": 18
   },
   "notices": [
+    {
+      "id": "dzb:9583",
+      "source_id": "dzb",
+      "title": "党政办公室2026年劳动节值班安排",
+      "url": "https://dzb.xidian.edu.cn/info/1003/9583.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "dzb:9563",
       "source_id": "dzb",

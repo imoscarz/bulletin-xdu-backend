@@ -3,10 +3,17 @@
     "source_id": "hqbzb",
     "name": "后勤保障部",
     "url": "https://hqbzb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-30T08:29:59.303803Z",
-    "total_notices": 77
+    "last_scraped": "2026-04-30T14:10:42.833899Z",
+    "total_notices": 78
   },
   "notices": [
+    {
+      "id": "hqbzb:7996",
+      "source_id": "hqbzb",
+      "title": "廉洁过节|快乐五一    廉洁同行",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/7996.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "hqbzb:7876",
       "source_id": "hqbzb",

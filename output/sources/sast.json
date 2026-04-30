@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-30T08:29:41.351584Z",
-    "total_notices": 93
+    "last_scraped": "2026-04-30T14:10:14.419808Z",
+    "total_notices": 94
   },
   "notices": [
+    {
+      "id": "sast:18897",
+      "source_id": "sast",
+      "title": "2026年空间院劳动节值班安排",
+      "url": "https://sast.xidian.edu.cn/info/1014/18897.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "sast:18857",
       "source_id": "sast",
