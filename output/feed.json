@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-05-05T19:42:38.076256+00:00",
-  "total_notices": 2518,
+  "generated_at": "2026-05-06T03:40:20.838720+00:00",
+  "total_notices": 2522,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:16685",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260506-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/16685.htm",
+      "date": "2026-05-06",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "jwc:22143",
+      "source_id": "jwc",
+      "title": "关于公布2026年（2022级）本科生毕业设计（论文）盲审名单的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22143.htm",
+      "date": "2026-05-06",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:33342",
+      "source_id": "bksy",
+      "title": "关于公布2026年（2022级）本科生毕业设计（论文）盲...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33342.htm",
+      "date": "2026-05-06",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33322",
+      "source_id": "bksy",
+      "title": "关于我校学生加入外校队伍参与第十五届“挑战杯”上...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33322.htm",
+      "date": "2026-05-06",
+      "source_name": "本科生院"
+    },
     {
       "id": "xdwy:10234",
       "source_id": "xdwy",
