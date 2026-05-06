@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-06T08:34:06.160406Z",
-    "total_notices": 244
+    "last_scraped": "2026-05-06T14:27:46.625251Z",
+    "total_notices": 246
   },
   "notices": [
+    {
+      "id": "bksy:33422",
+      "source_id": "bksy",
+      "title": "2026年TI杯模拟电子线路设计赛暨电赛校赛评审结果公...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33422.htm",
+      "date": "2026-05-06"
+    },
+    {
+      "id": "bksy:33412",
+      "source_id": "bksy",
+      "title": "关于举办“第二十八届中国机器人及人工智能大赛” 校...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33412.htm",
+      "date": "2026-05-06"
+    },
     {
       "id": "bksy:33342",
       "source_id": "bksy",

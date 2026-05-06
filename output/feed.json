@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T08:34:51.825944+00:00",
-  "total_notices": 2525,
+  "generated_at": "2026-05-06T14:28:41.505296+00:00",
+  "total_notices": 2529,
   "content_limit": 5000,
   "notices": [
     {
@@ -28,6 +28,14 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "sast:18947",
+      "source_id": "sast",
+      "title": "关于对空间科学与技术学院2024-2026年度工会先进集体和先进个人推荐名单进行公示的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18947.htm",
+      "date": "2026-05-06",
+      "source_name": "空间科学与技术学院"
+    },
+    {
       "id": "jwc:22143",
       "source_id": "jwc",
       "title": "关于公布2026年（2022级）本科生毕业设计（论文）盲审名单的通知",
@@ -36,12 +44,36 @@
       "source_name": "教务处"
     },
     {
+      "id": "imse:6041",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026~2028年度专业技术职务分级（副高及以下人员）申报公示",
+      "url": "https://imse.xidian.edu.cn/info/1030/6041.htm",
+      "date": "2026-05-06",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
       "id": "cs:24554",
       "source_id": "cs",
       "title": "计算机科学与技术学院2026年面向香港、澳门、台湾地区招收硕士研究生复试录取工作安排",
       "url": "https://cs.xidian.edu.cn/info/1003/24554.htm",
       "date": "2026-05-06",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33422",
+      "source_id": "bksy",
+      "title": "2026年TI杯模拟电子线路设计赛暨电赛校赛评审结果公...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33422.htm",
+      "date": "2026-05-06",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33412",
+      "source_id": "bksy",
+      "title": "关于举办“第二十八届中国机器人及人工智能大赛” 校...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33412.htm",
+      "date": "2026-05-06",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33342",

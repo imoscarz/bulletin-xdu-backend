@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-05-06T08:34:11.934887Z",
-    "total_notices": 94
+    "last_scraped": "2026-05-06T14:27:58.923581Z",
+    "total_notices": 95
   },
   "notices": [
+    {
+      "id": "sast:18947",
+      "source_id": "sast",
+      "title": "关于对空间科学与技术学院2024-2026年度工会先进集体和先进个人推荐名单进行公示的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18947.htm",
+      "date": "2026-05-06"
+    },
     {
       "id": "sast:18897",
       "source_id": "sast",
