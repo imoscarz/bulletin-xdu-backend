@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-06T03:39:31.865884Z",
-    "total_notices": 93
+    "last_scraped": "2026-05-06T08:33:49.062698Z",
+    "total_notices": 94
   },
   "notices": [
+    {
+      "id": "cs:24554",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年面向香港、澳门、台湾地区招收硕士研究生复试录取工作安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/24554.htm",
+      "date": "2026-05-06"
+    },
     {
       "id": "cs:24544",
       "source_id": "cs",
