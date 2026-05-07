@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T08:42:27.850598+00:00",
-  "total_notices": 2538,
+  "generated_at": "2026-05-07T14:29:26.383008+00:00",
+  "total_notices": 2544,
   "content_limit": 5000,
   "notices": [
     {
@@ -20,12 +20,44 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "see:103581",
+      "source_id": "see",
+      "title": "电子工程学院关于2026年研究生指导教师认定的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/103581.htm",
+      "date": "2026-05-07",
+      "source_name": "电子工程学院"
+    },
+    {
+      "id": "sast:18997",
+      "source_id": "sast",
+      "title": "关于发布2026年5-6月主题党日活动参考提示的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18997.htm",
+      "date": "2026-05-07",
+      "source_name": "空间科学与技术学院"
+    },
+    {
       "id": "phy:10873",
       "source_id": "phy",
       "title": "物理学院关于开展2026年研究生指导教师资格认定与聘任工作的通知",
       "url": "https://phy.xidian.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1012&wbnewsid=10873",
       "date": "2026-05-07",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jsfz:11682",
+      "source_id": "jsfz",
+      "title": "【教学示范】中国哲学史",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11682.htm",
+      "date": "2026-05-07",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11672",
+      "source_id": "jsfz",
+      "title": "【教学培训】实验设备改善与课程支撑研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11672.htm",
+      "date": "2026-05-07",
+      "source_name": "教师发展中心"
     },
     {
       "id": "jsfz:11662",
@@ -50,6 +82,22 @@
       "url": "https://eme.xidian.edu.cn/info/1012/15086.htm",
       "date": "2026-05-07",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:33472",
+      "source_id": "bksy",
+      "title": "【教学示范】中国哲学史",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33472.htm",
+      "date": "2026-05-07",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33462",
+      "source_id": "bksy",
+      "title": "【教学培训】实验设备改善与课程支撑研讨会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33462.htm",
+      "date": "2026-05-07",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33452",

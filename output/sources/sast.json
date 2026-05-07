@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-05-07T08:42:03.391540Z",
-    "total_notices": 95
+    "last_scraped": "2026-05-07T14:28:30.498160Z",
+    "total_notices": 96
   },
   "notices": [
+    {
+      "id": "sast:18997",
+      "source_id": "sast",
+      "title": "关于发布2026年5-6月主题党日活动参考提示的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18997.htm",
+      "date": "2026-05-07"
+    },
     {
       "id": "sast:18947",
       "source_id": "sast",

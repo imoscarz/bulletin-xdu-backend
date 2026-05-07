@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-07T08:41:57.962745Z",
-    "total_notices": 248
+    "last_scraped": "2026-05-07T14:28:17.181184Z",
+    "total_notices": 250
   },
   "notices": [
+    {
+      "id": "bksy:33472",
+      "source_id": "bksy",
+      "title": "【教学示范】中国哲学史",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33472.htm",
+      "date": "2026-05-07"
+    },
+    {
+      "id": "bksy:33462",
+      "source_id": "bksy",
+      "title": "【教学培训】实验设备改善与课程支撑研讨会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33462.htm",
+      "date": "2026-05-07"
+    },
     {
       "id": "bksy:33452",
       "source_id": "bksy",

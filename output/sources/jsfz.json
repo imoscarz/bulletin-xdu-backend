@@ -3,10 +3,24 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-07T08:42:13.667632Z",
-    "total_notices": 57
+    "last_scraped": "2026-05-07T14:29:03.167690Z",
+    "total_notices": 59
   },
   "notices": [
+    {
+      "id": "jsfz:11682",
+      "source_id": "jsfz",
+      "title": "【教学示范】中国哲学史",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11682.htm",
+      "date": "2026-05-07"
+    },
+    {
+      "id": "jsfz:11672",
+      "source_id": "jsfz",
+      "title": "【教学培训】实验设备改善与课程支撑研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11672.htm",
+      "date": "2026-05-07"
+    },
     {
       "id": "jsfz:11662",
       "source_id": "jsfz",
