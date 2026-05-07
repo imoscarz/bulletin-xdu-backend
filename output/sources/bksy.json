@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-07T03:39:36.222542Z",
-    "total_notices": 247
+    "last_scraped": "2026-05-07T08:41:57.962745Z",
+    "total_notices": 248
   },
   "notices": [
+    {
+      "id": "bksy:33452",
+      "source_id": "bksy",
+      "title": "【教学培训】融赛于课，知行合一：外语“五维融合”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33452.htm",
+      "date": "2026-05-07"
+    },
     {
       "id": "bksy:33432",
       "source_id": "bksy",

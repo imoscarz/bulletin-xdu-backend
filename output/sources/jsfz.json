@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-07T03:39:53.104284Z",
-    "total_notices": 56
+    "last_scraped": "2026-05-07T08:42:13.667632Z",
+    "total_notices": 57
   },
   "notices": [
+    {
+      "id": "jsfz:11662",
+      "source_id": "jsfz",
+      "title": "【教学培训】融赛于课，知行合一：外语“五维融合”教赛生态与国际化育人新路径",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11662.htm",
+      "date": "2026-05-07"
+    },
     {
       "id": "jsfz:11652",
       "source_id": "jsfz",

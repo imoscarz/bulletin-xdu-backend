@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-05-07T03:39:40.396493Z",
-    "total_notices": 123
+    "last_scraped": "2026-05-07T08:42:02.136675Z",
+    "total_notices": 124
   },
   "notices": [
+    {
+      "id": "eme:15096",
+      "source_id": "eme",
+      "title": "机电工程学院关于对2024、2025年国家级、省级大学生创新创业训练计划项目结题答辩安排的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15096.htm",
+      "date": "2026-05-07"
+    },
     {
       "id": "eme:15086",
       "source_id": "eme",
