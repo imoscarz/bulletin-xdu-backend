@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-05-07T19:48:22.325954+00:00",
-  "total_notices": 2544,
+  "generated_at": "2026-05-08T03:34:42.583676+00:00",
+  "total_notices": 2548,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15366",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15366.htm",
+      "date": "2026-05-08",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sai:18622",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2026年研究生指导教师资格认定与聘任工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18622.htm",
+      "date": "2026-05-08",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "eme:15176",
+      "source_id": "eme",
+      "title": "机电工程学院关于开展2026年研究生指导教师资格认定与聘任工作的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15176.htm",
+      "date": "2026-05-08",
+      "source_name": "机电工程学院"
+    },
     {
       "id": "ste:15356",
       "source_id": "ste",
@@ -10,6 +34,14 @@
       "url": "https://ste.xidian.edu.cn/info/1338/15356.htm",
       "date": "2026-05-07",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:16695",
+      "source_id": "soe",
+      "title": "光电工程学院2026年专业技术职务评审工作安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/16695.htm",
+      "date": "2026-05-07",
+      "source_name": "光电工程学院"
     },
     {
       "id": "sme:3532",

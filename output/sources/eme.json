@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-05-07T19:47:58.901660Z",
-    "total_notices": 124
+    "last_scraped": "2026-05-08T03:34:10.228442Z",
+    "total_notices": 125
   },
   "notices": [
+    {
+      "id": "eme:15176",
+      "source_id": "eme",
+      "title": "机电工程学院关于开展2026年研究生指导教师资格认定与聘任工作的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15176.htm",
+      "date": "2026-05-08"
+    },
     {
       "id": "eme:15096",
       "source_id": "eme",

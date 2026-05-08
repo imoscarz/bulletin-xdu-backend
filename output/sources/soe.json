@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-05-07T19:47:44.246661Z",
-    "total_notices": 40
+    "last_scraped": "2026-05-08T03:33:54.027867Z",
+    "total_notices": 41
   },
   "notices": [
+    {
+      "id": "soe:16695",
+      "source_id": "soe",
+      "title": "光电工程学院2026年专业技术职务评审工作安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/16695.htm",
+      "date": "2026-05-07"
+    },
     {
       "id": "soe:16685",
       "source_id": "soe",

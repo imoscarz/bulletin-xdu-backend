@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-07T19:47:51.304858Z",
-    "total_notices": 115
+    "last_scraped": "2026-05-08T03:34:01.992635Z",
+    "total_notices": 116
   },
   "notices": [
+    {
+      "id": "sai:18622",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2026年研究生指导教师资格认定与聘任工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18622.htm",
+      "date": "2026-05-08"
+    },
     {
       "id": "sai:18592",
       "source_id": "sai",
