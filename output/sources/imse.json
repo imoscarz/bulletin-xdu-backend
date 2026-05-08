@@ -3,10 +3,17 @@
     "source_id": "imse",
     "name": "信息力学与感知工程学院",
     "url": "https://imse.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-08T07:49:04.301706Z",
-    "total_notices": 27
+    "last_scraped": "2026-05-08T14:02:33.149684Z",
+    "total_notices": 28
   },
   "notices": [
+    {
+      "id": "imse:6071",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院关于2026年研究生指导教师认定与聘任的通知",
+      "url": "https://imse.xidian.edu.cn/info/1030/6071.htm",
+      "date": "2026-05-08"
+    },
     {
       "id": "imse:6041",
       "source_id": "imse",

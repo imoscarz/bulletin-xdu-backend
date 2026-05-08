@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T07:49:30.961849+00:00",
-  "total_notices": 2550,
+  "generated_at": "2026-05-08T14:02:57.943869+00:00",
+  "total_notices": 2555,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://ste.xidian.edu.cn/info/1338/15366.htm",
       "date": "2026-05-08",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:16705",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260508-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/16705.htm",
+      "date": "2026-05-08",
+      "source_name": "光电工程学院"
     },
     {
       "id": "sme:3535",
@@ -36,12 +44,44 @@
       "source_name": "人工智能学院"
     },
     {
+      "id": "imse:6071",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院关于2026年研究生指导教师认定与聘任的通知",
+      "url": "https://imse.xidian.edu.cn/info/1030/6071.htm",
+      "date": "2026-05-08",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "eme:15196",
+      "source_id": "eme",
+      "title": "机电工程学院关于2026年度“大学生创新创业训练计划”培育项目中期检查  暨国家级、省级项目遴选的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15196.htm",
+      "date": "2026-05-08",
+      "source_name": "机电工程学院"
+    },
+    {
       "id": "eme:15176",
       "source_id": "eme",
       "title": "机电工程学院关于开展2026年研究生指导教师资格认定与聘任工作的通知",
       "url": "https://eme.xidian.edu.cn/info/1012/15176.htm",
       "date": "2026-05-08",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24584",
+      "source_id": "cs",
+      "title": "计科院2026年研究生指导教师资格认定与聘任工作通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24584.htm",
+      "date": "2026-05-08",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33482",
+      "source_id": "bksy",
+      "title": "关于我校学生加入外校队伍参与第十三届“挑战杯”陕...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33482.htm",
+      "date": "2026-05-08",
+      "source_name": "本科生院"
     },
     {
       "id": "ste:15356",

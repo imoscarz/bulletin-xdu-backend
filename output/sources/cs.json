@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-08T07:48:23.496707Z",
-    "total_notices": 94
+    "last_scraped": "2026-05-08T14:01:54.796412Z",
+    "total_notices": 95
   },
   "notices": [
+    {
+      "id": "cs:24584",
+      "source_id": "cs",
+      "title": "计科院2026年研究生指导教师资格认定与聘任工作通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24584.htm",
+      "date": "2026-05-08"
+    },
     {
       "id": "cs:24554",
       "source_id": "cs",
