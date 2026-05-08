@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T03:34:42.583676+00:00",
-  "total_notices": 2548,
+  "generated_at": "2026-05-08T07:49:30.961849+00:00",
+  "total_notices": 2550,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,22 @@
       "url": "https://ste.xidian.edu.cn/info/1338/15366.htm",
       "date": "2026-05-08",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3535",
+      "source_id": "sme",
+      "title": "集成电路学部2026年面向香港、澳门、台湾地区招收硕士研究生拟录取名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0508/3535.html",
+      "date": "2026-05-08",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sfl:16948",
+      "source_id": "sfl",
+      "title": "西安电子科技大学语言智能学部国际预科教育中心教育教学管理主任招聘通知",
+      "url": "https://sfl.xidian.edu.cn/info/1031/16948.htm",
+      "date": "2026-05-08",
+      "source_name": "语言智能学部"
     },
     {
       "id": "sai:18622",
