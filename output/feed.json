@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-05-08T19:26:54.579880+00:00",
-  "total_notices": 2555,
+  "generated_at": "2026-05-09T03:34:34.212870+00:00",
+  "total_notices": 2556,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sem:13981",
+      "source_id": "sem",
+      "title": "西安电子科技大学关于2026年专业技术职务评审工作安排的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/13981.htm",
+      "date": "2026-05-09",
+      "source_name": "经济与管理学院"
+    },
     {
       "id": "ste:15366",
       "source_id": "ste",

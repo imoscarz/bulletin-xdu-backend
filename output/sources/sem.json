@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-08T19:26:19.975766Z",
-    "total_notices": 108
+    "last_scraped": "2026-05-09T03:33:51.614875Z",
+    "total_notices": 109
   },
   "notices": [
+    {
+      "id": "sem:13981",
+      "source_id": "sem",
+      "title": "西安电子科技大学关于2026年专业技术职务评审工作安排的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/13981.htm",
+      "date": "2026-05-09"
+    },
     {
       "id": "sem:13851",
       "source_id": "sem",
