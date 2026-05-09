@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T03:34:34.212870+00:00",
-  "total_notices": 2556,
+  "generated_at": "2026-05-09T08:03:14.847937+00:00",
+  "total_notices": 2559,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,30 @@
       "url": "https://sem.xidian.edu.cn/info/1536/13981.htm",
       "date": "2026-05-09",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "jsfz:11692",
+      "source_id": "jsfz",
+      "title": "【教学培训】高等数学教学与实操",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11692.htm",
+      "date": "2026-05-09",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "cs:24604",
+      "source_id": "cs",
+      "title": "计科院2026年面向香港、澳门、台湾地区招收硕士研究生复试拟录取结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24604.htm",
+      "date": "2026-05-09",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33502",
+      "source_id": "bksy",
+      "title": "【教学培训】高等数学教学与实操",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33502.htm",
+      "date": "2026-05-09",
+      "source_name": "本科生院"
     },
     {
       "id": "ste:15366",

@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-09T03:34:00.314826Z",
-    "total_notices": 251
+    "last_scraped": "2026-05-09T08:02:38.398145Z",
+    "total_notices": 252
   },
   "notices": [
+    {
+      "id": "bksy:33502",
+      "source_id": "bksy",
+      "title": "【教学培训】高等数学教学与实操",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33502.htm",
+      "date": "2026-05-09"
+    },
     {
       "id": "bksy:33482",
       "source_id": "bksy",

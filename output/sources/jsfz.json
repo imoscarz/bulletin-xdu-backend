@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-09T03:34:19.305047Z",
-    "total_notices": 59
+    "last_scraped": "2026-05-09T08:03:00.525162Z",
+    "total_notices": 60
   },
   "notices": [
+    {
+      "id": "jsfz:11692",
+      "source_id": "jsfz",
+      "title": "【教学培训】高等数学教学与实操",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11692.htm",
+      "date": "2026-05-09"
+    },
     {
       "id": "jsfz:11682",
       "source_id": "jsfz",
