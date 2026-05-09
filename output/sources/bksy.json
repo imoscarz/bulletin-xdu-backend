@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-09T08:02:38.398145Z",
-    "total_notices": 252
+    "last_scraped": "2026-05-09T13:28:09.768280Z",
+    "total_notices": 253
   },
   "notices": [
+    {
+      "id": "bksy:33512",
+      "source_id": "bksy",
+      "title": "西安电子科技大学第十三届“挑战杯”陕汽集团陕西省...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33512.htm",
+      "date": "2026-05-09"
+    },
     {
       "id": "bksy:33502",
       "source_id": "bksy",

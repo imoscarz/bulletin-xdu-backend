@@ -3,10 +3,17 @@
     "source_id": "see",
     "name": "电子工程学院",
     "url": "https://see.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-09T08:02:25.280582Z",
-    "total_notices": 254
+    "last_scraped": "2026-05-09T13:27:44.689058Z",
+    "total_notices": 255
   },
   "notices": [
+    {
+      "id": "see:103601",
+      "source_id": "see",
+      "title": "电院全额资助2026学生暑期国（境）外交流项目拟资助名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/103601.htm",
+      "date": "2026-05-09"
+    },
     {
       "id": "see:103581",
       "source_id": "see",

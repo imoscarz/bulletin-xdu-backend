@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T08:03:14.847937+00:00",
-  "total_notices": 2559,
+  "generated_at": "2026-05-09T13:29:03.012116+00:00",
+  "total_notices": 2563,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://sem.xidian.edu.cn/info/1536/13981.htm",
       "date": "2026-05-09",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "see:103601",
+      "source_id": "see",
+      "title": "电院全额资助2026学生暑期国（境）外交流项目拟资助名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/103601.htm",
+      "date": "2026-05-09",
+      "source_name": "电子工程学院"
     },
     {
       "id": "jsfz:11692",
@@ -28,12 +36,36 @@
       "source_name": "计算机科学与技术学院"
     },
     {
+      "id": "bksy:33512",
+      "source_id": "bksy",
+      "title": "西安电子科技大学第十三届“挑战杯”陕汽集团陕西省...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33512.htm",
+      "date": "2026-05-09",
+      "source_name": "本科生院"
+    },
+    {
       "id": "bksy:33502",
       "source_id": "bksy",
       "title": "【教学培训】高等数学教学与实操",
       "url": "https://bksy.xidian.edu.cn/info/1003/33502.htm",
       "date": "2026-05-09",
       "source_name": "本科生院"
+    },
+    {
+      "id": "amn:17972",
+      "source_id": "amn",
+      "title": "2026年度党内先进集体和个人名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/17972.htm",
+      "date": "2026-05-09",
+      "source_name": "先进材料与纳米科技学院"
+    },
+    {
+      "id": "amn:17962",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院工会先进集体和先进个人名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/17962.htm",
+      "date": "2026-05-09",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "ste:15366",

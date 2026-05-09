@@ -3,10 +3,24 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-09T08:02:34.235486Z",
-    "total_notices": 81
+    "last_scraped": "2026-05-09T13:27:58.408949Z",
+    "total_notices": 83
   },
   "notices": [
+    {
+      "id": "amn:17972",
+      "source_id": "amn",
+      "title": "2026年度党内先进集体和个人名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/17972.htm",
+      "date": "2026-05-09"
+    },
+    {
+      "id": "amn:17962",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院工会先进集体和先进个人名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/17962.htm",
+      "date": "2026-05-09"
+    },
     {
       "id": "amn:17632",
       "source_id": "amn",
