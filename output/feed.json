@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-05-10T19:13:35.004673+00:00",
-  "total_notices": 2563,
+  "generated_at": "2026-05-11T04:00:33.050608+00:00",
+  "total_notices": 2566,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jwc:22193",
+      "source_id": "jwc",
+      "title": "西安电子科技大学学生体质健康测试安排的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22193.htm",
+      "date": "2026-05-11",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:33532",
+      "source_id": "bksy",
+      "title": "西安电子科技大学学生体质健康测试安排的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33532.htm",
+      "date": "2026-05-11",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "sme:3510",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2025-2026学年华润奖学金评选暨“梦想与行动”主题征文活动的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0429/3510.html",
+      "date": "2026-05-10",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sem:13981",
       "source_id": "sem",

@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-10T19:12:33.901344Z",
-    "total_notices": 79
+    "last_scraped": "2026-05-11T03:59:50.677217Z",
+    "total_notices": 80
   },
   "notices": [
+    {
+      "id": "jwc:22193",
+      "source_id": "jwc",
+      "title": "西安电子科技大学学生体质健康测试安排的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22193.htm",
+      "date": "2026-05-11"
+    },
     {
       "id": "jwc:22143",
       "source_id": "jwc",

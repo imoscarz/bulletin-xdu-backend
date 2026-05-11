@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-05-10T19:13:34.989645Z",
-    "total_notices": 140
+    "last_scraped": "2026-05-11T04:00:33.035540Z",
+    "total_notices": 141
   },
   "notices": [
+    {
+      "id": "sme:3510",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2025-2026学年华润奖学金评选暨“梦想与行动”主题征文活动的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0429/3510.html",
+      "date": "2026-05-10"
+    },
     {
       "id": "sme:3535",
       "source_id": "sme",
