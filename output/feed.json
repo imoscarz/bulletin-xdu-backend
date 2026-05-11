@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-05-11T04:00:33.050608+00:00",
-  "total_notices": 2566,
+  "generated_at": "2026-05-11T09:51:14.550867+00:00",
+  "total_notices": 2573,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:1820",
+      "source_id": "sme",
+      "title": "微电子学院关于“西安电子科技大学黄大年式教师团队”候选团队推荐名单的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2022/0517/1820.html",
+      "date": "2026-05-20",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "ste:15386",
+      "source_id": "ste",
+      "title": "西安电子科技大学关于开展2026届优秀硕士学位获得者评选工作的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15386.htm",
+      "date": "2026-05-11",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:15376",
+      "source_id": "ste",
+      "title": "通信工程学院2026年面向香港、澳门、台湾地区招收硕士研究生复试录取工作安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/15376.htm",
+      "date": "2026-05-11",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "phy:10933",
+      "source_id": "phy",
+      "title": "物理学院党委关于2026年度党内先进集体和个人评选表彰推荐对象公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10933.htm",
+      "date": "2026-05-11",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "math:22892",
+      "source_id": "math",
+      "title": "2026年05月科研协作项目公示信息（二）",
+      "url": "https://math.xidian.edu.cn/info/1020/22892.htm",
+      "date": "2026-05-11",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "math:22882",
+      "source_id": "math",
+      "title": "2026年05月科研协作项目公示信息（一）",
+      "url": "https://math.xidian.edu.cn/info/1020/22882.htm",
+      "date": "2026-05-11",
+      "source_name": "数学与统计学院"
+    },
     {
       "id": "jwc:22193",
       "source_id": "jwc",
@@ -10,6 +58,14 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/22193.htm",
       "date": "2026-05-11",
       "source_name": "教务处"
+    },
+    {
+      "id": "hqbzb:8016",
+      "source_id": "hqbzb",
+      "title": "关于长安校区公共教学楼夏季空调使用(试行)的通知",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8016.htm",
+      "date": "2026-05-11",
+      "source_name": "后勤保障部"
     },
     {
       "id": "bksy:33532",

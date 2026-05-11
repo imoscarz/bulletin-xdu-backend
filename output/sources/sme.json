@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-05-11T04:00:33.035540Z",
-    "total_notices": 141
+    "last_scraped": "2026-05-11T09:51:14.535461Z",
+    "total_notices": 142
   },
   "notices": [
+    {
+      "id": "sme:1820",
+      "source_id": "sme",
+      "title": "微电子学院关于“西安电子科技大学黄大年式教师团队”候选团队推荐名单的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2022/0517/1820.html",
+      "date": "2026-05-20"
+    },
     {
       "id": "sme:3510",
       "source_id": "sme",

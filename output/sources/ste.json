@@ -3,10 +3,24 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-11T04:00:23.270263Z",
-    "total_notices": 88
+    "last_scraped": "2026-05-11T09:51:01.317798Z",
+    "total_notices": 90
   },
   "notices": [
+    {
+      "id": "ste:15386",
+      "source_id": "ste",
+      "title": "西安电子科技大学关于开展2026届优秀硕士学位获得者评选工作的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15386.htm",
+      "date": "2026-05-11"
+    },
+    {
+      "id": "ste:15376",
+      "source_id": "ste",
+      "title": "通信工程学院2026年面向香港、澳门、台湾地区招收硕士研究生复试录取工作安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/15376.htm",
+      "date": "2026-05-11"
+    },
     {
       "id": "ste:15366",
       "source_id": "ste",
