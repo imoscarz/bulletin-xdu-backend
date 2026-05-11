@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-11T09:50:39.079960Z",
-    "total_notices": 116
+    "last_scraped": "2026-05-11T15:23:25.249804Z",
+    "total_notices": 117
   },
   "notices": [
+    {
+      "id": "sai:18662",
+      "source_id": "sai",
+      "title": "人工智能学院关于2026级研究生党团关系转接的相关说明",
+      "url": "https://sai.xidian.edu.cn/info/1106/18662.htm",
+      "date": "2026-05-11"
+    },
     {
       "id": "sai:18622",
       "source_id": "sai",

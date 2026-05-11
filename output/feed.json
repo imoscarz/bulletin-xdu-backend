@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T09:51:14.550867+00:00",
-  "total_notices": 2573,
+  "generated_at": "2026-05-11T15:24:39.424379+00:00",
+  "total_notices": 2576,
   "content_limit": 5000,
   "notices": [
     {
@@ -26,6 +26,30 @@
       "url": "https://ste.xidian.edu.cn/info/1337/15376.htm",
       "date": "2026-05-11",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sast:19107",
+      "source_id": "sast",
+      "title": "关于开展5月11日-17日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/19107.htm",
+      "date": "2026-05-11",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:19097",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/19097.htm",
+      "date": "2026-05-11",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sai:18662",
+      "source_id": "sai",
+      "title": "人工智能学院关于2026级研究生党团关系转接的相关说明",
+      "url": "https://sai.xidian.edu.cn/info/1106/18662.htm",
+      "date": "2026-05-11",
+      "source_name": "人工智能学院"
     },
     {
       "id": "phy:10933",

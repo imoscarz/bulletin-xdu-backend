@@ -3,10 +3,24 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-05-11T09:50:47.315890Z",
-    "total_notices": 96
+    "last_scraped": "2026-05-11T15:23:45.037315Z",
+    "total_notices": 98
   },
   "notices": [
+    {
+      "id": "sast:19107",
+      "source_id": "sast",
+      "title": "关于开展5月11日-17日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/19107.htm",
+      "date": "2026-05-11"
+    },
+    {
+      "id": "sast:19097",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/19097.htm",
+      "date": "2026-05-11"
+    },
     {
       "id": "sast:18997",
       "source_id": "sast",
