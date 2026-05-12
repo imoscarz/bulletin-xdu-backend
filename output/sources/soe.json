@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-05-12T08:47:16.225905Z",
-    "total_notices": 42
+    "last_scraped": "2026-05-12T14:36:39.714606Z",
+    "total_notices": 43
   },
   "notices": [
+    {
+      "id": "soe:16745",
+      "source_id": "soe",
+      "title": "光电工程学院关于开展2026年研究生指导教师资格认定与聘任工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/16745.htm",
+      "date": "2026-05-12"
+    },
     {
       "id": "soe:16705",
       "source_id": "soe",
