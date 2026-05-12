@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-05-11T19:55:14.880987Z",
-    "total_notices": 104
+    "last_scraped": "2026-05-12T03:42:58.703308Z",
+    "total_notices": 105
   },
   "notices": [
+    {
+      "id": "xgc:13914",
+      "source_id": "xgc",
+      "title": "关于2026年度陕西高校学生工作研究课题拟推荐课题的公示",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13914.htm",
+      "date": "2026-05-12"
+    },
     {
       "id": "xgc:13754",
       "source_id": "xgc",

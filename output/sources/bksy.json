@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-11T19:55:16.253080Z",
-    "total_notices": 254
+    "last_scraped": "2026-05-12T03:43:00.111997Z",
+    "total_notices": 255
   },
   "notices": [
+    {
+      "id": "bksy:33542",
+      "source_id": "bksy",
+      "title": "关于2026年度陕西高校学生工作研究课题拟推荐课题的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33542.htm",
+      "date": "2026-05-12"
+    },
     {
       "id": "bksy:33532",
       "source_id": "bksy",
