@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-05-12T03:42:43.435359Z",
-    "total_notices": 59
+    "last_scraped": "2026-05-12T08:47:08.103126Z",
+    "total_notices": 60
   },
   "notices": [
+    {
+      "id": "math:22902",
+      "source_id": "math",
+      "title": "数学与统计学院2026年（秋季）学术学位博士研究生招生复试录取工作安排",
+      "url": "https://math.xidian.edu.cn/info/1020/22902.htm",
+      "date": "2026-05-12"
+    },
     {
       "id": "math:22892",
       "source_id": "math",

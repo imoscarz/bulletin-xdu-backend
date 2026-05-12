@@ -3,10 +3,24 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-12T03:43:21.780311Z",
-    "total_notices": 90
+    "last_scraped": "2026-05-12T08:48:10.826296Z",
+    "total_notices": 92
   },
   "notices": [
+    {
+      "id": "ste:15406",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15406.htm",
+      "date": "2026-05-12"
+    },
+    {
+      "id": "ste:15396",
+      "source_id": "ste",
+      "title": "通信工程学院关于开展2026年研究生指导教师资格认定与聘任工作的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15396.htm",
+      "date": "2026-05-12"
+    },
     {
       "id": "ste:15386",
       "source_id": "ste",

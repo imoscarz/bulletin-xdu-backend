@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T03:43:36.061223+00:00",
-  "total_notices": 2578,
+  "generated_at": "2026-05-12T08:48:28.245596+00:00",
+  "total_notices": 2585,
   "content_limit": 5000,
   "notices": [
     {
@@ -18,6 +18,54 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/13914.htm",
       "date": "2026-05-12",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "ste:15406",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15406.htm",
+      "date": "2026-05-12",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:15396",
+      "source_id": "ste",
+      "title": "通信工程学院关于开展2026年研究生指导教师资格认定与聘任工作的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15396.htm",
+      "date": "2026-05-12",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "math:22902",
+      "source_id": "math",
+      "title": "数学与统计学院2026年（秋季）学术学位博士研究生招生复试录取工作安排",
+      "url": "https://math.xidian.edu.cn/info/1020/22902.htm",
+      "date": "2026-05-12",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "life:16961",
+      "source_id": "life",
+      "title": "西安电子科技大学生命科学技术学院2026年外聘人员一般岗位招聘公告",
+      "url": "https://life.xidian.edu.cn/info/1048/16961.htm",
+      "date": "2026-05-12",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "gr:19554",
+      "source_id": "gr",
+      "title": "西安电子科技大学关于受理2026年6月研究生结业申请的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/19554.htm",
+      "date": "2026-05-12",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "cs:24634",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于受理2026年6月研究生结业申请的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24634.htm",
+      "date": "2026-05-12",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "bksy:33542",
@@ -202,6 +250,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16705.htm",
       "date": "2026-05-08",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3536",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0512/3536.html",
+      "date": "2026-05-08",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3535",

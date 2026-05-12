@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-12T03:42:54.350499Z",
-    "total_notices": 85
+    "last_scraped": "2026-05-12T08:47:27.005691Z",
+    "total_notices": 86
   },
   "notices": [
+    {
+      "id": "life:16961",
+      "source_id": "life",
+      "title": "西安电子科技大学生命科学技术学院2026年外聘人员一般岗位招聘公告",
+      "url": "https://life.xidian.edu.cn/info/1048/16961.htm",
+      "date": "2026-05-12"
+    },
     {
       "id": "life:16941",
       "source_id": "life",

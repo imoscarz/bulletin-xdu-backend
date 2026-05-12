@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-12T03:42:41.940429Z",
-    "total_notices": 96
+    "last_scraped": "2026-05-12T08:47:05.606013Z",
+    "total_notices": 97
   },
   "notices": [
+    {
+      "id": "cs:24634",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于受理2026年6月研究生结业申请的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24634.htm",
+      "date": "2026-05-12"
+    },
     {
       "id": "cs:24604",
       "source_id": "cs",
