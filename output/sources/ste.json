@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-12T20:00:41.404769Z",
-    "total_notices": 92
+    "last_scraped": "2026-05-13T03:53:33.852776Z",
+    "total_notices": 93
   },
   "notices": [
+    {
+      "id": "ste:15426",
+      "source_id": "ste",
+      "title": "第四届全国大学生通信系统设计大赛分区赛获奖名单公布",
+      "url": "https://ste.xidian.edu.cn/info/1336/15426.htm",
+      "date": "2026-05-13"
+    },
     {
       "id": "ste:15406",
       "source_id": "ste",

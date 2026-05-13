@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T20:00:53.636796+00:00",
-  "total_notices": 2588,
+  "generated_at": "2026-05-13T03:53:51.788083+00:00",
+  "total_notices": 2589,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2022/0517/1820.html",
       "date": "2026-05-20",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "ste:15426",
+      "source_id": "ste",
+      "title": "第四届全国大学生通信系统设计大赛分区赛获奖名单公布",
+      "url": "https://ste.xidian.edu.cn/info/1336/15426.htm",
+      "date": "2026-05-13",
+      "source_name": "通信工程学院"
     },
     {
       "id": "xgc:13914",
