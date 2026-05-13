@@ -3,10 +3,31 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-13T03:52:41.731705Z",
-    "total_notices": 97
+    "last_scraped": "2026-05-13T08:51:09.833813Z",
+    "total_notices": 100
   },
   "notices": [
+    {
+      "id": "cs:24744",
+      "source_id": "cs",
+      "title": "关于2026-2028年度专业技术职务分级副高及以下各级职务申报材料公示的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24744.htm",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "cs:24694",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年9月博士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24694.htm",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "cs:24684",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年9月硕士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24684.htm",
+      "date": "2026-05-13"
+    },
     {
       "id": "cs:24634",
       "source_id": "cs",

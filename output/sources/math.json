@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-05-13T03:52:43.484531Z",
-    "total_notices": 60
+    "last_scraped": "2026-05-13T08:51:11.676770Z",
+    "total_notices": 61
   },
   "notices": [
+    {
+      "id": "math:22912",
+      "source_id": "math",
+      "title": "关于公布数学与统计学院2026年秋季学术学位博士研究生资格审查结果及复试名单的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/22912.htm",
+      "date": "2026-05-13"
+    },
     {
       "id": "math:22902",
       "source_id": "math",

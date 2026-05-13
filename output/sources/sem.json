@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-13T03:52:53.075698Z",
-    "total_notices": 109
+    "last_scraped": "2026-05-13T08:51:18.853104Z",
+    "total_notices": 110
   },
   "notices": [
+    {
+      "id": "sem:14451",
+      "source_id": "sem",
+      "title": "关于“挑战杯”陕西省大学生  创业计划竞赛金融实践创新专项赛项目申报有关事项的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/14451.htm",
+      "date": "2026-05-13"
+    },
     {
       "id": "sem:13981",
       "source_id": "sem",

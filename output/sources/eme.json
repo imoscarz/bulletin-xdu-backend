@@ -3,10 +3,24 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-05-13T03:53:11.333899Z",
-    "total_notices": 126
+    "last_scraped": "2026-05-13T08:51:37.359237Z",
+    "total_notices": 128
   },
   "notices": [
+    {
+      "id": "eme:19554",
+      "source_id": "eme",
+      "title": "西安电子科技大学关于受理2026年6月研究生结业申请的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/19554.htm",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "eme:15276",
+      "source_id": "eme",
+      "title": "机电工程学院2026年先进集体和先进个人评选结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15276.htm",
+      "date": "2026-05-13"
+    },
     {
       "id": "eme:15196",
       "source_id": "eme",
