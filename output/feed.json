@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T08:52:16.644987+00:00",
-  "total_notices": 2596,
+  "generated_at": "2026-05-13T14:49:34.497002+00:00",
+  "total_notices": 2606,
   "content_limit": 5000,
   "notices": [
     {
@@ -12,6 +12,22 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "ygb:11543",
+      "source_id": "ygb",
+      "title": "关于做好2026年研究生毕业生基层就业学费补偿国家助学贷款代偿工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/11543.htm",
+      "date": "2026-05-13",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "xgc:13964",
+      "source_id": "xgc",
+      "title": "关于开展2026年“诚信宣传教育月”主题活动的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13964.htm",
+      "date": "2026-05-13",
+      "source_name": "学生工作处"
+    },
+    {
       "id": "ste:15426",
       "source_id": "ste",
       "title": "第四届全国大学生通信系统设计大赛分区赛获奖名单公布",
@@ -20,12 +36,60 @@
       "source_name": "通信工程学院"
     },
     {
+      "id": "sme:3541",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3541.html",
+      "date": "2026-05-13",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3540",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3540.html",
+      "date": "2026-05-13",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3539",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3539.html",
+      "date": "2026-05-13",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3538",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3538.html",
+      "date": "2026-05-13",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3537",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3537.html",
+      "date": "2026-05-13",
+      "source_name": "集成电路学部"
+    },
+    {
       "id": "sem:14451",
       "source_id": "sem",
       "title": "关于“挑战杯”陕西省大学生  创业计划竞赛金融实践创新专项赛项目申报有关事项的通知",
       "url": "https://sem.xidian.edu.cn/info/1536/14451.htm",
       "date": "2026-05-13",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sast:19147",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/19147.htm",
+      "date": "2026-05-13",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "math:22912",
@@ -40,6 +104,14 @@
       "source_id": "eme",
       "title": "西安电子科技大学关于受理2026年6月研究生结业申请的通知",
       "url": "https://gr.xidian.edu.cn/info/1073/19554.htm",
+      "date": "2026-05-13",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:15286",
+      "source_id": "eme",
+      "title": "机电工程学院关于新CDIO世读-自动化大类暑期国际交流项目报名的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15286.htm",
       "date": "2026-05-13",
       "source_name": "机电工程学院"
     },
@@ -74,6 +146,14 @@
       "url": "https://cs.xidian.edu.cn/info/1003/24684.htm",
       "date": "2026-05-13",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33612",
+      "source_id": "bksy",
+      "title": "关于开展2026年“诚信宣传教育月”主题活动的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33612.htm",
+      "date": "2026-05-13",
+      "source_name": "本科生院"
     },
     {
       "id": "xgc:13914",

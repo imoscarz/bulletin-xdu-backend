@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-05-13T08:51:29.871443Z",
-    "total_notices": 105
+    "last_scraped": "2026-05-13T14:47:03.801337Z",
+    "total_notices": 106
   },
   "notices": [
+    {
+      "id": "xgc:13964",
+      "source_id": "xgc",
+      "title": "关于开展2026年“诚信宣传教育月”主题活动的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13964.htm",
+      "date": "2026-05-13"
+    },
     {
       "id": "xgc:13914",
       "source_id": "xgc",

@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-13T08:51:31.140164Z",
-    "total_notices": 257
+    "last_scraped": "2026-05-13T14:47:07.801174Z",
+    "total_notices": 258
   },
   "notices": [
+    {
+      "id": "bksy:33612",
+      "source_id": "bksy",
+      "title": "关于开展2026年“诚信宣传教育月”主题活动的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33612.htm",
+      "date": "2026-05-13"
+    },
     {
       "id": "bksy:33592",
       "source_id": "bksy",

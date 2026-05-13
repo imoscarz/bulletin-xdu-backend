@@ -3,8 +3,8 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-05-13T08:51:37.359237Z",
-    "total_notices": 128
+    "last_scraped": "2026-05-13T14:47:24.790107Z",
+    "total_notices": 129
   },
   "notices": [
     {
@@ -12,6 +12,13 @@
       "source_id": "eme",
       "title": "西安电子科技大学关于受理2026年6月研究生结业申请的通知",
       "url": "https://gr.xidian.edu.cn/info/1073/19554.htm",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "eme:15286",
+      "source_id": "eme",
+      "title": "机电工程学院关于新CDIO世读-自动化大类暑期国际交流项目报名的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15286.htm",
       "date": "2026-05-13"
     },
     {

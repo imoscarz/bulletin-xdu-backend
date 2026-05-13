@@ -3,8 +3,8 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-05-13T08:52:16.628633Z",
-    "total_notices": 143
+    "last_scraped": "2026-05-13T14:49:34.480645Z",
+    "total_notices": 148
   },
   "notices": [
     {
@@ -13,6 +13,41 @@
       "title": "微电子学院关于“西安电子科技大学黄大年式教师团队”候选团队推荐名单的公示",
       "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2022/0517/1820.html",
       "date": "2026-05-20"
+    },
+    {
+      "id": "sme:3541",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3541.html",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "sme:3540",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3540.html",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "sme:3539",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3539.html",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "sme:3538",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3538.html",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "sme:3537",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0513/3537.html",
+      "date": "2026-05-13"
     },
     {
       "id": "sme:3510",
