@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T20:05:11.116729+00:00",
-  "total_notices": 2606,
+  "generated_at": "2026-05-14T03:54:32.958631+00:00",
+  "total_notices": 2611,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,22 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2022/0517/1820.html",
       "date": "2026-05-20",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "rwxy:17004",
+      "source_id": "rwxy",
+      "title": "人文学院关于2026年度党内先进集体和个人推荐名单的公示",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17004.htm",
+      "date": "2026-05-14",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "eme:15296",
+      "source_id": "eme",
+      "title": "西安电子科技大学2026年机电工程学院  秋季学术学位博士研究生招生复试与录取工作安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/15296.htm",
+      "date": "2026-05-14",
+      "source_name": "机电工程学院"
     },
     {
       "id": "ygb:11543",
@@ -100,6 +116,14 @@
       "source_name": "数学与统计学院"
     },
     {
+      "id": "hqbzb:8056",
+      "source_id": "hqbzb",
+      "title": "2026~2028年度专业技术职务分级结果公示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8056.htm",
+      "date": "2026-05-13",
+      "source_name": "后勤保障部"
+    },
+    {
       "id": "eme:19554",
       "source_id": "eme",
       "title": "西安电子科技大学关于受理2026年6月研究生结业申请的通知",
@@ -154,6 +178,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/33612.htm",
       "date": "2026-05-13",
       "source_name": "本科生院"
+    },
+    {
+      "id": "amn:18102",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年秋季博士研究生招生复试录取工作安排",
+      "url": "https://amn.xidian.edu.cn/info/1013/18102.htm",
+      "date": "2026-05-13",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "xgc:13914",
@@ -658,6 +690,14 @@
       "url": "https://imse.xidian.edu.cn/info/1030/6041.htm",
       "date": "2026-05-06",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "hqbzb:8046",
+      "source_id": "hqbzb",
+      "title": "2026-2028年度下专业技术职务分级申报材料公示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8046.htm",
+      "date": "2026-05-06",
+      "source_name": "后勤保障部"
     },
     {
       "id": "cs:24554",

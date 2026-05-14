@@ -3,16 +3,30 @@
     "source_id": "hqbzb",
     "name": "后勤保障部",
     "url": "https://hqbzb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-13T20:03:46.568198Z",
-    "total_notices": 79
+    "last_scraped": "2026-05-14T03:53:46.159060Z",
+    "total_notices": 81
   },
   "notices": [
+    {
+      "id": "hqbzb:8056",
+      "source_id": "hqbzb",
+      "title": "2026~2028年度专业技术职务分级结果公示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8056.htm",
+      "date": "2026-05-13"
+    },
     {
       "id": "hqbzb:8016",
       "source_id": "hqbzb",
       "title": "关于长安校区公共教学楼夏季空调使用(试行)的通知",
       "url": "https://hqbzb.xidian.edu.cn/info/1029/8016.htm",
       "date": "2026-05-11"
+    },
+    {
+      "id": "hqbzb:8046",
+      "source_id": "hqbzb",
+      "title": "2026-2028年度下专业技术职务分级申报材料公示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8046.htm",
+      "date": "2026-05-06"
     },
     {
       "id": "hqbzb:7996",
