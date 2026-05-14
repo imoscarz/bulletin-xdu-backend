@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T03:54:32.958631+00:00",
-  "total_notices": 2611,
+  "generated_at": "2026-05-14T08:46:26.891355+00:00",
+  "total_notices": 2614,
   "content_limit": 5000,
   "notices": [
     {
@@ -12,12 +12,36 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "ste:15446",
+      "source_id": "ste",
+      "title": "2022级本科毕业论文院级盲审结果公布通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/15446.htm",
+      "date": "2026-05-14",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "rwxy:17014",
+      "source_id": "rwxy",
+      "title": "人文学院关于征集2026年度学术著作出版资助项目的通知",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17014.htm",
+      "date": "2026-05-14",
+      "source_name": "人文学院"
+    },
+    {
       "id": "rwxy:17004",
       "source_id": "rwxy",
       "title": "人文学院关于2026年度党内先进集体和个人推荐名单的公示",
       "url": "https://rwxy.xidian.edu.cn/info/1023/17004.htm",
       "date": "2026-05-14",
       "source_name": "人文学院"
+    },
+    {
+      "id": "gr:19574",
+      "source_id": "gr",
+      "title": "关于组织申报全国卓越工程师培养改革优秀案例、优秀校企导师组和优秀实践成果的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/19574.htm",
+      "date": "2026-05-14",
+      "source_name": "研究生院"
     },
     {
       "id": "eme:15296",

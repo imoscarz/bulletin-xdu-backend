@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-14T03:53:44.714743Z",
-    "total_notices": 93
+    "last_scraped": "2026-05-14T08:45:40.094612Z",
+    "total_notices": 94
   },
   "notices": [
+    {
+      "id": "ste:15446",
+      "source_id": "ste",
+      "title": "2022级本科毕业论文院级盲审结果公布通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/15446.htm",
+      "date": "2026-05-14"
+    },
     {
       "id": "ste:15426",
       "source_id": "ste",
