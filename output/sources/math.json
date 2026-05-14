@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-05-14T08:44:10.503758Z",
-    "total_notices": 61
+    "last_scraped": "2026-05-14T14:26:21.466214Z",
+    "total_notices": 62
   },
   "notices": [
+    {
+      "id": "math:22922",
+      "source_id": "math",
+      "title": "关于公布数学与统计学院2026年秋季博士研究生综合面试考核成绩的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/22922.htm",
+      "date": "2026-05-14"
+    },
     {
       "id": "math:22912",
       "source_id": "math",

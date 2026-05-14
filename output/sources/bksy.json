@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-14T08:44:35.979879Z",
-    "total_notices": 258
+    "last_scraped": "2026-05-14T14:26:56.186188Z",
+    "total_notices": 259
   },
   "notices": [
+    {
+      "id": "bksy:33632",
+      "source_id": "bksy",
+      "title": "关于公布2026年（2022级）毕业设计（论文）盲审结果...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33632.htm",
+      "date": "2026-05-14"
+    },
     {
       "id": "bksy:33612",
       "source_id": "bksy",

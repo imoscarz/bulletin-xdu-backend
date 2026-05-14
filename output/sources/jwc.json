@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-14T08:44:06.117563Z",
-    "total_notices": 80
+    "last_scraped": "2026-05-14T14:26:13.959840Z",
+    "total_notices": 81
   },
   "notices": [
+    {
+      "id": "jwc:22203",
+      "source_id": "jwc",
+      "title": "关于公布2026年（2022级）毕业设计（论文）盲审结果及处理意见的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22203.htm",
+      "date": "2026-05-14"
+    },
     {
       "id": "jwc:22193",
       "source_id": "jwc",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T08:46:26.891355+00:00",
-  "total_notices": 2614,
+  "generated_at": "2026-05-14T14:29:37.132718+00:00",
+  "total_notices": 2617,
   "content_limit": 5000,
   "notices": [
     {
@@ -36,6 +36,22 @@
       "source_name": "人文学院"
     },
     {
+      "id": "math:22922",
+      "source_id": "math",
+      "title": "关于公布数学与统计学院2026年秋季博士研究生综合面试考核成绩的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/22922.htm",
+      "date": "2026-05-14",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "jwc:22203",
+      "source_id": "jwc",
+      "title": "关于公布2026年（2022级）毕业设计（论文）盲审结果及处理意见的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22203.htm",
+      "date": "2026-05-14",
+      "source_name": "教务处"
+    },
+    {
       "id": "gr:19574",
       "source_id": "gr",
       "title": "关于组织申报全国卓越工程师培养改革优秀案例、优秀校企导师组和优秀实践成果的通知",
@@ -50,6 +66,14 @@
       "url": "https://eme.xidian.edu.cn/info/1012/15296.htm",
       "date": "2026-05-14",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:33632",
+      "source_id": "bksy",
+      "title": "关于公布2026年（2022级）毕业设计（论文）盲审结果...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33632.htm",
+      "date": "2026-05-14",
+      "source_name": "本科生院"
     },
     {
       "id": "ygb:11543",
