@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-15T03:56:16.480983Z",
-    "total_notices": 262
+    "last_scraped": "2026-05-15T08:55:40.531969Z",
+    "total_notices": 264
   },
   "notices": [
+    {
+      "id": "bksy:33712",
+      "source_id": "bksy",
+      "title": "关于我校学生加入外校队伍参与第十三届“挑战杯”陕...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33712.htm",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "bksy:33702",
+      "source_id": "bksy",
+      "title": "本科生院关于2026～2028年度专业技术职务分级申报材...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33702.htm",
+      "date": "2026-05-15"
+    },
     {
       "id": "bksy:33642",
       "source_id": "bksy",

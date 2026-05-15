@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T03:58:40.821237+00:00",
-  "total_notices": 2625,
+  "generated_at": "2026-05-15T08:59:00.419403+00:00",
+  "total_notices": 2630,
   "content_limit": 5000,
   "notices": [
     {
@@ -20,6 +20,14 @@
       "source_name": "学生工作处"
     },
     {
+      "id": "ste:15456",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15456.htm",
+      "date": "2026-05-15",
+      "source_name": "通信工程学院"
+    },
+    {
       "id": "see:103691",
       "source_id": "see",
       "title": "西安电子科技大学第二十一届中国研究生电子设计竞赛校内选拔赛公告",
@@ -28,12 +36,44 @@
       "source_name": "电子工程学院"
     },
     {
+      "id": "math:22932",
+      "source_id": "math",
+      "title": "关于数学与统计学院2026年秋季博士研究生招生拟录取名单的公示",
+      "url": "https://math.xidian.edu.cn/info/1020/22932.htm",
+      "date": "2026-05-15",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "gr:19624",
+      "source_id": "gr",
+      "title": "关于组织参加陕西省第二届卓越工程师大赛的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/19624.htm",
+      "date": "2026-05-15",
+      "source_name": "研究生院"
+    },
+    {
       "id": "gr:19614",
       "source_id": "gr",
       "title": "2026年拟录取硕士研究生转调个人档案及确认录取通知书邮寄信息的通知",
       "url": "https://gr.xidian.edu.cn/info/1073/19614.htm",
       "date": "2026-05-15",
       "source_name": "研究生院"
+    },
+    {
+      "id": "bksy:33712",
+      "source_id": "bksy",
+      "title": "关于我校学生加入外校队伍参与第十三届“挑战杯”陕...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33712.htm",
+      "date": "2026-05-15",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33702",
+      "source_id": "bksy",
+      "title": "本科生院关于2026～2028年度专业技术职务分级申报材...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33702.htm",
+      "date": "2026-05-15",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33642",
