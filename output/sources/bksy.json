@@ -3,16 +3,37 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-14T19:52:49.696970Z",
-    "total_notices": 259
+    "last_scraped": "2026-05-15T03:56:16.480983Z",
+    "total_notices": 262
   },
   "notices": [
+    {
+      "id": "bksy:33642",
+      "source_id": "bksy",
+      "title": "关于做好2026年本科生基层就业学费补偿国家助学贷款...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33642.htm",
+      "date": "2026-05-15"
+    },
     {
       "id": "bksy:33632",
       "source_id": "bksy",
       "title": "关于公布2026年（2022级）毕业设计（论文）盲审结果...",
       "url": "https://bksy.xidian.edu.cn/info/1003/33632.htm",
       "date": "2026-05-14"
+    },
+    {
+      "id": "bksy:33692",
+      "source_id": "bksy",
+      "title": "关于开展2026年本科生青春人物评选活动的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33692.htm",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "bksy:33672",
+      "source_id": "bksy",
+      "title": "关于开展2026届本科毕业生诚信教育宣讲暨  国家助学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33672.htm",
+      "date": "2026-05-13"
     },
     {
       "id": "bksy:33612",

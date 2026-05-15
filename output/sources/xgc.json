@@ -3,15 +3,36 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-05-14T19:52:47.695413Z",
-    "total_notices": 106
+    "last_scraped": "2026-05-15T03:56:15.107094Z",
+    "total_notices": 109
   },
   "notices": [
+    {
+      "id": "xgc:13984",
+      "source_id": "xgc",
+      "title": "关于做好2026年本科生基层就业学费补偿国家助学贷款代偿工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13984.htm",
+      "date": "2026-05-15"
+    },
     {
       "id": "xgc:13964",
       "source_id": "xgc",
       "title": "关于开展2026年“诚信宣传教育月”主题活动的通知",
       "url": "https://xgc.xidian.edu.cn/info/1033/13964.htm",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "xgc:13954",
+      "source_id": "xgc",
+      "title": "关于开展2026届本科毕业生诚信教育宣讲暨  国家助学贷款毕业手续办理的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13954.htm",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "xgc:13944",
+      "source_id": "xgc",
+      "title": "关于开展2026年本科生青春人物评选活动的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13944.htm",
       "date": "2026-05-13"
     },
     {
