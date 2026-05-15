@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-15T08:56:06.360932Z",
-    "total_notices": 78
+    "last_scraped": "2026-05-15T14:24:19.464860Z",
+    "total_notices": 79
   },
   "notices": [
+    {
+      "id": "ygb:11553",
+      "source_id": "ygb",
+      "title": "关于开展2026届研究生毕业生诚信教育宣讲暨国家助学贷款毕业手续办理的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/11553.htm",
+      "date": "2026-05-15"
+    },
     {
       "id": "ygb:11543",
       "source_id": "ygb",
