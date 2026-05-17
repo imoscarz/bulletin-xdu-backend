@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-17T08:27:42.232818Z",
-    "total_notices": 264
+    "last_scraped": "2026-05-17T13:42:50.752905Z",
+    "total_notices": 265
   },
   "notices": [
+    {
+      "id": "bksy:33732",
+      "source_id": "bksy",
+      "title": "关于第十三届“挑战杯”陕西省大学生创业计划竞赛金...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33732.htm",
+      "date": "2026-05-16"
+    },
     {
       "id": "bksy:33712",
       "source_id": "bksy",
