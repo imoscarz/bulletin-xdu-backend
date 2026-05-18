@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T10:18:23.767706+00:00",
-  "total_notices": 2650,
+  "generated_at": "2026-05-18T15:46:59.705385+00:00",
+  "total_notices": 2652,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2022/0517/1820.html",
       "date": "2026-05-20",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "ste:15526",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15526.htm",
+      "date": "2026-05-18",
+      "source_name": "通信工程学院"
     },
     {
       "id": "ste:15516",
@@ -58,6 +66,14 @@
       "url": "https://see.xidian.edu.cn/info/1052/103701.htm",
       "date": "2026-05-18",
       "source_name": "电子工程学院"
+    },
+    {
+      "id": "sast:19177",
+      "source_id": "sast",
+      "title": "关于开展5月18日-24日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/19177.htm",
+      "date": "2026-05-18",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "sai:24942",
