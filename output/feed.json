@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:18:59.613502+00:00",
-  "total_notices": 2632,
+  "generated_at": "2026-05-18T04:12:23.067147+00:00",
+  "total_notices": 2639,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,62 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2022/0517/1820.html",
       "date": "2026-05-20",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "ste:15466",
+      "source_id": "ste",
+      "title": "西安电子科技大学第二学士学位空间信息与数字技术专业2026年招生工作安排",
+      "url": "https://ste.xidian.edu.cn/info/1336/15466.htm",
+      "date": "2026-05-18",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "see:103701",
+      "source_id": "see",
+      "title": "关于2026届本科毕设答辩安排的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/103701.htm",
+      "date": "2026-05-18",
+      "source_name": "电子工程学院"
+    },
+    {
+      "id": "sai:24942",
+      "source_id": "sai",
+      "title": "人工智能学院2026年第二学士学位招生工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/24942.htm",
+      "date": "2026-05-18",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "life:17011",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年（秋季）博士研究生招生复试名单",
+      "url": "https://life.xidian.edu.cn/info/1048/17011.htm",
+      "date": "2026-05-18",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "life:17001",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年（秋季）博士研究生招生复试与录取工作安排",
+      "url": "https://life.xidian.edu.cn/info/1048/17001.htm",
+      "date": "2026-05-18",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "eme:15316",
+      "source_id": "eme",
+      "title": "2026年机电工程学院秋季博士研究生招生复试笔试、面试安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/15316.htm",
+      "date": "2026-05-18",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24764",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年第二学士学位招收录取实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/24764.htm",
+      "date": "2026-05-18",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "bksy:33732",

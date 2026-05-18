@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-05-17T19:16:01.346711Z",
-    "total_notices": 130
+    "last_scraped": "2026-05-18T04:09:22.097017Z",
+    "total_notices": 131
   },
   "notices": [
+    {
+      "id": "eme:15316",
+      "source_id": "eme",
+      "title": "2026年机电工程学院秋季博士研究生招生复试笔试、面试安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/15316.htm",
+      "date": "2026-05-18"
+    },
     {
       "id": "eme:15296",
       "source_id": "eme",

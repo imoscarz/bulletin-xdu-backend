@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-17T19:15:56.025762Z",
-    "total_notices": 117
+    "last_scraped": "2026-05-18T04:09:12.406434Z",
+    "total_notices": 118
   },
   "notices": [
+    {
+      "id": "sai:24942",
+      "source_id": "sai",
+      "title": "人工智能学院2026年第二学士学位招生工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/24942.htm",
+      "date": "2026-05-18"
+    },
     {
       "id": "sai:18662",
       "source_id": "sai",

@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-17T19:15:44.724661Z",
-    "total_notices": 100
+    "last_scraped": "2026-05-18T04:08:55.279022Z",
+    "total_notices": 101
   },
   "notices": [
+    {
+      "id": "cs:24764",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年第二学士学位招收录取实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/24764.htm",
+      "date": "2026-05-18"
+    },
     {
       "id": "cs:24744",
       "source_id": "cs",
