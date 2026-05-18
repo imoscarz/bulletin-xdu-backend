@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-18T04:09:09.488278Z",
-    "total_notices": 88
+    "last_scraped": "2026-05-18T10:15:12.236035Z",
+    "total_notices": 89
   },
   "notices": [
+    {
+      "id": "life:17021",
+      "source_id": "life",
+      "title": "生命科学技术学院2027届优秀本科毕业生推荐免试攻读硕士学位研究生实施办法",
+      "url": "https://life.xidian.edu.cn/info/1048/17021.htm",
+      "date": "2026-05-18"
+    },
     {
       "id": "life:17011",
       "source_id": "life",
