@@ -3,10 +3,38 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-19T04:03:03.970032Z",
-    "total_notices": 266
+    "last_scraped": "2026-05-19T09:56:14.444511Z",
+    "total_notices": 270
   },
   "notices": [
+    {
+      "id": "bksy:33812",
+      "source_id": "bksy",
+      "title": "【教学培训】援疆三年教学工作综合情况分享交流",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33812.htm",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "bksy:33802",
+      "source_id": "bksy",
+      "title": "【教学示范】信号与系统",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33802.htm",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "bksy:33792",
+      "source_id": "bksy",
+      "title": "【教学培训】语言智能时代背景下的网络安全教学实践...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33792.htm",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "bksy:33772",
+      "source_id": "bksy",
+      "title": "关于我校学生加入外校队伍参与第十三届“挑战杯 ”陕...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33772.htm",
+      "date": "2026-05-19"
+    },
     {
       "id": "bksy:33752",
       "source_id": "bksy",
