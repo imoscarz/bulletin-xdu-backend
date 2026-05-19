@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-18T19:50:12.132052Z",
-    "total_notices": 265
+    "last_scraped": "2026-05-19T04:03:03.970032Z",
+    "total_notices": 266
   },
   "notices": [
+    {
+      "id": "bksy:33752",
+      "source_id": "bksy",
+      "title": "2026年上半年全国大学英语四、六级口语考试考生须知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33752.htm",
+      "date": "2026-05-19"
+    },
     {
       "id": "bksy:33732",
       "source_id": "bksy",

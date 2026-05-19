@@ -3,10 +3,17 @@
     "source_id": "see",
     "name": "电子工程学院",
     "url": "https://see.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-18T19:49:56.349120Z",
-    "total_notices": 257
+    "last_scraped": "2026-05-19T04:02:43.812831Z",
+    "total_notices": 258
   },
   "notices": [
+    {
+      "id": "see:103731",
+      "source_id": "see",
+      "title": "关于开展2026年上学期本科教学准入证办理工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/103731.htm",
+      "date": "2026-05-19"
+    },
     {
       "id": "see:103701",
       "source_id": "see",

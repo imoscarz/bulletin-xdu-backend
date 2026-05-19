@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-18T19:49:51.057626Z",
-    "total_notices": 81
+    "last_scraped": "2026-05-19T04:02:32.247113Z",
+    "total_notices": 82
   },
   "notices": [
+    {
+      "id": "jwc:22213",
+      "source_id": "jwc",
+      "title": "2026年上半年全国大学英语四、六级口语考试考生须知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22213.htm",
+      "date": "2026-05-19"
+    },
     {
       "id": "jwc:22203",
       "source_id": "jwc",

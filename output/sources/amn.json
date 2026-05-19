@@ -3,10 +3,17 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-18T19:50:06.595657Z",
-    "total_notices": 84
+    "last_scraped": "2026-05-19T04:02:59.289899Z",
+    "total_notices": 85
   },
   "notices": [
+    {
+      "id": "amn:18112",
+      "source_id": "amn",
+      "title": "关于公布先进材料与纳米科技学院2026年秋季博士招生复试成绩的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/18112.htm",
+      "date": "2026-05-19"
+    },
     {
       "id": "amn:18102",
       "source_id": "amn",
