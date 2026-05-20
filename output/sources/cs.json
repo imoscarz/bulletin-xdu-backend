@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-20T04:03:10.487447Z",
-    "total_notices": 101
+    "last_scraped": "2026-05-20T09:43:23.238234Z",
+    "total_notices": 102
   },
   "notices": [
+    {
+      "id": "cs:24784",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年（秋季）博士研究生招生复试录取工作安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/24784.htm",
+      "date": "2026-05-20"
+    },
     {
       "id": "cs:24764",
       "source_id": "cs",

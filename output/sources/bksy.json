@@ -3,8 +3,8 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-20T04:03:31.810739Z",
-    "total_notices": 270
+    "last_scraped": "2026-05-20T09:43:43.659927Z",
+    "total_notices": 271
   },
   "notices": [
     {
@@ -41,6 +41,13 @@
       "title": "2026年上半年全国大学英语四、六级口语考试考生须知",
       "url": "https://bksy.xidian.edu.cn/info/1003/33752.htm",
       "date": "2026-05-19"
+    },
+    {
+      "id": "bksy:33822",
+      "source_id": "bksy",
+      "title": "关于开展2026届本科毕业生满意度调查的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33822.htm",
+      "date": "2026-05-18"
     },
     {
       "id": "bksy:33732",

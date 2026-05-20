@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-05-20T04:03:36.240619Z",
-    "total_notices": 131
+    "last_scraped": "2026-05-20T09:43:47.289640Z",
+    "total_notices": 132
   },
   "notices": [
+    {
+      "id": "eme:15366",
+      "source_id": "eme",
+      "title": "机电工程学院关于2022级毕业设计答辩工作安排的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15366.htm",
+      "date": "2026-05-20"
+    },
     {
       "id": "eme:15316",
       "source_id": "eme",

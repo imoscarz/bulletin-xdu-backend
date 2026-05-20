@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-20T04:05:20.381908Z",
-    "total_notices": 100
+    "last_scraped": "2026-05-20T09:45:22.295617Z",
+    "total_notices": 101
   },
   "notices": [
+    {
+      "id": "ste:15546",
+      "source_id": "ste",
+      "title": "通信工程学院2026年秋季博士研究生招生综合面试考核安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/15546.htm",
+      "date": "2026-05-20"
+    },
     {
       "id": "ste:15526",
       "source_id": "ste",

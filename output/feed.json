@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-05-20T04:06:47.463210+00:00",
-  "total_notices": 2663,
+  "generated_at": "2026-05-20T09:46:47.740710+00:00",
+  "total_notices": 2672,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15546",
+      "source_id": "ste",
+      "title": "通信工程学院2026年秋季博士研究生招生综合面试考核安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/15546.htm",
+      "date": "2026-05-20",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "sme:1820",
       "source_id": "sme",
@@ -10,6 +18,54 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2022/0517/1820.html",
       "date": "2026-05-20",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "sai:24962",
+      "source_id": "sai",
+      "title": "人工智能学院关于2026-2028年度专业技术职务分级副高及以下各级评审结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/24962.htm",
+      "date": "2026-05-20",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "sai:24952",
+      "source_id": "sai",
+      "title": "人工智能学院2026年（秋季）博士研究生招生复试与录取工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/24952.htm",
+      "date": "2026-05-20",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:11063",
+      "source_id": "phy",
+      "title": "西安电子科技大学物理学院第二学士学位2026年招生工作安排",
+      "url": "https://phy.xidian.edu.cn/info/1012/11063.htm",
+      "date": "2026-05-20",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:11053",
+      "source_id": "phy",
+      "title": "物理学院2026年秋季学术学位博士研究生复试名单",
+      "url": "https://phy.xidian.edu.cn/info/1012/11053.htm",
+      "date": "2026-05-20",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "eme:15366",
+      "source_id": "eme",
+      "title": "机电工程学院关于2022级毕业设计答辩工作安排的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15366.htm",
+      "date": "2026-05-20",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24784",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年（秋季）博士研究生招生复试录取工作安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/24784.htm",
+      "date": "2026-05-20",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "xdwy:10364",
@@ -98,6 +154,14 @@
       "url": "https://amn.xidian.edu.cn/info/1013/18112.htm",
       "date": "2026-05-19",
       "source_name": "先进材料与纳米科技学院"
+    },
+    {
+      "id": "xgc:13994",
+      "source_id": "xgc",
+      "title": "关于开展2026届本科毕业生满意度调查的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13994.htm",
+      "date": "2026-05-18",
+      "source_name": "学生工作处"
     },
     {
       "id": "ste:15526",
@@ -250,6 +314,14 @@
       "url": "https://cs.xidian.edu.cn/info/1003/24764.htm",
       "date": "2026-05-18",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33822",
+      "source_id": "bksy",
+      "title": "关于开展2026届本科毕业生满意度调查的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33822.htm",
+      "date": "2026-05-18",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33732",
