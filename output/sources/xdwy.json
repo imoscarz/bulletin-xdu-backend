@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-20T09:43:54.479473Z",
-    "total_notices": 86
+    "last_scraped": "2026-05-20T15:36:04.564106Z",
+    "total_notices": 87
   },
   "notices": [
+    {
+      "id": "xdwy:10374",
+      "source_id": "xdwy",
+      "title": "关于西安电子科技大学2026年春季学期自学考试毕业论文（设计）报名的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10374.htm",
+      "date": "2026-05-20"
+    },
     {
       "id": "xdwy:10364",
       "source_id": "xdwy",

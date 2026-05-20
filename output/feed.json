@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-05-20T09:46:47.740710+00:00",
-  "total_notices": 2672,
+  "generated_at": "2026-05-20T15:39:01.657293+00:00",
+  "total_notices": 2675,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10374",
+      "source_id": "xdwy",
+      "title": "关于西安电子科技大学2026年春季学期自学考试毕业论文（设计）报名的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10374.htm",
+      "date": "2026-05-20",
+      "source_name": "网络与继续教育学院"
+    },
     {
       "id": "ste:15546",
       "source_id": "ste",
@@ -18,6 +26,22 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2022/0517/1820.html",
       "date": "2026-05-20",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "sast:19207",
+      "source_id": "sast",
+      "title": "关于第三届“为民探索奖”  拟获奖人员名单的公示",
+      "url": "https://sast.xidian.edu.cn/info/1014/19207.htm",
+      "date": "2026-05-20",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:19197",
+      "source_id": "sast",
+      "title": "空间科学与技术学院关于遴选学生参加2026年暑期香港科技大学航空航天主题访学项目的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/19197.htm",
+      "date": "2026-05-20",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "sai:24962",
