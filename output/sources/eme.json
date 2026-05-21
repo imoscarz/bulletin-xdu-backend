@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-05-21T04:13:20.839228Z",
-    "total_notices": 132
+    "last_scraped": "2026-05-21T09:53:00.330231Z",
+    "total_notices": 133
   },
   "notices": [
+    {
+      "id": "eme:15406",
+      "source_id": "eme",
+      "title": "关于公布机电工程学院2026年秋季博士生复试成绩的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15406.htm",
+      "date": "2026-05-21"
+    },
     {
       "id": "eme:15366",
       "source_id": "eme",

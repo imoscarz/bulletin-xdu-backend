@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-05-21T04:16:34.214839+00:00",
-  "total_notices": 2677,
+  "generated_at": "2026-05-21T09:56:05.158839+00:00",
+  "total_notices": 2686,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15586",
+      "source_id": "ste",
+      "title": "关于通信工程学院2025-2026年度先进评选的公示",
+      "url": "https://ste.xidian.edu.cn/info/1145/15586.htm",
+      "date": "2026-05-21",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:15576",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15576.htm",
+      "date": "2026-05-21",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:15566",
+      "source_id": "ste",
+      "title": "关于通信工程学院“2026年度党内先进集体和个人”推荐的公示",
+      "url": "https://ste.xidian.edu.cn/info/1145/15566.htm",
+      "date": "2026-05-21",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "ste:15556",
       "source_id": "ste",
@@ -12,12 +36,60 @@
       "source_name": "通信工程学院"
     },
     {
+      "id": "soe:16905",
+      "source_id": "soe",
+      "title": "光电工程学院2026年电子科学与技术专业第二学士学位初审通过考生名单公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/16905.htm",
+      "date": "2026-05-21",
+      "source_name": "光电工程学院"
+    },
+    {
       "id": "sai:24972",
       "source_id": "sai",
       "title": "人工智能学院2026年（秋季）博士研究生资格审核通过名单及复试时间地点安排",
       "url": "https://sai.xidian.edu.cn/info/1106/24972.htm",
       "date": "2026-05-21",
       "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:11073",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260521-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/11073.htm",
+      "date": "2026-05-21",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "imse:6161",
+      "source_id": "imse",
+      "title": "第38个全国保密宣传教育月丨 共筑保密防线，公民人人有责",
+      "url": "https://imse.xidian.edu.cn/info/1030/6161.htm",
+      "date": "2026-05-21",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "gr:3941",
+      "source_id": "gr",
+      "title": "关于联合征集教育部安徽高等研究院校企联合人才培养和科研攻关项目指南建议的通知",
+      "url": "https://ncee.xidian.edu.cn/info/1111/3941.htm",
+      "date": "2026-05-21",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "eme:15406",
+      "source_id": "eme",
+      "title": "关于公布机电工程学院2026年秋季博士生复试成绩的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15406.htm",
+      "date": "2026-05-21",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "amn:18132",
+      "source_id": "amn",
+      "title": "关于公布先进材料与纳米科技学院2026年秋季入学博士研究生拟录取名单的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/18132.htm",
+      "date": "2026-05-21",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "xdwy:10374",

@@ -3,10 +3,17 @@
     "source_id": "imse",
     "name": "信息力学与感知工程学院",
     "url": "https://imse.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-21T04:13:27.906902Z",
-    "total_notices": 29
+    "last_scraped": "2026-05-21T09:53:10.067502Z",
+    "total_notices": 30
   },
   "notices": [
+    {
+      "id": "imse:6161",
+      "source_id": "imse",
+      "title": "第38个全国保密宣传教育月丨 共筑保密防线，公民人人有责",
+      "url": "https://imse.xidian.edu.cn/info/1030/6161.htm",
+      "date": "2026-05-21"
+    },
     {
       "id": "imse:6131",
       "source_id": "imse",

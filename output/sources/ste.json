@@ -3,10 +3,31 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-21T04:15:05.662832Z",
-    "total_notices": 102
+    "last_scraped": "2026-05-21T09:54:39.206444Z",
+    "total_notices": 105
   },
   "notices": [
+    {
+      "id": "ste:15586",
+      "source_id": "ste",
+      "title": "关于通信工程学院2025-2026年度先进评选的公示",
+      "url": "https://ste.xidian.edu.cn/info/1145/15586.htm",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "ste:15576",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15576.htm",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "ste:15566",
+      "source_id": "ste",
+      "title": "关于通信工程学院“2026年度党内先进集体和个人”推荐的公示",
+      "url": "https://ste.xidian.edu.cn/info/1145/15566.htm",
+      "date": "2026-05-21"
+    },
     {
       "id": "ste:15556",
       "source_id": "ste",
