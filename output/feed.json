@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-05-20T20:27:46.972964+00:00",
-  "total_notices": 2675,
+  "generated_at": "2026-05-21T04:16:34.214839+00:00",
+  "total_notices": 2677,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15556",
+      "source_id": "ste",
+      "title": "通信工程学院2026年面向香港、澳门、台湾地区招收硕士研究生拟录取名单公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/15556.htm",
+      "date": "2026-05-21",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sai:24972",
+      "source_id": "sai",
+      "title": "人工智能学院2026年（秋季）博士研究生资格审核通过名单及复试时间地点安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/24972.htm",
+      "date": "2026-05-21",
+      "source_name": "人工智能学院"
+    },
     {
       "id": "xdwy:10374",
       "source_id": "xdwy",

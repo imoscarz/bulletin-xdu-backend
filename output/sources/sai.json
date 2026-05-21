@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-20T20:24:30.444673Z",
-    "total_notices": 120
+    "last_scraped": "2026-05-21T04:13:06.344925Z",
+    "total_notices": 121
   },
   "notices": [
+    {
+      "id": "sai:24972",
+      "source_id": "sai",
+      "title": "人工智能学院2026年（秋季）博士研究生资格审核通过名单及复试时间地点安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/24972.htm",
+      "date": "2026-05-21"
+    },
     {
       "id": "sai:24962",
       "source_id": "sai",
