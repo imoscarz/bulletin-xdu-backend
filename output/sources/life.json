@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-22T04:07:45.581502Z",
-    "total_notices": 89
+    "last_scraped": "2026-05-22T09:38:18.325576Z",
+    "total_notices": 90
   },
   "notices": [
+    {
+      "id": "life:17031",
+      "source_id": "life",
+      "title": "关于公布生命科学技术学院2026年秋季博士研究生招生复试成绩的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/17031.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "life:17021",
       "source_id": "life",

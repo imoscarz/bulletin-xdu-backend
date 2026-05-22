@@ -3,10 +3,24 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-22T04:07:21.485916Z",
-    "total_notices": 103
+    "last_scraped": "2026-05-22T09:37:57.730914Z",
+    "total_notices": 105
   },
   "notices": [
+    {
+      "id": "cs:24824",
+      "source_id": "cs",
+      "title": "西安电子科技大学计算机科学与技术学院2026年第二学士学位综合面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24824.htm",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "cs:24814",
+      "source_id": "cs",
+      "title": "西安电子科技大学计算机科学与技术学院2026年第二学士学位初审通过考生名单公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24814.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "cs:24794",
       "source_id": "cs",

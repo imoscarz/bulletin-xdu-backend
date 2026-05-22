@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T04:11:15.649404+00:00",
-  "total_notices": 2694,
+  "generated_at": "2026-05-22T09:41:49.003602+00:00",
+  "total_notices": 2704,
   "content_limit": 5000,
   "notices": [
     {
@@ -28,6 +28,54 @@
       "source_name": "通信工程学院"
     },
     {
+      "id": "soe:16915",
+      "source_id": "soe",
+      "title": "西安电子科技大学光电工程学院2026年秋季攻读博士学位研究生复试录取工作安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/16915.htm",
+      "date": "2026-05-22",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sast:19307",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年（秋季）  博士研究生招生复试与录取工作安排",
+      "url": "https://sast.xidian.edu.cn/info/1014/19307.htm",
+      "date": "2026-05-22",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sai:24992",
+      "source_id": "sai",
+      "title": "人工智能学院2025～2026学年度优秀研究生和优秀研究生干部评优结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/24992.htm",
+      "date": "2026-05-22",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:11103",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260522-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/11103.htm",
+      "date": "2026-05-22",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "life:17031",
+      "source_id": "life",
+      "title": "关于公布生命科学技术学院2026年秋季博士研究生招生复试成绩的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/17031.htm",
+      "date": "2026-05-22",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "jwc:22283",
+      "source_id": "jwc",
+      "title": "关于推荐首批陕西省普通本科高校精品教学资源（教案、课件）的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22283.htm",
+      "date": "2026-05-22",
+      "source_name": "教务处"
+    },
+    {
       "id": "eme:15416",
       "source_id": "eme",
       "title": "关于公示机电工程学院2026年秋季博士考生拟录取名单的通知",
@@ -36,12 +84,36 @@
       "source_name": "机电工程学院"
     },
     {
+      "id": "cs:24824",
+      "source_id": "cs",
+      "title": "西安电子科技大学计算机科学与技术学院2026年第二学士学位综合面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24824.htm",
+      "date": "2026-05-22",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:24814",
+      "source_id": "cs",
+      "title": "西安电子科技大学计算机科学与技术学院2026年第二学士学位初审通过考生名单公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24814.htm",
+      "date": "2026-05-22",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
       "id": "cs:24794",
       "source_id": "cs",
       "title": "计科院2026年秋季博士研究生招生复试综合面试通知",
       "url": "https://cs.xidian.edu.cn/info/1003/24794.htm",
       "date": "2026-05-22",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33902",
+      "source_id": "bksy",
+      "title": "关于推荐首批陕西省普通本科高校精品教学资源（教案...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33902.htm",
+      "date": "2026-05-22",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33892",
@@ -66,6 +138,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/33862.htm",
       "date": "2026-05-22",
       "source_name": "本科生院"
+    },
+    {
+      "id": "ste:15626",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15626.htm",
+      "date": "2026-05-21",
+      "source_name": "通信工程学院"
     },
     {
       "id": "ste:15586",

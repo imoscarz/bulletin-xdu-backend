@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-05-22T04:08:10.482935Z",
-    "total_notices": 102
+    "last_scraped": "2026-05-22T09:38:34.353915Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "sast:19307",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年（秋季）  博士研究生招生复试与录取工作安排",
+      "url": "https://sast.xidian.edu.cn/info/1014/19307.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "sast:19207",
       "source_id": "sast",

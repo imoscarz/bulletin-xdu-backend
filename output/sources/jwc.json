@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-22T04:07:19.045149Z",
-    "total_notices": 82
+    "last_scraped": "2026-05-22T09:37:55.676892Z",
+    "total_notices": 83
   },
   "notices": [
+    {
+      "id": "jwc:22283",
+      "source_id": "jwc",
+      "title": "关于推荐首批陕西省普通本科高校精品教学资源（教案、课件）的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22283.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "jwc:22213",
       "source_id": "jwc",

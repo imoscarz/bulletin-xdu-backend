@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-05-22T04:07:37.346909Z",
-    "total_notices": 46
+    "last_scraped": "2026-05-22T09:38:09.914515Z",
+    "total_notices": 47
   },
   "notices": [
+    {
+      "id": "soe:16915",
+      "source_id": "soe",
+      "title": "西安电子科技大学光电工程学院2026年秋季攻读博士学位研究生复试录取工作安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/16915.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "soe:16905",
       "source_id": "soe",
