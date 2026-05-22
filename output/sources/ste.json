@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-22T09:40:20.693925Z",
-    "total_notices": 108
+    "last_scraped": "2026-05-22T14:51:02.982574Z",
+    "total_notices": 109
   },
   "notices": [
+    {
+      "id": "ste:15636",
+      "source_id": "ste",
+      "title": "通信工程学院关于2026年硕士研究生拟录取考生办理相关录取事宜的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15636.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "ste:15616",
       "source_id": "ste",
