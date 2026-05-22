@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-05-21T20:03:31.126651+00:00",
-  "total_notices": 2686,
+  "generated_at": "2026-05-22T04:11:15.649404+00:00",
+  "total_notices": 2694,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14014",
+      "source_id": "xgc",
+      "title": "第83期大学生党校高级班结业名单公示",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14014.htm",
+      "date": "2026-05-22",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "ste:15616",
+      "source_id": "ste",
+      "title": "西安电子科技大学空间信息与数字技术专业2026年第二学士学位初审通过考生名单公示",
+      "url": "https://ste.xidian.edu.cn/info/1336/15616.htm",
+      "date": "2026-05-22",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:15606",
+      "source_id": "ste",
+      "title": "2026年空间信息与数字技术专业第二学士学位综合面试通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/15606.htm",
+      "date": "2026-05-22",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "eme:15416",
+      "source_id": "eme",
+      "title": "关于公示机电工程学院2026年秋季博士考生拟录取名单的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15416.htm",
+      "date": "2026-05-22",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24794",
+      "source_id": "cs",
+      "title": "计科院2026年秋季博士研究生招生复试综合面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24794.htm",
+      "date": "2026-05-22",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33892",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI赋能专业实践能力提升暨毕业设计...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33892.htm",
+      "date": "2026-05-22",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33882",
+      "source_id": "bksy",
+      "title": "第83期大学生党校高级班结业名单公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33882.htm",
+      "date": "2026-05-22",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33862",
+      "source_id": "bksy",
+      "title": "【教学培训】概率论与数理统计集体备课会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33862.htm",
+      "date": "2026-05-22",
+      "source_name": "本科生院"
+    },
     {
       "id": "ste:15586",
       "source_id": "ste",

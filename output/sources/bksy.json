@@ -3,10 +3,31 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-21T20:00:21.466756Z",
-    "total_notices": 271
+    "last_scraped": "2026-05-22T04:07:59.636417Z",
+    "total_notices": 274
   },
   "notices": [
+    {
+      "id": "bksy:33892",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI赋能专业实践能力提升暨毕业设计...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33892.htm",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "bksy:33882",
+      "source_id": "bksy",
+      "title": "第83期大学生党校高级班结业名单公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33882.htm",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "bksy:33862",
+      "source_id": "bksy",
+      "title": "【教学培训】概率论与数理统计集体备课会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33862.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "bksy:33812",
       "source_id": "bksy",

@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-21T19:59:50.105883Z",
-    "total_notices": 102
+    "last_scraped": "2026-05-22T04:07:21.485916Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "cs:24794",
+      "source_id": "cs",
+      "title": "计科院2026年秋季博士研究生招生复试综合面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24794.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "cs:24784",
       "source_id": "cs",

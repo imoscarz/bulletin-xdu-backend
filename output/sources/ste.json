@@ -3,10 +3,24 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-21T20:02:04.158060Z",
-    "total_notices": 105
+    "last_scraped": "2026-05-22T04:09:48.746768Z",
+    "total_notices": 107
   },
   "notices": [
+    {
+      "id": "ste:15616",
+      "source_id": "ste",
+      "title": "西安电子科技大学空间信息与数字技术专业2026年第二学士学位初审通过考生名单公示",
+      "url": "https://ste.xidian.edu.cn/info/1336/15616.htm",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "ste:15606",
+      "source_id": "ste",
+      "title": "2026年空间信息与数字技术专业第二学士学位综合面试通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/15606.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "ste:15586",
       "source_id": "ste",
