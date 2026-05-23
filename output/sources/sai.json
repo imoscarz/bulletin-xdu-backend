@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-22T19:54:55.906622Z",
-    "total_notices": 122
+    "last_scraped": "2026-05-23T03:45:50.496803Z",
+    "total_notices": 123
   },
   "notices": [
+    {
+      "id": "sai:25032",
+      "source_id": "sai",
+      "title": "西安电子科技大学人工智能学院2026年第二学士学位初审合格考生名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/25032.htm",
+      "date": "2026-05-23"
+    },
     {
       "id": "sai:24992",
       "source_id": "sai",
