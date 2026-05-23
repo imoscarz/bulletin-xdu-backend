@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T13:51:09.299895+00:00",
-  "total_notices": 2709,
+  "generated_at": "2026-05-23T19:22:04.689959+00:00",
+  "total_notices": 2710,
   "content_limit": 5000,
   "notices": [
     {
@@ -18,6 +18,14 @@
       "url": "https://phy.xidian.edu.cn/info/1012/11133.htm",
       "date": "2026-05-23",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "cs:24834",
+      "source_id": "cs",
+      "title": "计科院2026年秋季博士研究生招生复试成绩公布",
+      "url": "https://cs.xidian.edu.cn/info/1003/24834.htm",
+      "date": "2026-05-23",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "xgc:14014",
