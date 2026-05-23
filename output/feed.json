@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T03:49:00.188614+00:00",
-  "total_notices": 2708,
+  "generated_at": "2026-05-23T08:29:04.330807+00:00",
+  "total_notices": 2709,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://sai.xidian.edu.cn/info/1106/25032.htm",
       "date": "2026-05-23",
       "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:11133",
+      "source_id": "phy",
+      "title": "西安电子科技大学物理学院2026年第二学士学位初审通过考生名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11133.htm",
+      "date": "2026-05-23",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "xgc:14014",

@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-23T03:45:39.297465Z",
-    "total_notices": 79
+    "last_scraped": "2026-05-23T08:25:33.132557Z",
+    "total_notices": 80
   },
   "notices": [
+    {
+      "id": "phy:11133",
+      "source_id": "phy",
+      "title": "西安电子科技大学物理学院2026年第二学士学位初审通过考生名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11133.htm",
+      "date": "2026-05-23"
+    },
     {
       "id": "phy:11123",
       "source_id": "phy",
