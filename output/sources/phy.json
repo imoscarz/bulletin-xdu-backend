@@ -3,10 +3,24 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T04:18:05.069184Z",
-    "total_notices": 80
+    "last_scraped": "2026-05-25T10:19:05.631154Z",
+    "total_notices": 82
   },
   "notices": [
+    {
+      "id": "phy:11153",
+      "source_id": "phy",
+      "title": "物理学院关于2025~2026年度先进集体和先进个人评选结果的公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11153.htm",
+      "date": "2026-05-25"
+    },
+    {
+      "id": "phy:11143",
+      "source_id": "phy",
+      "title": "2026年物理学院第二学士学位综合面试通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11143.htm",
+      "date": "2026-05-25"
+    },
     {
       "id": "phy:11133",
       "source_id": "phy",

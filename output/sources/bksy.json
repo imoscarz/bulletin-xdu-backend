@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T04:18:16.997217Z",
-    "total_notices": 276
+    "last_scraped": "2026-05-25T10:19:20.283066Z",
+    "total_notices": 278
   },
   "notices": [
+    {
+      "id": "bksy:33932",
+      "source_id": "bksy",
+      "title": "关于举办2027年第十届中国大学生工程实践与创新能力...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33932.htm",
+      "date": "2026-05-25"
+    },
+    {
+      "id": "bksy:33922",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于批准2026年国际创新实践周企业...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33922.htm",
+      "date": "2026-05-25"
+    },
     {
       "id": "bksy:33912",
       "source_id": "bksy",

@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T04:18:07.196712Z",
-    "total_notices": 110
+    "last_scraped": "2026-05-25T10:19:08.969759Z",
+    "total_notices": 111
   },
   "notices": [
+    {
+      "id": "sem:14581",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年秋季学术学位博士研究生招生复试与录取工作方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/14581.htm",
+      "date": "2026-05-25"
+    },
     {
       "id": "sem:14451",
       "source_id": "sem",

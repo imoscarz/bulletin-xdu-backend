@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-05-25T04:18:06.124197Z",
-    "total_notices": 47
+    "last_scraped": "2026-05-25T10:19:07.182269Z",
+    "total_notices": 48
   },
   "notices": [
+    {
+      "id": "soe:16925",
+      "source_id": "soe",
+      "title": "光电工程学院2026年电子科学与技术专业第二学士学位综合面试通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/16925.htm",
+      "date": "2026-05-25"
+    },
     {
       "id": "soe:16915",
       "source_id": "soe",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T04:21:17.705723+00:00",
-  "total_notices": 2714,
+  "generated_at": "2026-05-25T10:22:36.015168+00:00",
+  "total_notices": 2727,
   "content_limit": 5000,
   "notices": [
     {
@@ -12,12 +12,116 @@
       "source_name": "通信工程学院"
     },
     {
+      "id": "soe:16925",
+      "source_id": "soe",
+      "title": "光电工程学院2026年电子科学与技术专业第二学士学位综合面试通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/16925.htm",
+      "date": "2026-05-25",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sem:14581",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年秋季学术学位博士研究生招生复试与录取工作方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/14581.htm",
+      "date": "2026-05-25",
+      "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sast:19397",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/19397.htm",
+      "date": "2026-05-25",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:19387",
+      "source_id": "sast",
+      "title": "关于开展5月25日-31日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/19387.htm",
+      "date": "2026-05-25",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sai:25062",
+      "source_id": "sai",
+      "title": "人工智能学院2025～2026年度先进集体和先进个人推荐名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/25062.htm",
+      "date": "2026-05-25",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "sai:25052",
+      "source_id": "sai",
+      "title": "2026年度人工智能学院党内先进集体和个人评选表彰推荐名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/25052.htm",
+      "date": "2026-05-25",
+      "source_name": "人工智能学院"
+    },
+    {
       "id": "sai:25002",
       "source_id": "sai",
       "title": "人工智能学院2026届优秀毕业研究生和优秀毕业研究生干部评优结果公示",
       "url": "https://sai.xidian.edu.cn/info/1106/25002.htm",
       "date": "2026-05-25",
       "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:11153",
+      "source_id": "phy",
+      "title": "物理学院关于2025~2026年度先进集体和先进个人评选结果的公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11153.htm",
+      "date": "2026-05-25",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:11143",
+      "source_id": "phy",
+      "title": "2026年物理学院第二学士学位综合面试通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11143.htm",
+      "date": "2026-05-25",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "life:17061",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年秋季博士研究生拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/17061.htm",
+      "date": "2026-05-25",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "eme:15436",
+      "source_id": "eme",
+      "title": "机电工程学院2026年国家一流专业职称专项指标申报名额推荐结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15436.htm",
+      "date": "2026-05-25",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24854",
+      "source_id": "cs",
+      "title": "计科院2026年秋季博士研究生招生拟录取名单（公示）",
+      "url": "https://cs.xidian.edu.cn/info/1003/24854.htm",
+      "date": "2026-05-25",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33932",
+      "source_id": "bksy",
+      "title": "关于举办2027年第十届中国大学生工程实践与创新能力...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33932.htm",
+      "date": "2026-05-25",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33922",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于批准2026年国际创新实践周企业...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33922.htm",
+      "date": "2026-05-25",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33912",
