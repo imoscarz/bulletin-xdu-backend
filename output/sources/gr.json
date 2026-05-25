@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-05-24T19:24:10.950745Z",
-    "total_notices": 116
+    "last_scraped": "2026-05-25T04:18:18.123440Z",
+    "total_notices": 117
   },
   "notices": [
+    {
+      "id": "gr:3971",
+      "source_id": "gr",
+      "title": "国家卓越工程师学院党委2025～2026年度校级优秀共产党员和校级先进个人公示",
+      "url": "https://ncee.xidian.edu.cn/info/1111/3971.htm",
+      "date": "2026-05-22"
+    },
     {
       "id": "gr:3941",
       "source_id": "gr",

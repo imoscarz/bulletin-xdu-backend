@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-05-24T19:27:19.390246+00:00",
-  "total_notices": 2710,
+  "generated_at": "2026-05-25T04:21:17.705723+00:00",
+  "total_notices": 2714,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15646",
+      "source_id": "ste",
+      "title": "通信工程学院2026届毕业研究生评优公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/15646.htm",
+      "date": "2026-05-25",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sai:25002",
+      "source_id": "sai",
+      "title": "人工智能学院2026届优秀毕业研究生和优秀毕业研究生干部评优结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/25002.htm",
+      "date": "2026-05-25",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "bksy:33912",
+      "source_id": "bksy",
+      "title": "关于对2026年春季学期教师教学基本技能培训合格名单...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33912.htm",
+      "date": "2026-05-25",
+      "source_name": "本科生院"
+    },
     {
       "id": "sai:25032",
       "source_id": "sai",
@@ -122,6 +146,14 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/22283.htm",
       "date": "2026-05-22",
       "source_name": "教务处"
+    },
+    {
+      "id": "gr:3971",
+      "source_id": "gr",
+      "title": "国家卓越工程师学院党委2025～2026年度校级优秀共产党员和校级先进个人公示",
+      "url": "https://ncee.xidian.edu.cn/info/1111/3971.htm",
+      "date": "2026-05-22",
+      "source_name": "研究生院"
     },
     {
       "id": "eme:15416",

@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-24T19:25:52.352345Z",
-    "total_notices": 109
+    "last_scraped": "2026-05-25T04:19:52.383117Z",
+    "total_notices": 110
   },
   "notices": [
+    {
+      "id": "ste:15646",
+      "source_id": "ste",
+      "title": "通信工程学院2026届毕业研究生评优公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/15646.htm",
+      "date": "2026-05-25"
+    },
     {
       "id": "ste:15636",
       "source_id": "ste",

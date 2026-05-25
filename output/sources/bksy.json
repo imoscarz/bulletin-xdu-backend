@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-24T19:24:09.352873Z",
-    "total_notices": 275
+    "last_scraped": "2026-05-25T04:18:16.997217Z",
+    "total_notices": 276
   },
   "notices": [
+    {
+      "id": "bksy:33912",
+      "source_id": "bksy",
+      "title": "关于对2026年春季学期教师教学基本技能培训合格名单...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33912.htm",
+      "date": "2026-05-25"
+    },
     {
       "id": "bksy:33902",
       "source_id": "bksy",
