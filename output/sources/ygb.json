@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T15:19:15.199183Z",
-    "total_notices": 79
+    "last_scraped": "2026-05-27T15:58:15.126945Z",
+    "total_notices": 80
   },
   "notices": [
+    {
+      "id": "ygb:11983",
+      "source_id": "ygb",
+      "title": "2026级研究生新生银行卡办理通知（一）",
+      "url": "https://ygb.xidian.edu.cn/info/1036/11983.htm",
+      "date": "2026-05-27"
+    },
     {
       "id": "ygb:11553",
       "source_id": "ygb",

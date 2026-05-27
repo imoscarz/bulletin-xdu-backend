@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-05-27T10:19:35.717252+00:00",
-  "total_notices": 2733,
+  "generated_at": "2026-05-27T15:58:38.673197+00:00",
+  "total_notices": 2765,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:11983",
+      "source_id": "ygb",
+      "title": "2026级研究生新生银行卡办理通知（一）",
+      "url": "https://ygb.xidian.edu.cn/info/1036/11983.htm",
+      "date": "2026-05-27",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "ste:15696",
+      "source_id": "ste",
+      "title": "关于公示通信工程学院2026年秋季博士考生拟录取名单的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15696.htm",
+      "date": "2026-05-27",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:15686",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15686.htm",
+      "date": "2026-05-27",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "soe:16975",
       "source_id": "soe",
@@ -20,12 +44,156 @@
       "source_name": "光电工程学院"
     },
     {
+      "id": "sem:14621",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院2026年一般管理岗位外聘人员招聘公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/14621.htm",
+      "date": "2026-05-27",
+      "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sast:19457",
+      "source_id": "sast",
+      "title": "关于公布空间科学与技术学院2026年秋季博士学位研究生复试成绩的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/19457.htm",
+      "date": "2026-05-27",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sai:25082",
+      "source_id": "sai",
+      "title": "西安电子科技大学人工智能学院2026年第二学士学位招生拟录取名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/25082.htm",
+      "date": "2026-05-27",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "rwxy:17124",
+      "source_id": "rwxy",
+      "title": "人文学院关于2025～2026年度先进集体和先进个人推荐名单的公示",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17124.htm",
+      "date": "2026-05-27",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "phy:11183",
+      "source_id": "phy",
+      "title": "物理学院2026年秋季学术学位博士研究生招生拟录取名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11183.htm",
+      "date": "2026-05-27",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jwc:22313",
+      "source_id": "jwc",
+      "title": "关于做好2025~2026学年第二学期期末考试工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22313.htm",
+      "date": "2026-05-27",
+      "source_name": "教务处"
+    },
+    {
+      "id": "jsfz:11832",
+      "source_id": "jsfz",
+      "title": "【教学培训】 教师教学竞赛能力提升专项培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11832.htm",
+      "date": "2026-05-27",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11822",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】数智时代下思政课教师的四个创新素养",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11822.htm",
+      "date": "2026-05-27",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11812",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】  教学创新的双核驱动——智慧课程和专业引擎构建",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11812.htm",
+      "date": "2026-05-27",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11802",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】教学培训 未来课堂：AI+VR赋能的高校教学新范式",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11802.htm",
+      "date": "2026-05-27",
+      "source_name": "教师发展中心"
+    },
+    {
       "id": "gr:19744",
       "source_id": "gr",
       "title": "关于征集并选送2026年陕西省专业学位研究生教学案例的通知",
       "url": "https://gr.xidian.edu.cn/info/1073/19744.htm",
       "date": "2026-05-27",
       "source_name": "研究生院"
+    },
+    {
+      "id": "eme:15446",
+      "source_id": "eme",
+      "title": "关于公示机电工程学院2026年秋季博士生补录的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15446.htm",
+      "date": "2026-05-27",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:34032",
+      "source_id": "bksy",
+      "title": "【教学培训】 教师教学竞赛能力提升专项培训",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34032.htm",
+      "date": "2026-05-27",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34022",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】数智时代下思政课教师的四个创新素养",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34022.htm",
+      "date": "2026-05-27",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34012",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】  教学创新的双核驱动——智慧课程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34012.htm",
+      "date": "2026-05-27",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34002",
+      "source_id": "bksy",
+      "title": "关于做好2025~2026学年第二学期期末考试工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34002.htm",
+      "date": "2026-05-27",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33972",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】教学培训 未来课堂：AI+VR赋能的高...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33972.htm",
+      "date": "2026-05-27",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "ste:15676",
+      "source_id": "ste",
+      "title": "关于公布通信工程学院2026年秋季博士研究生招生综合面试考核成绩的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15676.htm",
+      "date": "2026-05-26",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:15666",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15666.htm",
+      "date": "2026-05-26",
+      "source_name": "通信工程学院"
     },
     {
       "id": "soe:16945",
@@ -36,12 +204,44 @@
       "source_name": "光电工程学院"
     },
     {
+      "id": "sai:25072",
+      "source_id": "sai",
+      "title": "人工智能领域“卓越·领军”专项计划复试通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/25072.htm",
+      "date": "2026-05-26",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:11173",
+      "source_id": "phy",
+      "title": "关于公布物理学院2026秋季博士研究生复试成绩的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11173.htm",
+      "date": "2026-05-26",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jgrsrc:17878",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年语言文字应用研究高层次人才培养项目的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17878.htm",
+      "date": "2026-05-26",
+      "source_name": "人才招聘"
+    },
+    {
       "id": "imse:6191",
       "source_id": "imse",
       "title": "信息力学与感知工程学院关于2026-2028年度专业技术职务分级副高及以下各级评审结果公示",
       "url": "https://imse.xidian.edu.cn/info/1030/6191.htm",
       "date": "2026-05-26",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "cs:24864",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于对2026年6月申请授位硕士研究生的学位论文进行抽查评估的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24864.htm",
+      "date": "2026-05-26",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "xdwy:10384",
@@ -140,6 +340,14 @@
       "source_name": "生命科学技术学院"
     },
     {
+      "id": "jsfz:11772",
+      "source_id": "jsfz",
+      "title": "关于对2026年春季学期教师教学基本技能培训合格名单及优秀学员名单公示的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11772.htm",
+      "date": "2026-05-25",
+      "source_name": "教师发展中心"
+    },
+    {
       "id": "eme:15436",
       "source_id": "eme",
       "title": "机电工程学院2026年国家一流专业职称专项指标申报名额推荐结果公示",
@@ -178,6 +386,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/33912.htm",
       "date": "2026-05-25",
       "source_name": "本科生院"
+    },
+    {
+      "id": "amn:18332",
+      "source_id": "amn",
+      "title": "关于公布先进材料与纳米科技学院2026年秋季入学博士研究生递补拟录取名单的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/18332.htm",
+      "date": "2026-05-25",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "sai:25032",
@@ -298,6 +514,22 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/22283.htm",
       "date": "2026-05-22",
       "source_name": "教务处"
+    },
+    {
+      "id": "jsfz:11792",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】AI赋能专业实践能力提升暨毕业设计专题研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11792.htm",
+      "date": "2026-05-22",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11782",
+      "source_id": "jsfz",
+      "title": "【教学培训】概率论与数理统计集体备课会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11782.htm",
+      "date": "2026-05-22",
+      "source_name": "教师发展中心"
     },
     {
       "id": "gr:3971",
@@ -586,6 +818,30 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/22213.htm",
       "date": "2026-05-19",
       "source_name": "教务处"
+    },
+    {
+      "id": "jsfz:11742",
+      "source_id": "jsfz",
+      "title": "【教学培训】援疆三年教学工作综合情况分享交流",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11742.htm",
+      "date": "2026-05-19",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11732",
+      "source_id": "jsfz",
+      "title": "【教学培训】语言智能时代背景下的网络安全教学实践与研究前沿",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11732.htm",
+      "date": "2026-05-19",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11712",
+      "source_id": "jsfz",
+      "title": "【教学示范】信号与系统",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11712.htm",
+      "date": "2026-05-19",
+      "source_name": "教师发展中心"
     },
     {
       "id": "jgrsrc:17748",

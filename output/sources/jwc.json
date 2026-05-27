@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T15:18:10.971794Z",
-    "total_notices": 83
+    "last_scraped": "2026-05-27T15:57:06.190861Z",
+    "total_notices": 84
   },
   "notices": [
+    {
+      "id": "jwc:22313",
+      "source_id": "jwc",
+      "title": "关于做好2025~2026学年第二学期期末考试工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22313.htm",
+      "date": "2026-05-27"
+    },
     {
       "id": "jwc:22283",
       "source_id": "jwc",

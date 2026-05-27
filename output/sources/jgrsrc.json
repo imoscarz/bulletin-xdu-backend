@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-05-25T15:18:51.727410Z",
-    "total_notices": 87
+    "last_scraped": "2026-05-27T15:57:49.784858Z",
+    "total_notices": 88
   },
   "notices": [
+    {
+      "id": "jgrsrc:17878",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年语言文字应用研究高层次人才培养项目的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17878.htm",
+      "date": "2026-05-26"
+    },
     {
       "id": "jgrsrc:17748",
       "source_id": "jgrsrc",

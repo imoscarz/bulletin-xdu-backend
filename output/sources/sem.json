@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T15:18:25.052067Z",
-    "total_notices": 111
+    "last_scraped": "2026-05-27T15:57:18.862528Z",
+    "total_notices": 112
   },
   "notices": [
+    {
+      "id": "sem:14621",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院2026年一般管理岗位外聘人员招聘公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/14621.htm",
+      "date": "2026-05-27"
+    },
     {
       "id": "sem:14581",
       "source_id": "sem",

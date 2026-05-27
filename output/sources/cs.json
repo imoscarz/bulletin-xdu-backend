@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T15:18:12.327842Z",
-    "total_notices": 107
+    "last_scraped": "2026-05-27T15:57:08.978341Z",
+    "total_notices": 108
   },
   "notices": [
+    {
+      "id": "cs:24864",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于对2026年6月申请授位硕士研究生的学位论文进行抽查评估的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24864.htm",
+      "date": "2026-05-26"
+    },
     {
       "id": "cs:24854",
       "source_id": "cs",

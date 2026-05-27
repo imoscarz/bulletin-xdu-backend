@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-05-25T15:18:56.495434Z",
-    "total_notices": 105
+    "last_scraped": "2026-05-27T15:57:55.891808Z",
+    "total_notices": 106
   },
   "notices": [
+    {
+      "id": "sast:19457",
+      "source_id": "sast",
+      "title": "关于公布空间科学与技术学院2026年秋季博士学位研究生复试成绩的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/19457.htm",
+      "date": "2026-05-27"
+    },
     {
       "id": "sast:19397",
       "source_id": "sast",

@@ -3,10 +3,80 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-15T03:57:14.577160Z",
-    "total_notices": 60
+    "last_scraped": "2026-05-27T15:58:21.673746Z",
+    "total_notices": 70
   },
   "notices": [
+    {
+      "id": "jsfz:11832",
+      "source_id": "jsfz",
+      "title": "【教学培训】 教师教学竞赛能力提升专项培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11832.htm",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "jsfz:11822",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】数智时代下思政课教师的四个创新素养",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11822.htm",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "jsfz:11812",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】  教学创新的双核驱动——智慧课程和专业引擎构建",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11812.htm",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "jsfz:11802",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】教学培训 未来课堂：AI+VR赋能的高校教学新范式",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11802.htm",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "jsfz:11772",
+      "source_id": "jsfz",
+      "title": "关于对2026年春季学期教师教学基本技能培训合格名单及优秀学员名单公示的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11772.htm",
+      "date": "2026-05-25"
+    },
+    {
+      "id": "jsfz:11792",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】AI赋能专业实践能力提升暨毕业设计专题研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11792.htm",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "jsfz:11782",
+      "source_id": "jsfz",
+      "title": "【教学培训】概率论与数理统计集体备课会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11782.htm",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "jsfz:11742",
+      "source_id": "jsfz",
+      "title": "【教学培训】援疆三年教学工作综合情况分享交流",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11742.htm",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "jsfz:11732",
+      "source_id": "jsfz",
+      "title": "【教学培训】语言智能时代背景下的网络安全教学实践与研究前沿",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11732.htm",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "jsfz:11712",
+      "source_id": "jsfz",
+      "title": "【教学示范】信号与系统",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11712.htm",
+      "date": "2026-05-19"
+    },
     {
       "id": "jsfz:11692",
       "source_id": "jsfz",

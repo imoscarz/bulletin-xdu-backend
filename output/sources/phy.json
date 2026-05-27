@@ -3,10 +3,24 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T15:18:19.791216Z",
-    "total_notices": 82
+    "last_scraped": "2026-05-27T15:57:14.659931Z",
+    "total_notices": 84
   },
   "notices": [
+    {
+      "id": "phy:11183",
+      "source_id": "phy",
+      "title": "物理学院2026年秋季学术学位博士研究生招生拟录取名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11183.htm",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "phy:11173",
+      "source_id": "phy",
+      "title": "关于公布物理学院2026秋季博士研究生复试成绩的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11173.htm",
+      "date": "2026-05-26"
+    },
     {
       "id": "phy:11153",
       "source_id": "phy",

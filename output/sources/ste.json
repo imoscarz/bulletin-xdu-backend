@@ -3,10 +3,38 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T15:20:41.201927Z",
-    "total_notices": 110
+    "last_scraped": "2026-05-27T15:58:23.385362Z",
+    "total_notices": 114
   },
   "notices": [
+    {
+      "id": "ste:15696",
+      "source_id": "ste",
+      "title": "关于公示通信工程学院2026年秋季博士考生拟录取名单的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15696.htm",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "ste:15686",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15686.htm",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "ste:15676",
+      "source_id": "ste",
+      "title": "关于公布通信工程学院2026年秋季博士研究生招生综合面试考核成绩的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15676.htm",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "ste:15666",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15666.htm",
+      "date": "2026-05-26"
+    },
     {
       "id": "ste:15646",
       "source_id": "ste",

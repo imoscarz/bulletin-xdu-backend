@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-05-25T15:18:53.902847Z",
-    "total_notices": 135
+    "last_scraped": "2026-05-27T15:57:52.961165Z",
+    "total_notices": 136
   },
   "notices": [
+    {
+      "id": "eme:15446",
+      "source_id": "eme",
+      "title": "关于公示机电工程学院2026年秋季博士生补录的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15446.htm",
+      "date": "2026-05-27"
+    },
     {
       "id": "eme:15436",
       "source_id": "eme",

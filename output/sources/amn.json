@@ -3,10 +3,17 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-25T15:18:36.996992Z",
-    "total_notices": 86
+    "last_scraped": "2026-05-27T15:57:35.796965Z",
+    "total_notices": 87
   },
   "notices": [
+    {
+      "id": "amn:18332",
+      "source_id": "amn",
+      "title": "关于公布先进材料与纳米科技学院2026年秋季入学博士研究生递补拟录取名单的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/18332.htm",
+      "date": "2026-05-25"
+    },
     {
       "id": "amn:18132",
       "source_id": "amn",
