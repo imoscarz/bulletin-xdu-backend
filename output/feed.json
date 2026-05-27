@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-05-26T20:40:27.645560+00:00",
-  "total_notices": 2729,
+  "generated_at": "2026-05-27T04:33:18.321647+00:00",
+  "total_notices": 2730,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "gr:19744",
+      "source_id": "gr",
+      "title": "关于征集并选送2026年陕西省专业学位研究生教学案例的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/19744.htm",
+      "date": "2026-05-27",
+      "source_name": "研究生院"
+    },
     {
       "id": "imse:6191",
       "source_id": "imse",
