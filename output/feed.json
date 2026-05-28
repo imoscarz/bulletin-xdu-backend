@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-05-27T20:25:08.439864+00:00",
-  "total_notices": 2765,
+  "generated_at": "2026-05-28T04:06:11.352484+00:00",
+  "total_notices": 2769,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15726",
+      "source_id": "ste",
+      "title": "西安电子科技大学空间信息与数字技术专业  2026年第二学士学位招生拟录取名单公示",
+      "url": "https://ste.xidian.edu.cn/info/1336/15726.htm",
+      "date": "2026-05-28",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "phy:11193",
+      "source_id": "phy",
+      "title": "西安电子科技大学物理学院2026年第二学士学位招生拟录取名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11193.htm",
+      "date": "2026-05-28",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "hqbzb:8066",
+      "source_id": "hqbzb",
+      "title": "关于2025~2026年度校级先进集体和先进个人推荐名单的公示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8066.htm",
+      "date": "2026-05-28",
+      "source_name": "后勤保障部"
+    },
+    {
+      "id": "bksy:34042",
+      "source_id": "bksy",
+      "title": "关于我校学生加入外校队伍参与第十五届“挑战杯”甘...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34042.htm",
+      "date": "2026-05-28",
+      "source_name": "本科生院"
+    },
     {
       "id": "ygb:11983",
       "source_id": "ygb",

@@ -3,10 +3,17 @@
     "source_id": "hqbzb",
     "name": "后勤保障部",
     "url": "https://hqbzb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-27T20:25:03.361566Z",
-    "total_notices": 81
+    "last_scraped": "2026-05-28T04:06:01.206818Z",
+    "total_notices": 82
   },
   "notices": [
+    {
+      "id": "hqbzb:8066",
+      "source_id": "hqbzb",
+      "title": "关于2025~2026年度校级先进集体和先进个人推荐名单的公示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8066.htm",
+      "date": "2026-05-28"
+    },
     {
       "id": "hqbzb:8056",
       "source_id": "hqbzb",
