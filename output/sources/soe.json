@@ -3,10 +3,45 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-05-28T04:05:23.910142Z",
-    "total_notices": 51
+    "last_scraped": "2026-05-28T10:13:14.893184Z",
+    "total_notices": 56
   },
   "notices": [
+    {
+      "id": "soe:17025",
+      "source_id": "soe",
+      "title": "光电工程学院关于2026～2028年度专业技术职务副高及以下各级评审结果公示的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17025.htm",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "soe:17015",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260528-4",
+      "url": "https://soe.xidian.edu.cn/info/1095/17015.htm",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "soe:17005",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260528-3",
+      "url": "https://soe.xidian.edu.cn/info/1095/17005.htm",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "soe:16995",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260528-2",
+      "url": "https://soe.xidian.edu.cn/info/1095/16995.htm",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "soe:16985",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260528-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/16985.htm",
+      "date": "2026-05-28"
+    },
     {
       "id": "soe:16975",
       "source_id": "soe",

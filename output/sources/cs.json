@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-28T04:05:15.722050Z",
-    "total_notices": 108
+    "last_scraped": "2026-05-28T10:13:06.043627Z",
+    "total_notices": 109
   },
   "notices": [
+    {
+      "id": "cs:24884",
+      "source_id": "cs",
+      "title": "西安电子科技大学软件工程专业2026年 第二学士学位招生拟录取名单公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24884.htm",
+      "date": "2026-05-28"
+    },
     {
       "id": "cs:24864",
       "source_id": "cs",

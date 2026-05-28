@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-05-28T04:05:39.586104Z",
-    "total_notices": 118
+    "last_scraped": "2026-05-28T10:13:29.159630Z",
+    "total_notices": 119
   },
   "notices": [
+    {
+      "id": "gr:3981",
+      "source_id": "gr",
+      "title": "关于开展西安电子科技大学2026年度卓越工程师专项教育教学改革项目申报工作的通知",
+      "url": "https://ncee.xidian.edu.cn/info/1111/3981.htm",
+      "date": "2026-05-28"
+    },
     {
       "id": "gr:19744",
       "source_id": "gr",
