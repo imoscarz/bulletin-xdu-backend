@@ -3,10 +3,31 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-29T04:08:00.908510Z",
-    "total_notices": 284
+    "last_scraped": "2026-05-29T10:02:32.557097Z",
+    "total_notices": 287
   },
   "notices": [
+    {
+      "id": "bksy:34082",
+      "source_id": "bksy",
+      "title": "关于开展2025级本科生大类专业分流学业评价综合素质...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34082.htm",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "bksy:34072",
+      "source_id": "bksy",
+      "title": "【教学培训】如何上好线性代数",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34072.htm",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "bksy:34062",
+      "source_id": "bksy",
+      "title": "关于2026“外研社·国才杯”“理解当代中国”全国大学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34062.htm",
+      "date": "2026-05-28"
+    },
     {
       "id": "bksy:34042",
       "source_id": "bksy",

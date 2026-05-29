@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-05-29T04:07:52.019907Z",
-    "total_notices": 56
+    "last_scraped": "2026-05-29T10:02:20.765217Z",
+    "total_notices": 57
   },
   "notices": [
+    {
+      "id": "soe:17035",
+      "source_id": "soe",
+      "title": "【2026博士招生】关于公布光电工程学院2026年秋季博士研究生招生复试成绩的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17035.htm",
+      "date": "2026-05-29"
+    },
     {
       "id": "soe:17025",
       "source_id": "soe",

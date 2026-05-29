@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-05-29T04:08:25.009301+00:00",
-  "total_notices": 2783,
+  "generated_at": "2026-05-29T10:03:04.520520+00:00",
+  "total_notices": 2790,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14064",
+      "source_id": "xgc",
+      "title": "关于开展2025级本科生大类专业分流学业评价综合素质测评工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14064.htm",
+      "date": "2026-05-29",
+      "source_name": "学生工作处"
+    },
     {
       "id": "xdwy:10414",
       "source_id": "xdwy",
@@ -12,12 +20,52 @@
       "source_name": "网络与继续教育学院"
     },
     {
+      "id": "ste:15756",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15756.htm",
+      "date": "2026-05-29",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17035",
+      "source_id": "soe",
+      "title": "【2026博士招生】关于公布光电工程学院2026年秋季博士研究生招生复试成绩的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17035.htm",
+      "date": "2026-05-29",
+      "source_name": "光电工程学院"
+    },
+    {
       "id": "phy:11233",
       "source_id": "phy",
       "title": "科研协作项目公示信息20260629-1",
       "url": "https://phy.xidian.edu.cn/info/1012/11233.htm",
       "date": "2026-05-29",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jsfz:11842",
+      "source_id": "jsfz",
+      "title": "【教学培训】如何上好线性代数",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11842.htm",
+      "date": "2026-05-29",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:34082",
+      "source_id": "bksy",
+      "title": "关于开展2025级本科生大类专业分流学业评价综合素质...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34082.htm",
+      "date": "2026-05-29",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34072",
+      "source_id": "bksy",
+      "title": "【教学培训】如何上好线性代数",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34072.htm",
+      "date": "2026-05-29",
+      "source_name": "本科生院"
     },
     {
       "id": "ste:15746",
@@ -138,6 +186,14 @@
       "url": "https://cs.xidian.edu.cn/info/1003/24884.htm",
       "date": "2026-05-28",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:34062",
+      "source_id": "bksy",
+      "title": "关于2026“外研社·国才杯”“理解当代中国”全国大学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34062.htm",
+      "date": "2026-05-28",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:34042",

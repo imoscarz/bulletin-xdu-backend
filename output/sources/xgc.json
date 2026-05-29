@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-05-29T04:07:59.702805Z",
-    "total_notices": 111
+    "last_scraped": "2026-05-29T10:02:30.465005Z",
+    "total_notices": 112
   },
   "notices": [
+    {
+      "id": "xgc:14064",
+      "source_id": "xgc",
+      "title": "关于开展2025级本科生大类专业分流学业评价综合素质测评工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14064.htm",
+      "date": "2026-05-29"
+    },
     {
       "id": "xgc:14014",
       "source_id": "xgc",

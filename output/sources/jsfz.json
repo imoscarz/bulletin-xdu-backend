@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-05-29T04:08:17.076835Z",
-    "total_notices": 70
+    "last_scraped": "2026-05-29T10:02:55.169841Z",
+    "total_notices": 71
   },
   "notices": [
+    {
+      "id": "jsfz:11842",
+      "source_id": "jsfz",
+      "title": "【教学培训】如何上好线性代数",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11842.htm",
+      "date": "2026-05-29"
+    },
     {
       "id": "jsfz:11832",
       "source_id": "jsfz",
