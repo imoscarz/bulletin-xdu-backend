@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-05-28T20:30:24.529949Z",
-    "total_notices": 136
+    "last_scraped": "2026-05-29T04:08:05.885361Z",
+    "total_notices": 137
   },
   "notices": [
+    {
+      "id": "eme:15476",
+      "source_id": "eme",
+      "title": "科研协作项目公示20260528",
+      "url": "https://eme.xidian.edu.cn/info/1012/15476.htm",
+      "date": "2026-05-28"
+    },
     {
       "id": "eme:15446",
       "source_id": "eme",

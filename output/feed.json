@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-05-28T20:30:48.463984+00:00",
-  "total_notices": 2780,
+  "generated_at": "2026-05-29T04:08:25.009301+00:00",
+  "total_notices": 2783,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10414",
+      "source_id": "xdwy",
+      "title": "关于西安电子科技大学2026年高等学历继续教育本科毕业生学士学位申请的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10414.htm",
+      "date": "2026-05-29",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "phy:11233",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260629-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/11233.htm",
+      "date": "2026-05-29",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "ste:15746",
       "source_id": "ste",
@@ -106,6 +122,14 @@
       "url": "https://ncee.xidian.edu.cn/info/1111/3981.htm",
       "date": "2026-05-28",
       "source_name": "研究生院"
+    },
+    {
+      "id": "eme:15476",
+      "source_id": "eme",
+      "title": "科研协作项目公示20260528",
+      "url": "https://eme.xidian.edu.cn/info/1012/15476.htm",
+      "date": "2026-05-28",
+      "source_name": "机电工程学院"
     },
     {
       "id": "cs:24884",
