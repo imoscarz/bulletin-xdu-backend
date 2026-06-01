@@ -3,10 +3,24 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-01T04:47:51.075167Z",
-    "total_notices": 84
+    "last_scraped": "2026-06-01T11:45:19.936078Z",
+    "total_notices": 86
   },
   "notices": [
+    {
+      "id": "jwc:22393",
+      "source_id": "jwc",
+      "title": "关于2025级大类专业分流有关工作安排的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22393.htm",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "jwc:22373",
+      "source_id": "jwc",
+      "title": "2026年6月13日全国大学英语四六级考试考生须知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22373.htm",
+      "date": "2026-06-01"
+    },
     {
       "id": "jwc:22313",
       "source_id": "jwc",

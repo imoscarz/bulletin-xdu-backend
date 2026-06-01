@@ -3,10 +3,24 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-06-01T04:48:32.433027Z",
-    "total_notices": 106
+    "last_scraped": "2026-06-01T11:45:58.456802Z",
+    "total_notices": 108
   },
   "notices": [
+    {
+      "id": "sast:19667",
+      "source_id": "sast",
+      "title": "关于公布空间科学与技术学院2026年秋季博士学位研究生拟录取名单的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/19667.htm",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "sast:19597",
+      "source_id": "sast",
+      "title": "关于对空间科学与技术学院团员发展对象人选进行公示的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/19597.htm",
+      "date": "2026-06-01"
+    },
     {
       "id": "sast:19457",
       "source_id": "sast",

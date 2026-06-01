@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-06-01T04:48:30.738937Z",
-    "total_notices": 137
+    "last_scraped": "2026-06-01T11:45:52.956110Z",
+    "total_notices": 138
   },
   "notices": [
+    {
+      "id": "eme:15516",
+      "source_id": "eme",
+      "title": "机电工程学院关于2026～2028年度专业技术职务副高及以下各级评审结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15516.htm",
+      "date": "2026-06-01"
+    },
     {
       "id": "eme:15476",
       "source_id": "eme",

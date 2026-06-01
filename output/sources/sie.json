@@ -3,10 +3,17 @@
     "source_id": "sie",
     "name": "国际教育学院",
     "url": "https://sie.xidian.edu.cn/sy/tzgg.htm",
-    "last_scraped": "2026-06-01T04:49:07.825537Z",
-    "total_notices": 65
+    "last_scraped": "2026-06-01T11:46:16.116409Z",
+    "total_notices": 66
   },
   "notices": [
+    {
+      "id": "sie:7505",
+      "source_id": "sie",
+      "title": "西安电子科技大学来华留学课程建设项目拟资助名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/7505.htm",
+      "date": "2026-06-01"
+    },
     {
       "id": "sie:7365",
       "source_id": "sie",
