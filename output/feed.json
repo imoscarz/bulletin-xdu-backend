@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T11:46:18.327249+00:00",
-  "total_notices": 2809,
+  "generated_at": "2026-06-01T17:52:28.447477+00:00",
+  "total_notices": 2821,
   "content_limit": 5000,
   "notices": [
     {
@@ -148,6 +148,14 @@
       "source_name": "先进材料与纳米科技学院"
     },
     {
+      "id": "sme:3566",
+      "source_id": "sme",
+      "title": "集成电路学部团委关于确定发展对象人选的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2026/0601/3566.html",
+      "date": "2026-05-31",
+      "source_name": "集成电路学部"
+    },
+    {
       "id": "sem:14661",
       "source_id": "sem",
       "title": "关于公布经济与管理学院2025年秋季博士招生复试成绩的通知",
@@ -282,6 +290,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16985.htm",
       "date": "2026-05-28",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3564",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026-2028年度专业技术职务副高及以下各级评审结果公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0528/3564.html",
+      "date": "2026-05-28",
+      "source_name": "集成电路学部"
     },
     {
       "id": "phy:11213",
@@ -556,6 +572,22 @@
       "source_name": "光电工程学院"
     },
     {
+      "id": "sme:3561",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0526/3561.html",
+      "date": "2026-05-26",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3560",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0526/3560.html",
+      "date": "2026-05-26",
+      "source_name": "集成电路学部"
+    },
+    {
       "id": "sai:25072",
       "source_id": "sai",
       "title": "人工智能领域“卓越·领军”专项计划复试通知",
@@ -618,6 +650,22 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16925.htm",
       "date": "2026-05-25",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3558",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0525/3558.html",
+      "date": "2026-05-25",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3557",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0525/3557.html",
+      "date": "2026-05-25",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sem:14581",
@@ -812,6 +860,38 @@
       "source_name": "光电工程学院"
     },
     {
+      "id": "sme:3553",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0525/3553.html",
+      "date": "2026-05-22",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3552",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0522/3552.html",
+      "date": "2026-05-22",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3551",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0522/3551.html",
+      "date": "2026-05-22",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3550",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026-2028年度专业技术职务分级申报材料公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0522/3550.html",
+      "date": "2026-05-22",
+      "source_name": "集成电路学部"
+    },
+    {
       "id": "sast:19307",
       "source_id": "sast",
       "title": "空间科学与技术学院2026年（秋季）  博士研究生招生复试与录取工作安排",
@@ -1002,6 +1082,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16905.htm",
       "date": "2026-05-21",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3549",
+      "source_id": "sme",
+      "title": "关于集成电路学部2026届本科生毕业设计（论文）后期工作安排的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0521/3549.html",
+      "date": "2026-05-21",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sai:24972",
@@ -1450,6 +1538,14 @@
       "url": "https://ste.xidian.edu.cn/info/1338/15456.htm",
       "date": "2026-05-15",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3544",
+      "source_id": "sme",
+      "title": "关于公布集成电路学部2026年（22级）本科生毕业设计（论文）盲审结果及处理意见的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0515/3544.html",
+      "date": "2026-05-15",
+      "source_name": "集成电路学部"
     },
     {
       "id": "see:103691",
