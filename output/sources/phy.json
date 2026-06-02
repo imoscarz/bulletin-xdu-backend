@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-01T21:38:31.983400Z",
-    "total_notices": 88
+    "last_scraped": "2026-06-02T04:27:04.240837Z",
+    "total_notices": 89
   },
   "notices": [
+    {
+      "id": "phy:11283",
+      "source_id": "phy",
+      "title": "物理学院2026年研究生指导教师资格认定评审通过名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11283.htm",
+      "date": "2026-06-02"
+    },
     {
       "id": "phy:11233",
       "source_id": "phy",
