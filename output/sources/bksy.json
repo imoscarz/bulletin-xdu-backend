@@ -3,10 +3,38 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-02T04:27:21.216551Z",
-    "total_notices": 292
+    "last_scraped": "2026-06-02T10:45:36.820025Z",
+    "total_notices": 296
   },
   "notices": [
+    {
+      "id": "bksy:34182",
+      "source_id": "bksy",
+      "title": "【教学培训】工程图学数字化教学改革研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34182.htm",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "bksy:34172",
+      "source_id": "bksy",
+      "title": "【教学示范】高等数学",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34172.htm",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "bksy:34162",
+      "source_id": "bksy",
+      "title": "【教学培训】模拟电路基础课程在光电设计大赛中的应用",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34162.htm",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "bksy:34152",
+      "source_id": "bksy",
+      "title": "【教学培训】国际泳联最新规则介绍及游泳技术提升",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34152.htm",
+      "date": "2026-06-02"
+    },
     {
       "id": "bksy:34142",
       "source_id": "bksy",

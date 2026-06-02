@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-06-02T04:28:24.947845+00:00",
-  "total_notices": 2824,
+  "generated_at": "2026-06-02T10:46:22.868197+00:00",
+  "total_notices": 2835,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15786",
+      "source_id": "ste",
+      "title": "通信工程学院关于2026-2028年度专业技术职务分级副高及以下各级评审结果公示",
+      "url": "https://ste.xidian.edu.cn/info/1435/15786.htm",
+      "date": "2026-06-02",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "see:103821",
       "source_id": "see",
@@ -20,12 +28,84 @@
       "source_name": "人工智能学院"
     },
     {
+      "id": "rwxy:17194",
+      "source_id": "rwxy",
+      "title": "人文学院工作简讯2026年第3期",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17194.htm",
+      "date": "2026-06-02",
+      "source_name": "人文学院"
+    },
+    {
       "id": "phy:11283",
       "source_id": "phy",
       "title": "物理学院2026年研究生指导教师资格认定评审通过名单公示",
       "url": "https://phy.xidian.edu.cn/info/1012/11283.htm",
       "date": "2026-06-02",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jsfz:11892",
+      "source_id": "jsfz",
+      "title": "【教学培训】工程图学数字化教学改革研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11892.htm",
+      "date": "2026-06-02",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11882",
+      "source_id": "jsfz",
+      "title": "【教学示范】高等数学",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11882.htm",
+      "date": "2026-06-02",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11872",
+      "source_id": "jsfz",
+      "title": "【教学培训】模拟电路基础课程在光电设计大赛中的应用",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11872.htm",
+      "date": "2026-06-02",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11862",
+      "source_id": "jsfz",
+      "title": "【教学培训】国际泳联最新规则介绍及游泳技术提升",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11862.htm",
+      "date": "2026-06-02",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:34182",
+      "source_id": "bksy",
+      "title": "【教学培训】工程图学数字化教学改革研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34182.htm",
+      "date": "2026-06-02",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34172",
+      "source_id": "bksy",
+      "title": "【教学示范】高等数学",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34172.htm",
+      "date": "2026-06-02",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34162",
+      "source_id": "bksy",
+      "title": "【教学培训】模拟电路基础课程在光电设计大赛中的应用",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34162.htm",
+      "date": "2026-06-02",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34152",
+      "source_id": "bksy",
+      "title": "【教学培训】国际泳联最新规则介绍及游泳技术提升",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34152.htm",
+      "date": "2026-06-02",
+      "source_name": "本科生院"
     },
     {
       "id": "soe:17065",
@@ -162,6 +242,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/34102.htm",
       "date": "2026-06-01",
       "source_name": "本科生院"
+    },
+    {
+      "id": "amn:18542",
+      "source_id": "amn",
+      "title": "关于公布先进材料与纳米科技学院2026年秋季入学博士研究生递补拟录取名单的通知（第二次）",
+      "url": "https://amn.xidian.edu.cn/info/1013/18542.htm",
+      "date": "2026-06-01",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "amn:18432",

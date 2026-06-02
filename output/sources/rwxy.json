@@ -3,10 +3,17 @@
     "source_id": "rwxy",
     "name": "人文学院",
     "url": "https://rwxy.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-06-02T04:27:38.982083Z",
-    "total_notices": 64
+    "last_scraped": "2026-06-02T10:45:49.740797Z",
+    "total_notices": 65
   },
   "notices": [
+    {
+      "id": "rwxy:17194",
+      "source_id": "rwxy",
+      "title": "人文学院工作简讯2026年第3期",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17194.htm",
+      "date": "2026-06-02"
+    },
     {
       "id": "rwxy:17124",
       "source_id": "rwxy",

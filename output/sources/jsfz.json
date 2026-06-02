@@ -3,10 +3,38 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-02T04:27:56.029861Z",
-    "total_notices": 72
+    "last_scraped": "2026-06-02T10:46:06.073301Z",
+    "total_notices": 76
   },
   "notices": [
+    {
+      "id": "jsfz:11892",
+      "source_id": "jsfz",
+      "title": "【教学培训】工程图学数字化教学改革研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11892.htm",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "jsfz:11882",
+      "source_id": "jsfz",
+      "title": "【教学示范】高等数学",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11882.htm",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "jsfz:11872",
+      "source_id": "jsfz",
+      "title": "【教学培训】模拟电路基础课程在光电设计大赛中的应用",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11872.htm",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "jsfz:11862",
+      "source_id": "jsfz",
+      "title": "【教学培训】国际泳联最新规则介绍及游泳技术提升",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11862.htm",
+      "date": "2026-06-02"
+    },
     {
       "id": "jsfz:11852",
       "source_id": "jsfz",
