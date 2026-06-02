@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-06-02T10:46:22.851256Z",
-    "total_notices": 160
+    "last_scraped": "2026-06-02T16:44:35.162033Z",
+    "total_notices": 161
   },
   "notices": [
+    {
+      "id": "sme:3567",
+      "source_id": "sme",
+      "title": "集成电路学部关于非教师准聘人员中期考核结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0602/3567.html",
+      "date": "2026-06-02"
+    },
     {
       "id": "sme:3566",
       "source_id": "sme",
