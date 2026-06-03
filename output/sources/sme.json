@@ -3,16 +3,58 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-06-03T04:47:14.579017Z",
-    "total_notices": 161
+    "last_scraped": "2026-06-03T11:09:44.808968Z",
+    "total_notices": 167
   },
   "notices": [
+    {
+      "id": "sme:3579",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0603/3579.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "sme:3577",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0603/3577.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "sme:3575",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026年度学校党内评优推荐名单的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2026/0603/3575.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "sme:3574",
+      "source_id": "sme",
+      "title": "集成电路学部关于2025-2026年度校级先进集体、先进个人推荐名单的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2026/0603/3574.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "sme:3573",
+      "source_id": "sme",
+      "title": "集成电路学部关于2025-2026年度校级先进集体、先进个人推荐名单的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2026/0603/3573.html",
+      "date": "2026-06-03"
+    },
     {
       "id": "sme:3567",
       "source_id": "sme",
       "title": "集成电路学部关于非教师准聘人员中期考核结果的公示",
       "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0602/3567.html",
       "date": "2026-06-02"
+    },
+    {
+      "id": "sme:3578",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0603/3578.html",
+      "date": "2026-06-01"
     },
     {
       "id": "sme:3566",

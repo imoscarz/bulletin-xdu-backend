@@ -3,10 +3,24 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-03T04:46:26.030135Z",
-    "total_notices": 113
+    "last_scraped": "2026-06-03T11:09:02.677422Z",
+    "total_notices": 115
   },
   "notices": [
+    {
+      "id": "sem:14741",
+      "source_id": "sem",
+      "title": "西北信息资源管理、图书情报教育与产业联盟成立大会暨2026年第八届陕西信息资源研究中心论坛会议通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/14741.htm",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "sem:14731",
+      "source_id": "sem",
+      "title": "第五届中国研究生金融科技创新大赛预报名通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/14731.htm",
+      "date": "2026-06-03"
+    },
     {
       "id": "sem:14661",
       "source_id": "sem",

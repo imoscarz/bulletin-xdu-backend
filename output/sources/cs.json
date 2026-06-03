@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-03T04:46:05.272662Z",
-    "total_notices": 109
+    "last_scraped": "2026-06-03T11:08:53.002038Z",
+    "total_notices": 110
   },
   "notices": [
+    {
+      "id": "cs:24924",
+      "source_id": "cs",
+      "title": "第三届中国研究生操作系统开源创新大赛校内赛通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24924.htm",
+      "date": "2026-06-03"
+    },
     {
       "id": "cs:24884",
       "source_id": "cs",
