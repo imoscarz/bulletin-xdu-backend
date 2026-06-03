@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-02T20:56:01.110673Z",
-    "total_notices": 80
+    "last_scraped": "2026-06-03T04:46:49.928061Z",
+    "total_notices": 81
   },
   "notices": [
+    {
+      "id": "ygb:12043",
+      "source_id": "ygb",
+      "title": "关于开展2026年西安电子科技大学双创资助项目（研究生）立项工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/12043.htm",
+      "date": "2026-06-03"
+    },
     {
       "id": "ygb:11983",
       "source_id": "ygb",

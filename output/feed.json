@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-06-02T20:56:19.161862+00:00",
-  "total_notices": 2836,
+  "generated_at": "2026-06-03T04:47:14.596009+00:00",
+  "total_notices": 2840,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:12043",
+      "source_id": "ygb",
+      "title": "关于开展2026年西安电子科技大学双创资助项目（研究生）立项工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/12043.htm",
+      "date": "2026-06-03",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "sai:25122",
+      "source_id": "sai",
+      "title": "人工智能学院2026年研究生指导教师资格认定与首次聘任名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/25122.htm",
+      "date": "2026-06-03",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "rwxy:17224",
+      "source_id": "rwxy",
+      "title": "人文学院2026年研究生指导教师资格认定名单公示",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17224.htm",
+      "date": "2026-06-03",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "imse:6261",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年秋季博士研究生拟录取名单公示",
+      "url": "https://imse.xidian.edu.cn/info/1030/6261.htm",
+      "date": "2026-06-03",
+      "source_name": "信息力学与感知工程学院"
+    },
     {
       "id": "ste:15786",
       "source_id": "ste",
