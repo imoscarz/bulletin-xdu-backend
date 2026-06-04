@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-06-04T04:40:51.893100Z",
-    "total_notices": 60
+    "last_scraped": "2026-06-04T10:03:37.551528Z",
+    "total_notices": 61
   },
   "notices": [
+    {
+      "id": "soe:17145",
+      "source_id": "soe",
+      "title": "2026年光电工程学院研究生导师资格认定通过名单公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/17145.htm",
+      "date": "2026-06-04"
+    },
     {
       "id": "soe:17115",
       "source_id": "soe",

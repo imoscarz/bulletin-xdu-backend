@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-06-04T04:42:53.716832+00:00",
-  "total_notices": 2851,
+  "generated_at": "2026-06-04T10:04:41.458048+00:00",
+  "total_notices": 2859,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15796",
+      "source_id": "ste",
+      "title": "关于做好通信工程学院2026年上半年研究生学位论文开题和中期考核工作的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15796.htm",
+      "date": "2026-06-04",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17145",
+      "source_id": "soe",
+      "title": "2026年光电工程学院研究生导师资格认定通过名单公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/17145.htm",
+      "date": "2026-06-04",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "math:23212",
+      "source_id": "math",
+      "title": "关于对数学与统计学院2026年秋季博士研究生杨子璇复试成绩的更正说明",
+      "url": "https://math.xidian.edu.cn/info/1020/23212.htm",
+      "date": "2026-06-04",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "eme:15596",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260604-3",
+      "url": "https://eme.xidian.edu.cn/info/1012/15596.htm",
+      "date": "2026-06-04",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:15586",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260604-2",
+      "url": "https://eme.xidian.edu.cn/info/1012/15586.htm",
+      "date": "2026-06-04",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:15576",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260604-1",
+      "url": "https://eme.xidian.edu.cn/info/1012/15576.htm",
+      "date": "2026-06-04",
+      "source_name": "机电工程学院"
+    },
     {
       "id": "ygb:12043",
       "source_id": "ygb",
@@ -114,6 +162,14 @@
       "url": "https://cs.xidian.edu.cn/info/1003/24924.htm",
       "date": "2026-06-03",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "amn:18562",
+      "source_id": "amn",
+      "title": "2026年学校党委第一轮巡察第一巡察组结束现场巡察工作公告",
+      "url": "https://amn.xidian.edu.cn/info/1013/18562.htm",
+      "date": "2026-06-03",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "ste:15786",
@@ -450,6 +506,14 @@
       "url": "https://jsfz.xidian.edu.cn/info/1022/11842.htm",
       "date": "2026-05-29",
       "source_name": "教师发展中心"
+    },
+    {
+      "id": "eme:15606",
+      "source_id": "eme",
+      "title": "科研协作项目公示20260529",
+      "url": "https://eme.xidian.edu.cn/info/1012/15606.htm",
+      "date": "2026-05-29",
+      "source_name": "机电工程学院"
     },
     {
       "id": "bksy:34082",

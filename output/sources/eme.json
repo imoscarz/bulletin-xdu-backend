@@ -3,16 +3,44 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-06-04T04:41:20.906289Z",
-    "total_notices": 138
+    "last_scraped": "2026-06-04T10:04:02.949967Z",
+    "total_notices": 142
   },
   "notices": [
+    {
+      "id": "eme:15596",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260604-3",
+      "url": "https://eme.xidian.edu.cn/info/1012/15596.htm",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "eme:15586",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260604-2",
+      "url": "https://eme.xidian.edu.cn/info/1012/15586.htm",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "eme:15576",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260604-1",
+      "url": "https://eme.xidian.edu.cn/info/1012/15576.htm",
+      "date": "2026-06-04"
+    },
     {
       "id": "eme:15516",
       "source_id": "eme",
       "title": "机电工程学院关于2026～2028年度专业技术职务副高及以下各级评审结果公示",
       "url": "https://eme.xidian.edu.cn/info/1012/15516.htm",
       "date": "2026-06-01"
+    },
+    {
+      "id": "eme:15606",
+      "source_id": "eme",
+      "title": "科研协作项目公示20260529",
+      "url": "https://eme.xidian.edu.cn/info/1012/15606.htm",
+      "date": "2026-05-29"
     },
     {
       "id": "eme:15476",

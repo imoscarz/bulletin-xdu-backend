@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-06-04T04:40:40.281237Z",
-    "total_notices": 63
+    "last_scraped": "2026-06-04T10:03:33.042608Z",
+    "total_notices": 64
   },
   "notices": [
+    {
+      "id": "math:23212",
+      "source_id": "math",
+      "title": "关于对数学与统计学院2026年秋季博士研究生杨子璇复试成绩的更正说明",
+      "url": "https://math.xidian.edu.cn/info/1020/23212.htm",
+      "date": "2026-06-04"
+    },
     {
       "id": "math:22932",
       "source_id": "math",
