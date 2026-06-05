@@ -3,10 +3,17 @@
     "source_id": "imse",
     "name": "信息力学与感知工程学院",
     "url": "https://imse.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-04T20:11:20.597774Z",
-    "total_notices": 33
+    "last_scraped": "2026-06-05T04:15:26.206135Z",
+    "total_notices": 34
   },
   "notices": [
+    {
+      "id": "imse:6271",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年秋季博士研究生递补拟录取名单公示",
+      "url": "https://imse.xidian.edu.cn/info/1030/6271.htm",
+      "date": "2026-06-05"
+    },
     {
       "id": "imse:6261",
       "source_id": "imse",

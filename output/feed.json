@@ -1,8 +1,104 @@
 {
-  "generated_at": "2026-06-04T20:11:46.032819+00:00",
-  "total_notices": 2859,
+  "generated_at": "2026-06-05T04:15:59.881325+00:00",
+  "total_notices": 2871,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10434",
+      "source_id": "xdwy",
+      "title": "关于公布2026年春季学期毕业论文（设计）成绩的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10434.htm",
+      "date": "2026-06-05",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "sast:19847",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/19847.htm",
+      "date": "2026-06-05",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "jsfz:11962",
+      "source_id": "jsfz",
+      "title": "【教学示范】概率论与数理统计",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11962.htm",
+      "date": "2026-06-05",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11952",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】AI智慧课程建设教学专题培训会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11952.htm",
+      "date": "2026-06-05",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11932",
+      "source_id": "jsfz",
+      "title": "【教学培训】2024版核心课程“集成电路制造技术”差异化教学研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11932.htm",
+      "date": "2026-06-05",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11902",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】微观经济学知识图谱建设与AI应用研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11902.htm",
+      "date": "2026-06-05",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "imse:6271",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年秋季博士研究生递补拟录取名单公示",
+      "url": "https://imse.xidian.edu.cn/info/1030/6271.htm",
+      "date": "2026-06-05",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "eme:15646",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260605-1",
+      "url": "https://eme.xidian.edu.cn/info/1012/15646.htm",
+      "date": "2026-06-05",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:34232",
+      "source_id": "bksy",
+      "title": "【教学示范】概率论与数理统计",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34232.htm",
+      "date": "2026-06-05",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34222",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI智慧课程建设教学专题培训会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34222.htm",
+      "date": "2026-06-05",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34212",
+      "source_id": "bksy",
+      "title": "【教学培训】2024版核心课程“集成电路制造技术”差...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34212.htm",
+      "date": "2026-06-05",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34192",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】微观经济学知识图谱建设与AI应用研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34192.htm",
+      "date": "2026-06-05",
+      "source_name": "本科生院"
+    },
     {
       "id": "ste:15796",
       "source_id": "ste",

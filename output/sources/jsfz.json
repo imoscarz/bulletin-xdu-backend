@@ -3,10 +3,38 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-04T20:11:27.544674Z",
-    "total_notices": 76
+    "last_scraped": "2026-06-05T04:15:40.803337Z",
+    "total_notices": 80
   },
   "notices": [
+    {
+      "id": "jsfz:11962",
+      "source_id": "jsfz",
+      "title": "【教学示范】概率论与数理统计",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11962.htm",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "jsfz:11952",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】AI智慧课程建设教学专题培训会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11952.htm",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "jsfz:11932",
+      "source_id": "jsfz",
+      "title": "【教学培训】2024版核心课程“集成电路制造技术”差异化教学研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11932.htm",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "jsfz:11902",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】微观经济学知识图谱建设与AI应用研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11902.htm",
+      "date": "2026-06-05"
+    },
     {
       "id": "jsfz:11892",
       "source_id": "jsfz",

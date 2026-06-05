@@ -3,10 +3,38 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-04T20:11:09.066734Z",
-    "total_notices": 296
+    "last_scraped": "2026-06-05T04:15:10.817010Z",
+    "total_notices": 300
   },
   "notices": [
+    {
+      "id": "bksy:34232",
+      "source_id": "bksy",
+      "title": "【教学示范】概率论与数理统计",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34232.htm",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "bksy:34222",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI智慧课程建设教学专题培训会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34222.htm",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "bksy:34212",
+      "source_id": "bksy",
+      "title": "【教学培训】2024版核心课程“集成电路制造技术”差...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34212.htm",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "bksy:34192",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】微观经济学知识图谱建设与AI应用研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34192.htm",
+      "date": "2026-06-05"
+    },
     {
       "id": "bksy:34182",
       "source_id": "bksy",
