@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T04:15:59.881325+00:00",
-  "total_notices": 2871,
+  "generated_at": "2026-06-05T10:02:29.147227+00:00",
+  "total_notices": 2877,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,46 @@
       "url": "https://xdwy.xidian.edu.cn/info/1194/10434.htm",
       "date": "2026-06-05",
       "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:15806",
+      "source_id": "ste",
+      "title": "通信工程学院2026年研究生指导教师资格认定及首次聘任的公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/15806.htm",
+      "date": "2026-06-05",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17155",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260605-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17155.htm",
+      "date": "2026-06-05",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3587",
+      "source_id": "sme",
+      "title": "集成电路学部2026年秋季入学博士研究生招生拟录取名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0605/3587.html",
+      "date": "2026-06-05",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3586",
+      "source_id": "sme",
+      "title": "集成电路学部2026年研究生指导教师资格认定评审通过名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0605/3586.html",
+      "date": "2026-06-05",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:181",
+      "source_id": "sme",
+      "title": "集成电路学部2026年研究生指导教师资格认定评审通过名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2016/1228/181.html",
+      "date": "2026-06-05",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sast:19847",
@@ -66,6 +106,14 @@
       "url": "https://eme.xidian.edu.cn/info/1012/15646.htm",
       "date": "2026-06-05",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24944",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年研究生指导教师资格认定和转学科指导教师通过名单的公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24944.htm",
+      "date": "2026-06-05",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "bksy:34232",

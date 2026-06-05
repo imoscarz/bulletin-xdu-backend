@@ -3,10 +3,31 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-06-05T04:15:59.864774Z",
-    "total_notices": 167
+    "last_scraped": "2026-06-05T10:02:29.130102Z",
+    "total_notices": 170
   },
   "notices": [
+    {
+      "id": "sme:3587",
+      "source_id": "sme",
+      "title": "集成电路学部2026年秋季入学博士研究生招生拟录取名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0605/3587.html",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "sme:3586",
+      "source_id": "sme",
+      "title": "集成电路学部2026年研究生指导教师资格认定评审通过名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0605/3586.html",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "sme:181",
+      "source_id": "sme",
+      "title": "集成电路学部2026年研究生指导教师资格认定评审通过名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2016/1228/181.html",
+      "date": "2026-06-05"
+    },
     {
       "id": "sme:3579",
       "source_id": "sme",

@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-05T04:14:38.207179Z",
-    "total_notices": 110
+    "last_scraped": "2026-06-05T10:00:57.411728Z",
+    "total_notices": 111
   },
   "notices": [
+    {
+      "id": "cs:24944",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年研究生指导教师资格认定和转学科指导教师通过名单的公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24944.htm",
+      "date": "2026-06-05"
+    },
     {
       "id": "cs:24924",
       "source_id": "cs",
