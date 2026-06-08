@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-06-08T04:41:19.990402+00:00",
-  "total_notices": 2880,
+  "generated_at": "2026-06-08T11:08:05.829093+00:00",
+  "total_notices": 2883,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:17165",
+      "source_id": "soe",
+      "title": "光电工程学院2026年秋季博士研究生招生递补拟录取名单公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/17165.htm",
+      "date": "2026-06-08",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "see:103891",
+      "source_id": "see",
+      "title": "电子工程学院2026年研究生指导教师资格认定评审通过名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/103891.htm",
+      "date": "2026-06-08",
+      "source_name": "电子工程学院"
+    },
     {
       "id": "phy:11303",
       "source_id": "phy",
@@ -10,6 +26,14 @@
       "url": "https://phy.xidian.edu.cn/info/1012/11303.htm",
       "date": "2026-06-08",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "life:guanyuyinfashengmingkexuejishuxueyuan2028jieyouxiubenkebiyeshengtuijianmianshigongdushuoshixueweiyanjiushengshishibanfadetongzhi.doc",
+      "source_id": "life",
+      "title": "关于印发《生命科学技术学院2028届优秀本科毕业生推荐免试攻读硕士学位研究生实施办法》的通知",
+      "url": "https://life.xidian.edu.cn/guanyuyinfashengmingkexuejishuxueyuan2028jieyouxiubenkebiyeshengtuijianmianshigongdushuoshixueweiyanjiushengshishibanfadetongzhi.doc",
+      "date": "2026-06-08",
+      "source_name": "生命科学技术学院"
     },
     {
       "id": "amn:18592",
