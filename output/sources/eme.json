@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-06-08T20:25:20.973915Z",
-    "total_notices": 143
+    "last_scraped": "2026-06-09T04:00:53.857794Z",
+    "total_notices": 144
   },
   "notices": [
+    {
+      "id": "eme:15676",
+      "source_id": "eme",
+      "title": "2026年机电工程学院研究生导师资格认定通过名单公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15676.htm",
+      "date": "2026-06-09"
+    },
     {
       "id": "eme:15646",
       "source_id": "eme",

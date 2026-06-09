@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-06-08T20:25:46.936089+00:00",
-  "total_notices": 2883,
+  "generated_at": "2026-06-09T04:01:25.272293+00:00",
+  "total_notices": 2886,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:11323",
+      "source_id": "phy",
+      "title": "物理学院2026年秋季学术学位博士研究生招生拟录取名单（三）公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11323.htm",
+      "date": "2026-06-09",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "gr:19904",
+      "source_id": "gr",
+      "title": "2026年高等教育（研究生）国家教学成果奖拟推荐名单公示",
+      "url": "https://gr.xidian.edu.cn/info/1073/19904.htm",
+      "date": "2026-06-09",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "eme:15676",
+      "source_id": "eme",
+      "title": "2026年机电工程学院研究生导师资格认定通过名单公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15676.htm",
+      "date": "2026-06-09",
+      "source_name": "机电工程学院"
+    },
     {
       "id": "soe:17165",
       "source_id": "soe",
