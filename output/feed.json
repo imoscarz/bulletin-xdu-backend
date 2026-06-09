@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-06-09T04:01:25.272293+00:00",
-  "total_notices": 2886,
+  "generated_at": "2026-06-09T09:55:42.566971+00:00",
+  "total_notices": 2893,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3595",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0609/3595.html",
+      "date": "2026-06-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3594",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0609/3594.html",
+      "date": "2026-06-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3593",
+      "source_id": "sme",
+      "title": "教育部联合基金经费使用情况公示信息",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0609/3593.html",
+      "date": "2026-06-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3592",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0609/3592.html",
+      "date": "2026-06-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3591",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0609/3591.html",
+      "date": "2026-06-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "phy:11333",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息-20260609-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/11333.htm",
+      "date": "2026-06-09",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "phy:11323",
       "source_id": "phy",
@@ -26,6 +74,14 @@
       "url": "https://eme.xidian.edu.cn/info/1012/15676.htm",
       "date": "2026-06-09",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24984",
+      "source_id": "cs",
+      "title": "计科院2026年秋季专项博士研究生补报招生复试综合面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24984.htm",
+      "date": "2026-06-09",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "soe:17165",
