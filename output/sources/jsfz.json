@@ -3,10 +3,24 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-10T04:12:18.041230Z",
-    "total_notices": 80
+    "last_scraped": "2026-06-10T10:12:26.940056Z",
+    "total_notices": 82
   },
   "notices": [
+    {
+      "id": "jsfz:12002",
+      "source_id": "jsfz",
+      "title": "【教学示范】新生研讨课与学科导论",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12002.htm",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "jsfz:11992",
+      "source_id": "jsfz",
+      "title": "【教学培训】生命科学技术学院专业认证培训会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11992.htm",
+      "date": "2026-06-10"
+    },
     {
       "id": "jsfz:11962",
       "source_id": "jsfz",

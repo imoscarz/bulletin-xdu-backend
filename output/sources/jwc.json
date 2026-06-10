@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-10T04:11:48.005308Z",
-    "total_notices": 86
+    "last_scraped": "2026-06-10T10:11:39.880840Z",
+    "total_notices": 87
   },
   "notices": [
+    {
+      "id": "jwc:22523",
+      "source_id": "jwc",
+      "title": "2026年高等教育（本科）国家级教学成果奖拟推荐名单公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22523.htm",
+      "date": "2026-06-10"
+    },
     {
       "id": "jwc:22393",
       "source_id": "jwc",

@@ -3,10 +3,38 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-10T04:12:04.472647Z",
-    "total_notices": 300
+    "last_scraped": "2026-06-10T10:12:04.048780Z",
+    "total_notices": 304
   },
   "notices": [
+    {
+      "id": "bksy:34282",
+      "source_id": "bksy",
+      "title": "关于对2026届本科毕业生奖学金及荣誉称号评定结果进...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34282.htm",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "bksy:34272",
+      "source_id": "bksy",
+      "title": "【教学示范】新生研讨课与学科导论",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34272.htm",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "bksy:34262",
+      "source_id": "bksy",
+      "title": "2026年高等教育（本科）国家级教学成果奖拟推荐名单...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34262.htm",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "bksy:34252",
+      "source_id": "bksy",
+      "title": "【教学培训】生命科学技术学院专业认证培训会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34252.htm",
+      "date": "2026-06-10"
+    },
     {
       "id": "bksy:34232",
       "source_id": "bksy",

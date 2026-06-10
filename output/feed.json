@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-06-10T04:12:37.450639+00:00",
-  "total_notices": 2897,
+  "generated_at": "2026-06-10T10:12:45.982659+00:00",
+  "total_notices": 2906,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14074",
+      "source_id": "xgc",
+      "title": "关于对2026届本科毕业生奖学金及荣誉称号评定结果进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14074.htm",
+      "date": "2026-06-10",
+      "source_name": "学生工作处"
+    },
     {
       "id": "ste:15826",
       "source_id": "ste",
@@ -28,12 +36,76 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "jwc:22523",
+      "source_id": "jwc",
+      "title": "2026年高等教育（本科）国家级教学成果奖拟推荐名单公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22523.htm",
+      "date": "2026-06-10",
+      "source_name": "教务处"
+    },
+    {
+      "id": "jsfz:12002",
+      "source_id": "jsfz",
+      "title": "【教学示范】新生研讨课与学科导论",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12002.htm",
+      "date": "2026-06-10",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11992",
+      "source_id": "jsfz",
+      "title": "【教学培训】生命科学技术学院专业认证培训会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11992.htm",
+      "date": "2026-06-10",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "imse:6371",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年秋季博士研究生递补拟录取名单公示（二）",
+      "url": "https://imse.xidian.edu.cn/info/1030/6371.htm",
+      "date": "2026-06-10",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
       "id": "gr:19914",
       "source_id": "gr",
       "title": "关于组织开展科学出版社“十五五”普通高等教育规划教材申报的通知",
       "url": "https://gr.xidian.edu.cn/info/1073/19914.htm",
       "date": "2026-06-10",
       "source_name": "研究生院"
+    },
+    {
+      "id": "bksy:34282",
+      "source_id": "bksy",
+      "title": "关于对2026届本科毕业生奖学金及荣誉称号评定结果进...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34282.htm",
+      "date": "2026-06-10",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34272",
+      "source_id": "bksy",
+      "title": "【教学示范】新生研讨课与学科导论",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34272.htm",
+      "date": "2026-06-10",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34262",
+      "source_id": "bksy",
+      "title": "2026年高等教育（本科）国家级教学成果奖拟推荐名单...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34262.htm",
+      "date": "2026-06-10",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34252",
+      "source_id": "bksy",
+      "title": "【教学培训】生命科学技术学院专业认证培训会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34252.htm",
+      "date": "2026-06-10",
+      "source_name": "本科生院"
     },
     {
       "id": "sme:3595",
