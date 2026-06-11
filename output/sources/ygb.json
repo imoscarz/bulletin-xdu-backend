@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-10T20:37:21.040282Z",
-    "total_notices": 81
+    "last_scraped": "2026-06-11T04:25:15.649536Z",
+    "total_notices": 82
   },
   "notices": [
+    {
+      "id": "ygb:12193",
+      "source_id": "ygb",
+      "title": "关于开展2026年“三好三有”毕业季主题活动的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/12193.htm",
+      "date": "2026-06-11"
+    },
     {
       "id": "ygb:12043",
       "source_id": "ygb",

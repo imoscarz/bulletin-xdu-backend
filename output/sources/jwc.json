@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-10T20:36:38.283165Z",
-    "total_notices": 87
+    "last_scraped": "2026-06-11T04:24:26.367608Z",
+    "total_notices": 88
   },
   "notices": [
+    {
+      "id": "jwc:22543",
+      "source_id": "jwc",
+      "title": "西安电子科技大学关于开展第二十一届优秀教材评选工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22543.htm",
+      "date": "2026-06-11"
+    },
     {
       "id": "jwc:22523",
       "source_id": "jwc",
