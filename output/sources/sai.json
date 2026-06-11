@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-11T04:24:49.266008Z",
-    "total_notices": 132
+    "last_scraped": "2026-06-11T10:46:24.006768Z",
+    "total_notices": 133
   },
   "notices": [
+    {
+      "id": "sai:25172",
+      "source_id": "sai",
+      "title": "人工智能学院关于选聘应届毕业生担任校内科研助理工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/25172.htm",
+      "date": "2026-06-11"
+    },
     {
       "id": "sai:25162",
       "source_id": "sai",

@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-06-11T04:24:39.788860Z",
-    "total_notices": 64
+    "last_scraped": "2026-06-11T10:46:16.353168Z",
+    "total_notices": 65
   },
   "notices": [
+    {
+      "id": "soe:17225",
+      "source_id": "soe",
+      "title": "关于做好选聘2026届毕业生担任校内科研助理工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17225.htm",
+      "date": "2026-06-11"
+    },
     {
       "id": "soe:17195",
       "source_id": "soe",

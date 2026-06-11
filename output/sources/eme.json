@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-06-11T04:25:01.664131Z",
-    "total_notices": 144
+    "last_scraped": "2026-06-11T10:46:31.656212Z",
+    "total_notices": 145
   },
   "notices": [
+    {
+      "id": "eme:15686",
+      "source_id": "eme",
+      "title": "机电工程学院选聘内设机构主任公告",
+      "url": "https://eme.xidian.edu.cn/info/1012/15686.htm",
+      "date": "2026-06-11"
+    },
     {
       "id": "eme:15676",
       "source_id": "eme",

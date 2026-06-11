@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-11T04:24:38.276878Z",
-    "total_notices": 92
+    "last_scraped": "2026-06-11T10:46:13.616504Z",
+    "total_notices": 93
   },
   "notices": [
+    {
+      "id": "phy:11363",
+      "source_id": "phy",
+      "title": "物理学院关于开展选聘2026届毕业生担任院内科研助理工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11363.htm",
+      "date": "2026-06-11"
+    },
     {
       "id": "phy:11333",
       "source_id": "phy",

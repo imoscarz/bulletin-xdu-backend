@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-11T04:25:20.753769Z",
-    "total_notices": 82
+    "last_scraped": "2026-06-11T10:46:56.120282Z",
+    "total_notices": 83
   },
   "notices": [
+    {
+      "id": "jsfz:12012",
+      "source_id": "jsfz",
+      "title": "【教学培训】教研共成长：国际顶尖高校课程现状与科学前沿培养模式研讨——斯坦福大学访学分享",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12012.htm",
+      "date": "2026-06-11"
+    },
     {
       "id": "jsfz:12002",
       "source_id": "jsfz",
