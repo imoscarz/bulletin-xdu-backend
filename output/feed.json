@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T10:22:43.468609+00:00",
-  "total_notices": 2936,
+  "generated_at": "2026-06-12T15:27:31.590790+00:00",
+  "total_notices": 2938,
   "content_limit": 5000,
   "notices": [
     {
@@ -60,6 +60,14 @@
       "source_name": "生命科学技术学院"
     },
     {
+      "id": "jwc:22613",
+      "source_id": "jwc",
+      "title": "关于我校教师跨校参与湖北省2026年高等教育（本科）国家教学成果奖遴选推荐成果的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22613.htm",
+      "date": "2026-06-12",
+      "source_name": "教务处"
+    },
+    {
       "id": "jsfz:12062",
       "source_id": "jsfz",
       "title": "【教学培训】智能制造创新班培养方案研讨",
@@ -98,6 +106,14 @@
       "url": "https://eme.xidian.edu.cn/info/1012/15706.htm",
       "date": "2026-06-12",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:34422",
+      "source_id": "bksy",
+      "title": "关于我校教师跨校参与湖北省2026年高等教育（本科）...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34422.htm",
+      "date": "2026-06-12",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:34412",

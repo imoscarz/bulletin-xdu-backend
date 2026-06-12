@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-12T10:21:39.377631Z",
-    "total_notices": 88
+    "last_scraped": "2026-06-12T15:26:33.633805Z",
+    "total_notices": 89
   },
   "notices": [
+    {
+      "id": "jwc:22613",
+      "source_id": "jwc",
+      "title": "关于我校教师跨校参与湖北省2026年高等教育（本科）国家教学成果奖遴选推荐成果的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22613.htm",
+      "date": "2026-06-12"
+    },
     {
       "id": "jwc:22543",
       "source_id": "jwc",
