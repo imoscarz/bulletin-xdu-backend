@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-11T20:27:33.102771Z",
-    "total_notices": 124
+    "last_scraped": "2026-06-12T04:27:55.555695Z",
+    "total_notices": 125
   },
   "notices": [
+    {
+      "id": "ste:15856",
+      "source_id": "ste",
+      "title": "通信工程学院2026年专项计划博士研究生招生（补报名批次）拟录取名单公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/15856.htm",
+      "date": "2026-06-12"
+    },
     {
       "id": "ste:15846",
       "source_id": "ste",
