@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-06-12T04:28:12.398075+00:00",
-  "total_notices": 2922,
+  "generated_at": "2026-06-12T10:22:43.468609+00:00",
+  "total_notices": 2936,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14104",
+      "source_id": "xgc",
+      "title": "关于2026届本科生“毕业生之星”评选结果的公示",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14104.htm",
+      "date": "2026-06-12",
+      "source_name": "学生工作处"
+    },
     {
       "id": "ste:15856",
       "source_id": "ste",
@@ -10,6 +18,22 @@
       "url": "https://ste.xidian.edu.cn/info/1337/15856.htm",
       "date": "2026-06-12",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3599",
+      "source_id": "sme",
+      "title": "教育部联合基金经费使用情况公示信息",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0612/3599.html",
+      "date": "2026-06-12",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3598",
+      "source_id": "sme",
+      "title": "科研协作公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0612/3598.html",
+      "date": "2026-06-12",
+      "source_name": "集成电路学部"
     },
     {
       "id": "phy:11373",
@@ -20,12 +44,100 @@
       "source_name": "物理与光电工程学院"
     },
     {
+      "id": "math:23292",
+      "source_id": "math",
+      "title": "关于开展选聘2026届毕业生担任数学与统计学院科研助理工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23292.htm",
+      "date": "2026-06-12",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "life:17111",
+      "source_id": "life",
+      "title": "生命科学技术学院做好选聘2026届毕业生担任校内科研助理工作的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/17111.htm",
+      "date": "2026-06-12",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "jsfz:12062",
+      "source_id": "jsfz",
+      "title": "【教学培训】智能制造创新班培养方案研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12062.htm",
+      "date": "2026-06-12",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12052",
+      "source_id": "jsfz",
+      "title": "【教学培训】机械专业发展及智能制造创新班建设",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12052.htm",
+      "date": "2026-06-12",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12042",
+      "source_id": "jsfz",
+      "title": "【教学培训】本硕贯通课程内容优化与教学改革研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12042.htm",
+      "date": "2026-06-12",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12032",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】人工智能赋能“数据库原理与应用”课程研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12032.htm",
+      "date": "2026-06-12",
+      "source_name": "教师发展中心"
+    },
+    {
       "id": "eme:15706",
       "source_id": "eme",
       "title": "机电工程学院关于选聘2026届毕业生担任校内科研助理工作的通知",
       "url": "https://eme.xidian.edu.cn/info/1012/15706.htm",
       "date": "2026-06-12",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:34412",
+      "source_id": "bksy",
+      "title": "【教学培训】智能制造创新班培养方案研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34412.htm",
+      "date": "2026-06-12",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34402",
+      "source_id": "bksy",
+      "title": "关于2026届本科生“毕业生之星”评选结果的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34402.htm",
+      "date": "2026-06-12",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34382",
+      "source_id": "bksy",
+      "title": "【教学培训】机械专业发展及智能制造创新班建设",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34382.htm",
+      "date": "2026-06-12",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34372",
+      "source_id": "bksy",
+      "title": "【教学培训】本硕贯通课程内容优化与教学改革研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34372.htm",
+      "date": "2026-06-12",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34362",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】人工智能赋能“数据库原理与应用”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34362.htm",
+      "date": "2026-06-12",
+      "source_name": "本科生院"
     },
     {
       "id": "ygb:12193",

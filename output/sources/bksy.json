@@ -3,10 +3,45 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-12T04:27:31.576579Z",
-    "total_notices": 306
+    "last_scraped": "2026-06-12T10:22:06.226111Z",
+    "total_notices": 311
   },
   "notices": [
+    {
+      "id": "bksy:34412",
+      "source_id": "bksy",
+      "title": "【教学培训】智能制造创新班培养方案研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34412.htm",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "bksy:34402",
+      "source_id": "bksy",
+      "title": "关于2026届本科生“毕业生之星”评选结果的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34402.htm",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "bksy:34382",
+      "source_id": "bksy",
+      "title": "【教学培训】机械专业发展及智能制造创新班建设",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34382.htm",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "bksy:34372",
+      "source_id": "bksy",
+      "title": "【教学培训】本硕贯通课程内容优化与教学改革研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34372.htm",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "bksy:34362",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】人工智能赋能“数据库原理与应用”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34362.htm",
+      "date": "2026-06-12"
+    },
     {
       "id": "bksy:34312",
       "source_id": "bksy",

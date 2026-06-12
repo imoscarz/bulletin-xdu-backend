@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-12T04:27:24.485188Z",
-    "total_notices": 93
+    "last_scraped": "2026-06-12T10:21:58.306355Z",
+    "total_notices": 94
   },
   "notices": [
+    {
+      "id": "life:17111",
+      "source_id": "life",
+      "title": "生命科学技术学院做好选聘2026届毕业生担任校内科研助理工作的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/17111.htm",
+      "date": "2026-06-12"
+    },
     {
       "id": "life:guanyuyinfashengmingkexuejishuxueyuan2028jieyouxiubenkebiyeshengtuijianmianshigongdushuoshixueweiyanjiushengshishibanfadetongzhi.doc",
       "source_id": "life",

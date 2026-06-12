@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-06-12T04:27:11.699836Z",
-    "total_notices": 64
+    "last_scraped": "2026-06-12T10:21:43.840836Z",
+    "total_notices": 65
   },
   "notices": [
+    {
+      "id": "math:23292",
+      "source_id": "math",
+      "title": "关于开展选聘2026届毕业生担任数学与统计学院科研助理工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23292.htm",
+      "date": "2026-06-12"
+    },
     {
       "id": "math:23212",
       "source_id": "math",

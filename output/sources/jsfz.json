@@ -3,10 +3,38 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-12T04:27:54.143281Z",
-    "total_notices": 83
+    "last_scraped": "2026-06-12T10:22:26.245563Z",
+    "total_notices": 87
   },
   "notices": [
+    {
+      "id": "jsfz:12062",
+      "source_id": "jsfz",
+      "title": "【教学培训】智能制造创新班培养方案研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12062.htm",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "jsfz:12052",
+      "source_id": "jsfz",
+      "title": "【教学培训】机械专业发展及智能制造创新班建设",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12052.htm",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "jsfz:12042",
+      "source_id": "jsfz",
+      "title": "【教学培训】本硕贯通课程内容优化与教学改革研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12042.htm",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "jsfz:12032",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】人工智能赋能“数据库原理与应用”课程研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12032.htm",
+      "date": "2026-06-12"
+    },
     {
       "id": "jsfz:12012",
       "source_id": "jsfz",

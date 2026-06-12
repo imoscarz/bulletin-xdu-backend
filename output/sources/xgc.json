@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-06-12T04:27:30.023942Z",
-    "total_notices": 113
+    "last_scraped": "2026-06-12T10:22:04.544171Z",
+    "total_notices": 114
   },
   "notices": [
+    {
+      "id": "xgc:14104",
+      "source_id": "xgc",
+      "title": "关于2026届本科生“毕业生之星”评选结果的公示",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14104.htm",
+      "date": "2026-06-12"
+    },
     {
       "id": "xgc:14074",
       "source_id": "xgc",
