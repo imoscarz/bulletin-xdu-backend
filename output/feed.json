@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-06-13T09:25:08.140017+00:00",
-  "total_notices": 2939,
+  "generated_at": "2026-06-13T14:12:27.058287+00:00",
+  "total_notices": 2940,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sai:25212",
+      "source_id": "sai",
+      "title": "人工智能学院关于公布2026年秋季博士研究生（补报名）拟录取名单的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/25212.htm",
+      "date": "2026-06-13",
+      "source_name": "人工智能学院"
+    },
     {
       "id": "cs:25014",
       "source_id": "cs",

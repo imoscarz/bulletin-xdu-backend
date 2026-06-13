@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-13T09:24:18.825560Z",
-    "total_notices": 133
+    "last_scraped": "2026-06-13T14:11:10.861787Z",
+    "total_notices": 134
   },
   "notices": [
+    {
+      "id": "sai:25212",
+      "source_id": "sai",
+      "title": "人工智能学院关于公布2026年秋季博士研究生（补报名）拟录取名单的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/25212.htm",
+      "date": "2026-06-13"
+    },
     {
       "id": "sai:25172",
       "source_id": "sai",
