@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-06-13T04:17:42.427871+00:00",
-  "total_notices": 2938,
+  "generated_at": "2026-06-13T09:25:08.140017+00:00",
+  "total_notices": 2939,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "cs:25014",
+      "source_id": "cs",
+      "title": "计科院2026年秋季专项博士研究生补报拟录取名单（公示）",
+      "url": "https://cs.xidian.edu.cn/info/1003/25014.htm",
+      "date": "2026-06-13",
+      "source_name": "计算机科学与技术学院"
+    },
     {
       "id": "xgc:14104",
       "source_id": "xgc",
