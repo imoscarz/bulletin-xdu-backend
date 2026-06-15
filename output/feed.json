@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-06-14T19:44:22.259671+00:00",
-  "total_notices": 2940,
+  "generated_at": "2026-06-15T04:59:45.771966+00:00",
+  "total_notices": 2943,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:17235",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260615-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17235.htm",
+      "date": "2026-06-15",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "amn:18832",
+      "source_id": "amn",
+      "title": "关于选聘2026届毕业生担任校内科研助理工作的公告",
+      "url": "https://amn.xidian.edu.cn/info/1013/18832.htm",
+      "date": "2026-06-15",
+      "source_name": "先进材料与纳米科技学院"
+    },
     {
       "id": "sai:25212",
       "source_id": "sai",
@@ -10,6 +26,14 @@
       "url": "https://sai.xidian.edu.cn/info/1106/25212.htm",
       "date": "2026-06-13",
       "source_name": "人工智能学院"
+    },
+    {
+      "id": "eme:15716",
+      "source_id": "eme",
+      "title": "科研协作项目公示20260613",
+      "url": "https://eme.xidian.edu.cn/info/1012/15716.htm",
+      "date": "2026-06-13",
+      "source_name": "机电工程学院"
     },
     {
       "id": "cs:25014",
