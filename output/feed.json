@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T04:59:45.771966+00:00",
-  "total_notices": 2943,
+  "generated_at": "2026-06-15T12:28:33.429236+00:00",
+  "total_notices": 2945,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,22 @@
       "url": "https://soe.xidian.edu.cn/info/1095/17235.htm",
       "date": "2026-06-15",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sai:25232",
+      "source_id": "sai",
+      "title": "人工智能学院2026-2028年教师岗位聘任工作实施方案公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/25232.htm",
+      "date": "2026-06-15",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "cs:25134",
+      "source_id": "cs",
+      "title": "关于开展选聘计算机科学与技术学院2026届毕业生担任院内科研助理工作的安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/25134.htm",
+      "date": "2026-06-15",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "amn:18832",

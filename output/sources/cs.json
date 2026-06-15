@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-15T04:58:29.430120Z",
-    "total_notices": 113
+    "last_scraped": "2026-06-15T12:26:42.298348Z",
+    "total_notices": 114
   },
   "notices": [
+    {
+      "id": "cs:25134",
+      "source_id": "cs",
+      "title": "关于开展选聘计算机科学与技术学院2026届毕业生担任院内科研助理工作的安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/25134.htm",
+      "date": "2026-06-15"
+    },
     {
       "id": "cs:25014",
       "source_id": "cs",
