@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-16T04:58:46.362563Z",
-    "total_notices": 87
+    "last_scraped": "2026-06-16T11:21:53.957123Z",
+    "total_notices": 88
   },
   "notices": [
+    {
+      "id": "jsfz:12072",
+      "source_id": "jsfz",
+      "title": "【教学培训】运筹学课程思政教学研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12072.htm",
+      "date": "2026-06-16"
+    },
     {
       "id": "jsfz:12062",
       "source_id": "jsfz",

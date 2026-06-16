@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-06-16T04:59:05.640058+00:00",
-  "total_notices": 2949,
+  "generated_at": "2026-06-16T11:22:08.786978+00:00",
+  "total_notices": 2957,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10464",
+      "source_id": "xdwy",
+      "title": "关于2025年校级继续教育特色课程建设资助项目中期检查的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10464.htm",
+      "date": "2026-06-16",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:15886",
+      "source_id": "ste",
+      "title": "关于中英合作办学英语学习能力奖学金评选工作结果的公示",
+      "url": "https://ste.xidian.edu.cn/info/1336/15886.htm",
+      "date": "2026-06-16",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "jwc:22743",
       "source_id": "jwc",
@@ -12,12 +28,36 @@
       "source_name": "教务处"
     },
     {
+      "id": "jsfz:12072",
+      "source_id": "jsfz",
+      "title": "【教学培训】运筹学课程思政教学研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12072.htm",
+      "date": "2026-06-16",
+      "source_name": "教师发展中心"
+    },
+    {
       "id": "imse:6421",
       "source_id": "imse",
       "title": "信息力学与感知工程学院2026年秋季博士研究生递补拟录取名单公示（三）",
       "url": "https://imse.xidian.edu.cn/info/1030/6421.htm",
       "date": "2026-06-16",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "bksy:34452",
+      "source_id": "bksy",
+      "title": "【教学培训】运筹学课程思政教学研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34452.htm",
+      "date": "2026-06-16",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34442",
+      "source_id": "bksy",
+      "title": "2026年国际创新实践周——企业课堂课程介绍",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34442.htm",
+      "date": "2026-06-16",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:34432",
@@ -50,6 +90,14 @@
       "url": "https://sai.xidian.edu.cn/info/1106/25232.htm",
       "date": "2026-06-15",
       "source_name": "人工智能学院"
+    },
+    {
+      "id": "eme:15726",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息260615",
+      "url": "https://eme.xidian.edu.cn/info/1012/15726.htm",
+      "date": "2026-06-15",
+      "source_name": "机电工程学院"
     },
     {
       "id": "cs:25134",
@@ -450,6 +498,22 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/34252.htm",
       "date": "2026-06-10",
       "source_name": "本科生院"
+    },
+    {
+      "id": "sme:3603",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0616/3603.html",
+      "date": "2026-06-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3602",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0616/3602.html",
+      "date": "2026-06-09",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3595",
