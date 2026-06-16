@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-15T21:10:24.443472Z",
-    "total_notices": 89
+    "last_scraped": "2026-06-16T04:57:27.589564Z",
+    "total_notices": 90
   },
   "notices": [
+    {
+      "id": "jwc:22743",
+      "source_id": "jwc",
+      "title": "关于开展2026年国际创新实践周“实验实践能力达标测试”补测的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22743.htm",
+      "date": "2026-06-16"
+    },
     {
       "id": "jwc:22613",
       "source_id": "jwc",

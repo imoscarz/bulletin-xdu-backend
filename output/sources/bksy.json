@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-15T21:10:50.456153Z",
-    "total_notices": 312
+    "last_scraped": "2026-06-16T04:58:07.042421Z",
+    "total_notices": 313
   },
   "notices": [
+    {
+      "id": "bksy:34432",
+      "source_id": "bksy",
+      "title": "关于开展2026年国际创新实践周“实验实践能力达标测...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34432.htm",
+      "date": "2026-06-16"
+    },
     {
       "id": "bksy:34422",
       "source_id": "bksy",

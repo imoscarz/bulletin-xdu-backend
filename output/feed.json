@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-06-15T21:11:30.119300+00:00",
-  "total_notices": 2945,
+  "generated_at": "2026-06-16T04:59:05.640058+00:00",
+  "total_notices": 2949,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jwc:22743",
+      "source_id": "jwc",
+      "title": "关于开展2026年国际创新实践周“实验实践能力达标测试”补测的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22743.htm",
+      "date": "2026-06-16",
+      "source_name": "教务处"
+    },
+    {
+      "id": "imse:6421",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年秋季博士研究生递补拟录取名单公示（三）",
+      "url": "https://imse.xidian.edu.cn/info/1030/6421.htm",
+      "date": "2026-06-16",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "bksy:34432",
+      "source_id": "bksy",
+      "title": "关于开展2026年国际创新实践周“实验实践能力达标测...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34432.htm",
+      "date": "2026-06-16",
+      "source_name": "本科生院"
+    },
     {
       "id": "soe:17235",
       "source_id": "soe",
@@ -10,6 +34,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/17235.htm",
       "date": "2026-06-15",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3601",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026-2027学年第一学期本科课程初任教师选聘结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0615/3601.html",
+      "date": "2026-06-15",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sai:25232",
