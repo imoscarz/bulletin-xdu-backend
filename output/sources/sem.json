@@ -3,8 +3,8 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-17T04:43:48.463986Z",
-    "total_notices": 116
+    "last_scraped": "2026-06-17T11:06:16.225162Z",
+    "total_notices": 117
   },
   "notices": [
     {
@@ -12,6 +12,13 @@
       "source_id": "sem",
       "title": "西安电子科技大学经济与管理学院2026年一般管理岗位（科研助理）外聘人员招聘公告",
       "url": "https://sem.xidian.edu.cn/info/1536/14811.htm",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "sem:14801",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年端午节假期值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/14801.htm",
       "date": "2026-06-17"
     },
     {

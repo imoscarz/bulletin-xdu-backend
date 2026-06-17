@@ -3,10 +3,38 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-17T04:43:56.532514Z",
-    "total_notices": 315
+    "last_scraped": "2026-06-17T11:06:24.530634Z",
+    "total_notices": 319
   },
   "notices": [
+    {
+      "id": "bksy:34492",
+      "source_id": "bksy",
+      "title": "关于启动2026年全国大学生数学建模竞赛校内预报名工...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34492.htm",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "bksy:34482",
+      "source_id": "bksy",
+      "title": "【教学示范】大学生心理健康教育",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34482.htm",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "bksy:34472",
+      "source_id": "bksy",
+      "title": "【专项培训】2026年度思想政治理论实践课专题培训",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34472.htm",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "bksy:34462",
+      "source_id": "bksy",
+      "title": "【教学示范】信号与系统",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34462.htm",
+      "date": "2026-06-17"
+    },
     {
       "id": "bksy:34452",
       "source_id": "bksy",

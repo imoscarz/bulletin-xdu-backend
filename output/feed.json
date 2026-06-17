@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T04:44:53.890195+00:00",
-  "total_notices": 2962,
+  "generated_at": "2026-06-17T11:06:54.053823+00:00",
+  "total_notices": 2972,
   "content_limit": 5000,
   "notices": [
     {
@@ -42,6 +42,86 @@
       "url": "https://sem.xidian.edu.cn/info/1536/14811.htm",
       "date": "2026-06-17",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sem:14801",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年端午节假期值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/14801.htm",
+      "date": "2026-06-17",
+      "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sast:303396",
+      "source_id": "sast",
+      "title": "空间学院举办2026届毕业生代表座谈会",
+      "url": "https://news.xidian.edu.cn/info/1399/303396.htm",
+      "date": "2026-06-17",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:303366",
+      "source_id": "sast",
+      "title": "空间学院开展毕业生宿舍走访工作",
+      "url": "https://news.xidian.edu.cn/info/1399/303366.htm",
+      "date": "2026-06-17",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "jsfz:12112",
+      "source_id": "jsfz",
+      "title": "【教学示范】大学生心理健康教育",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12112.htm",
+      "date": "2026-06-17",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12102",
+      "source_id": "jsfz",
+      "title": "【专项培训】2026年度思想政治理论实践课专题培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12102.htm",
+      "date": "2026-06-17",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12092",
+      "source_id": "jsfz",
+      "title": "【教学示范】信号与系统",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12092.htm",
+      "date": "2026-06-17",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:34492",
+      "source_id": "bksy",
+      "title": "关于启动2026年全国大学生数学建模竞赛校内预报名工...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34492.htm",
+      "date": "2026-06-17",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34482",
+      "source_id": "bksy",
+      "title": "【教学示范】大学生心理健康教育",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34482.htm",
+      "date": "2026-06-17",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34472",
+      "source_id": "bksy",
+      "title": "【专项培训】2026年度思想政治理论实践课专题培训",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34472.htm",
+      "date": "2026-06-17",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34462",
+      "source_id": "bksy",
+      "title": "【教学示范】信号与系统",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34462.htm",
+      "date": "2026-06-17",
+      "source_name": "本科生院"
     },
     {
       "id": "xdwy:10464",

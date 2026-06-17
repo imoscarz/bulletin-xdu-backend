@@ -3,10 +3,31 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-17T04:44:16.194194Z",
-    "total_notices": 88
+    "last_scraped": "2026-06-17T11:06:42.367448Z",
+    "total_notices": 91
   },
   "notices": [
+    {
+      "id": "jsfz:12112",
+      "source_id": "jsfz",
+      "title": "【教学示范】大学生心理健康教育",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12112.htm",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "jsfz:12102",
+      "source_id": "jsfz",
+      "title": "【专项培训】2026年度思想政治理论实践课专题培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12102.htm",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "jsfz:12092",
+      "source_id": "jsfz",
+      "title": "【教学示范】信号与系统",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12092.htm",
+      "date": "2026-06-17"
+    },
     {
       "id": "jsfz:12072",
       "source_id": "jsfz",

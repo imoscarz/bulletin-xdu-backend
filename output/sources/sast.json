@@ -3,10 +3,24 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-06-17T04:44:04.007766Z",
-    "total_notices": 110
+    "last_scraped": "2026-06-17T11:06:29.128425Z",
+    "total_notices": 112
   },
   "notices": [
+    {
+      "id": "sast:303396",
+      "source_id": "sast",
+      "title": "空间学院举办2026届毕业生代表座谈会",
+      "url": "https://news.xidian.edu.cn/info/1399/303396.htm",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "sast:303366",
+      "source_id": "sast",
+      "title": "空间学院开展毕业生宿舍走访工作",
+      "url": "https://news.xidian.edu.cn/info/1399/303366.htm",
+      "date": "2026-06-17"
+    },
     {
       "id": "sast:19847",
       "source_id": "sast",
