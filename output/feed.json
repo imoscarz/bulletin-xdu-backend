@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-06-17T20:21:08.318707+00:00",
-  "total_notices": 2973,
+  "generated_at": "2026-06-18T04:29:16.861586+00:00",
+  "total_notices": 2979,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15946",
+      "source_id": "ste",
+      "title": "通信工程学院2026年度生产实习报名",
+      "url": "https://ste.xidian.edu.cn/info/1336/15946.htm",
+      "date": "2026-06-18",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17285",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260618-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17285.htm",
+      "date": "2026-06-18",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "soe:17275",
+      "source_id": "soe",
+      "title": "光电工程学院2026年端午节假期值班安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/17275.htm",
+      "date": "2026-06-18",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "see:103961",
+      "source_id": "see",
+      "title": "电子工程学院2026年端午节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/103961.htm",
+      "date": "2026-06-18",
+      "source_name": "电子工程学院"
+    },
+    {
+      "id": "rwxy:17394",
+      "source_id": "rwxy",
+      "title": "人文学院2026年端午节假期值班安排",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17394.htm",
+      "date": "2026-06-18",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "phy:11403",
+      "source_id": "phy",
+      "title": "物理学院2026年端午节假期值班安排表",
+      "url": "https://phy.xidian.edu.cn/info/1012/11403.htm",
+      "date": "2026-06-18",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "ste:15936",
       "source_id": "ste",
