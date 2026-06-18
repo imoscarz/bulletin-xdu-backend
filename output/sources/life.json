@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-18T04:27:44.102408Z",
-    "total_notices": 94
+    "last_scraped": "2026-06-18T10:38:37.833966Z",
+    "total_notices": 95
   },
   "notices": [
+    {
+      "id": "life:17131",
+      "source_id": "life",
+      "title": "生科院2026年端午节值班安排",
+      "url": "https://life.xidian.edu.cn/info/1048/17131.htm",
+      "date": "2026-06-18"
+    },
     {
       "id": "life:17111",
       "source_id": "life",

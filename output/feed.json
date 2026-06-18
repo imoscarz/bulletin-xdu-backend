@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-06-18T04:29:16.861586+00:00",
-  "total_notices": 2979,
+  "generated_at": "2026-06-18T10:39:12.686411+00:00",
+  "total_notices": 3000,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10474",
+      "source_id": "xdwy",
+      "title": "网教院2026年端午值班表",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10474.htm",
+      "date": "2026-06-18",
+      "source_name": "网络与继续教育学院"
+    },
     {
       "id": "ste:15946",
       "source_id": "ste",
@@ -10,6 +18,14 @@
       "url": "https://ste.xidian.edu.cn/info/1336/15946.htm",
       "date": "2026-06-18",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17295",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260618-2",
+      "url": "https://soe.xidian.edu.cn/info/1095/17295.htm",
+      "date": "2026-06-18",
+      "source_name": "光电工程学院"
     },
     {
       "id": "soe:17285",
@@ -28,12 +44,100 @@
       "source_name": "光电工程学院"
     },
     {
+      "id": "sme:3615",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0618/3615.html",
+      "date": "2026-06-18",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3614",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0618/3614.html",
+      "date": "2026-06-18",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3613",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0618/3613.html",
+      "date": "2026-06-18",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3612",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0618/3612.html",
+      "date": "2026-06-18",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3611",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0618/3611.html",
+      "date": "2026-06-18",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3610",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0618/3610.html",
+      "date": "2026-06-18",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3609",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0618/3609.html",
+      "date": "2026-06-18",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3608",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026年暑期名校访学项目申报的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/xg/2026/0618/3608.html",
+      "date": "2026-06-18",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3606",
+      "source_id": "sme",
+      "title": "集成电路学部2026年端午节假期值班安排",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0618/3606.html",
+      "date": "2026-06-18",
+      "source_name": "集成电路学部"
+    },
+    {
       "id": "see:103961",
       "source_id": "see",
       "title": "电子工程学院2026年端午节假期值班安排",
       "url": "https://see.xidian.edu.cn/info/1052/103961.htm",
       "date": "2026-06-18",
       "source_name": "电子工程学院"
+    },
+    {
+      "id": "sast:20107",
+      "source_id": "sast",
+      "title": "2026年空间院端午节值班安排",
+      "url": "https://sast.xidian.edu.cn/info/1014/20107.htm",
+      "date": "2026-06-18",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:20097",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/20097.htm",
+      "date": "2026-06-18",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "rwxy:17394",
@@ -50,6 +154,70 @@
       "url": "https://phy.xidian.edu.cn/info/1012/11403.htm",
       "date": "2026-06-18",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "math:23342",
+      "source_id": "math",
+      "title": "数学与统计学院2026年端午节假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/23342.htm",
+      "date": "2026-06-18",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "life:17131",
+      "source_id": "life",
+      "title": "生科院2026年端午节值班安排",
+      "url": "https://life.xidian.edu.cn/info/1048/17131.htm",
+      "date": "2026-06-18",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "jwc:22793",
+      "source_id": "jwc",
+      "title": "关于2025~2026学年国际创新实践周本科生选课的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22793.htm",
+      "date": "2026-06-18",
+      "source_name": "教务处"
+    },
+    {
+      "id": "jgrsrc:17938",
+      "source_id": "jgrsrc",
+      "title": "党委教师工作部/人力资源部2026年端午假期值班表",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17938.htm",
+      "date": "2026-06-18",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "gr:20014",
+      "source_id": "gr",
+      "title": "研究生院/卓越工程师学院/研工部2026年（端午节）值班安排表",
+      "url": "https://gr.xidian.edu.cn/info/1073/20014.htm",
+      "date": "2026-06-18",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "eme:15746",
+      "source_id": "eme",
+      "title": "2026年机电工程学院端午节假期值班安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/15746.htm",
+      "date": "2026-06-18",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:25194",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于发放2026级硕士研究生录取通知书的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25194.htm",
+      "date": "2026-06-18",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:34502",
+      "source_id": "bksy",
+      "title": "关于2025~2026学年国际创新实践周本科生选课的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34502.htm",
+      "date": "2026-06-18",
+      "source_name": "本科生院"
     },
     {
       "id": "ste:15936",

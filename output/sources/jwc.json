@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-18T04:26:58.690494Z",
-    "total_notices": 90
+    "last_scraped": "2026-06-18T10:38:27.324455Z",
+    "total_notices": 91
   },
   "notices": [
+    {
+      "id": "jwc:22793",
+      "source_id": "jwc",
+      "title": "关于2025~2026学年国际创新实践周本科生选课的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22793.htm",
+      "date": "2026-06-18"
+    },
     {
       "id": "jwc:22743",
       "source_id": "jwc",

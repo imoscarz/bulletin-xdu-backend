@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-06-18T04:28:08.128987Z",
-    "total_notices": 122
+    "last_scraped": "2026-06-18T10:38:44.189465Z",
+    "total_notices": 123
   },
   "notices": [
+    {
+      "id": "gr:20014",
+      "source_id": "gr",
+      "title": "研究生院/卓越工程师学院/研工部2026年（端午节）值班安排表",
+      "url": "https://gr.xidian.edu.cn/info/1073/20014.htm",
+      "date": "2026-06-18"
+    },
     {
       "id": "gr:4031",
       "source_id": "gr",

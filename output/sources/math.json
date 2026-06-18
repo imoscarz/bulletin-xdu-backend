@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-06-18T04:27:07.659040Z",
-    "total_notices": 65
+    "last_scraped": "2026-06-18T10:38:30.039635Z",
+    "total_notices": 66
   },
   "notices": [
+    {
+      "id": "math:23342",
+      "source_id": "math",
+      "title": "数学与统计学院2026年端午节假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/23342.htm",
+      "date": "2026-06-18"
+    },
     {
       "id": "math:23292",
       "source_id": "math",
