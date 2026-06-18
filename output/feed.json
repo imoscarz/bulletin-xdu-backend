@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-06-18T10:39:12.686411+00:00",
-  "total_notices": 3000,
+  "generated_at": "2026-06-18T15:38:30.395245+00:00",
+  "total_notices": 3002,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10494",
+      "source_id": "xdwy",
+      "title": "关于2026年春季学期毕业论文（设计）批次选择的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10494.htm",
+      "date": "2026-06-18",
+      "source_name": "网络与继续教育学院"
+    },
     {
       "id": "xdwy:10474",
       "source_id": "xdwy",
@@ -202,6 +210,14 @@
       "url": "https://eme.xidian.edu.cn/info/1012/15746.htm",
       "date": "2026-06-18",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:25214",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年端午节假期值班安排表",
+      "url": "https://cs.xidian.edu.cn/info/1003/25214.htm",
+      "date": "2026-06-18",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "cs:25194",

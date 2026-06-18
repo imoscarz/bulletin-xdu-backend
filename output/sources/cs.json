@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-18T10:38:28.687488Z",
-    "total_notices": 115
+    "last_scraped": "2026-06-18T15:37:05.704638Z",
+    "total_notices": 116
   },
   "notices": [
+    {
+      "id": "cs:25214",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年端午节假期值班安排表",
+      "url": "https://cs.xidian.edu.cn/info/1003/25214.htm",
+      "date": "2026-06-18"
+    },
     {
       "id": "cs:25194",
       "source_id": "cs",
