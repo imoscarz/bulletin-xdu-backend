@@ -3,16 +3,44 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-22T05:00:11.652946Z",
-    "total_notices": 320
+    "last_scraped": "2026-06-22T12:14:16.200551Z",
+    "total_notices": 324
   },
   "notices": [
+    {
+      "id": "bksy:34562",
+      "source_id": "bksy",
+      "title": "关于我校学生跨校参加第十五届“挑战杯”中国大学生...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34562.htm",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "bksy:34542",
+      "source_id": "bksy",
+      "title": "关于我校学生加入外校队伍参与第十五届“挑战杯”中...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34542.htm",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "bksy:34512",
+      "source_id": "bksy",
+      "title": "关于2026年（2022级）本科优秀毕业设计（论文）评选...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34512.htm",
+      "date": "2026-06-22"
+    },
     {
       "id": "bksy:34502",
       "source_id": "bksy",
       "title": "关于2025~2026学年国际创新实践周本科生选课的通知",
       "url": "https://bksy.xidian.edu.cn/info/1003/34502.htm",
       "date": "2026-06-18"
+    },
+    {
+      "id": "bksy:34522",
+      "source_id": "bksy",
+      "title": "西安电子科技大学2026年大学生志愿服务西部计划拟录...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34522.htm",
+      "date": "2026-06-17"
     },
     {
       "id": "bksy:34492",

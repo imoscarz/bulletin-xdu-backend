@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-06-22T05:00:51.599520+00:00",
-  "total_notices": 3004,
+  "generated_at": "2026-06-22T12:15:01.658060+00:00",
+  "total_notices": 3014,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15966",
+      "source_id": "ste",
+      "title": "通信工程学院2024级卓越班学生分流工作实施方案",
+      "url": "https://ste.xidian.edu.cn/info/1336/15966.htm",
+      "date": "2026-06-22",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "ste:15956",
       "source_id": "ste",
@@ -12,12 +20,76 @@
       "source_name": "通信工程学院"
     },
     {
+      "id": "sme:3621",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2025-2026学年华润奖学金评选结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0622/3621.html",
+      "date": "2026-06-22",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3620",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0622/3620.html",
+      "date": "2026-06-22",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3619",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0622/3619.html",
+      "date": "2026-06-22",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sast:20147",
+      "source_id": "sast",
+      "title": "关于开展6月22日-28日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/20147.htm",
+      "date": "2026-06-22",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "jwc:22803",
+      "source_id": "jwc",
+      "title": "关于2026年（2022级）本科优秀毕业设计（论文）评选结果​的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22803.htm",
+      "date": "2026-06-22",
+      "source_name": "教务处"
+    },
+    {
       "id": "jgrsrc:17948",
       "source_id": "jgrsrc",
       "title": "关于开展2026年度“青年骨干教师出国研修项目”选派工作的通知",
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/17948.htm",
       "date": "2026-06-22",
       "source_name": "人才招聘"
+    },
+    {
+      "id": "bksy:34562",
+      "source_id": "bksy",
+      "title": "关于我校学生跨校参加第十五届“挑战杯”中国大学生...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34562.htm",
+      "date": "2026-06-22",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34542",
+      "source_id": "bksy",
+      "title": "关于我校学生加入外校队伍参与第十五届“挑战杯”中...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34542.htm",
+      "date": "2026-06-22",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34512",
+      "source_id": "bksy",
+      "title": "关于2026年（2022级）本科优秀毕业设计（论文）评选...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34512.htm",
+      "date": "2026-06-22",
+      "source_name": "本科生院"
     },
     {
       "id": "xdwy:10494",
@@ -346,6 +418,14 @@
       "url": "https://jsfz.xidian.edu.cn/info/1022/12092.htm",
       "date": "2026-06-17",
       "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:34522",
+      "source_id": "bksy",
+      "title": "西安电子科技大学2026年大学生志愿服务西部计划拟录...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34522.htm",
+      "date": "2026-06-17",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:34492",

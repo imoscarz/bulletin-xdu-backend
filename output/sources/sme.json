@@ -3,10 +3,31 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-06-22T05:00:51.582102Z",
-    "total_notices": 190
+    "last_scraped": "2026-06-22T12:15:01.639473Z",
+    "total_notices": 193
   },
   "notices": [
+    {
+      "id": "sme:3621",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2025-2026学年华润奖学金评选结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0622/3621.html",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "sme:3620",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0622/3620.html",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "sme:3619",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0622/3619.html",
+      "date": "2026-06-22"
+    },
     {
       "id": "sme:3615",
       "source_id": "sme",
