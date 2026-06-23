@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-23T09:52:59.697816Z",
-    "total_notices": 93
+    "last_scraped": "2026-06-23T15:12:54.245106Z",
+    "total_notices": 94
   },
   "notices": [
+    {
+      "id": "xdwy:10514",
+      "source_id": "xdwy",
+      "title": "关于2026年高等学历继续教育招生的严正声明",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10514.htm",
+      "date": "2026-06-23"
+    },
     {
       "id": "xdwy:10494",
       "source_id": "xdwy",
