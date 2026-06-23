@@ -3,10 +3,24 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-23T04:00:12.474783Z",
-    "total_notices": 91
+    "last_scraped": "2026-06-23T09:53:06.334232Z",
+    "total_notices": 93
   },
   "notices": [
+    {
+      "id": "jsfz:12162",
+      "source_id": "jsfz",
+      "title": "【教学示范】AI赋能专业核心课“造型基础”",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12162.htm",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "jsfz:12152",
+      "source_id": "jsfz",
+      "title": "【教学示范】操作系统",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12152.htm",
+      "date": "2026-06-23"
+    },
     {
       "id": "jsfz:12112",
       "source_id": "jsfz",

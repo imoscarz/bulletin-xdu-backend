@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-23T04:00:26.532680+00:00",
-  "total_notices": 3014,
+  "generated_at": "2026-06-23T09:53:18.770328+00:00",
+  "total_notices": 3019,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3622",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0623/3622.html",
+      "date": "2026-06-23",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "jsfz:12162",
+      "source_id": "jsfz",
+      "title": "【教学示范】AI赋能专业核心课“造型基础”",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12162.htm",
+      "date": "2026-06-23",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12152",
+      "source_id": "jsfz",
+      "title": "【教学示范】操作系统",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12152.htm",
+      "date": "2026-06-23",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:34592",
+      "source_id": "bksy",
+      "title": "【教学示范】AI赋能专业核心课“造型基础”",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34592.htm",
+      "date": "2026-06-23",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34582",
+      "source_id": "bksy",
+      "title": "【教学示范】操作系统",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34582.htm",
+      "date": "2026-06-23",
+      "source_name": "本科生院"
+    },
     {
       "id": "ste:15966",
       "source_id": "ste",
