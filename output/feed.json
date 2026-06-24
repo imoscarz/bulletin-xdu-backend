@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T09:40:07.066752+00:00",
-  "total_notices": 3029,
+  "generated_at": "2026-06-24T14:43:15.557710+00:00",
+  "total_notices": 3039,
   "content_limit": 5000,
   "notices": [
     {
@@ -20,6 +20,30 @@
       "source_name": "通信工程学院"
     },
     {
+      "id": "sme:3627",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0624/3627.html",
+      "date": "2026-06-24",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3626",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0624/3626.html",
+      "date": "2026-06-24",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3625",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0624/3625.html",
+      "date": "2026-06-24",
+      "source_name": "集成电路学部"
+    },
+    {
       "id": "sme:3624",
       "source_id": "sme",
       "title": "科研协作信息公示",
@@ -28,12 +52,68 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "life:17141",
+      "source_id": "life",
+      "title": "生命科学技术学院2025级生命智能英才班分流工作实施方案",
+      "url": "https://life.xidian.edu.cn/info/1048/17141.htm",
+      "date": "2026-06-24",
+      "source_name": "生命科学技术学院"
+    },
+    {
       "id": "jwc:22833",
       "source_id": "jwc",
       "title": "关于2025-2026学年第二学期国际创新周部分通识选修课停开的通知",
       "url": "https://jwc.xidian.edu.cn/info/1012/22833.htm",
       "date": "2026-06-24",
       "source_name": "教务处"
+    },
+    {
+      "id": "cs:25304",
+      "source_id": "cs",
+      "title": "2025级计算机拔尖班分流实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/25304.htm",
+      "date": "2026-06-24",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:25294",
+      "source_id": "cs",
+      "title": "2024级计算机拔尖班分流实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/25294.htm",
+      "date": "2026-06-24",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:25284",
+      "source_id": "cs",
+      "title": "2023级计算机拔尖班分流实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/25284.htm",
+      "date": "2026-06-24",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:25274",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025级卓越班学生分流工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/25274.htm",
+      "date": "2026-06-24",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:25264",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2024级卓越班学生分流工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/25264.htm",
+      "date": "2026-06-24",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:25244",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2023级卓越班学生分流工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/25244.htm",
+      "date": "2026-06-24",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "bksy:34672",

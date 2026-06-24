@@ -3,10 +3,52 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-24T09:39:14.981524Z",
-    "total_notices": 116
+    "last_scraped": "2026-06-24T14:41:42.617209Z",
+    "total_notices": 122
   },
   "notices": [
+    {
+      "id": "cs:25304",
+      "source_id": "cs",
+      "title": "2025级计算机拔尖班分流实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/25304.htm",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "cs:25294",
+      "source_id": "cs",
+      "title": "2024级计算机拔尖班分流实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/25294.htm",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "cs:25284",
+      "source_id": "cs",
+      "title": "2023级计算机拔尖班分流实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/25284.htm",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "cs:25274",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025级卓越班学生分流工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/25274.htm",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "cs:25264",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2024级卓越班学生分流工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/25264.htm",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "cs:25244",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2023级卓越班学生分流工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/25244.htm",
+      "date": "2026-06-24"
+    },
     {
       "id": "cs:25214",
       "source_id": "cs",

@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-24T09:39:27.705498Z",
-    "total_notices": 95
+    "last_scraped": "2026-06-24T14:42:05.684816Z",
+    "total_notices": 96
   },
   "notices": [
+    {
+      "id": "life:17141",
+      "source_id": "life",
+      "title": "生命科学技术学院2025级生命智能英才班分流工作实施方案",
+      "url": "https://life.xidian.edu.cn/info/1048/17141.htm",
+      "date": "2026-06-24"
+    },
     {
       "id": "life:17131",
       "source_id": "life",
