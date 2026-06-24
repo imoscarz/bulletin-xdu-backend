@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-06-23T20:12:21.222123+00:00",
-  "total_notices": 3020,
+  "generated_at": "2026-06-24T04:02:25.221775+00:00",
+  "total_notices": 3022,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15976",
+      "source_id": "ste",
+      "title": "通信工程学院关于发放2026级硕士研究生正式录取通知书的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15976.htm",
+      "date": "2026-06-24",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "bksy:34612",
+      "source_id": "bksy",
+      "title": "西安电子科技大学第十五届“挑战杯”中国大学生创业...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34612.htm",
+      "date": "2026-06-24",
+      "source_name": "本科生院"
+    },
     {
       "id": "xdwy:10514",
       "source_id": "xdwy",
