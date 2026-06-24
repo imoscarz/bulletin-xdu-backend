@@ -3,10 +3,24 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-06-24T04:01:56.080602Z",
-    "total_notices": 114
+    "last_scraped": "2026-06-24T09:39:31.657788Z",
+    "total_notices": 116
   },
   "notices": [
+    {
+      "id": "xgc:14164",
+      "source_id": "xgc",
+      "title": "关于对2025级学生大类分流学业评价综合测评最终结果进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14164.htm",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "xgc:14114",
+      "source_id": "xgc",
+      "title": "关于开展2026年本科生学习与发展调查的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14114.htm",
+      "date": "2026-06-23"
+    },
     {
       "id": "xgc:14104",
       "source_id": "xgc",

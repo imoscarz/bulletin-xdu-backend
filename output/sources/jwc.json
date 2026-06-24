@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-24T04:01:38.651103Z",
-    "total_notices": 92
+    "last_scraped": "2026-06-24T09:39:13.152057Z",
+    "total_notices": 93
   },
   "notices": [
+    {
+      "id": "jwc:22833",
+      "source_id": "jwc",
+      "title": "关于2025-2026学年第二学期国际创新周部分通识选修课停开的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22833.htm",
+      "date": "2026-06-24"
+    },
     {
       "id": "jwc:22803",
       "source_id": "jwc",

@@ -3,16 +3,37 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-24T04:01:57.242030Z",
-    "total_notices": 327
+    "last_scraped": "2026-06-24T09:39:32.941695Z",
+    "total_notices": 330
   },
   "notices": [
+    {
+      "id": "bksy:34672",
+      "source_id": "bksy",
+      "title": "关于对2025级学生大类分流学业评价综合测评最终结果...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34672.htm",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "bksy:34642",
+      "source_id": "bksy",
+      "title": "关于2025-2026学年第二学期国际创新周部分通识选修课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34642.htm",
+      "date": "2026-06-24"
+    },
     {
       "id": "bksy:34612",
       "source_id": "bksy",
       "title": "西安电子科技大学第十五届“挑战杯”中国大学生创业...",
       "url": "https://bksy.xidian.edu.cn/info/1003/34612.htm",
       "date": "2026-06-24"
+    },
+    {
+      "id": "bksy:34632",
+      "source_id": "bksy",
+      "title": "关于开展2026年本科生学习与发展调查的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34632.htm",
+      "date": "2026-06-23"
     },
     {
       "id": "bksy:34592",
