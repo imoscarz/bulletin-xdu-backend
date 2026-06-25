@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-06-25T04:03:17.550693+00:00",
-  "total_notices": 3041,
+  "generated_at": "2026-06-25T09:33:09.859050+00:00",
+  "total_notices": 3046,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:11473",
+      "source_id": "phy",
+      "title": "关于2023级物理菁英拔尖班学生分流工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11473.htm",
+      "date": "2026-06-25",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jwc:22853",
+      "source_id": "jwc",
+      "title": "西安电子科技大学计算机科学拔尖学生培养计划2.0基地——2026年“成长伙伴”国际暑期学校学员招募",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22853.htm",
+      "date": "2026-06-25",
+      "source_name": "教务处"
+    },
     {
       "id": "jwc:22843",
       "source_id": "jwc",
@@ -10,6 +26,30 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/22843.htm",
       "date": "2026-06-25",
       "source_name": "教务处"
+    },
+    {
+      "id": "gr:20154",
+      "source_id": "gr",
+      "title": "关于公布2026年春季学期研究生部分课程期末考试安排的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/20154.htm",
+      "date": "2026-06-25",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "eme:15816",
+      "source_id": "eme",
+      "title": "机电工程学院2026年拟录取博士研究生办理相关事宜的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15816.htm",
+      "date": "2026-06-25",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:34702",
+      "source_id": "bksy",
+      "title": "西安电子科技大学计算机科学拔尖学生培养计划2.0基地...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34702.htm",
+      "date": "2026-06-25",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:34692",

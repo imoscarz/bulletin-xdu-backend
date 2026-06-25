@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-25T04:02:19.029236Z",
-    "total_notices": 94
+    "last_scraped": "2026-06-25T09:31:54.897144Z",
+    "total_notices": 95
   },
   "notices": [
+    {
+      "id": "jwc:22853",
+      "source_id": "jwc",
+      "title": "西安电子科技大学计算机科学拔尖学生培养计划2.0基地——2026年“成长伙伴”国际暑期学校学员招募",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22853.htm",
+      "date": "2026-06-25"
+    },
     {
       "id": "jwc:22843",
       "source_id": "jwc",

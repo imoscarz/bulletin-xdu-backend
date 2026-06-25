@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-25T04:02:27.689780Z",
-    "total_notices": 95
+    "last_scraped": "2026-06-25T09:32:04.476184Z",
+    "total_notices": 96
   },
   "notices": [
+    {
+      "id": "phy:11473",
+      "source_id": "phy",
+      "title": "关于2023级物理菁英拔尖班学生分流工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11473.htm",
+      "date": "2026-06-25"
+    },
     {
       "id": "phy:11403",
       "source_id": "phy",
