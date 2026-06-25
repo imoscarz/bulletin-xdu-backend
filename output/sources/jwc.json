@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-24T19:52:32.297808Z",
-    "total_notices": 93
+    "last_scraped": "2026-06-25T04:02:19.029236Z",
+    "total_notices": 94
   },
   "notices": [
+    {
+      "id": "jwc:22843",
+      "source_id": "jwc",
+      "title": "关于提前做好2026～2027学年第一学期补考工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22843.htm",
+      "date": "2026-06-25"
+    },
     {
       "id": "jwc:22833",
       "source_id": "jwc",

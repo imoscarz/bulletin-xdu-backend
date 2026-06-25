@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-06-24T19:53:46.256081+00:00",
-  "total_notices": 3039,
+  "generated_at": "2026-06-25T04:03:17.550693+00:00",
+  "total_notices": 3041,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jwc:22843",
+      "source_id": "jwc",
+      "title": "关于提前做好2026～2027学年第一学期补考工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22843.htm",
+      "date": "2026-06-25",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:34692",
+      "source_id": "bksy",
+      "title": "关于提前做好2026～2027学年第一学期补考工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34692.htm",
+      "date": "2026-06-25",
+      "source_name": "本科生院"
+    },
     {
       "id": "xgc:14164",
       "source_id": "xgc",
