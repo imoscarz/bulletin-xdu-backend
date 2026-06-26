@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-06-26T04:10:04.917482Z",
-    "total_notices": 124
+    "last_scraped": "2026-06-26T09:36:57.187921Z",
+    "total_notices": 125
   },
   "notices": [
+    {
+      "id": "gr:20174",
+      "source_id": "gr",
+      "title": "关于2026年春季学期“学术规范与论文写作”、“科学道德与学风”等网上在线课程的...",
+      "url": "https://gr.xidian.edu.cn/info/1073/20174.htm",
+      "date": "2026-06-26"
+    },
     {
       "id": "gr:20154",
       "source_id": "gr",

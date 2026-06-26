@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-26T04:09:37.447314Z",
-    "total_notices": 95
+    "last_scraped": "2026-06-26T09:36:29.073514Z",
+    "total_notices": 96
   },
   "notices": [
+    {
+      "id": "jwc:22863",
+      "source_id": "jwc",
+      "title": "关于做好2024级学生科研创新课堂选课的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22863.htm",
+      "date": "2026-06-26"
+    },
     {
       "id": "jwc:22853",
       "source_id": "jwc",
