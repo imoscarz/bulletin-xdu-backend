@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-06-29T04:25:44.625876+00:00",
-  "total_notices": 3058,
+  "generated_at": "2026-06-29T11:11:09.403596+00:00",
+  "total_notices": 3062,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15996",
+      "source_id": "ste",
+      "title": "关于开展2026年度各一级学会博士/硕士学位论文激励计划的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/15996.htm",
+      "date": "2026-06-29",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17345",
+      "source_id": "soe",
+      "title": "光电工程学院关于受理2026年9月硕士学位申请工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17345.htm",
+      "date": "2026-06-29",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "soe:17335",
+      "source_id": "soe",
+      "title": "光电工程学院关于受理2026年9月博士学位申请工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17335.htm",
+      "date": "2026-06-29",
+      "source_name": "光电工程学院"
+    },
     {
       "id": "soe:17325",
       "source_id": "soe",
@@ -18,6 +42,14 @@
       "url": "https://see.xidian.edu.cn/info/1052/103991.htm",
       "date": "2026-06-29",
       "source_name": "电子工程学院"
+    },
+    {
+      "id": "sast:20397",
+      "source_id": "sast",
+      "title": "关于开展6月29日-7月5日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/20397.htm",
+      "date": "2026-06-29",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "math:23432",
