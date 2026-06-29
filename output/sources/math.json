@@ -3,10 +3,31 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-06-28T19:37:12.209245Z",
-    "total_notices": 66
+    "last_scraped": "2026-06-29T04:24:41.667661Z",
+    "total_notices": 69
   },
   "notices": [
+    {
+      "id": "math:23432",
+      "source_id": "math",
+      "title": "关于做好2025级数学类学生专业分流​工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23432.htm",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "math:23422",
+      "source_id": "math",
+      "title": "关于做好2024级与2025级信息数学拔尖班学生普通分流工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23422.htm",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "math:23412",
+      "source_id": "math",
+      "title": "关于做好2023级信息数学拔尖班预推免分流工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23412.htm",
+      "date": "2026-06-29"
+    },
     {
       "id": "math:23342",
       "source_id": "math",

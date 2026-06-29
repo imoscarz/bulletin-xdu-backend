@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-06-28T19:38:10.520096+00:00",
-  "total_notices": 3052,
+  "generated_at": "2026-06-29T04:25:44.625876+00:00",
+  "total_notices": 3058,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:17325",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260629-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17325.htm",
+      "date": "2026-06-29",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "see:103991",
+      "source_id": "see",
+      "title": "关于做好2026年春季本科教学档案归档工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/103991.htm",
+      "date": "2026-06-29",
+      "source_name": "电子工程学院"
+    },
+    {
+      "id": "math:23432",
+      "source_id": "math",
+      "title": "关于做好2025级数学类学生专业分流​工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23432.htm",
+      "date": "2026-06-29",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "math:23422",
+      "source_id": "math",
+      "title": "关于做好2024级与2025级信息数学拔尖班学生普通分流工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23422.htm",
+      "date": "2026-06-29",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "math:23412",
+      "source_id": "math",
+      "title": "关于做好2023级信息数学拔尖班预推免分流工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23412.htm",
+      "date": "2026-06-29",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "eme:15846",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260629",
+      "url": "https://eme.xidian.edu.cn/info/1012/15846.htm",
+      "date": "2026-06-29",
+      "source_name": "机电工程学院"
+    },
     {
       "id": "phy:11493",
       "source_id": "phy",
