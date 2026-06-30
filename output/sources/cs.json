@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-30T09:49:24.732543Z",
-    "total_notices": 122
+    "last_scraped": "2026-06-30T14:28:43.686466Z",
+    "total_notices": 123
   },
   "notices": [
+    {
+      "id": "cs:25344",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院本科生2024级转专业实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/25344.htm",
+      "date": "2026-06-30"
+    },
     {
       "id": "cs:25304",
       "source_id": "cs",

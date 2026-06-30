@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T09:50:27.979412+00:00",
-  "total_notices": 3071,
+  "generated_at": "2026-06-30T14:30:10.459158+00:00",
+  "total_notices": 3072,
   "content_limit": 5000,
   "notices": [
     {
@@ -50,6 +50,14 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/22873.htm",
       "date": "2026-06-30",
       "source_name": "教务处"
+    },
+    {
+      "id": "cs:25344",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院本科生2024级转专业实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/25344.htm",
+      "date": "2026-06-30",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "bksy:34732",
