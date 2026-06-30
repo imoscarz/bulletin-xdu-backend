@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-30T04:04:33.984131Z",
-    "total_notices": 118
+    "last_scraped": "2026-06-30T09:49:35.448335Z",
+    "total_notices": 119
   },
   "notices": [
+    {
+      "id": "sem:14991",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2024级本科生转专业通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/14991.htm",
+      "date": "2026-06-30"
+    },
     {
       "id": "sem:14981",
       "source_id": "sem",

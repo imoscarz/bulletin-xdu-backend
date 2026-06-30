@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-30T04:04:20.436394Z",
-    "total_notices": 97
+    "last_scraped": "2026-06-30T09:49:16.724175Z",
+    "total_notices": 98
   },
   "notices": [
+    {
+      "id": "jwc:22883",
+      "source_id": "jwc",
+      "title": "关于开展2024级本科生转专业工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22883.htm",
+      "date": "2026-06-30"
+    },
     {
       "id": "jwc:22873",
       "source_id": "jwc",
