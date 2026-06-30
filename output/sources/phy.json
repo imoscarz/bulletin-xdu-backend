@@ -3,10 +3,24 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-29T20:05:50.061598Z",
-    "total_notices": 98
+    "last_scraped": "2026-06-30T04:04:27.315375Z",
+    "total_notices": 100
   },
   "notices": [
+    {
+      "id": "phy:11563",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260630-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/11563.htm",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "phy:11553",
+      "source_id": "phy",
+      "title": "关于开展物理学院2025级实验班分流工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11553.htm",
+      "date": "2026-06-30"
+    },
     {
       "id": "phy:11493",
       "source_id": "phy",

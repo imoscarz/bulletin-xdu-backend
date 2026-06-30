@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-29T20:06:05.469283Z",
-    "total_notices": 333
+    "last_scraped": "2026-06-30T04:04:41.237805Z",
+    "total_notices": 334
   },
   "notices": [
+    {
+      "id": "bksy:34722",
+      "source_id": "bksy",
+      "title": "关于我校教师跨校参与重庆市2026年高等教育（本科）...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34722.htm",
+      "date": "2026-06-30"
+    },
     {
       "id": "bksy:34712",
       "source_id": "bksy",

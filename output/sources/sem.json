@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-06-29T20:05:52.537970Z",
-    "total_notices": 117
+    "last_scraped": "2026-06-30T04:04:33.984131Z",
+    "total_notices": 118
   },
   "notices": [
+    {
+      "id": "sem:14981",
+      "source_id": "sem",
+      "title": "第五届中国研究生“双碳”创新与创意大赛西安电子科技大学校内赛执行方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/14981.htm",
+      "date": "2026-06-30"
+    },
     {
       "id": "sem:14811",
       "source_id": "sem",
