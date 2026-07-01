@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-07-01T04:20:43.930029Z",
-    "total_notices": 151
+    "last_scraped": "2026-07-01T09:58:43.600375Z",
+    "total_notices": 152
   },
   "notices": [
+    {
+      "id": "eme:15856",
+      "source_id": "eme",
+      "title": "机电工程学院2026年职称评审推荐人选公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15856.htm",
+      "date": "2026-07-01"
+    },
     {
       "id": "eme:15846",
       "source_id": "eme",

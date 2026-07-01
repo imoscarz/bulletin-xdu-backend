@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-07-01T04:21:12.853226+00:00",
-  "total_notices": 3074,
+  "generated_at": "2026-07-01T09:59:12.314056+00:00",
+  "total_notices": 3076,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:17365",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260701-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17365.htm",
+      "date": "2026-07-01",
+      "source_name": "光电工程学院"
+    },
     {
       "id": "jgrsrc:17998",
       "source_id": "jgrsrc",
@@ -18,6 +26,14 @@
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/17988.htm",
       "date": "2026-07-01",
       "source_name": "人才招聘"
+    },
+    {
+      "id": "eme:15856",
+      "source_id": "eme",
+      "title": "机电工程学院2026年职称评审推荐人选公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15856.htm",
+      "date": "2026-07-01",
+      "source_name": "机电工程学院"
     },
     {
       "id": "sem:14991",
