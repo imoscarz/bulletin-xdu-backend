@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-06-30T20:05:55.124839+00:00",
-  "total_notices": 3072,
+  "generated_at": "2026-07-01T04:21:12.853226+00:00",
+  "total_notices": 3074,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jgrsrc:17998",
+      "source_id": "jgrsrc",
+      "title": "关于2026年国家公派出国留学外语培训秋季班报名的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17998.htm",
+      "date": "2026-07-01",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "jgrsrc:17988",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年单位选派出国留学项目申报的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17988.htm",
+      "date": "2026-07-01",
+      "source_name": "人才招聘"
+    },
     {
       "id": "sem:14991",
       "source_id": "sem",
