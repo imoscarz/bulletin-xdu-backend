@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-07-02T04:00:58.551139+00:00",
-  "total_notices": 3078,
+  "generated_at": "2026-07-02T09:22:02.522939+00:00",
+  "total_notices": 3083,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16056",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16056.htm",
+      "date": "2026-07-02",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3632",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0702/3632.html",
+      "date": "2026-07-02",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sfl:17948",
+      "source_id": "sfl",
+      "title": "西安电子科技大学语言智能学部国际预科教育中心招聘兼职汉语教师",
+      "url": "https://sfl.xidian.edu.cn/info/1031/17948.htm",
+      "date": "2026-07-02",
+      "source_name": "语言智能学部"
+    },
+    {
+      "id": "sem:15031",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院CPA菁英班2026级提前批招生公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/15031.htm",
+      "date": "2026-07-02",
+      "source_name": "经济与管理学院"
+    },
     {
       "id": "sai:25582",
       "source_id": "sai",
@@ -26,6 +58,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/17365.htm",
       "date": "2026-07-01",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3631",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0702/3631.html",
+      "date": "2026-07-01",
+      "source_name": "集成电路学部"
     },
     {
       "id": "jgrsrc:17998",

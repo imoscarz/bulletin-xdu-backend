@@ -3,10 +3,17 @@
     "source_id": "sfl",
     "name": "语言智能学部",
     "url": "https://sfl.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-02T04:00:12.662641Z",
-    "total_notices": 58
+    "last_scraped": "2026-07-02T09:21:11.830697Z",
+    "total_notices": 59
   },
   "notices": [
+    {
+      "id": "sfl:17948",
+      "source_id": "sfl",
+      "title": "西安电子科技大学语言智能学部国际预科教育中心招聘兼职汉语教师",
+      "url": "https://sfl.xidian.edu.cn/info/1031/17948.htm",
+      "date": "2026-07-02"
+    },
     {
       "id": "sfl:16948",
       "source_id": "sfl",

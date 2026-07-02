@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-02T04:00:09.283710Z",
-    "total_notices": 119
+    "last_scraped": "2026-07-02T09:21:10.181582Z",
+    "total_notices": 120
   },
   "notices": [
+    {
+      "id": "sem:15031",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院CPA菁英班2026级提前批招生公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/15031.htm",
+      "date": "2026-07-02"
+    },
     {
       "id": "sem:14991",
       "source_id": "sem",
