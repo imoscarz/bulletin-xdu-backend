@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-07-01T20:03:23.259604+00:00",
-  "total_notices": 3076,
+  "generated_at": "2026-07-02T04:00:58.551139+00:00",
+  "total_notices": 3078,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sai:25582",
+      "source_id": "sai",
+      "title": "人工智能学院2024级本科生转专业工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/25582.htm",
+      "date": "2026-07-02",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "life:17161",
+      "source_id": "life",
+      "title": "生命科学技术学院2024级本科生转专业工作实施细则",
+      "url": "https://life.xidian.edu.cn/info/1048/17161.htm",
+      "date": "2026-07-02",
+      "source_name": "生命科学技术学院"
+    },
     {
       "id": "soe:17365",
       "source_id": "soe",

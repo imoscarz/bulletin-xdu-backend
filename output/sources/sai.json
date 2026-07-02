@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-01T20:02:33.849326Z",
-    "total_notices": 135
+    "last_scraped": "2026-07-02T04:00:17.668332Z",
+    "total_notices": 136
   },
   "notices": [
+    {
+      "id": "sai:25582",
+      "source_id": "sai",
+      "title": "人工智能学院2024级本科生转专业工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/25582.htm",
+      "date": "2026-07-02"
+    },
     {
       "id": "sai:25232",
       "source_id": "sai",
