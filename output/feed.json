@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T09:22:02.522939+00:00",
-  "total_notices": 3083,
+  "generated_at": "2026-07-02T14:13:21.339213+00:00",
+  "total_notices": 3084,
   "content_limit": 5000,
   "notices": [
     {
@@ -42,6 +42,14 @@
       "url": "https://sai.xidian.edu.cn/info/1106/25582.htm",
       "date": "2026-07-02",
       "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:11583",
+      "source_id": "phy",
+      "title": "物理学院关于2026年专业技术职务推荐评审结果公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11583.htm",
+      "date": "2026-07-02",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "life:17161",
