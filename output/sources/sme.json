@@ -3,10 +3,24 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-07-02T19:39:50.025324Z",
-    "total_notices": 201
+    "last_scraped": "2026-07-03T03:45:15.655103Z",
+    "total_notices": 203
   },
   "notices": [
+    {
+      "id": "sme:3634",
+      "source_id": "sme",
+      "title": "集成电路学部2026年度暑期新加坡访学项目资助名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/zs/2026/0703/3634.html",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "sme:3633",
+      "source_id": "sme",
+      "title": "关于集成电路学部机关办公地点搬迁的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0703/3633.html",
+      "date": "2026-07-03"
+    },
     {
       "id": "sme:3632",
       "source_id": "sme",

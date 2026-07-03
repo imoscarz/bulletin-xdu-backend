@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-07-02T19:39:16.313637Z",
-    "total_notices": 116
+    "last_scraped": "2026-07-03T03:44:33.316083Z",
+    "total_notices": 117
   },
   "notices": [
+    {
+      "id": "xgc:14194",
+      "source_id": "xgc",
+      "title": "关于公布2026年本科毕业生基层就业学费补偿和国家助学贷款代偿学校初审通过名单的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14194.htm",
+      "date": "2026-07-03"
+    },
     {
       "id": "xgc:14164",
       "source_id": "xgc",
