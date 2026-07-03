@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-03T03:44:20.897073Z",
-    "total_notices": 101
+    "last_scraped": "2026-07-03T09:26:31.533129Z",
+    "total_notices": 102
   },
   "notices": [
+    {
+      "id": "phy:11603",
+      "source_id": "phy",
+      "title": "物理学院关于公布2024级转专业对转入学生考核方案的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11603.htm",
+      "date": "2026-07-03"
+    },
     {
       "id": "phy:11583",
       "source_id": "phy",

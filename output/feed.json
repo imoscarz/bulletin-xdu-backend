@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-07-03T03:45:15.674613+00:00",
-  "total_notices": 3091,
+  "generated_at": "2026-07-03T09:27:44.037429+00:00",
+  "total_notices": 3096,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14214",
+      "source_id": "xgc",
+      "title": "关于公布2026年本科毕业生基层就业学费补偿和国家助学贷款代偿学校初审通过名单（第一批）的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14214.htm",
+      "date": "2026-07-03",
+      "source_name": "学生工作处"
+    },
     {
       "id": "xgc:14194",
       "source_id": "xgc",
@@ -10,6 +18,14 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14194.htm",
       "date": "2026-07-03",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "soe:17385",
+      "source_id": "soe",
+      "title": "光电工程学院2026年专业技术职务推荐评审结果公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/17385.htm",
+      "date": "2026-07-03",
+      "source_name": "光电工程学院"
     },
     {
       "id": "sme:3634",
@@ -26,6 +42,14 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0703/3633.html",
       "date": "2026-07-03",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "phy:11603",
+      "source_id": "phy",
+      "title": "物理学院关于公布2024级转专业对转入学生考核方案的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11603.htm",
+      "date": "2026-07-03",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "eme:15906",
@@ -52,12 +76,28 @@
       "source_name": "机电工程学院"
     },
     {
+      "id": "bksy:34782",
+      "source_id": "bksy",
+      "title": "关于公布2026年本科毕业生基层就业学费补偿和国家助...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34782.htm",
+      "date": "2026-07-03",
+      "source_name": "本科生院"
+    },
+    {
       "id": "bksy:34762",
       "source_id": "bksy",
       "title": "关于公布2026年本科毕业生基层就业学费补偿和国家助...",
       "url": "https://bksy.xidian.edu.cn/info/1003/34762.htm",
       "date": "2026-07-03",
       "source_name": "本科生院"
+    },
+    {
+      "id": "amn:19142",
+      "source_id": "amn",
+      "title": "关于做好先进材料与纳米科技学院2025级师昌绪电子材料菁英班分流工作的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/19142.htm",
+      "date": "2026-07-03",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "ste:16056",
