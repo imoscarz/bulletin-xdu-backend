@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-04T08:43:58.859935Z",
-    "total_notices": 102
+    "last_scraped": "2026-07-04T13:44:33.398511Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "phy:11613",
+      "source_id": "phy",
+      "title": "关于选拔教师工作助理的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11613.htm",
+      "date": "2026-07-04"
+    },
     {
       "id": "phy:11603",
       "source_id": "phy",

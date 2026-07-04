@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-07-04T08:44:51.498015+00:00",
-  "total_notices": 3098,
+  "generated_at": "2026-07-04T13:45:36.489223+00:00",
+  "total_notices": 3099,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:11613",
+      "source_id": "phy",
+      "title": "关于选拔教师工作助理的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11613.htm",
+      "date": "2026-07-04",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "xgc:14214",
       "source_id": "xgc",
