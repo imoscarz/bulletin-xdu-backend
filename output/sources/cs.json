@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-05T19:24:50.456041Z",
-    "total_notices": 123
+    "last_scraped": "2026-07-06T04:02:07.655266Z",
+    "total_notices": 124
   },
   "notices": [
+    {
+      "id": "cs:25464",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于发放2026级博士研究生录取通知书的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25464.htm",
+      "date": "2026-07-06"
+    },
     {
       "id": "cs:25344",
       "source_id": "cs",
