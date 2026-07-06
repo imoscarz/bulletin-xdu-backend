@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T10:49:00.712705+00:00",
-  "total_notices": 3110,
+  "generated_at": "2026-07-06T15:44:28.273810+00:00",
+  "total_notices": 3111,
   "content_limit": 5000,
   "notices": [
     {
@@ -58,6 +58,14 @@
       "url": "https://sie.xidian.edu.cn/info/1130/7595.htm",
       "date": "2026-07-06",
       "source_name": "国际教育学院"
+    },
+    {
+      "id": "imse:6741",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年职称评审推荐人选公示",
+      "url": "https://imse.xidian.edu.cn/info/1030/6741.htm",
+      "date": "2026-07-06",
+      "source_name": "信息力学与感知工程学院"
     },
     {
       "id": "cs:25504",
