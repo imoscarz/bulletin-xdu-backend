@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-07-06T04:02:55.851404+00:00",
-  "total_notices": 3102,
+  "generated_at": "2026-07-06T10:49:00.712705+00:00",
+  "total_notices": 3110,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16136",
+      "source_id": "ste",
+      "title": "通信工程学院  2024级本科生转专业实施细则",
+      "url": "https://ste.xidian.edu.cn/info/1336/16136.htm",
+      "date": "2026-07-06",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16126",
+      "source_id": "ste",
+      "title": "通信工程学院2024级转专业学生选拔工作安排",
+      "url": "https://ste.xidian.edu.cn/info/1336/16126.htm",
+      "date": "2026-07-06",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17415",
+      "source_id": "soe",
+      "title": "西安电子科技大学2024级转专业学院对转入学生的考核方案——光电工程学院",
+      "url": "https://soe.xidian.edu.cn/info/1095/17415.htm",
+      "date": "2026-07-06",
+      "source_name": "光电工程学院"
+    },
     {
       "id": "soe:17395",
       "source_id": "soe",
@@ -12,12 +36,44 @@
       "source_name": "光电工程学院"
     },
     {
+      "id": "sme:3637",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0706/3637.html",
+      "date": "2026-07-06",
+      "source_name": "集成电路学部"
+    },
+    {
       "id": "sme:3636",
       "source_id": "sme",
       "title": "集成电路学部2026年专业技术职务评审推荐结果公示",
       "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0706/3636.html",
       "date": "2026-07-06",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "sie:7595",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于推荐海外孔子学院公派出国教师人选的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/7595.htm",
+      "date": "2026-07-06",
+      "source_name": "国际教育学院"
+    },
+    {
+      "id": "cs:25504",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年专业技术职务专任教师系列推荐评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/25504.htm",
+      "date": "2026-07-06",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:25484",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院本科生2024级转专业机试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25484.htm",
+      "date": "2026-07-06",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "cs:25464",
@@ -242,6 +298,14 @@
       "url": "https://eme.xidian.edu.cn/info/1012/15856.htm",
       "date": "2026-07-01",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:34802",
+      "source_id": "bksy",
+      "title": "关于西安电子科技大学2026年陕西省大学生到省级机关...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34802.htm",
+      "date": "2026-07-01",
+      "source_name": "本科生院"
     },
     {
       "id": "sem:14991",

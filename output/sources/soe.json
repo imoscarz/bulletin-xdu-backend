@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-07-06T04:02:13.073446Z",
-    "total_notices": 76
+    "last_scraped": "2026-07-06T10:47:54.741430Z",
+    "total_notices": 77
   },
   "notices": [
+    {
+      "id": "soe:17415",
+      "source_id": "soe",
+      "title": "西安电子科技大学2024级转专业学院对转入学生的考核方案——光电工程学院",
+      "url": "https://soe.xidian.edu.cn/info/1095/17415.htm",
+      "date": "2026-07-06"
+    },
     {
       "id": "soe:17395",
       "source_id": "soe",

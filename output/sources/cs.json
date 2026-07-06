@@ -3,10 +3,24 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-06T04:02:07.655266Z",
-    "total_notices": 124
+    "last_scraped": "2026-07-06T10:47:35.663957Z",
+    "total_notices": 126
   },
   "notices": [
+    {
+      "id": "cs:25504",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年专业技术职务专任教师系列推荐评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/25504.htm",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "cs:25484",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院本科生2024级转专业机试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25484.htm",
+      "date": "2026-07-06"
+    },
     {
       "id": "cs:25464",
       "source_id": "cs",

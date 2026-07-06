@@ -3,10 +3,24 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-06T04:02:45.287599Z",
-    "total_notices": 137
+    "last_scraped": "2026-07-06T10:48:46.076288Z",
+    "total_notices": 139
   },
   "notices": [
+    {
+      "id": "ste:16136",
+      "source_id": "ste",
+      "title": "通信工程学院  2024级本科生转专业实施细则",
+      "url": "https://ste.xidian.edu.cn/info/1336/16136.htm",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "ste:16126",
+      "source_id": "ste",
+      "title": "通信工程学院2024级转专业学生选拔工作安排",
+      "url": "https://ste.xidian.edu.cn/info/1336/16126.htm",
+      "date": "2026-07-06"
+    },
     {
       "id": "ste:16096",
       "source_id": "ste",
