@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-07-07T03:54:00.797130+00:00",
-  "total_notices": 3116,
+  "generated_at": "2026-07-07T09:51:37.239609+00:00",
+  "total_notices": 3124,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14234",
+      "source_id": "xgc",
+      "title": "关于2026年暑假期间资助政策咨询工作安排的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14234.htm",
+      "date": "2026-07-07",
+      "source_name": "学生工作处"
+    },
     {
       "id": "soe:17425",
       "source_id": "soe",
@@ -10,6 +18,30 @@
       "url": "https://soe.xidian.edu.cn/info/1095/17425.htm",
       "date": "2026-07-07",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3643",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0707/3643.html",
+      "date": "2026-07-07",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3642",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0707/3642.html",
+      "date": "2026-07-07",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3641",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0707/3641.html",
+      "date": "2026-07-07",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3639",
@@ -28,6 +60,14 @@
       "source_name": "经济与管理学院"
     },
     {
+      "id": "sai:25632",
+      "source_id": "sai",
+      "title": "人工智能学院2026年职称评审推荐人选公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/25632.htm",
+      "date": "2026-07-07",
+      "source_name": "人工智能学院"
+    },
+    {
       "id": "rwxy:17584",
       "source_id": "rwxy",
       "title": "2026年度汉语言文学专业接收本科生转专业方案",
@@ -36,12 +76,36 @@
       "source_name": "人文学院"
     },
     {
+      "id": "life:17181",
+      "source_id": "life",
+      "title": "生命科学技术学院2024级本科生转专业面试安排",
+      "url": "https://life.xidian.edu.cn/info/1048/17181.htm",
+      "date": "2026-07-07",
+      "source_name": "生命科学技术学院"
+    },
+    {
       "id": "eme:15936",
       "source_id": "eme",
       "title": "机电工程学院2024级本科生转专业面试通知",
       "url": "https://eme.xidian.edu.cn/info/1012/15936.htm",
       "date": "2026-07-07",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:34862",
+      "source_id": "bksy",
+      "title": "2026级实验班选拔相关情况的说明",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34862.htm",
+      "date": "2026-07-07",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34842",
+      "source_id": "bksy",
+      "title": "关于2026年暑假期间资助政策咨询工作安排的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34842.htm",
+      "date": "2026-07-07",
+      "source_name": "本科生院"
     },
     {
       "id": "ste:16136",

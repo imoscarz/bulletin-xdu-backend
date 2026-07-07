@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-07T03:53:27.231624Z",
-    "total_notices": 338
+    "last_scraped": "2026-07-07T09:51:08.008725Z",
+    "total_notices": 340
   },
   "notices": [
+    {
+      "id": "bksy:34862",
+      "source_id": "bksy",
+      "title": "2026级实验班选拔相关情况的说明",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34862.htm",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "bksy:34842",
+      "source_id": "bksy",
+      "title": "关于2026年暑假期间资助政策咨询工作安排的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34842.htm",
+      "date": "2026-07-07"
+    },
     {
       "id": "bksy:34782",
       "source_id": "bksy",

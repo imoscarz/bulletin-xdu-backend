@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-07T03:53:19.701181Z",
-    "total_notices": 97
+    "last_scraped": "2026-07-07T09:51:02.020205Z",
+    "total_notices": 98
   },
   "notices": [
+    {
+      "id": "life:17181",
+      "source_id": "life",
+      "title": "生命科学技术学院2024级本科生转专业面试安排",
+      "url": "https://life.xidian.edu.cn/info/1048/17181.htm",
+      "date": "2026-07-07"
+    },
     {
       "id": "life:17161",
       "source_id": "life",

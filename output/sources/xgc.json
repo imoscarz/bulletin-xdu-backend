@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-07-07T03:53:25.423632Z",
-    "total_notices": 118
+    "last_scraped": "2026-07-07T09:51:05.838574Z",
+    "total_notices": 119
   },
   "notices": [
+    {
+      "id": "xgc:14234",
+      "source_id": "xgc",
+      "title": "关于2026年暑假期间资助政策咨询工作安排的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14234.htm",
+      "date": "2026-07-07"
+    },
     {
       "id": "xgc:14214",
       "source_id": "xgc",
