@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-06T20:04:41.560860Z",
-    "total_notices": 120
+    "last_scraped": "2026-07-07T03:53:17.290915Z",
+    "total_notices": 121
   },
   "notices": [
+    {
+      "id": "sem:15071",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2024级本科生转专业选拔工作安排",
+      "url": "https://sem.xidian.edu.cn/info/1536/15071.htm",
+      "date": "2026-07-07"
+    },
     {
       "id": "sem:15031",
       "source_id": "sem",

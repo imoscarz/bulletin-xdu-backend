@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-07-06T20:04:40.056735Z",
-    "total_notices": 77
+    "last_scraped": "2026-07-07T03:53:15.363914Z",
+    "total_notices": 78
   },
   "notices": [
+    {
+      "id": "soe:17425",
+      "source_id": "soe",
+      "title": "光电工程学院2024级转专业学生选拔面试通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17425.htm",
+      "date": "2026-07-07"
+    },
     {
       "id": "soe:17415",
       "source_id": "soe",

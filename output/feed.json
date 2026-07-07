@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-07-06T20:05:15.358380+00:00",
-  "total_notices": 3111,
+  "generated_at": "2026-07-07T03:54:00.797130+00:00",
+  "total_notices": 3116,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:17425",
+      "source_id": "soe",
+      "title": "光电工程学院2024级转专业学生选拔面试通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17425.htm",
+      "date": "2026-07-07",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3639",
+      "source_id": "sme",
+      "title": "集成电路学部关于2024级本科生转专业面试安排的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0707/3639.html",
+      "date": "2026-07-07",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sem:15071",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2024级本科生转专业选拔工作安排",
+      "url": "https://sem.xidian.edu.cn/info/1536/15071.htm",
+      "date": "2026-07-07",
+      "source_name": "经济与管理学院"
+    },
+    {
+      "id": "rwxy:17584",
+      "source_id": "rwxy",
+      "title": "2026年度汉语言文学专业接收本科生转专业方案",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17584.htm",
+      "date": "2026-07-07",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "eme:15936",
+      "source_id": "eme",
+      "title": "机电工程学院2024级本科生转专业面试通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15936.htm",
+      "date": "2026-07-07",
+      "source_name": "机电工程学院"
+    },
     {
       "id": "ste:16136",
       "source_id": "ste",
