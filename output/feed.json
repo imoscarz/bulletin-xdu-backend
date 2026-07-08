@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T08:37:32.120717+00:00",
-  "total_notices": 3130,
+  "generated_at": "2026-07-08T14:27:01.053905+00:00",
+  "total_notices": 3134,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14254.htm",
       "date": "2026-07-08",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "sme:3644",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2026年晋江奖学金申报评选工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0708/3644.html",
+      "date": "2026-07-08",
+      "source_name": "集成电路学部"
     },
     {
       "id": "jsfz:12172",
@@ -26,6 +34,14 @@
       "url": "https://eme.xidian.edu.cn/info/1012/15956.htm",
       "date": "2026-07-08",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:25534",
+      "source_id": "cs",
+      "title": "关于2026～2028年教师岗位聘任方案以及绩效工资考核分配实施办法公示的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25534.htm",
+      "date": "2026-07-08",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "cs:25514",
@@ -58,6 +74,22 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14234.htm",
       "date": "2026-07-07",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "ste:16176",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16176.htm",
+      "date": "2026-07-07",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16166",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16166.htm",
+      "date": "2026-07-07",
+      "source_name": "通信工程学院"
     },
     {
       "id": "soe:17425",

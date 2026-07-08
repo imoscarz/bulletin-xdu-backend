@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-08T08:36:28.023298Z",
-    "total_notices": 127
+    "last_scraped": "2026-07-08T14:25:51.890461Z",
+    "total_notices": 128
   },
   "notices": [
+    {
+      "id": "cs:25534",
+      "source_id": "cs",
+      "title": "关于2026～2028年教师岗位聘任方案以及绩效工资考核分配实施办法公示的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25534.htm",
+      "date": "2026-07-08"
+    },
     {
       "id": "cs:25514",
       "source_id": "cs",
