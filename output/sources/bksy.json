@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-07T20:03:04.887093Z",
-    "total_notices": 340
+    "last_scraped": "2026-07-08T03:20:05.014144Z",
+    "total_notices": 342
   },
   "notices": [
+    {
+      "id": "bksy:34912",
+      "source_id": "bksy",
+      "title": "关于对2026～2027学年第一学期西安电子科技大学优质...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34912.htm",
+      "date": "2026-07-08"
+    },
+    {
+      "id": "bksy:34902",
+      "source_id": "bksy",
+      "title": "关于做好2026年国家助学贷款续贷相关工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34902.htm",
+      "date": "2026-07-08"
+    },
     {
       "id": "bksy:34862",
       "source_id": "bksy",

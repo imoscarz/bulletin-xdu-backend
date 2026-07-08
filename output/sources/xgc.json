@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-07-07T20:03:03.771963Z",
-    "total_notices": 119
+    "last_scraped": "2026-07-08T03:20:03.665614Z",
+    "total_notices": 120
   },
   "notices": [
+    {
+      "id": "xgc:14254",
+      "source_id": "xgc",
+      "title": "关于做好2026年国家助学贷款续贷相关工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14254.htm",
+      "date": "2026-07-08"
+    },
     {
       "id": "xgc:14234",
       "source_id": "xgc",

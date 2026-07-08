@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-07T20:03:22.801978Z",
-    "total_notices": 93
+    "last_scraped": "2026-07-08T03:20:29.011302Z",
+    "total_notices": 94
   },
   "notices": [
+    {
+      "id": "jsfz:12172",
+      "source_id": "jsfz",
+      "title": "关于对2026～2027学年第一学期西安电子科技大学优质示范课观摩班暨教育部教师司中西部高校青年教师融合式教学进修项目遴选结果进行公示的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12172.htm",
+      "date": "2026-07-08"
+    },
     {
       "id": "jsfz:12162",
       "source_id": "jsfz",
