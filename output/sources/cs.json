@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-08T03:19:43.140052Z",
-    "total_notices": 126
+    "last_scraped": "2026-07-08T08:36:28.023298Z",
+    "total_notices": 127
   },
   "notices": [
+    {
+      "id": "cs:25514",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院本科生2024级转专业面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25514.htm",
+      "date": "2026-07-08"
+    },
     {
       "id": "cs:25504",
       "source_id": "cs",

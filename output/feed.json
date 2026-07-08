@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T03:20:44.444220+00:00",
-  "total_notices": 3128,
+  "generated_at": "2026-07-08T08:37:32.120717+00:00",
+  "total_notices": 3130,
   "content_limit": 5000,
   "notices": [
     {
@@ -18,6 +18,22 @@
       "url": "https://jsfz.xidian.edu.cn/info/1022/12172.htm",
       "date": "2026-07-08",
       "source_name": "教师发展中心"
+    },
+    {
+      "id": "eme:15956",
+      "source_id": "eme",
+      "title": "机电工程学院2026~2028年教师岗位聘任方案公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15956.htm",
+      "date": "2026-07-08",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:25514",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院本科生2024级转专业面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25514.htm",
+      "date": "2026-07-08",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "bksy:34912",
