@@ -3,8 +3,8 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-09T03:46:19.421572Z",
-    "total_notices": 342
+    "last_scraped": "2026-07-09T09:48:50.164246Z",
+    "total_notices": 343
   },
   "notices": [
     {
@@ -55,6 +55,13 @@
       "title": "关于西安电子科技大学2026年陕西省大学生到省级机关...",
       "url": "https://bksy.xidian.edu.cn/info/1003/34802.htm",
       "date": "2026-07-01"
+    },
+    {
+      "id": "bksy:34922",
+      "source_id": "bksy",
+      "title": "关于我校教师跨校参与重庆市2026年高等教育（本科）...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34922.htm",
+      "date": "2026-06-30"
     },
     {
       "id": "bksy:34732",

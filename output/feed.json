@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-07-09T03:47:08.762013+00:00",
-  "total_notices": 3135,
+  "generated_at": "2026-07-09T09:49:34.317771+00:00",
+  "total_notices": 3141,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10634",
+      "source_id": "xdwy",
+      "title": "关于2026年春季学期毕业论文（设计）题目选择的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10634.htm",
+      "date": "2026-07-09",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:16186",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16186.htm",
+      "date": "2026-07-09",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3647",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0709/3647.html",
+      "date": "2026-07-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3646",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0709/3646.html",
+      "date": "2026-07-09",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "imse:6791",
       "source_id": "imse",
@@ -10,6 +42,14 @@
       "url": "https://imse.xidian.edu.cn/info/1030/6791.htm",
       "date": "2026-07-09",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "gr:20334",
+      "source_id": "gr",
+      "title": "西安电子科技大学2026年同等学力人员申请硕士学位注册简章",
+      "url": "https://gr.xidian.edu.cn/info/1073/20334.htm",
+      "date": "2026-07-09",
+      "source_name": "研究生院"
     },
     {
       "id": "xgc:14254",
@@ -562,6 +602,14 @@
       "url": "https://cs.xidian.edu.cn/info/1003/25344.htm",
       "date": "2026-06-30",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:34922",
+      "source_id": "bksy",
+      "title": "关于我校教师跨校参与重庆市2026年高等教育（本科）...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34922.htm",
+      "date": "2026-06-30",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:34732",
