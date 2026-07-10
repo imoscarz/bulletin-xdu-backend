@@ -3,10 +3,17 @@
     "source_id": "hqbzb",
     "name": "后勤保障部",
     "url": "https://hqbzb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-10T09:44:57.518452Z",
-    "total_notices": 82
+    "last_scraped": "2026-07-10T14:40:05.862053Z",
+    "total_notices": 83
   },
   "notices": [
+    {
+      "id": "hqbzb:8216",
+      "source_id": "hqbzb",
+      "title": "关于做好高温、强对流天气安全防范的提示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8216.htm",
+      "date": "2026-07-10"
+    },
     {
       "id": "hqbzb:8066",
       "source_id": "hqbzb",

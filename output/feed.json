@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T09:45:07.312651+00:00",
-  "total_notices": 3148,
+  "generated_at": "2026-07-10T14:40:19.073718+00:00",
+  "total_notices": 3149,
   "content_limit": 5000,
   "notices": [
     {
@@ -42,6 +42,14 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/22913.htm",
       "date": "2026-07-10",
       "source_name": "教务处"
+    },
+    {
+      "id": "hqbzb:8216",
+      "source_id": "hqbzb",
+      "title": "关于做好高温、强对流天气安全防范的提示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8216.htm",
+      "date": "2026-07-10",
+      "source_name": "后勤保障部"
     },
     {
       "id": "bksy:34932",
