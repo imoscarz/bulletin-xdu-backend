@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-09T19:53:00.091643Z",
-    "total_notices": 343
+    "last_scraped": "2026-07-10T03:48:14.378427Z",
+    "total_notices": 344
   },
   "notices": [
+    {
+      "id": "bksy:34932",
+      "source_id": "bksy",
+      "title": "关于2024级本科生转专业拟录取学生名单的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34932.htm",
+      "date": "2026-07-10"
+    },
     {
       "id": "bksy:34912",
       "source_id": "bksy",

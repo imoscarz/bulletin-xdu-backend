@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-09T19:52:35.603661Z",
-    "total_notices": 98
+    "last_scraped": "2026-07-10T03:47:49.809987Z",
+    "total_notices": 99
   },
   "notices": [
+    {
+      "id": "jwc:22913",
+      "source_id": "jwc",
+      "title": "关于2024级本科生转专业拟录取学生名单的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22913.htm",
+      "date": "2026-07-10"
+    },
     {
       "id": "jwc:22883",
       "source_id": "jwc",

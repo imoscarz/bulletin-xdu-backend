@@ -3,10 +3,17 @@
     "source_id": "sfl",
     "name": "语言智能学部",
     "url": "https://sfl.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-09T19:52:52.524620Z",
-    "total_notices": 59
+    "last_scraped": "2026-07-10T03:48:05.445487Z",
+    "total_notices": 60
   },
   "notices": [
+    {
+      "id": "sfl:18088",
+      "source_id": "sfl",
+      "title": "关于2025-2026学年春季学期、2026-2027 学年秋季学期教材选用结果的公示",
+      "url": "https://sfl.xidian.edu.cn/info/1031/18088.htm",
+      "date": "2026-07-10"
+    },
     {
       "id": "sfl:17948",
       "source_id": "sfl",

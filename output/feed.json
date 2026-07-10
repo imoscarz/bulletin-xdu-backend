@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-07-09T19:53:32.330129+00:00",
-  "total_notices": 3141,
+  "generated_at": "2026-07-10T03:48:54.937040+00:00",
+  "total_notices": 3145,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sfl:18088",
+      "source_id": "sfl",
+      "title": "关于2025-2026学年春季学期、2026-2027 学年秋季学期教材选用结果的公示",
+      "url": "https://sfl.xidian.edu.cn/info/1031/18088.htm",
+      "date": "2026-07-10",
+      "source_name": "语言智能学部"
+    },
+    {
+      "id": "jwc:22913",
+      "source_id": "jwc",
+      "title": "关于2024级本科生转专业拟录取学生名单的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22913.htm",
+      "date": "2026-07-10",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:34932",
+      "source_id": "bksy",
+      "title": "关于2024级本科生转专业拟录取学生名单的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34932.htm",
+      "date": "2026-07-10",
+      "source_name": "本科生院"
+    },
     {
       "id": "xdwy:10634",
       "source_id": "xdwy",
@@ -58,6 +82,14 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14254.htm",
       "date": "2026-07-08",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "soe:17575",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260708-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17575.htm",
+      "date": "2026-07-08",
+      "source_name": "光电工程学院"
     },
     {
       "id": "sme:3644",
