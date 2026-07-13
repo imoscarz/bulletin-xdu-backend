@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-07-12T19:12:39.072204+00:00",
-  "total_notices": 3149,
+  "generated_at": "2026-07-13T03:30:35.323741+00:00",
+  "total_notices": 3151,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3651",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026年卓越班学生分流结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0713/3651.html",
+      "date": "2026-07-13",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "phy:11653",
+      "source_id": "phy",
+      "title": "2023级物理菁英拔尖班分流结果公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11653.htm",
+      "date": "2026-07-13",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "soe:17585",
       "source_id": "soe",
