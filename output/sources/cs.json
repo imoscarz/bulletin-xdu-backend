@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-13T03:29:13.020224Z",
-    "total_notices": 128
+    "last_scraped": "2026-07-13T09:36:08.415486Z",
+    "total_notices": 129
   },
   "notices": [
+    {
+      "id": "cs:25564",
+      "source_id": "cs",
+      "title": "公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/25564.htm",
+      "date": "2026-07-13"
+    },
     {
       "id": "cs:25534",
       "source_id": "cs",

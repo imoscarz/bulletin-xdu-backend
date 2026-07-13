@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-13T03:29:26.257412Z",
-    "total_notices": 98
+    "last_scraped": "2026-07-13T09:36:26.663605Z",
+    "total_notices": 99
   },
   "notices": [
+    {
+      "id": "life:17211",
+      "source_id": "life",
+      "title": "关于教材选用结果的公示",
+      "url": "https://life.xidian.edu.cn/info/1048/17211.htm",
+      "date": "2026-07-13"
+    },
     {
       "id": "life:17181",
       "source_id": "life",

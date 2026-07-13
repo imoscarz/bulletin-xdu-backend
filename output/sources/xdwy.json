@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-13T03:30:03.104542Z",
-    "total_notices": 95
+    "last_scraped": "2026-07-13T09:36:51.509001Z",
+    "total_notices": 96
   },
   "notices": [
+    {
+      "id": "xdwy:10704",
+      "source_id": "xdwy",
+      "title": "关于2026年7月毕业生毕业证书及档案办理工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10704.htm",
+      "date": "2026-07-13"
+    },
     {
       "id": "xdwy:10634",
       "source_id": "xdwy",

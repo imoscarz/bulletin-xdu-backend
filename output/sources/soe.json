@@ -3,10 +3,24 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-07-13T03:29:20.875484Z",
-    "total_notices": 80
+    "last_scraped": "2026-07-13T09:36:16.697302Z",
+    "total_notices": 82
   },
   "notices": [
+    {
+      "id": "soe:17605",
+      "source_id": "soe",
+      "title": "光电工程学院2026~2028年专业技术岗位聘任业绩材料公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/17605.htm",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "soe:17595",
+      "source_id": "soe",
+      "title": "关于对电子科学与技术卓越班2023级学生第二次分流、24级和25级学生第一次分流结果进行公示的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17595.htm",
+      "date": "2026-07-13"
+    },
     {
       "id": "soe:17585",
       "source_id": "soe",

@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-07-13T03:30:35.323741+00:00",
-  "total_notices": 3151,
+  "generated_at": "2026-07-13T09:37:11.786970+00:00",
+  "total_notices": 3161,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10704",
+      "source_id": "xdwy",
+      "title": "关于2026年7月毕业生毕业证书及档案办理工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10704.htm",
+      "date": "2026-07-13",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:16216",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16216.htm",
+      "date": "2026-07-13",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16206",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16206.htm",
+      "date": "2026-07-13",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16196",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16196.htm",
+      "date": "2026-07-13",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17605",
+      "source_id": "soe",
+      "title": "光电工程学院2026~2028年专业技术岗位聘任业绩材料公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/17605.htm",
+      "date": "2026-07-13",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "soe:17595",
+      "source_id": "soe",
+      "title": "关于对电子科学与技术卓越班2023级学生第二次分流、24级和25级学生第一次分流结果进行公示的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17595.htm",
+      "date": "2026-07-13",
+      "source_name": "光电工程学院"
+    },
     {
       "id": "sme:3651",
       "source_id": "sme",
@@ -12,12 +60,44 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "sast:20767",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/20767.htm",
+      "date": "2026-07-13",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:20757",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/20757.htm",
+      "date": "2026-07-13",
+      "source_name": "空间科学与技术学院"
+    },
+    {
       "id": "phy:11653",
       "source_id": "phy",
       "title": "2023级物理菁英拔尖班分流结果公示",
       "url": "https://phy.xidian.edu.cn/info/1012/11653.htm",
       "date": "2026-07-13",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "life:17211",
+      "source_id": "life",
+      "title": "关于教材选用结果的公示",
+      "url": "https://life.xidian.edu.cn/info/1048/17211.htm",
+      "date": "2026-07-13",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "cs:25564",
+      "source_id": "cs",
+      "title": "公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/25564.htm",
+      "date": "2026-07-13",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "soe:17585",
