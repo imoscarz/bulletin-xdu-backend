@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-13T19:34:48.583363Z",
-    "total_notices": 104
+    "last_scraped": "2026-07-14T02:51:45.377403Z",
+    "total_notices": 105
   },
   "notices": [
+    {
+      "id": "phy:11663",
+      "source_id": "phy",
+      "title": "物理学院2025-2026学年春季学期、2026-2027学年秋季学期选用教材公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11663.htm",
+      "date": "2026-07-14"
+    },
     {
       "id": "phy:11653",
       "source_id": "phy",

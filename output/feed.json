@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-07-13T19:35:24.326767+00:00",
-  "total_notices": 3161,
+  "generated_at": "2026-07-14T02:52:30.457974+00:00",
+  "total_notices": 3163,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3653",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0714/3653.html",
+      "date": "2026-07-14",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "phy:11663",
+      "source_id": "phy",
+      "title": "物理学院2025-2026学年春季学期、2026-2027学年秋季学期选用教材公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11663.htm",
+      "date": "2026-07-14",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "xdwy:10704",
       "source_id": "xdwy",
