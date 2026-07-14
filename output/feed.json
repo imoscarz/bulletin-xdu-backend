@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-07-14T02:52:30.457974+00:00",
-  "total_notices": 3163,
+  "generated_at": "2026-07-14T08:17:37.129969+00:00",
+  "total_notices": 3171,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10714",
+      "source_id": "xdwy",
+      "title": "关于2025年校级继续教育特色课程建设资助项目中期检查结果的公示",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10714.htm",
+      "date": "2026-07-14",
+      "source_name": "网络与继续教育学院"
+    },
     {
       "id": "sme:3653",
       "source_id": "sme",
@@ -12,12 +20,60 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "phy:11673",
+      "source_id": "phy",
+      "title": "物理学院2025级实验班普通分流结果公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11673.htm",
+      "date": "2026-07-14",
+      "source_name": "物理与光电工程学院"
+    },
+    {
       "id": "phy:11663",
       "source_id": "phy",
       "title": "物理学院2025-2026学年春季学期、2026-2027学年秋季学期选用教材公示",
       "url": "https://phy.xidian.edu.cn/info/1012/11663.htm",
       "date": "2026-07-14",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jwc:22923",
+      "source_id": "jwc",
+      "title": "2026年西电国家一流课程《信号与系统》能力等级竞赛结果公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22923.htm",
+      "date": "2026-07-14",
+      "source_name": "教务处"
+    },
+    {
+      "id": "eme:15996",
+      "source_id": "eme",
+      "title": "机电工程学院关于2025-2026学年春季学期、2026-2027学年秋季学期本科课程教材选用情况的公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15996.htm",
+      "date": "2026-07-14",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:15986",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息",
+      "url": "https://eme.xidian.edu.cn/info/1012/15986.htm",
+      "date": "2026-07-14",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:34952",
+      "source_id": "bksy",
+      "title": "关于组织参加2026“外研社·国才杯”“理解当代中国”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34952.htm",
+      "date": "2026-07-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:34942",
+      "source_id": "bksy",
+      "title": "2026年西电国家一流课程《信号与系统》能力等级竞赛...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34942.htm",
+      "date": "2026-07-14",
+      "source_name": "本科生院"
     },
     {
       "id": "xdwy:10704",
@@ -114,6 +170,14 @@
       "url": "https://cs.xidian.edu.cn/info/1003/25564.htm",
       "date": "2026-07-13",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "amn:19342",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于2025-2026学年春季学期、2026-2027学年秋季学期本科课程教材选用情况的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/19342.htm",
+      "date": "2026-07-13",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "soe:17585",

@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-14T02:51:37.578134Z",
-    "total_notices": 99
+    "last_scraped": "2026-07-14T08:16:20.947498Z",
+    "total_notices": 100
   },
   "notices": [
+    {
+      "id": "jwc:22923",
+      "source_id": "jwc",
+      "title": "2026年西电国家一流课程《信号与系统》能力等级竞赛结果公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22923.htm",
+      "date": "2026-07-14"
+    },
     {
       "id": "jwc:22913",
       "source_id": "jwc",

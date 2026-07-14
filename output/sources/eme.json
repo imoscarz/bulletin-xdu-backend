@@ -3,10 +3,24 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-07-14T02:52:02.469168Z",
-    "total_notices": 157
+    "last_scraped": "2026-07-14T08:16:57.080234Z",
+    "total_notices": 159
   },
   "notices": [
+    {
+      "id": "eme:15996",
+      "source_id": "eme",
+      "title": "机电工程学院关于2025-2026学年春季学期、2026-2027学年秋季学期本科课程教材选用情况的公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/15996.htm",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "eme:15986",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息",
+      "url": "https://eme.xidian.edu.cn/info/1012/15986.htm",
+      "date": "2026-07-14"
+    },
     {
       "id": "eme:15956",
       "source_id": "eme",
