@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T08:17:37.129969+00:00",
-  "total_notices": 3171,
+  "generated_at": "2026-07-14T13:57:03.608096+00:00",
+  "total_notices": 3175,
   "content_limit": 5000,
   "notices": [
     {
@@ -44,6 +44,22 @@
       "source_name": "教务处"
     },
     {
+      "id": "eme:16016",
+      "source_id": "eme",
+      "title": "机电工程学院2023级机器人工程卓越班第二次分流结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16016.htm",
+      "date": "2026-07-14",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:16006",
+      "source_id": "eme",
+      "title": "机电工程学院2024级机器人工程卓越班第一次分流结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16006.htm",
+      "date": "2026-07-14",
+      "source_name": "机电工程学院"
+    },
+    {
       "id": "eme:15996",
       "source_id": "eme",
       "title": "机电工程学院关于2025-2026学年春季学期、2026-2027学年秋季学期本科课程教材选用情况的公示",
@@ -58,6 +74,22 @@
       "url": "https://eme.xidian.edu.cn/info/1012/15986.htm",
       "date": "2026-07-14",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:25594",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年12月博士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25594.htm",
+      "date": "2026-07-14",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:25574",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年12月硕士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25574.htm",
+      "date": "2026-07-14",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "bksy:34952",

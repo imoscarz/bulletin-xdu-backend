@@ -3,10 +3,24 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-07-14T08:16:57.080234Z",
-    "total_notices": 159
+    "last_scraped": "2026-07-14T13:56:19.048597Z",
+    "total_notices": 161
   },
   "notices": [
+    {
+      "id": "eme:16016",
+      "source_id": "eme",
+      "title": "机电工程学院2023级机器人工程卓越班第二次分流结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16016.htm",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "eme:16006",
+      "source_id": "eme",
+      "title": "机电工程学院2024级机器人工程卓越班第一次分流结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16006.htm",
+      "date": "2026-07-14"
+    },
     {
       "id": "eme:15996",
       "source_id": "eme",

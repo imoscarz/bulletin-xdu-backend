@@ -3,10 +3,24 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-14T08:16:26.700723Z",
-    "total_notices": 129
+    "last_scraped": "2026-07-14T13:55:39.490200Z",
+    "total_notices": 131
   },
   "notices": [
+    {
+      "id": "cs:25594",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年12月博士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25594.htm",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "cs:25574",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年12月硕士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25574.htm",
+      "date": "2026-07-14"
+    },
     {
       "id": "cs:25564",
       "source_id": "cs",
