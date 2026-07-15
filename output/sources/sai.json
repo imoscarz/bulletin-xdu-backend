@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-15T08:22:31.009928Z",
-    "total_notices": 137
+    "last_scraped": "2026-07-15T13:52:29.231184Z",
+    "total_notices": 138
   },
   "notices": [
+    {
+      "id": "sai:28342",
+      "source_id": "sai",
+      "title": "人工智能学院2026-2028年专业技术岗位聘任结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/28342.htm",
+      "date": "2026-07-15"
+    },
     {
       "id": "sai:25632",
       "source_id": "sai",

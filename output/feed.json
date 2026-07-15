@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-07-15T08:23:10.934911+00:00",
-  "total_notices": 3183,
+  "generated_at": "2026-07-15T13:53:07.835657+00:00",
+  "total_notices": 3190,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16276",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16276.htm",
+      "date": "2026-07-15",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16266",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16266.htm",
+      "date": "2026-07-15",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16256",
+      "source_id": "ste",
+      "title": "通信工程学院关于2025-2026学年春季学期、2026-2027学年秋季学期本科课程教材选用情况的公示",
+      "url": "https://ste.xidian.edu.cn/info/1336/16256.htm",
+      "date": "2026-07-15",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "ste:16246",
       "source_id": "ste",
@@ -28,6 +52,14 @@
       "source_name": "通信工程学院"
     },
     {
+      "id": "sai:28342",
+      "source_id": "sai",
+      "title": "人工智能学院2026-2028年专业技术岗位聘任结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/28342.htm",
+      "date": "2026-07-15",
+      "source_name": "人工智能学院"
+    },
+    {
       "id": "rwxy:17614",
       "source_id": "rwxy",
       "title": "人文学院工作简讯2026年第4期",
@@ -36,12 +68,36 @@
       "source_name": "人文学院"
     },
     {
+      "id": "life:17221",
+      "source_id": "life",
+      "title": "生命科学技术学院关于2025级生命智能英才班第一次分流结果的公示",
+      "url": "https://life.xidian.edu.cn/info/1048/17221.htm",
+      "date": "2026-07-15",
+      "source_name": "生命科学技术学院"
+    },
+    {
       "id": "jwc:22933",
       "source_id": "jwc",
       "title": "关于2026年优秀课程思政教学案例评审结果的公示",
       "url": "https://jwc.xidian.edu.cn/info/1012/22933.htm",
       "date": "2026-07-15",
       "source_name": "教务处"
+    },
+    {
+      "id": "eme:16046",
+      "source_id": "eme",
+      "title": "机电工程学院选聘内设机构副主任公告",
+      "url": "https://eme.xidian.edu.cn/info/1012/16046.htm",
+      "date": "2026-07-15",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:16036",
+      "source_id": "eme",
+      "title": "关于刘鼎同志的任职公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16036.htm",
+      "date": "2026-07-15",
+      "source_name": "机电工程学院"
     },
     {
       "id": "bksy:34962",

@@ -3,10 +3,31 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-15T08:22:58.055048Z",
-    "total_notices": 148
+    "last_scraped": "2026-07-15T13:52:55.148891Z",
+    "total_notices": 151
   },
   "notices": [
+    {
+      "id": "ste:16276",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16276.htm",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "ste:16266",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16266.htm",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "ste:16256",
+      "source_id": "ste",
+      "title": "通信工程学院关于2025-2026学年春季学期、2026-2027学年秋季学期本科课程教材选用情况的公示",
+      "url": "https://ste.xidian.edu.cn/info/1336/16256.htm",
+      "date": "2026-07-15"
+    },
     {
       "id": "ste:16246",
       "source_id": "ste",
