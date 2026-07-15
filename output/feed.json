@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-07-14T19:27:01.375460+00:00",
-  "total_notices": 3175,
+  "generated_at": "2026-07-15T02:50:52.467191+00:00",
+  "total_notices": 3180,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "rwxy:17614",
+      "source_id": "rwxy",
+      "title": "人文学院工作简讯2026年第4期",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17614.htm",
+      "date": "2026-07-15",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "jwc:22933",
+      "source_id": "jwc",
+      "title": "关于2026年优秀课程思政教学案例评审结果的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22933.htm",
+      "date": "2026-07-15",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:34962",
+      "source_id": "bksy",
+      "title": "关于2026年优秀课程思政教学案例评审结果的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34962.htm",
+      "date": "2026-07-15",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "amn:19352",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于2025级师昌绪电子材料菁英班第一次分流结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/19352.htm",
+      "date": "2026-07-15",
+      "source_name": "先进材料与纳米科技学院"
+    },
     {
       "id": "xdwy:10714",
       "source_id": "xdwy",
@@ -10,6 +42,14 @@
       "url": "https://xdwy.xidian.edu.cn/info/1194/10714.htm",
       "date": "2026-07-14",
       "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "sme:3654",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0715/3654.html",
+      "date": "2026-07-14",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3653",

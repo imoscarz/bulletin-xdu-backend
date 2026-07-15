@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-14T19:26:02.304599Z",
-    "total_notices": 100
+    "last_scraped": "2026-07-15T02:49:50.990167Z",
+    "total_notices": 101
   },
   "notices": [
+    {
+      "id": "jwc:22933",
+      "source_id": "jwc",
+      "title": "关于2026年优秀课程思政教学案例评审结果的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22933.htm",
+      "date": "2026-07-15"
+    },
     {
       "id": "jwc:22923",
       "source_id": "jwc",
