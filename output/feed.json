@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-07-16T02:57:28.799473+00:00",
-  "total_notices": 3191,
+  "generated_at": "2026-07-16T08:22:19.463041+00:00",
+  "total_notices": 3193,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:11683",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260716-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/11683.htm",
+      "date": "2026-07-16",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "cs:25624",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025-2026学年春季学期、2026-2027学年秋季学期选用教材",
+      "url": "https://cs.xidian.edu.cn/info/1003/25624.htm",
+      "date": "2026-07-16",
+      "source_name": "计算机科学与技术学院"
+    },
     {
       "id": "ste:16276",
       "source_id": "ste",

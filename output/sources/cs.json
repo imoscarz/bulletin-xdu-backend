@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-16T02:56:27.511325Z",
-    "total_notices": 131
+    "last_scraped": "2026-07-16T08:21:16.367920Z",
+    "total_notices": 132
   },
   "notices": [
+    {
+      "id": "cs:25624",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025-2026学年春季学期、2026-2027学年秋季学期选用教材",
+      "url": "https://cs.xidian.edu.cn/info/1003/25624.htm",
+      "date": "2026-07-16"
+    },
     {
       "id": "cs:25594",
       "source_id": "cs",
