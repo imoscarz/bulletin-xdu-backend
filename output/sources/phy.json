@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-16T08:21:23.663344Z",
-    "total_notices": 107
+    "last_scraped": "2026-07-16T14:03:49.893170Z",
+    "total_notices": 108
   },
   "notices": [
+    {
+      "id": "phy:11703",
+      "source_id": "phy",
+      "title": "物理学院关于2026~2028年专业技术岗位聘任结果公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11703.htm",
+      "date": "2026-07-16"
+    },
     {
       "id": "phy:11683",
       "source_id": "phy",

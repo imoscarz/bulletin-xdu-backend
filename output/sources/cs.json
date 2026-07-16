@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-16T08:21:16.367920Z",
-    "total_notices": 132
+    "last_scraped": "2026-07-16T14:03:43.584546Z",
+    "total_notices": 133
   },
   "notices": [
+    {
+      "id": "cs:25644",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026~2028年专业技术岗位聘任结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/25644.htm",
+      "date": "2026-07-16"
+    },
     {
       "id": "cs:25624",
       "source_id": "cs",

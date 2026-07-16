@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-16T08:21:12.673301Z",
-    "total_notices": 101
+    "last_scraped": "2026-07-16T14:03:42.111574Z",
+    "total_notices": 102
   },
   "notices": [
+    {
+      "id": "jwc:22943",
+      "source_id": "jwc",
+      "title": "我校第二十一届优秀教材评选结果公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22943.htm",
+      "date": "2026-07-16"
+    },
     {
       "id": "jwc:22933",
       "source_id": "jwc",
