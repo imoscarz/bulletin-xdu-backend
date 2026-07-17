@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-07-17T08:17:54.141535Z",
-    "total_notices": 69
+    "last_scraped": "2026-07-17T13:48:22.608516Z",
+    "total_notices": 70
   },
   "notices": [
+    {
+      "id": "math:23532",
+      "source_id": "math",
+      "title": "数学与统计学院2027年推免生预报名工作安排",
+      "url": "https://math.xidian.edu.cn/info/1020/23532.htm",
+      "date": "2026-07-17"
+    },
     {
       "id": "math:23432",
       "source_id": "math",

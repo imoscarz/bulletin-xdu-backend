@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T08:19:13.138187+00:00",
-  "total_notices": 3207,
+  "generated_at": "2026-07-17T13:49:40.280358+00:00",
+  "total_notices": 3209,
   "content_limit": 5000,
   "notices": [
     {
@@ -36,12 +36,28 @@
       "source_name": "经济与管理学院"
     },
     {
+      "id": "sai:28352",
+      "source_id": "sai",
+      "title": "人工智能学院关于2025-2026学年春季学期、2026-2027学年秋季学期本科课程教材选用情况的公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/28352.htm",
+      "date": "2026-07-17",
+      "source_name": "人工智能学院"
+    },
+    {
       "id": "rwxy:17654",
       "source_id": "rwxy",
       "title": "人文学院2025-2026学年春季学期2026-2027学年秋季学期选用教材公示",
       "url": "https://rwxy.xidian.edu.cn/info/1023/17654.htm",
       "date": "2026-07-17",
       "source_name": "人文学院"
+    },
+    {
+      "id": "math:23532",
+      "source_id": "math",
+      "title": "数学与统计学院2027年推免生预报名工作安排",
+      "url": "https://math.xidian.edu.cn/info/1020/23532.htm",
+      "date": "2026-07-17",
+      "source_name": "数学与统计学院"
     },
     {
       "id": "jwc:22953",
