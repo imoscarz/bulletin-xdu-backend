@@ -3,10 +3,24 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-17T03:13:39.206396Z",
-    "total_notices": 133
+    "last_scraped": "2026-07-17T08:17:52.350900Z",
+    "total_notices": 135
   },
   "notices": [
+    {
+      "id": "cs:25664",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院拔尖班分流结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/25664.htm",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "cs:25654",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院卓越班分流结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/25654.htm",
+      "date": "2026-07-17"
+    },
     {
       "id": "cs:25644",
       "source_id": "cs",

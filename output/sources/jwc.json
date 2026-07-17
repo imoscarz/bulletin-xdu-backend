@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-17T03:13:37.369537Z",
-    "total_notices": 102
+    "last_scraped": "2026-07-17T08:17:48.777338Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "jwc:22953",
+      "source_id": "jwc",
+      "title": "西安电子科技大学关于2026年度本科专业设置申报情况的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22953.htm",
+      "date": "2026-07-17"
+    },
     {
       "id": "jwc:22943",
       "source_id": "jwc",

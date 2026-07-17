@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-17T03:13:57.877073Z",
-    "total_notices": 348
+    "last_scraped": "2026-07-17T08:18:26.257106Z",
+    "total_notices": 349
   },
   "notices": [
+    {
+      "id": "bksy:34982",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于2026年度本科专业设置申报情况...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/34982.htm",
+      "date": "2026-07-17"
+    },
     {
       "id": "bksy:34972",
       "source_id": "bksy",
