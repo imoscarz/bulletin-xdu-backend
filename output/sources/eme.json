@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-07-18T08:00:21.176779Z",
-    "total_notices": 164
+    "last_scraped": "2026-07-18T13:26:01.167530Z",
+    "total_notices": 165
   },
   "notices": [
+    {
+      "id": "eme:16116",
+      "source_id": "eme",
+      "title": "机电工程学院2026年暑假值班安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/16116.htm",
+      "date": "2026-07-18"
+    },
     {
       "id": "eme:16106",
       "source_id": "eme",
