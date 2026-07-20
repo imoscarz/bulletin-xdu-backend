@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T09:24:25.050056+00:00",
-  "total_notices": 3230,
+  "generated_at": "2026-07-20T14:18:30.923138+00:00",
+  "total_notices": 3234,
   "content_limit": 5000,
   "notices": [
     {
@@ -42,6 +42,14 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0720/3660.html",
       "date": "2026-07-20",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "see:104121",
+      "source_id": "see",
+      "title": "电子工程学院 2026 年暑假轮休值班表",
+      "url": "https://see.xidian.edu.cn/info/1052/104121.htm",
+      "date": "2026-07-20",
+      "source_name": "电子工程学院"
     },
     {
       "id": "see:104111",
@@ -108,6 +116,14 @@
       "source_name": "生命科学技术学院"
     },
     {
+      "id": "jgrsrc:18088",
+      "source_id": "jgrsrc",
+      "title": "党委教师工作部/人力资源部2026年暑假期间工作安排的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18088.htm",
+      "date": "2026-07-20",
+      "source_name": "人才招聘"
+    },
+    {
       "id": "imse:3381",
       "source_id": "imse",
       "title": "信息力学与感知工程学院2026年暑假值班安排",
@@ -116,12 +132,28 @@
       "source_name": "信息力学与感知工程学院"
     },
     {
+      "id": "hqbzb:8266",
+      "source_id": "hqbzb",
+      "title": "2026年暑假后勤保障服务工作安排",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8266.htm",
+      "date": "2026-07-20",
+      "source_name": "后勤保障部"
+    },
+    {
       "id": "gr:20364",
       "source_id": "gr",
       "title": "研究生院研工部2026年暑期值班表",
       "url": "https://gr.xidian.edu.cn/info/1073/20364.htm",
       "date": "2026-07-20",
       "source_name": "研究生院"
+    },
+    {
+      "id": "dzb:9773",
+      "source_id": "dzb",
+      "title": "党政办公室2026年暑假值班安排",
+      "url": "https://dzb.xidian.edu.cn/info/1003/9773.htm",
+      "date": "2026-07-20",
+      "source_name": "党政办公室"
     },
     {
       "id": "cs:25704",
