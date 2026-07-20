@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-07-20T03:43:51.637803Z",
-    "total_notices": 126
+    "last_scraped": "2026-07-20T09:23:50.882792Z",
+    "total_notices": 127
   },
   "notices": [
+    {
+      "id": "gr:20364",
+      "source_id": "gr",
+      "title": "研究生院研工部2026年暑期值班表",
+      "url": "https://gr.xidian.edu.cn/info/1073/20364.htm",
+      "date": "2026-07-20"
+    },
     {
       "id": "gr:20334",
       "source_id": "gr",

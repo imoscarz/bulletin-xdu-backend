@@ -3,10 +3,24 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-20T03:44:05.916884Z",
-    "total_notices": 82
+    "last_scraped": "2026-07-20T09:24:06.250561Z",
+    "total_notices": 84
   },
   "notices": [
+    {
+      "id": "ygb:13363",
+      "source_id": "ygb",
+      "title": "关于2026级研究生校内住宿意愿摸排的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13363.htm",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "ygb:13353",
+      "source_id": "ygb",
+      "title": "2026级研究生新生须知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13353.htm",
+      "date": "2026-07-20"
+    },
     {
       "id": "ygb:12193",
       "source_id": "ygb",

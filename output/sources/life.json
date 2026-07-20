@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-20T03:43:35.934825Z",
-    "total_notices": 100
+    "last_scraped": "2026-07-20T09:23:42.544777Z",
+    "total_notices": 101
   },
   "notices": [
+    {
+      "id": "life:17251",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年暑假值班表",
+      "url": "https://life.xidian.edu.cn/info/1048/17251.htm",
+      "date": "2026-07-20"
+    },
     {
       "id": "life:17221",
       "source_id": "life",
