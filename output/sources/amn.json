@@ -3,10 +3,17 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-19T19:12:29.340784Z",
-    "total_notices": 96
+    "last_scraped": "2026-07-20T03:43:37.268894Z",
+    "total_notices": 97
   },
   "notices": [
+    {
+      "id": "amn:19372",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院办公室2026年暑假值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/19372.htm",
+      "date": "2026-07-20"
+    },
     {
       "id": "amn:19352",
       "source_id": "amn",

@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-07-19T19:13:01.796598+00:00",
-  "total_notices": 3211,
+  "generated_at": "2026-07-20T03:44:24.549945+00:00",
+  "total_notices": 3216,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sast:20907",
+      "source_id": "sast",
+      "title": "2026年空间院暑假值班安排",
+      "url": "https://sast.xidian.edu.cn/info/1014/20907.htm",
+      "date": "2026-07-20",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sai:28362",
+      "source_id": "sai",
+      "title": "人工智能学院2026年暑假轮休值班安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/28362.htm",
+      "date": "2026-07-20",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "rwxy:17664",
+      "source_id": "rwxy",
+      "title": "人文学院2026年暑假轮休值班安排",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17664.htm",
+      "date": "2026-07-20",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "phy:11723",
+      "source_id": "phy",
+      "title": "物理学院2026年暑假值班安排",
+      "url": "https://phy.xidian.edu.cn/info/1012/11723.htm",
+      "date": "2026-07-20",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "amn:19372",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院办公室2026年暑假值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/19372.htm",
+      "date": "2026-07-20",
+      "source_name": "先进材料与纳米科技学院"
+    },
     {
       "id": "eme:16116",
       "source_id": "eme",

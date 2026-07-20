@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-19T19:12:22.916407Z",
-    "total_notices": 108
+    "last_scraped": "2026-07-20T03:43:23.599902Z",
+    "total_notices": 109
   },
   "notices": [
+    {
+      "id": "phy:11723",
+      "source_id": "phy",
+      "title": "物理学院2026年暑假值班安排",
+      "url": "https://phy.xidian.edu.cn/info/1012/11723.htm",
+      "date": "2026-07-20"
+    },
     {
       "id": "phy:11703",
       "source_id": "phy",
