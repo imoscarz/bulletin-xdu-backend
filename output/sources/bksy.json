@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-21T08:36:33.582740Z",
-    "total_notices": 350
+    "last_scraped": "2026-07-21T14:04:30.676028Z",
+    "total_notices": 351
   },
   "notices": [
+    {
+      "id": "bksy:35002",
+      "source_id": "bksy",
+      "title": "关于对2025～2026学年第二学期青年教师助教工作审核...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35002.htm",
+      "date": "2026-07-21"
+    },
     {
       "id": "bksy:34992",
       "source_id": "bksy",

@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-21T08:36:57.315327Z",
-    "total_notices": 94
+    "last_scraped": "2026-07-21T14:04:52.209329Z",
+    "total_notices": 95
   },
   "notices": [
+    {
+      "id": "jsfz:12182",
+      "source_id": "jsfz",
+      "title": "关于对2025～2026学年第二学期青年教师助教工作审核通过名单公示的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12182.htm",
+      "date": "2026-07-21"
+    },
     {
       "id": "jsfz:12172",
       "source_id": "jsfz",

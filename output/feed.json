@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-07-21T08:37:41.187562+00:00",
-  "total_notices": 3236,
+  "generated_at": "2026-07-21T14:05:11.209457+00:00",
+  "total_notices": 3239,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16306",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16306.htm",
+      "date": "2026-07-21",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "sem:15201",
       "source_id": "sem",
@@ -10,6 +18,22 @@
       "url": "https://sem.xidian.edu.cn/info/1536/15201.htm",
       "date": "2026-07-21",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "jsfz:12182",
+      "source_id": "jsfz",
+      "title": "关于对2025～2026学年第二学期青年教师助教工作审核通过名单公示的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12182.htm",
+      "date": "2026-07-21",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:35002",
+      "source_id": "bksy",
+      "title": "关于对2025～2026学年第二学期青年教师助教工作审核...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35002.htm",
+      "date": "2026-07-21",
+      "source_name": "本科生院"
     },
     {
       "id": "ygb:13363",
