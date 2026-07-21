@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-07-21T03:17:51.484922+00:00",
-  "total_notices": 3235,
+  "generated_at": "2026-07-21T08:37:41.187562+00:00",
+  "total_notices": 3236,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sem:15201",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院AI+CFA实验班招生简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/15201.htm",
+      "date": "2026-07-21",
+      "source_name": "经济与管理学院"
+    },
     {
       "id": "ygb:13363",
       "source_id": "ygb",

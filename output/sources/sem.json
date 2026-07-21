@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-21T03:16:49.445708Z",
-    "total_notices": 122
+    "last_scraped": "2026-07-21T08:36:14.923079Z",
+    "total_notices": 123
   },
   "notices": [
+    {
+      "id": "sem:15201",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院AI+CFA实验班招生简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/15201.htm",
+      "date": "2026-07-21"
+    },
     {
       "id": "sem:15161",
       "source_id": "sem",
