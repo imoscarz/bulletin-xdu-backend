@@ -3,10 +3,17 @@
     "source_id": "imse",
     "name": "信息力学与感知工程学院",
     "url": "https://imse.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-20T19:48:55.898747Z",
-    "total_notices": 39
+    "last_scraped": "2026-07-21T03:17:25.356481Z",
+    "total_notices": 40
   },
   "notices": [
+    {
+      "id": "imse:6891",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2027年推荐免试研究生招生预报名通知",
+      "url": "https://imse.xidian.edu.cn/info/1030/6891.htm",
+      "date": "2026-07-20"
+    },
     {
       "id": "imse:3381",
       "source_id": "imse",

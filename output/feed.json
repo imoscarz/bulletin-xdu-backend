@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T19:49:17.576040+00:00",
-  "total_notices": 3234,
+  "generated_at": "2026-07-21T03:17:51.484922+00:00",
+  "total_notices": 3235,
   "content_limit": 5000,
   "notices": [
     {
@@ -122,6 +122,14 @@
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/18088.htm",
       "date": "2026-07-20",
       "source_name": "人才招聘"
+    },
+    {
+      "id": "imse:6891",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2027年推荐免试研究生招生预报名通知",
+      "url": "https://imse.xidian.edu.cn/info/1030/6891.htm",
+      "date": "2026-07-20",
+      "source_name": "信息力学与感知工程学院"
     },
     {
       "id": "imse:3381",
