@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-22T03:15:22.900026Z",
-    "total_notices": 84
+    "last_scraped": "2026-07-22T08:36:32.402204Z",
+    "total_notices": 85
   },
   "notices": [
+    {
+      "id": "ygb:13393",
+      "source_id": "ygb",
+      "title": "研究生院研工部2026年暑期值班表",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13393.htm",
+      "date": "2026-07-22"
+    },
     {
       "id": "ygb:13363",
       "source_id": "ygb",

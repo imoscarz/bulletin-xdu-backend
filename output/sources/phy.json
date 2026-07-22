@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-22T03:14:52.567576Z",
-    "total_notices": 109
+    "last_scraped": "2026-07-22T08:35:39.233243Z",
+    "total_notices": 110
   },
   "notices": [
+    {
+      "id": "phy:11743",
+      "source_id": "phy",
+      "title": "西安电子科技大学物理学院2027年推荐免试研究生招生预报名通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11743.htm",
+      "date": "2026-07-22"
+    },
     {
       "id": "phy:11723",
       "source_id": "phy",
