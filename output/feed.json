@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-07-23T08:38:50.056163+00:00",
-  "total_notices": 3249,
+  "generated_at": "2026-07-23T14:13:15.976274+00:00",
+  "total_notices": 3251,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:17665",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260723-2",
+      "url": "https://soe.xidian.edu.cn/info/1095/17665.htm",
+      "date": "2026-07-23",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "soe:17655",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260723-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17655.htm",
+      "date": "2026-07-23",
+      "source_name": "光电工程学院"
+    },
     {
       "id": "ygb:13393",
       "source_id": "ygb",
