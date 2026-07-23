@@ -3,10 +3,17 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-22T19:27:04.758453Z",
-    "total_notices": 97
+    "last_scraped": "2026-07-23T03:21:53.971535Z",
+    "total_notices": 98
   },
   "notices": [
+    {
+      "id": "amn:19522",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2027年推荐免试研究生招生预报名的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/19522.htm",
+      "date": "2026-07-20"
+    },
     {
       "id": "amn:19372",
       "source_id": "amn",
