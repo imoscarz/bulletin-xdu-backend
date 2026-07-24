@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-07-24T03:15:53.716937Z",
-    "total_notices": 120
+    "last_scraped": "2026-07-24T08:33:36.945083Z",
+    "total_notices": 121
   },
   "notices": [
+    {
+      "id": "sast:20977",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2027年推荐免试研究生招生预报名通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/20977.htm",
+      "date": "2026-07-24"
+    },
     {
       "id": "sast:20907",
       "source_id": "sast",
