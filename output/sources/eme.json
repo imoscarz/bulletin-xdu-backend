@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-07-25T08:13:15.000705Z",
-    "total_notices": 165
+    "last_scraped": "2026-07-25T13:45:13.766110Z",
+    "total_notices": 166
   },
   "notices": [
+    {
+      "id": "eme:16196",
+      "source_id": "eme",
+      "title": "机电工程学院2027年推免生预报名通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/16196.htm",
+      "date": "2026-07-25"
+    },
     {
       "id": "eme:16116",
       "source_id": "eme",
