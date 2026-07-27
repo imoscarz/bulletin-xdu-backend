@@ -3,10 +3,24 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-07-27T10:00:42.751153Z",
-    "total_notices": 93
+    "last_scraped": "2026-07-27T14:46:58.599027Z",
+    "total_notices": 95
   },
   "notices": [
+    {
+      "id": "jgrsrc:18178",
+      "source_id": "jgrsrc",
+      "title": "关于组织申报2026年陕西省博士后科研资助项目的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18178.htm",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "jgrsrc:18168",
+      "source_id": "jgrsrc",
+      "title": "关于组织参加第五届陕西省博士后创新创业大赛暨留学回国人员创新创业大赛的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18168.htm",
+      "date": "2026-07-27"
+    },
     {
       "id": "jgrsrc:18088",
       "source_id": "jgrsrc",
