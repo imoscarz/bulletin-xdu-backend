@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T14:47:38.269091+00:00",
-  "total_notices": 3262,
+  "generated_at": "2026-07-27T19:42:24.952536+00:00",
+  "total_notices": 3263,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://xdwy.xidian.edu.cn/info/1194/10814.htm",
       "date": "2026-07-27",
       "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "sem:15221",
+      "source_id": "sem",
+      "title": "经济与管理学院2027年推荐免试研究生招生预报名通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/15221.htm",
+      "date": "2026-07-27",
+      "source_name": "经济与管理学院"
     },
     {
       "id": "life:17301",

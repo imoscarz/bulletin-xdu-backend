@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-27T14:46:39.173765Z",
-    "total_notices": 123
+    "last_scraped": "2026-07-27T19:41:39.007755Z",
+    "total_notices": 124
   },
   "notices": [
+    {
+      "id": "sem:15221",
+      "source_id": "sem",
+      "title": "经济与管理学院2027年推荐免试研究生招生预报名通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/15221.htm",
+      "date": "2026-07-27"
+    },
     {
       "id": "sem:15201",
       "source_id": "sem",
