@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-27T03:36:24.892986Z",
-    "total_notices": 137
+    "last_scraped": "2026-07-27T10:00:01.053313Z",
+    "total_notices": 138
   },
   "notices": [
+    {
+      "id": "cs:25774",
+      "source_id": "cs",
+      "title": "2024级专业方向分流实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/25774.htm",
+      "date": "2026-07-27"
+    },
     {
       "id": "cs:25704",
       "source_id": "cs",

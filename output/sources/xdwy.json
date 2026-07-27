@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-27T03:37:11.368470Z",
-    "total_notices": 102
+    "last_scraped": "2026-07-27T10:00:59.420906Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "xdwy:10814",
+      "source_id": "xdwy",
+      "title": "关于征集高等学历继续教育校外教学点设点单位的公告",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10814.htm",
+      "date": "2026-07-27"
+    },
     {
       "id": "xdwy:10804",
       "source_id": "xdwy",
