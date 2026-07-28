@@ -3,10 +3,129 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-07-28T08:42:29.429028Z",
-    "total_notices": 351
+    "last_scraped": "2026-07-28T14:21:27.857164Z",
+    "total_notices": 368
   },
   "notices": [
+    {
+      "id": "bksy:35172",
+      "source_id": "bksy",
+      "title": "图灵人工智能实验班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35172.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35162",
+      "source_id": "bksy",
+      "title": "网络空间安全实验班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35162.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35152",
+      "source_id": "bksy",
+      "title": "师昌绪电子材料菁英班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35152.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35142",
+      "source_id": "bksy",
+      "title": "生命智能英才班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35142.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35132",
+      "source_id": "bksy",
+      "title": "肖国镇密码创新班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35132.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35122",
+      "source_id": "bksy",
+      "title": "集成电路创新班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35122.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35112",
+      "source_id": "bksy",
+      "title": "毕德显电子信息创新班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35112.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35102",
+      "source_id": "bksy",
+      "title": "通信工程创新班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35102.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35092",
+      "source_id": "bksy",
+      "title": "正跃微电子科学创新班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35092.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35082",
+      "source_id": "bksy",
+      "title": "逐日智能制造创新班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35082.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35072",
+      "source_id": "bksy",
+      "title": "电子科学与技术卓越班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35072.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35062",
+      "source_id": "bksy",
+      "title": "机器人工程卓越班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35062.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35052",
+      "source_id": "bksy",
+      "title": "软件工程卓越班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35052.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35042",
+      "source_id": "bksy",
+      "title": "计算机卓越班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35042.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35032",
+      "source_id": "bksy",
+      "title": "通信工程卓越班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35032.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35022",
+      "source_id": "bksy",
+      "title": "铁军电子工程卓越班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35022.htm",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "bksy:35012",
+      "source_id": "bksy",
+      "title": "筑梦计算机拔尖班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35012.htm",
+      "date": "2026-07-28"
+    },
     {
       "id": "bksy:35002",
       "source_id": "bksy",
