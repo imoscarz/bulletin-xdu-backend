@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-07-30T02:44:21.774222Z",
-    "total_notices": 86
+    "last_scraped": "2026-07-30T08:34:51.711448Z",
+    "total_notices": 87
   },
   "notices": [
+    {
+      "id": "soe:17675",
+      "source_id": "soe",
+      "title": "光电工程学院2027年预推免研究生招生报名通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17675.htm",
+      "date": "2026-07-30"
+    },
     {
       "id": "soe:17665",
       "source_id": "soe",
