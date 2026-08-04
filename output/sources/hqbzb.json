@@ -3,10 +3,17 @@
     "source_id": "hqbzb",
     "name": "后勤保障部",
     "url": "https://hqbzb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-08-03T14:50:16.336362Z",
-    "total_notices": 84
+    "last_scraped": "2026-08-04T02:56:26.084535Z",
+    "total_notices": 85
   },
   "notices": [
+    {
+      "id": "hqbzb:8276",
+      "source_id": "hqbzb",
+      "title": "关于长安、雁塔校区部分道路临时交通管制的公告",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8276.htm",
+      "date": "2026-08-03"
+    },
     {
       "id": "hqbzb:8266",
       "source_id": "hqbzb",
