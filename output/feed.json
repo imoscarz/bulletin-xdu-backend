@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-08-05T08:43:39.284751+00:00",
-  "total_notices": 3290,
+  "generated_at": "2026-08-05T14:21:17.526232+00:00",
+  "total_notices": 3293,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sfl:18268",
+      "source_id": "sfl",
+      "title": "语言智能学部2027年推荐免试研究生招生预报名通知",
+      "url": "https://sfl.xidian.edu.cn/info/1031/18268.htm",
+      "date": "2026-08-05",
+      "source_name": "语言智能学部"
+    },
     {
       "id": "phy:11803",
       "source_id": "phy",
@@ -66,6 +74,14 @@
       "url": "https://phy.xidian.edu.cn/info/1012/11773.htm",
       "date": "2026-07-30",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "sme:3670",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0805/3670.html",
+      "date": "2026-07-28",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3669",
@@ -466,6 +482,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/17645.htm",
       "date": "2026-07-20",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3671",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0805/3671.html",
+      "date": "2026-07-20",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3660",
