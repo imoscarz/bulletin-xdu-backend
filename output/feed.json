@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T02:04:33.133999+00:00",
-  "total_notices": 3295,
+  "generated_at": "2026-08-11T07:16:00.621774+00:00",
+  "total_notices": 3296,
   "content_limit": 5000,
   "notices": [
     {
@@ -330,6 +330,14 @@
       "url": "https://xdwy.xidian.edu.cn/info/1194/10744.htm",
       "date": "2026-07-24",
       "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "sme:3672",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0811/3672.html",
+      "date": "2026-07-24",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sast:20977",
