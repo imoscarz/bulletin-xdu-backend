@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T06:46:25.646895+00:00",
-  "total_notices": 3299,
+  "generated_at": "2026-08-15T12:47:00.464820+00:00",
+  "total_notices": 3300,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://gr.xidian.edu.cn/info/1073/20444.htm",
       "date": "2026-08-14",
       "source_name": "研究生院"
+    },
+    {
+      "id": "bksy:35222",
+      "source_id": "bksy",
+      "title": "关于我校学生跨校参加第十五届“挑战杯”中国大学生...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35222.htm",
+      "date": "2026-08-14",
+      "source_name": "本科生院"
     },
     {
       "id": "soe:17715",
