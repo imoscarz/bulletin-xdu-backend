@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-08-17T01:38:00.578249+00:00",
-  "total_notices": 3300,
+  "generated_at": "2026-08-17T07:04:46.203662+00:00",
+  "total_notices": 3303,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jwc:23143",
+      "source_id": "jwc",
+      "title": "关于开放2026~2027学年第一学期补（缓）考预约的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23143.htm",
+      "date": "2026-08-17",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:35252",
+      "source_id": "bksy",
+      "title": "关于我校学生跨校参加第十五届“挑战杯”中国大学生...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35252.htm",
+      "date": "2026-08-17",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35242",
+      "source_id": "bksy",
+      "title": "关于开放2026~2027学年第一学期补（缓）考预约的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35242.htm",
+      "date": "2026-08-17",
+      "source_name": "本科生院"
+    },
     {
       "id": "gr:20444",
       "source_id": "gr",
