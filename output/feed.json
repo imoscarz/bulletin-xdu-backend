@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-08-18T18:44:15.614208+00:00",
-  "total_notices": 3307,
+  "generated_at": "2026-08-19T01:35:11.981586+00:00",
+  "total_notices": 3308,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3679",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0819/3679.html",
+      "date": "2026-08-18",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3678",
       "source_id": "sme",
