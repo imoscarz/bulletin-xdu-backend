@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-08-21T06:54:34.497220Z",
-    "total_notices": 138
+    "last_scraped": "2026-08-21T12:56:05.193424Z",
+    "total_notices": 139
   },
   "notices": [
+    {
+      "id": "cs:25814",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年度国家自然科学基金青年学生基础研究项目（博士研究生）拟推荐名单的公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/25814.htm",
+      "date": "2026-08-21"
+    },
     {
       "id": "cs:25774",
       "source_id": "cs",
