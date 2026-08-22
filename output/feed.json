@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-08-22T06:48:30.016729+00:00",
-  "total_notices": 3321,
+  "generated_at": "2026-08-22T12:49:07.917563+00:00",
+  "total_notices": 3323,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16356",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16356.htm",
+      "date": "2026-08-22",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17725",
+      "source_id": "soe",
+      "title": "光电工程学院2026年度国家自然科学基金青年学生基础研究项目（博士研究生）推荐名单公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/17725.htm",
+      "date": "2026-08-22",
+      "source_name": "光电工程学院"
+    },
     {
       "id": "sme:3696",
       "source_id": "sme",

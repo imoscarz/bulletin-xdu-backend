@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-08-22T06:47:37.051710Z",
-    "total_notices": 89
+    "last_scraped": "2026-08-22T12:47:59.929674Z",
+    "total_notices": 90
   },
   "notices": [
+    {
+      "id": "soe:17725",
+      "source_id": "soe",
+      "title": "光电工程学院2026年度国家自然科学基金青年学生基础研究项目（博士研究生）推荐名单公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/17725.htm",
+      "date": "2026-08-22"
+    },
     {
       "id": "soe:17715",
       "source_id": "soe",
