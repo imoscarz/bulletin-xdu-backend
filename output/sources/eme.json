@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-08-23T01:41:39.068755Z",
-    "total_notices": 166
+    "last_scraped": "2026-08-23T06:49:02.222381Z",
+    "total_notices": 167
   },
   "notices": [
+    {
+      "id": "eme:16226",
+      "source_id": "eme",
+      "title": "机电院关于2026年度国家自然科学基金青年学生基础项目（博士研究生）推荐结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16226.htm",
+      "date": "2026-08-23"
+    },
     {
       "id": "eme:16196",
       "source_id": "eme",
