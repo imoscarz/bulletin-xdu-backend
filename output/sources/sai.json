@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-08-24T01:39:33.441003Z",
-    "total_notices": 141
+    "last_scraped": "2026-08-24T07:07:01.569740Z",
+    "total_notices": 142
   },
   "notices": [
+    {
+      "id": "sai:28432",
+      "source_id": "sai",
+      "title": "人工智能学院2026年度国家自然科学基金青年学生基础研究项目（博士研究生）申报人选推荐公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/28432.htm",
+      "date": "2026-08-24"
+    },
     {
       "id": "sai:28372",
       "source_id": "sai",
