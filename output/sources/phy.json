@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-08-24T07:06:50.169089Z",
-    "total_notices": 112
+    "last_scraped": "2026-08-24T12:58:25.115573Z",
+    "total_notices": 113
   },
   "notices": [
+    {
+      "id": "phy:11913",
+      "source_id": "phy",
+      "title": "物理学院2026年度国家自然科学基金青年学生基础研究项目（博士研究生）推荐名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/11913.htm",
+      "date": "2026-08-24"
+    },
     {
       "id": "phy:11803",
       "source_id": "phy",
