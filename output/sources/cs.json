@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-08-27T08:31:18.021410Z",
-    "total_notices": 139
+    "last_scraped": "2026-08-27T22:03:17.891743Z",
+    "total_notices": 140
   },
   "notices": [
+    {
+      "id": "cs:25824",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于推荐2023级优秀应届本科毕业生免试攻读硕士学位研究生工作实施办法",
+      "url": "https://cs.xidian.edu.cn/info/1003/25824.htm",
+      "date": "2026-08-27"
+    },
     {
       "id": "cs:25814",
       "source_id": "cs",

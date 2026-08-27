@@ -3,15 +3,50 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-08-27T08:31:49.778169Z",
-    "total_notices": 374
+    "last_scraped": "2026-08-27T22:03:30.662847Z",
+    "total_notices": 379
   },
   "notices": [
+    {
+      "id": "bksy:35362",
+      "source_id": "bksy",
+      "title": "信息数学拔尖班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35362.htm",
+      "date": "2026-08-27"
+    },
+    {
+      "id": "bksy:35352",
+      "source_id": "bksy",
+      "title": "电波传播与天线实验班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35352.htm",
+      "date": "2026-08-27"
+    },
+    {
+      "id": "bksy:35342",
+      "source_id": "bksy",
+      "title": "量子信息拔尖班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35342.htm",
+      "date": "2026-08-27"
+    },
+    {
+      "id": "bksy:35332",
+      "source_id": "bksy",
+      "title": "中林班简介",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35332.htm",
+      "date": "2026-08-27"
+    },
     {
       "id": "bksy:35312",
       "source_id": "bksy",
       "title": "关于西安电子科技大学中国国际大学生创新大赛（2026...",
       "url": "https://bksy.xidian.edu.cn/info/1003/35312.htm",
+      "date": "2026-08-27"
+    },
+    {
+      "id": "bksy:35292",
+      "source_id": "bksy",
+      "title": "西安电子科技大学教学日历模板",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35292.htm",
       "date": "2026-08-27"
     },
     {
