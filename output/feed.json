@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-08-26T19:52:45.108217+00:00",
-  "total_notices": 3330,
+  "generated_at": "2026-08-27T08:32:35.335457+00:00",
+  "total_notices": 3333,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:11953",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260827-2",
+      "url": "https://phy.xidian.edu.cn/info/1012/11953.htm",
+      "date": "2026-08-27",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:11943",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260827-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/11943.htm",
+      "date": "2026-08-27",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "bksy:35312",
+      "source_id": "bksy",
+      "title": "关于西安电子科技大学中国国际大学生创新大赛（2026...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35312.htm",
+      "date": "2026-08-27",
+      "source_name": "本科生院"
+    },
     {
       "id": "sme:3697",
       "source_id": "sme",
