@@ -3,10 +3,31 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-08-27T22:03:30.662847Z",
-    "total_notices": 379
+    "last_scraped": "2026-08-28T10:45:01.804564Z",
+    "total_notices": 382
   },
   "notices": [
+    {
+      "id": "bksy:35392",
+      "source_id": "bksy",
+      "title": "关于举办西安电子科技大学中国国际大学生创新大赛（2...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35392.htm",
+      "date": "2026-08-28"
+    },
+    {
+      "id": "bksy:35382",
+      "source_id": "bksy",
+      "title": "关于举办西安电子科技大学中国国际大学生创新大赛（2...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35382.htm",
+      "date": "2026-08-28"
+    },
+    {
+      "id": "bksy:35372",
+      "source_id": "bksy",
+      "title": "2026级本科新生入学能力测试考生须知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35372.htm",
+      "date": "2026-08-28"
+    },
     {
       "id": "bksy:35362",
       "source_id": "bksy",

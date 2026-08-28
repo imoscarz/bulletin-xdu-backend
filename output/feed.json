@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-27T22:03:55.374893+00:00",
-  "total_notices": 3339,
+  "generated_at": "2026-08-28T10:45:35.884309+00:00",
+  "total_notices": 3345,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jwc:23203",
+      "source_id": "jwc",
+      "title": "2026级本科新生入学能力测试考生须知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23203.htm",
+      "date": "2026-08-28",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:35392",
+      "source_id": "bksy",
+      "title": "关于举办西安电子科技大学中国国际大学生创新大赛（2...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35392.htm",
+      "date": "2026-08-28",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35382",
+      "source_id": "bksy",
+      "title": "关于举办西安电子科技大学中国国际大学生创新大赛（2...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35382.htm",
+      "date": "2026-08-28",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35372",
+      "source_id": "bksy",
+      "title": "2026级本科新生入学能力测试考生须知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35372.htm",
+      "date": "2026-08-28",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "sme:3700",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0828/3700.html",
+      "date": "2026-08-27",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "phy:11953",
       "source_id": "phy",
@@ -217,6 +257,14 @@
       "title": "科研协作信息公示",
       "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0820/3690.html",
       "date": "2026-08-19",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3699",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0828/3699.html",
+      "date": "2026-08-18",
       "source_name": "集成电路学部"
     },
     {

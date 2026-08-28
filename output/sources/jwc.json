@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-08-27T22:03:16.660328Z",
-    "total_notices": 104
+    "last_scraped": "2026-08-28T10:44:42.001872Z",
+    "total_notices": 105
   },
   "notices": [
+    {
+      "id": "jwc:23203",
+      "source_id": "jwc",
+      "title": "2026级本科新生入学能力测试考生须知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23203.htm",
+      "date": "2026-08-28"
+    },
     {
       "id": "jwc:23143",
       "source_id": "jwc",
