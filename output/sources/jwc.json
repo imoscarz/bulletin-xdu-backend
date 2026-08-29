@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-08-29T06:32:01.225330Z",
-    "total_notices": 105
+    "last_scraped": "2026-08-29T16:30:08.202319Z",
+    "total_notices": 106
   },
   "notices": [
+    {
+      "id": "jwc:23213",
+      "source_id": "jwc",
+      "title": "关于开展2026年秋季实验班选拔的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23213.htm",
+      "date": "2026-08-29"
+    },
     {
       "id": "jwc:23203",
       "source_id": "jwc",

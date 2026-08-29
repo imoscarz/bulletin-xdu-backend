@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-08-29T06:33:03.209171+00:00",
-  "total_notices": 3347,
+  "generated_at": "2026-08-29T16:31:17.351064+00:00",
+  "total_notices": 3348,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jwc:23213",
+      "source_id": "jwc",
+      "title": "关于开展2026年秋季实验班选拔的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23213.htm",
+      "date": "2026-08-29",
+      "source_name": "教务处"
+    },
     {
       "id": "bksy:35402",
       "source_id": "bksy",
