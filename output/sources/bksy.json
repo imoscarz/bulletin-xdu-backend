@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-01T04:27:53.499730Z",
-    "total_notices": 383
+    "last_scraped": "2026-09-01T11:24:28.917123Z",
+    "total_notices": 384
   },
   "notices": [
+    {
+      "id": "bksy:35412",
+      "source_id": "bksy",
+      "title": "关于2026~2027学年第一学期2023、2024、2025级学生选...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35412.htm",
+      "date": "2026-09-01"
+    },
     {
       "id": "bksy:35402",
       "source_id": "bksy",
