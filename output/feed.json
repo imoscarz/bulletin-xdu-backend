@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T10:59:57.844449+00:00",
-  "total_notices": 3353,
+  "generated_at": "2026-09-02T16:19:42.053403+00:00",
+  "total_notices": 3354,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://ygb.xidian.edu.cn/info/1036/13503.htm",
       "date": "2026-09-02",
       "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "phy:11993",
+      "source_id": "phy",
+      "title": "2026年“复杂环境光电信息感知科学与技术”国际学术交流平台学术年会（IWOP2026）征文通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/11993.htm",
+      "date": "2026-09-02",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "ste:16376",
