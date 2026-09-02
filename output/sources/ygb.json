@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-02T03:51:28.617098Z",
-    "total_notices": 85
+    "last_scraped": "2026-09-02T10:59:04.967592Z",
+    "total_notices": 86
   },
   "notices": [
+    {
+      "id": "ygb:13503",
+      "source_id": "ygb",
+      "title": "西安电子科技大学2026级研究生新生报到方案",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13503.htm",
+      "date": "2026-09-02"
+    },
     {
       "id": "ygb:13393",
       "source_id": "ygb",

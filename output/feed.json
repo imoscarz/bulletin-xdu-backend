@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-09-02T03:51:45.571786+00:00",
-  "total_notices": 3352,
+  "generated_at": "2026-09-02T10:59:57.844449+00:00",
+  "total_notices": 3353,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:13503",
+      "source_id": "ygb",
+      "title": "西安电子科技大学2026级研究生新生报到方案",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13503.htm",
+      "date": "2026-09-02",
+      "source_name": "党委研究生工作部"
+    },
     {
       "id": "ste:16376",
       "source_id": "ste",
