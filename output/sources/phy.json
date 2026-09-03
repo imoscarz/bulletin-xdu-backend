@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-03T03:50:09.050768Z",
-    "total_notices": 116
+    "last_scraped": "2026-09-03T10:57:04.221015Z",
+    "total_notices": 117
   },
   "notices": [
+    {
+      "id": "phy:12003",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260903-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12003.htm",
+      "date": "2026-09-03"
+    },
     {
       "id": "phy:11993",
       "source_id": "phy",
