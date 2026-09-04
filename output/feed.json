@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-04T03:52:37.828411+00:00",
-  "total_notices": 3355,
+  "generated_at": "2026-09-04T10:58:02.853843+00:00",
+  "total_notices": 3357,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:12013",
+      "source_id": "phy",
+      "title": "关于开展西安电子科技大学首届 “王中林原创科学奖”评选的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12013.htm",
+      "date": "2026-09-04",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "gr:20504",
+      "source_id": "gr",
+      "title": "2026年秋季学期培养计划制定及选课指南",
+      "url": "https://gr.xidian.edu.cn/info/1073/20504.htm",
+      "date": "2026-09-04",
+      "source_name": "研究生院"
+    },
     {
       "id": "phy:12003",
       "source_id": "phy",

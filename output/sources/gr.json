@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-09-04T03:51:57.128349Z",
-    "total_notices": 128
+    "last_scraped": "2026-09-04T10:57:31.873758Z",
+    "total_notices": 129
   },
   "notices": [
+    {
+      "id": "gr:20504",
+      "source_id": "gr",
+      "title": "2026年秋季学期培养计划制定及选课指南",
+      "url": "https://gr.xidian.edu.cn/info/1073/20504.htm",
+      "date": "2026-09-04"
+    },
     {
       "id": "gr:20444",
       "source_id": "gr",
