@@ -3,10 +3,24 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-05T10:18:52.327277Z",
-    "total_notices": 104
+    "last_scraped": "2026-09-05T14:54:53.690143Z",
+    "total_notices": 106
   },
   "notices": [
+    {
+      "id": "xdwy:10964",
+      "source_id": "xdwy",
+      "title": "关于2026年秋季学期开设“四同课堂”课程的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10964.htm",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "xdwy:10954",
+      "source_id": "xdwy",
+      "title": "关于拟对超过最长学习年限的658名网络教育学生作退学处理的公示",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10954.htm",
+      "date": "2026-09-05"
+    },
     {
       "id": "xdwy:10944",
       "source_id": "xdwy",
