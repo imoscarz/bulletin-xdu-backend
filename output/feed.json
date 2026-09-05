@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-04T20:34:50.231305+00:00",
-  "total_notices": 3357,
+  "generated_at": "2026-09-05T03:50:11.823308+00:00",
+  "total_notices": 3359,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10944",
+      "source_id": "xdwy",
+      "title": "关于举行西安电子科技大学高等学历继续教育2026级学生开学典礼暨入学教育的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10944.htm",
+      "date": "2026-09-04",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "sast:21437",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/21437.htm",
+      "date": "2026-09-04",
+      "source_name": "空间科学与技术学院"
+    },
     {
       "id": "phy:12013",
       "source_id": "phy",

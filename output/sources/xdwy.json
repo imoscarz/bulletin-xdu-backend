@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-04T20:34:33.705757Z",
-    "total_notices": 103
+    "last_scraped": "2026-09-05T03:49:54.035753Z",
+    "total_notices": 104
   },
   "notices": [
+    {
+      "id": "xdwy:10944",
+      "source_id": "xdwy",
+      "title": "关于举行西安电子科技大学高等学历继续教育2026级学生开学典礼暨入学教育的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10944.htm",
+      "date": "2026-09-04"
+    },
     {
       "id": "xdwy:10814",
       "source_id": "xdwy",
