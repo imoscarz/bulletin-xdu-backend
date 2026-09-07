@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-06T20:13:44.327677Z",
-    "total_notices": 118
+    "last_scraped": "2026-09-07T03:53:15.689136Z",
+    "total_notices": 119
   },
   "notices": [
+    {
+      "id": "phy:12023",
+      "source_id": "phy",
+      "title": "物理学院关于开展2026级本科实验班选拔面试的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12023.htm",
+      "date": "2026-09-07"
+    },
     {
       "id": "phy:12013",
       "source_id": "phy",

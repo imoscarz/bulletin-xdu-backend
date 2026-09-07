@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-09-06T20:13:45.916891Z",
-    "total_notices": 90
+    "last_scraped": "2026-09-07T03:53:16.993579Z",
+    "total_notices": 91
   },
   "notices": [
+    {
+      "id": "soe:17755",
+      "source_id": "soe",
+      "title": "光电工程学院关于开展2026级电子科学与技术卓越班选拔面试的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17755.htm",
+      "date": "2026-09-07"
+    },
     {
       "id": "soe:17725",
       "source_id": "soe",

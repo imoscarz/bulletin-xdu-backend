@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-09-06T20:13:41.020262Z",
-    "total_notices": 71
+    "last_scraped": "2026-09-07T03:53:10.590874Z",
+    "total_notices": 72
   },
   "notices": [
+    {
+      "id": "math:23682",
+      "source_id": "math",
+      "title": "数学与统计学院关于开展2026级实验班选拔面试的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23682.htm",
+      "date": "2026-09-07"
+    },
     {
       "id": "math:23542",
       "source_id": "math",

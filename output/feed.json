@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-09-06T20:14:28.903848+00:00",
-  "total_notices": 3361,
+  "generated_at": "2026-09-07T03:53:52.799191+00:00",
+  "total_notices": 3368,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16386",
+      "source_id": "ste",
+      "title": "通信工程学院关于开展2026级实验班选拔面试的通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/16386.htm",
+      "date": "2026-09-07",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17755",
+      "source_id": "soe",
+      "title": "光电工程学院关于开展2026级电子科学与技术卓越班选拔面试的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/17755.htm",
+      "date": "2026-09-07",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sai:28502",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2026级实验班选拔面试的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/28502.htm",
+      "date": "2026-09-07",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:12023",
+      "source_id": "phy",
+      "title": "物理学院关于开展2026级本科实验班选拔面试的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12023.htm",
+      "date": "2026-09-07",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "math:23682",
+      "source_id": "math",
+      "title": "数学与统计学院关于开展2026级实验班选拔面试的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/23682.htm",
+      "date": "2026-09-07",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "eme:16246",
+      "source_id": "eme",
+      "title": "机电工程学院2026一2028年教师岗位聘任结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16246.htm",
+      "date": "2026-09-07",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "amn:19762",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院  2026级师昌绪电子材料菁英班选拔面试的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/19762.htm",
+      "date": "2026-09-07",
+      "source_name": "先进材料与纳米科技学院"
+    },
     {
       "id": "xdwy:10964",
       "source_id": "xdwy",
