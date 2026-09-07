@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-07T03:53:52.799191+00:00",
-  "total_notices": 3368,
+  "generated_at": "2026-09-07T12:04:53.403434+00:00",
+  "total_notices": 3375,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:13513",
+      "source_id": "ygb",
+      "title": "关于开展2026年秋季学期研究生电子学籍学期注册工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13513.htm",
+      "date": "2026-09-07",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "xdwy:10974",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学2026年同等学力申硕专业能力提升班资格审查通过人员名单公示  （网络与继续教育学院第二批）",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10974.htm",
+      "date": "2026-09-07",
+      "source_name": "网络与继续教育学院"
+    },
     {
       "id": "ste:16386",
       "source_id": "ste",
@@ -44,12 +60,52 @@
       "source_name": "数学与统计学院"
     },
     {
+      "id": "life:17441",
+      "source_id": "life",
+      "title": "生命科学技术学院关于开展2026级实验班选拔面试的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/17441.htm",
+      "date": "2026-09-07",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "jwc:23243",
+      "source_id": "jwc",
+      "title": "关于2025级本科生《物理实验（Ⅱ）》实验选课及《物理实验（I）》课程补考的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23243.htm",
+      "date": "2026-09-07",
+      "source_name": "教务处"
+    },
+    {
+      "id": "eme:16256",
+      "source_id": "eme",
+      "title": "机电工程学院关于开展2026级实验班选拔面试的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/16256.htm",
+      "date": "2026-09-07",
+      "source_name": "机电工程学院"
+    },
+    {
       "id": "eme:16246",
       "source_id": "eme",
       "title": "机电工程学院2026一2028年教师岗位聘任结果公示",
       "url": "https://eme.xidian.edu.cn/info/1012/16246.htm",
       "date": "2026-09-07",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:25924",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于开展2026级实验班选拔面试的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25924.htm",
+      "date": "2026-09-07",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:35422",
+      "source_id": "bksy",
+      "title": "关于2025级本科生《物理实验（Ⅱ）》实验选课及《物...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35422.htm",
+      "date": "2026-09-07",
+      "source_name": "本科生院"
     },
     {
       "id": "amn:19762",

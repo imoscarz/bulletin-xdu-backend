@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-07T03:53:09.507456Z",
-    "total_notices": 141
+    "last_scraped": "2026-09-07T12:03:50.894316Z",
+    "total_notices": 142
   },
   "notices": [
+    {
+      "id": "cs:25924",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于开展2026级实验班选拔面试的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/25924.htm",
+      "date": "2026-09-07"
+    },
     {
       "id": "cs:25864",
       "source_id": "cs",

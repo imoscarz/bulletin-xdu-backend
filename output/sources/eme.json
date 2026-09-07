@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-09-07T03:53:28.684204Z",
-    "total_notices": 168
+    "last_scraped": "2026-09-07T12:04:20.365871Z",
+    "total_notices": 169
   },
   "notices": [
+    {
+      "id": "eme:16256",
+      "source_id": "eme",
+      "title": "机电工程学院关于开展2026级实验班选拔面试的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/16256.htm",
+      "date": "2026-09-07"
+    },
     {
       "id": "eme:16246",
       "source_id": "eme",

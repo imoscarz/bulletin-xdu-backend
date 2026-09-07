@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-07T03:53:04.385486Z",
-    "total_notices": 107
+    "last_scraped": "2026-09-07T12:03:47.241700Z",
+    "total_notices": 108
   },
   "notices": [
+    {
+      "id": "jwc:23243",
+      "source_id": "jwc",
+      "title": "关于2025级本科生《物理实验（Ⅱ）》实验选课及《物理实验（I）》课程补考的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23243.htm",
+      "date": "2026-09-07"
+    },
     {
       "id": "jwc:23223",
       "source_id": "jwc",
