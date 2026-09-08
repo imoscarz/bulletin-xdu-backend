@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-07T21:21:52.298060+00:00",
-  "total_notices": 3375,
+  "generated_at": "2026-09-08T03:56:26.742928+00:00",
+  "total_notices": 3378,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jwc:23263",
+      "source_id": "jwc",
+      "title": "关于2023级学生综合层（A级）实验实践能力达标测试的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23263.htm",
+      "date": "2026-09-08",
+      "source_name": "教务处"
+    },
+    {
+      "id": "eme:16266",
+      "source_id": "eme",
+      "title": "关于延长机电工程学院2027年预推免报名系统时间的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/16266.htm",
+      "date": "2026-09-08",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:35432",
+      "source_id": "bksy",
+      "title": "关于2023级学生综合层（A级）实验实践能力达标测试的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35432.htm",
+      "date": "2026-09-08",
+      "source_name": "本科生院"
+    },
     {
       "id": "ygb:13513",
       "source_id": "ygb",

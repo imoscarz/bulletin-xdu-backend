@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-07T21:21:12.008315Z",
-    "total_notices": 108
+    "last_scraped": "2026-09-08T03:55:39.913007Z",
+    "total_notices": 109
   },
   "notices": [
+    {
+      "id": "jwc:23263",
+      "source_id": "jwc",
+      "title": "关于2023级学生综合层（A级）实验实践能力达标测试的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23263.htm",
+      "date": "2026-09-08"
+    },
     {
       "id": "jwc:23243",
       "source_id": "jwc",
