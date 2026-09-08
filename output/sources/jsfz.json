@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-08T03:56:12.616987Z",
-    "total_notices": 95
+    "last_scraped": "2026-09-08T10:57:50.729305Z",
+    "total_notices": 96
   },
   "notices": [
+    {
+      "id": "jsfz:12192",
+      "source_id": "jsfz",
+      "title": "【教学培训】新进教师入职仪式暨青年教师成长专题培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12192.htm",
+      "date": "2026-09-08"
+    },
     {
       "id": "jsfz:12182",
       "source_id": "jsfz",

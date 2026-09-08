@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-09-08T03:55:59.398202Z",
-    "total_notices": 129
+    "last_scraped": "2026-09-08T10:57:33.853119Z",
+    "total_notices": 130
   },
   "notices": [
+    {
+      "id": "gr:20544",
+      "source_id": "gr",
+      "title": "关于研究生成绩转存与学分认定通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/20544.htm",
+      "date": "2026-09-08"
+    },
     {
       "id": "gr:20504",
       "source_id": "gr",
