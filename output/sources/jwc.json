@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-08T20:56:37.291783Z",
-    "total_notices": 109
+    "last_scraped": "2026-09-09T04:01:10.332895Z",
+    "total_notices": 110
   },
   "notices": [
+    {
+      "id": "jwc:23283",
+      "source_id": "jwc",
+      "title": "关于2026~2027学年第一学期2026级学生选课的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23283.htm",
+      "date": "2026-09-09"
+    },
     {
       "id": "jwc:23263",
       "source_id": "jwc",
