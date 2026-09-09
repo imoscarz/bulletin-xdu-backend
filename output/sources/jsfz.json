@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-09T04:01:56.978929Z",
-    "total_notices": 96
+    "last_scraped": "2026-09-09T11:02:29.760400Z",
+    "total_notices": 97
   },
   "notices": [
+    {
+      "id": "jsfz:12202",
+      "source_id": "jsfz",
+      "title": "【教学培训】青年教师实验实践教学技能培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12202.htm",
+      "date": "2026-09-09"
+    },
     {
       "id": "jsfz:12192",
       "source_id": "jsfz",

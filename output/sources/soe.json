@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-09-09T04:01:20.920435Z",
-    "total_notices": 91
+    "last_scraped": "2026-09-09T11:01:58.053591Z",
+    "total_notices": 92
   },
   "notices": [
+    {
+      "id": "soe:17925",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260909-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17925.htm",
+      "date": "2026-09-09"
+    },
     {
       "id": "soe:17755",
       "source_id": "soe",

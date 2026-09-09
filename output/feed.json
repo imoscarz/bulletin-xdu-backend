@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-09T04:02:22.318312+00:00",
-  "total_notices": 3385,
+  "generated_at": "2026-09-09T11:02:48.509425+00:00",
+  "total_notices": 3394,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:17925",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260909-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17925.htm",
+      "date": "2026-09-09",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sast:21527",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/21527.htm",
+      "date": "2026-09-09",
+      "source_name": "空间科学与技术学院"
+    },
     {
       "id": "sast:21517",
       "source_id": "sast",
@@ -12,12 +28,68 @@
       "source_name": "空间科学与技术学院"
     },
     {
+      "id": "rwxy:17724",
+      "source_id": "rwxy",
+      "title": "人文学院2027年接收推荐免试硕士研究生工作实施方案",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17724.htm",
+      "date": "2026-09-09",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "life:17481",
+      "source_id": "life",
+      "title": "生命科学技术学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://life.xidian.edu.cn/info/1048/17481.htm",
+      "date": "2026-09-09",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "life:17471",
+      "source_id": "life",
+      "title": "关于调整生命科学技术学院2027年推荐免试研究生招生预报名时间的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/17471.htm",
+      "date": "2026-09-09",
+      "source_name": "生命科学技术学院"
+    },
+    {
       "id": "jwc:23283",
       "source_id": "jwc",
       "title": "关于2026~2027学年第一学期2026级学生选课的通知",
       "url": "https://jwc.xidian.edu.cn/info/1012/23283.htm",
       "date": "2026-09-09",
       "source_name": "教务处"
+    },
+    {
+      "id": "jsfz:12202",
+      "source_id": "jsfz",
+      "title": "【教学培训】青年教师实验实践教学技能培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12202.htm",
+      "date": "2026-09-09",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "eme:16296",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260909",
+      "url": "https://eme.xidian.edu.cn/info/1012/16296.htm",
+      "date": "2026-09-09",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:16286",
+      "source_id": "eme",
+      "title": "机电工程学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://eme.xidian.edu.cn/info/1012/16286.htm",
+      "date": "2026-09-09",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:35492",
+      "source_id": "bksy",
+      "title": "【教学培训】青年教师实验实践教学技能培训",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35492.htm",
+      "date": "2026-09-09",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:35452",

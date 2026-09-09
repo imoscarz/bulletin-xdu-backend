@@ -3,10 +3,24 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-09-09T04:01:39.519754Z",
-    "total_notices": 170
+    "last_scraped": "2026-09-09T11:02:18.760367Z",
+    "total_notices": 172
   },
   "notices": [
+    {
+      "id": "eme:16296",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260909",
+      "url": "https://eme.xidian.edu.cn/info/1012/16296.htm",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "eme:16286",
+      "source_id": "eme",
+      "title": "机电工程学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://eme.xidian.edu.cn/info/1012/16286.htm",
+      "date": "2026-09-09"
+    },
     {
       "id": "eme:16266",
       "source_id": "eme",
