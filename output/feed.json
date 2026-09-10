@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T10:59:43.098179+00:00",
-  "total_notices": 3409,
+  "generated_at": "2026-09-10T16:09:46.526787+00:00",
+  "total_notices": 3411,
   "content_limit": 5000,
   "notices": [
     {
@@ -84,6 +84,14 @@
       "source_name": "人才招聘"
     },
     {
+      "id": "cs:26014",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/26014.htm",
+      "date": "2026-09-10",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
       "id": "bksy:35522",
       "source_id": "bksy",
       "title": "【教学培训】新时代大学英语课程思政与国际传播能力建设",
@@ -106,6 +114,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/35502.htm",
       "date": "2026-09-10",
       "source_name": "本科生院"
+    },
+    {
+      "id": "amn:19802",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://amn.xidian.edu.cn/info/1013/19802.htm",
+      "date": "2026-09-10",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "soe:17925",

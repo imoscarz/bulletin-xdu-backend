@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-10T10:58:28.745582Z",
-    "total_notices": 142
+    "last_scraped": "2026-09-10T16:08:25.515034Z",
+    "total_notices": 143
   },
   "notices": [
+    {
+      "id": "cs:26014",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/26014.htm",
+      "date": "2026-09-10"
+    },
     {
       "id": "cs:25924",
       "source_id": "cs",
