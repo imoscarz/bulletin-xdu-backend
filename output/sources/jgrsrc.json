@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-09-09T20:45:16.935943Z",
-    "total_notices": 95
+    "last_scraped": "2026-09-10T04:00:14.647988Z",
+    "total_notices": 96
   },
   "notices": [
+    {
+      "id": "jgrsrc:18318",
+      "source_id": "jgrsrc",
+      "title": "关于遴选青年教师赴乾元国家实验室挂职锻炼的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=18318",
+      "date": "2026-09-10"
+    },
     {
       "id": "jgrsrc:18178",
       "source_id": "jgrsrc",

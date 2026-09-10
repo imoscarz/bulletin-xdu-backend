@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-09-09T20:45:44.977919+00:00",
-  "total_notices": 3394,
+  "generated_at": "2026-09-10T04:00:39.714730+00:00",
+  "total_notices": 3399,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:12043",
+      "source_id": "phy",
+      "title": "关于开展物理学院2025级实验班补录工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12043.htm",
+      "date": "2026-09-10",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "math:23702",
+      "source_id": "math",
+      "title": "数学与统计学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://math.xidian.edu.cn/info/1020/23702.htm",
+      "date": "2026-09-10",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "jwc:23303",
+      "source_id": "jwc",
+      "title": "2026年秋季实验班选拔拟录取名单公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23303.htm",
+      "date": "2026-09-10",
+      "source_name": "教务处"
+    },
+    {
+      "id": "jgrsrc:18318",
+      "source_id": "jgrsrc",
+      "title": "关于遴选青年教师赴乾元国家实验室挂职锻炼的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=18318",
+      "date": "2026-09-10",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "bksy:35502",
+      "source_id": "bksy",
+      "title": "2026年秋季实验班选拔拟录取名单公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35502.htm",
+      "date": "2026-09-10",
+      "source_name": "本科生院"
+    },
     {
       "id": "soe:17925",
       "source_id": "soe",

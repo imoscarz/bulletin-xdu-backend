@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-09T20:44:57.072845Z",
-    "total_notices": 119
+    "last_scraped": "2026-09-10T03:59:59.560919Z",
+    "total_notices": 120
   },
   "notices": [
+    {
+      "id": "phy:12043",
+      "source_id": "phy",
+      "title": "关于开展物理学院2025级实验班补录工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12043.htm",
+      "date": "2026-09-10"
+    },
     {
       "id": "phy:12023",
       "source_id": "phy",
