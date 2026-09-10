@@ -3,10 +3,24 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-10T04:00:09.879138Z",
-    "total_notices": 143
+    "last_scraped": "2026-09-10T10:58:46.848851Z",
+    "total_notices": 145
   },
   "notices": [
+    {
+      "id": "sai:28522",
+      "source_id": "sai",
+      "title": "人工智能学院2027年推荐免试研究生接收方案及工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/28522.htm",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "sai:28512",
+      "source_id": "sai",
+      "title": "人工智能学院2027年推荐免试研究生预报名时间变更及选拔考核安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/28512.htm",
+      "date": "2026-09-10"
+    },
     {
       "id": "sai:28502",
       "source_id": "sai",

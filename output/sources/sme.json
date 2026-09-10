@@ -3,16 +3,30 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-09-10T04:00:39.693909Z",
-    "total_notices": 250
+    "last_scraped": "2026-09-10T10:59:43.077946Z",
+    "total_notices": 252
   },
   "notices": [
+    {
+      "id": "sme:3701",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2026级实验班选拔面试的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0907/3701.html",
+      "date": "2026-09-07"
+    },
     {
       "id": "sme:3700",
       "source_id": "sme",
       "title": "科研协作信息公示",
       "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0828/3700.html",
       "date": "2026-08-27"
+    },
+    {
+      "id": "sme:3702",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0910/3702.html",
+      "date": "2026-08-25"
     },
     {
       "id": "sme:3697",

@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-10T04:00:12.331139Z",
-    "total_notices": 390
+    "last_scraped": "2026-09-10T10:58:56.813295Z",
+    "total_notices": 392
   },
   "notices": [
+    {
+      "id": "bksy:35522",
+      "source_id": "bksy",
+      "title": "【教学培训】新时代大学英语课程思政与国际传播能力建设",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35522.htm",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "bksy:35512",
+      "source_id": "bksy",
+      "title": "​【教学培训】国家一流本科课程“预测与决策”慕课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35512.htm",
+      "date": "2026-09-10"
+    },
     {
       "id": "bksy:35502",
       "source_id": "bksy",

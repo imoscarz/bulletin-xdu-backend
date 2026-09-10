@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-09-10T04:00:39.714730+00:00",
-  "total_notices": 3399,
+  "generated_at": "2026-09-10T10:59:43.098179+00:00",
+  "total_notices": 3409,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sai:28522",
+      "source_id": "sai",
+      "title": "人工智能学院2027年推荐免试研究生接收方案及工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/28522.htm",
+      "date": "2026-09-10",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "sai:28512",
+      "source_id": "sai",
+      "title": "人工智能学院2027年推荐免试研究生预报名时间变更及选拔考核安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/28512.htm",
+      "date": "2026-09-10",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "phy:12063",
+      "source_id": "phy",
+      "title": "关于调整物理学院2027年推免生预报名系统时间的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12063.htm",
+      "date": "2026-09-10",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:12053",
+      "source_id": "phy",
+      "title": "物理学院2027年推荐免试研究生接收方案",
+      "url": "https://phy.xidian.edu.cn/info/1012/12053.htm",
+      "date": "2026-09-10",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "phy:12043",
       "source_id": "phy",
@@ -28,12 +60,44 @@
       "source_name": "教务处"
     },
     {
+      "id": "jsfz:12222",
+      "source_id": "jsfz",
+      "title": "【教学培训】新时代大学英语课程思政与国际传播能力建设",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12222.htm",
+      "date": "2026-09-10",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12212",
+      "source_id": "jsfz",
+      "title": "​【教学培训】国家一流本科课程“预测与决策”慕课建设研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12212.htm",
+      "date": "2026-09-10",
+      "source_name": "教师发展中心"
+    },
+    {
       "id": "jgrsrc:18318",
       "source_id": "jgrsrc",
       "title": "关于遴选青年教师赴乾元国家实验室挂职锻炼的通知",
       "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=18318",
       "date": "2026-09-10",
       "source_name": "人才招聘"
+    },
+    {
+      "id": "bksy:35522",
+      "source_id": "bksy",
+      "title": "【教学培训】新时代大学英语课程思政与国际传播能力建设",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35522.htm",
+      "date": "2026-09-10",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35512",
+      "source_id": "bksy",
+      "title": "​【教学培训】国家一流本科课程“预测与决策”慕课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35512.htm",
+      "date": "2026-09-10",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:35502",
@@ -226,6 +290,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/17755.htm",
       "date": "2026-09-07",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3701",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2026级实验班选拔面试的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0907/3701.html",
+      "date": "2026-09-07",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sai:28502",
@@ -546,6 +618,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/35292.htm",
       "date": "2026-08-27",
       "source_name": "本科生院"
+    },
+    {
+      "id": "sme:3702",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0910/3702.html",
+      "date": "2026-08-25",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3697",

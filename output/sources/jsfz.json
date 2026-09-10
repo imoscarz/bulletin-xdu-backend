@@ -3,10 +3,24 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-10T04:00:26.994711Z",
-    "total_notices": 97
+    "last_scraped": "2026-09-10T10:59:23.554171Z",
+    "total_notices": 99
   },
   "notices": [
+    {
+      "id": "jsfz:12222",
+      "source_id": "jsfz",
+      "title": "【教学培训】新时代大学英语课程思政与国际传播能力建设",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12222.htm",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "jsfz:12212",
+      "source_id": "jsfz",
+      "title": "​【教学培训】国家一流本科课程“预测与决策”慕课建设研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12212.htm",
+      "date": "2026-09-10"
+    },
     {
       "id": "jsfz:12202",
       "source_id": "jsfz",
