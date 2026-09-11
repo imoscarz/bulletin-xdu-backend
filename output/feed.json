@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-11T03:57:42.363552+00:00",
-  "total_notices": 3414,
+  "generated_at": "2026-09-11T10:57:22.580918+00:00",
+  "total_notices": 3417,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16406",
+      "source_id": "ste",
+      "title": "关于公布通信工程学院2027年推荐免试研究生预报名材料审核通过名单的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/16406.htm",
+      "date": "2026-09-11",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17955",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260911-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17955.htm",
+      "date": "2026-09-11",
+      "source_name": "光电工程学院"
+    },
     {
       "id": "see:104961",
       "source_id": "see",
@@ -10,6 +26,14 @@
       "url": "https://see.xidian.edu.cn/info/1052/104961.htm",
       "date": "2026-09-11",
       "source_name": "电子工程学院"
+    },
+    {
+      "id": "life:17491",
+      "source_id": "life",
+      "title": "生命科学技术学院2025级生命智能英才班补录工作实施方案",
+      "url": "https://life.xidian.edu.cn/info/1048/17491.htm",
+      "date": "2026-09-11",
+      "source_name": "生命科学技术学院"
     },
     {
       "id": "jwc:23333",
