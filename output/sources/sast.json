@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-09-11T10:57:02.002070Z",
-    "total_notices": 127
+    "last_scraped": "2026-09-11T16:12:36.626501Z",
+    "total_notices": 128
   },
   "notices": [
+    {
+      "id": "sast:21687",
+      "source_id": "sast",
+      "title": "关于2027年空间科学与技术学院预推免研究生复试考核的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/21687.htm",
+      "date": "2026-09-11"
+    },
     {
       "id": "sast:21527",
       "source_id": "sast",

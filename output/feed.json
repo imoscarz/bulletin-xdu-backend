@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-09-11T10:57:22.580918+00:00",
-  "total_notices": 3417,
+  "generated_at": "2026-09-11T16:13:19.398722+00:00",
+  "total_notices": 3420,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16416",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16416.htm",
+      "date": "2026-09-11",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "ste:16406",
       "source_id": "ste",
@@ -10,6 +18,14 @@
       "url": "https://ste.xidian.edu.cn/info/1337/16406.htm",
       "date": "2026-09-11",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17965",
+      "source_id": "soe",
+      "title": "光电工程学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://soe.xidian.edu.cn/info/1095/17965.htm",
+      "date": "2026-09-11",
+      "source_name": "光电工程学院"
     },
     {
       "id": "soe:17955",
@@ -26,6 +42,14 @@
       "url": "https://see.xidian.edu.cn/info/1052/104961.htm",
       "date": "2026-09-11",
       "source_name": "电子工程学院"
+    },
+    {
+      "id": "sast:21687",
+      "source_id": "sast",
+      "title": "关于2027年空间科学与技术学院预推免研究生复试考核的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/21687.htm",
+      "date": "2026-09-11",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "life:17491",

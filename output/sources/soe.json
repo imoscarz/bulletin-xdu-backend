@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-09-11T10:56:44.478502Z",
-    "total_notices": 93
+    "last_scraped": "2026-09-11T16:12:12.082297Z",
+    "total_notices": 94
   },
   "notices": [
+    {
+      "id": "soe:17965",
+      "source_id": "soe",
+      "title": "光电工程学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://soe.xidian.edu.cn/info/1095/17965.htm",
+      "date": "2026-09-11"
+    },
     {
       "id": "soe:17955",
       "source_id": "soe",
