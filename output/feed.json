@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-10T20:40:53.710524+00:00",
-  "total_notices": 3411,
+  "generated_at": "2026-09-11T03:57:42.363552+00:00",
+  "total_notices": 3414,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "see:104961",
+      "source_id": "see",
+      "title": "关于评选2026年度本科优质教学奖的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/104961.htm",
+      "date": "2026-09-11",
+      "source_name": "电子工程学院"
+    },
+    {
+      "id": "jwc:23333",
+      "source_id": "jwc",
+      "title": "关于开展物理学院2025级实验班补录工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23333.htm",
+      "date": "2026-09-11",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:35532",
+      "source_id": "bksy",
+      "title": "关于开展物理学院2025级实验班补录工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35532.htm",
+      "date": "2026-09-11",
+      "source_name": "本科生院"
+    },
     {
       "id": "sai:28522",
       "source_id": "sai",
