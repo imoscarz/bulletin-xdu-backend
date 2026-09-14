@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-13T20:34:23.815255+00:00",
-  "total_notices": 3420,
+  "generated_at": "2026-09-14T04:17:30.765755+00:00",
+  "total_notices": 3428,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:13523",
+      "source_id": "ygb",
+      "title": "关于开展2025～2026学年研究生学年总评工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13523.htm",
+      "date": "2026-09-14",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "xgc:14284",
+      "source_id": "xgc",
+      "title": "关于做好2026～2027学年家庭经济困难本科生学费缓缴工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14284.htm",
+      "date": "2026-09-14",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "xgc:14274",
+      "source_id": "xgc",
+      "title": "关于启动2026～2027学年家庭经济困难学生认定工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14274.htm",
+      "date": "2026-09-14",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "xgc:14264",
+      "source_id": "xgc",
+      "title": "关于开展2026年秋季学期学生勤工助学工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14264.htm",
+      "date": "2026-09-14",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "jgrsrc:18348",
+      "source_id": "jgrsrc",
+      "title": "关于2026年陕西省高校教师岗前培训暨教师资格教育基础理论知识培训报名及工作安排的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18348.htm",
+      "date": "2026-09-14",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "bksy:35582",
+      "source_id": "bksy",
+      "title": "关于做好2026～2027学年家庭经济困难本科生学费缓缴...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35582.htm",
+      "date": "2026-09-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35562",
+      "source_id": "bksy",
+      "title": "关于启动2026～2027学年家庭经济困难学生认定工作的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35562.htm",
+      "date": "2026-09-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35542",
+      "source_id": "bksy",
+      "title": "关于开展2026年秋季学期学生勤工助学工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35542.htm",
+      "date": "2026-09-14",
+      "source_name": "本科生院"
+    },
     {
       "id": "ste:16416",
       "source_id": "ste",

@@ -3,10 +3,31 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-13T20:33:47.738756Z",
-    "total_notices": 393
+    "last_scraped": "2026-09-14T04:16:58.123220Z",
+    "total_notices": 396
   },
   "notices": [
+    {
+      "id": "bksy:35582",
+      "source_id": "bksy",
+      "title": "关于做好2026～2027学年家庭经济困难本科生学费缓缴...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35582.htm",
+      "date": "2026-09-14"
+    },
+    {
+      "id": "bksy:35562",
+      "source_id": "bksy",
+      "title": "关于启动2026～2027学年家庭经济困难学生认定工作的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35562.htm",
+      "date": "2026-09-14"
+    },
+    {
+      "id": "bksy:35542",
+      "source_id": "bksy",
+      "title": "关于开展2026年秋季学期学生勤工助学工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35542.htm",
+      "date": "2026-09-14"
+    },
     {
       "id": "bksy:35532",
       "source_id": "bksy",

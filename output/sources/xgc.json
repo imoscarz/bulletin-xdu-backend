@@ -3,10 +3,31 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-09-13T20:33:46.405449Z",
-    "total_notices": 120
+    "last_scraped": "2026-09-14T04:16:56.760123Z",
+    "total_notices": 123
   },
   "notices": [
+    {
+      "id": "xgc:14284",
+      "source_id": "xgc",
+      "title": "关于做好2026～2027学年家庭经济困难本科生学费缓缴工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14284.htm",
+      "date": "2026-09-14"
+    },
+    {
+      "id": "xgc:14274",
+      "source_id": "xgc",
+      "title": "关于启动2026～2027学年家庭经济困难学生认定工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14274.htm",
+      "date": "2026-09-14"
+    },
+    {
+      "id": "xgc:14264",
+      "source_id": "xgc",
+      "title": "关于开展2026年秋季学期学生勤工助学工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14264.htm",
+      "date": "2026-09-14"
+    },
     {
       "id": "xgc:14254",
       "source_id": "xgc",
