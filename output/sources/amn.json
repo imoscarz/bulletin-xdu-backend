@@ -3,10 +3,17 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-14T04:16:53.980775Z",
-    "total_notices": 100
+    "last_scraped": "2026-09-14T12:19:31.434181Z",
+    "total_notices": 101
   },
   "notices": [
+    {
+      "id": "amn:19902",
+      "source_id": "amn",
+      "title": "关于做好先进材料与纳米科技学院2025级师昌绪电子材料菁英班补录工作的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/19902.htm",
+      "date": "2026-09-11"
+    },
     {
       "id": "amn:19802",
       "source_id": "amn",

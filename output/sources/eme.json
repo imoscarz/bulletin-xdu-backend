@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-09-14T04:17:03.656744Z",
-    "total_notices": 172
+    "last_scraped": "2026-09-14T12:19:46.608389Z",
+    "total_notices": 173
   },
   "notices": [
+    {
+      "id": "eme:16306",
+      "source_id": "eme",
+      "title": "关于开展机电工程学院2025级实验班补录工作的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/16306.htm",
+      "date": "2026-09-14"
+    },
     {
       "id": "eme:16296",
       "source_id": "eme",

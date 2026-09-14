@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-14T04:17:12.176715Z",
-    "total_notices": 88
+    "last_scraped": "2026-09-14T12:19:58.403550Z",
+    "total_notices": 89
   },
   "notices": [
+    {
+      "id": "ygb:13533",
+      "source_id": "ygb",
+      "title": "关于报送2026年度服义务兵役学生国家教育资助申请材料的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13533.htm",
+      "date": "2026-09-14"
+    },
     {
       "id": "ygb:13523",
       "source_id": "ygb",

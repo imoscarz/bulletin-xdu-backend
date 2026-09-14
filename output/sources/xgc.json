@@ -3,10 +3,31 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-09-14T04:16:56.760123Z",
-    "total_notices": 123
+    "last_scraped": "2026-09-14T12:19:37.986835Z",
+    "total_notices": 126
   },
   "notices": [
+    {
+      "id": "xgc:14344",
+      "source_id": "xgc",
+      "title": "关于对2027届“2+3”辅导员拟聘人员推免资格进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14344.htm",
+      "date": "2026-09-14"
+    },
+    {
+      "id": "xgc:14314",
+      "source_id": "xgc",
+      "title": "关于开展2026年国家奖学金、国家励志奖学金评选工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14314.htm",
+      "date": "2026-09-14"
+    },
+    {
+      "id": "xgc:14294",
+      "source_id": "xgc",
+      "title": "关于开展2025～2026学年本科生学年总评工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14294.htm",
+      "date": "2026-09-14"
+    },
     {
       "id": "xgc:14284",
       "source_id": "xgc",

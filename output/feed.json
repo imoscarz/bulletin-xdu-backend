@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-09-14T04:17:30.765755+00:00",
-  "total_notices": 3428,
+  "generated_at": "2026-09-14T12:20:18.153675+00:00",
+  "total_notices": 3442,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:13533",
+      "source_id": "ygb",
+      "title": "关于报送2026年度服义务兵役学生国家教育资助申请材料的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13533.htm",
+      "date": "2026-09-14",
+      "source_name": "党委研究生工作部"
+    },
     {
       "id": "ygb:13523",
       "source_id": "ygb",
@@ -10,6 +18,30 @@
       "url": "https://ygb.xidian.edu.cn/info/1036/13523.htm",
       "date": "2026-09-14",
       "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "xgc:14344",
+      "source_id": "xgc",
+      "title": "关于对2027届“2+3”辅导员拟聘人员推免资格进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14344.htm",
+      "date": "2026-09-14",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "xgc:14314",
+      "source_id": "xgc",
+      "title": "关于开展2026年国家奖学金、国家励志奖学金评选工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14314.htm",
+      "date": "2026-09-14",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "xgc:14294",
+      "source_id": "xgc",
+      "title": "关于开展2025～2026学年本科生学年总评工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14294.htm",
+      "date": "2026-09-14",
+      "source_name": "学生工作处"
     },
     {
       "id": "xgc:14284",
@@ -36,12 +68,84 @@
       "source_name": "学生工作处"
     },
     {
+      "id": "ste:16426",
+      "source_id": "ste",
+      "title": "通信工程学院2027年推荐免试研究生预选拔考核安排的通知（持续更新）",
+      "url": "https://ste.xidian.edu.cn/info/1337/16426.htm",
+      "date": "2026-09-14",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:17985",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260914-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/17985.htm",
+      "date": "2026-09-14",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "jwc:23343",
+      "source_id": "jwc",
+      "title": "关于2026年下半年全国大学英语四、六级考试报名的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23343.htm",
+      "date": "2026-09-14",
+      "source_name": "教务处"
+    },
+    {
       "id": "jgrsrc:18348",
       "source_id": "jgrsrc",
       "title": "关于2026年陕西省高校教师岗前培训暨教师资格教育基础理论知识培训报名及工作安排的通知",
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/18348.htm",
       "date": "2026-09-14",
       "source_name": "人才招聘"
+    },
+    {
+      "id": "eme:16306",
+      "source_id": "eme",
+      "title": "关于开展机电工程学院2025级实验班补录工作的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/16306.htm",
+      "date": "2026-09-14",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:35662",
+      "source_id": "bksy",
+      "title": "关于对2027届“2+3”辅导员拟聘人员推免资格进行公示...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35662.htm",
+      "date": "2026-09-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35642",
+      "source_id": "bksy",
+      "title": "关于开展2026年国家奖学金、国家励志奖学金评选工作...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35642.htm",
+      "date": "2026-09-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35632",
+      "source_id": "bksy",
+      "title": "关于2026年下半年全国大学英语四、六级考试报名的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35632.htm",
+      "date": "2026-09-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35622",
+      "source_id": "bksy",
+      "title": "西安电子科技大学CANN挑战赛校园宣讲会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35622.htm",
+      "date": "2026-09-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:35602",
+      "source_id": "bksy",
+      "title": "关于开展2025～2026学年本科生学年总评工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35602.htm",
+      "date": "2026-09-14",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:35582",
@@ -138,6 +242,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/35532.htm",
       "date": "2026-09-11",
       "source_name": "本科生院"
+    },
+    {
+      "id": "amn:19902",
+      "source_id": "amn",
+      "title": "关于做好先进材料与纳米科技学院2025级师昌绪电子材料菁英班补录工作的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/19902.htm",
+      "date": "2026-09-11",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "sai:28522",

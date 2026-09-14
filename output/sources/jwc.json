@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-14T04:16:35.562131Z",
-    "total_notices": 112
+    "last_scraped": "2026-09-14T12:19:11.657513Z",
+    "total_notices": 113
   },
   "notices": [
+    {
+      "id": "jwc:23343",
+      "source_id": "jwc",
+      "title": "关于2026年下半年全国大学英语四、六级考试报名的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23343.htm",
+      "date": "2026-09-14"
+    },
     {
       "id": "jwc:23333",
       "source_id": "jwc",

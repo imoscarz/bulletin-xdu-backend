@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-14T04:17:15.594094Z",
-    "total_notices": 163
+    "last_scraped": "2026-09-14T12:20:02.316167Z",
+    "total_notices": 164
   },
   "notices": [
+    {
+      "id": "ste:16426",
+      "source_id": "ste",
+      "title": "通信工程学院2027年推荐免试研究生预选拔考核安排的通知（持续更新）",
+      "url": "https://ste.xidian.edu.cn/info/1337/16426.htm",
+      "date": "2026-09-14"
+    },
     {
       "id": "ste:16416",
       "source_id": "ste",
