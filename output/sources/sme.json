@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-09-15T04:17:12.786025Z",
-    "total_notices": 253
+    "last_scraped": "2026-09-15T11:27:04.779732Z",
+    "total_notices": 254
   },
   "notices": [
+    {
+      "id": "sme:3706",
+      "source_id": "sme",
+      "title": "集成电路学部关于首届“王中林原创科学奖”推荐参评候选人的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0915/3706.html",
+      "date": "2026-09-15"
+    },
     {
       "id": "sme:3704",
       "source_id": "sme",

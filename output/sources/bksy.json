@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-15T04:16:44.408505Z",
-    "total_notices": 401
+    "last_scraped": "2026-09-15T11:26:31.804285Z",
+    "total_notices": 402
   },
   "notices": [
+    {
+      "id": "bksy:35682",
+      "source_id": "bksy",
+      "title": "西安电子科技大学第二十九届研究生支教团资格审查通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35682.htm",
+      "date": "2026-09-15"
+    },
     {
       "id": "bksy:35662",
       "source_id": "bksy",

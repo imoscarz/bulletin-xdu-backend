@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T04:17:12.807154+00:00",
-  "total_notices": 3446,
+  "generated_at": "2026-09-15T11:27:04.800580+00:00",
+  "total_notices": 3450,
   "content_limit": 5000,
   "notices": [
     {
@@ -12,12 +12,36 @@
       "source_name": "通信工程学院"
     },
     {
+      "id": "sme:3706",
+      "source_id": "sme",
+      "title": "集成电路学部关于首届“王中林原创科学奖”推荐参评候选人的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0915/3706.html",
+      "date": "2026-09-15",
+      "source_name": "集成电路学部"
+    },
+    {
       "id": "sme:3704",
       "source_id": "sme",
       "title": "集成电路学部 2027年推荐免试硕士研究生接收工作实施方案",
       "url": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0915/3704.html",
       "date": "2026-09-15",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "sast:21767",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://sast.xidian.edu.cn/info/1014/21767.htm",
+      "date": "2026-09-15",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "phy:12093",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260915-2",
+      "url": "https://phy.xidian.edu.cn/info/1012/12093.htm",
+      "date": "2026-09-15",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "phy:12083",
@@ -34,6 +58,14 @@
       "url": "https://imse.xidian.edu.cn/info/1030/7151.htm",
       "date": "2026-09-15",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "bksy:35682",
+      "source_id": "bksy",
+      "title": "西安电子科技大学第二十九届研究生支教团资格审查通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35682.htm",
+      "date": "2026-09-15",
+      "source_name": "本科生院"
     },
     {
       "id": "ygb:13533",
