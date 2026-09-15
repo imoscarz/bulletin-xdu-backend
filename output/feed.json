@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-09-14T21:41:26.586348+00:00",
-  "total_notices": 3442,
+  "generated_at": "2026-09-15T04:17:12.807154+00:00",
+  "total_notices": 3446,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16436",
+      "source_id": "ste",
+      "title": "通信工程学院2027年推荐免试研究生接收办法",
+      "url": "https://ste.xidian.edu.cn/info/1337/16436.htm",
+      "date": "2026-09-15",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3704",
+      "source_id": "sme",
+      "title": "集成电路学部 2027年推荐免试硕士研究生接收工作实施方案",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0915/3704.html",
+      "date": "2026-09-15",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "phy:12083",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260915-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12083.htm",
+      "date": "2026-09-15",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "imse:7151",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2027年推荐免试研究生接收工作实施方案",
+      "url": "https://imse.xidian.edu.cn/info/1030/7151.htm",
+      "date": "2026-09-15",
+      "source_name": "信息力学与感知工程学院"
+    },
     {
       "id": "ygb:13533",
       "source_id": "ygb",
