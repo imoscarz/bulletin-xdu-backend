@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-15T21:03:57.612235Z",
-    "total_notices": 113
+    "last_scraped": "2026-09-16T04:12:09.157455Z",
+    "total_notices": 114
   },
   "notices": [
+    {
+      "id": "jwc:23353",
+      "source_id": "jwc",
+      "title": "关于2026～2027学年第一学期重修选课的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23353.htm",
+      "date": "2026-09-16"
+    },
     {
       "id": "jwc:23343",
       "source_id": "jwc",

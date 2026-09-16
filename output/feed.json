@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-09-15T21:04:49.217444+00:00",
-  "total_notices": 3450,
+  "generated_at": "2026-09-16T04:13:36.544294+00:00",
+  "total_notices": 3454,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sfl:18438",
+      "source_id": "sfl",
+      "title": "语言智能学部2027年推荐免试硕士研究生接收工作实施方案",
+      "url": "https://sfl.xidian.edu.cn/info/1031/18438.htm",
+      "date": "2026-09-16",
+      "source_name": "语言智能学部"
+    },
+    {
+      "id": "jwc:23353",
+      "source_id": "jwc",
+      "title": "关于2026～2027学年第一学期重修选课的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23353.htm",
+      "date": "2026-09-16",
+      "source_name": "教务处"
+    },
+    {
+      "id": "eme:16316",
+      "source_id": "eme",
+      "title": "科研协作项目公示260916",
+      "url": "https://eme.xidian.edu.cn/info/1012/16316.htm",
+      "date": "2026-09-16",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:35702",
+      "source_id": "bksy",
+      "title": "关于2026～2027学年第一学期重修选课的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35702.htm",
+      "date": "2026-09-16",
+      "source_name": "本科生院"
+    },
     {
       "id": "ste:16436",
       "source_id": "ste",

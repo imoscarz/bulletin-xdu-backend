@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-15T21:04:21.904186Z",
-    "total_notices": 402
+    "last_scraped": "2026-09-16T04:12:46.334855Z",
+    "total_notices": 403
   },
   "notices": [
+    {
+      "id": "bksy:35702",
+      "source_id": "bksy",
+      "title": "关于2026～2027学年第一学期重修选课的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35702.htm",
+      "date": "2026-09-16"
+    },
     {
       "id": "bksy:35682",
       "source_id": "bksy",
