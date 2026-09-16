@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T04:13:36.544294+00:00",
-  "total_notices": 3454,
+  "generated_at": "2026-09-16T11:14:00.255644+00:00",
+  "total_notices": 3457,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,30 @@
       "url": "https://sfl.xidian.edu.cn/info/1031/18438.htm",
       "date": "2026-09-16",
       "source_name": "语言智能学部"
+    },
+    {
+      "id": "see:104981",
+      "source_id": "see",
+      "title": "关于2026年秋季学期青年教师助教报名工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/104981.htm",
+      "date": "2026-09-16",
+      "source_name": "电子工程学院"
+    },
+    {
+      "id": "phy:12113",
+      "source_id": "phy",
+      "title": "物理学院关于受理2026年12月博士学位申请工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12113.htm",
+      "date": "2026-09-16",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:12103",
+      "source_id": "phy",
+      "title": "物理学院关于受理2026年9月全日制硕士学位申请工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12103.htm",
+      "date": "2026-09-16",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "jwc:23353",

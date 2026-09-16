@@ -3,10 +3,24 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-16T04:12:17.683182Z",
-    "total_notices": 124
+    "last_scraped": "2026-09-16T11:13:16.710564Z",
+    "total_notices": 126
   },
   "notices": [
+    {
+      "id": "phy:12113",
+      "source_id": "phy",
+      "title": "物理学院关于受理2026年12月博士学位申请工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12113.htm",
+      "date": "2026-09-16"
+    },
+    {
+      "id": "phy:12103",
+      "source_id": "phy",
+      "title": "物理学院关于受理2026年9月全日制硕士学位申请工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12103.htm",
+      "date": "2026-09-16"
+    },
     {
       "id": "phy:12093",
       "source_id": "phy",

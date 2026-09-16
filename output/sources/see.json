@@ -3,10 +3,17 @@
     "source_id": "see",
     "name": "电子工程学院",
     "url": "https://see.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-16T04:12:16.010182Z",
-    "total_notices": 265
+    "last_scraped": "2026-09-16T11:13:15.413839Z",
+    "total_notices": 266
   },
   "notices": [
+    {
+      "id": "see:104981",
+      "source_id": "see",
+      "title": "关于2026年秋季学期青年教师助教报名工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/104981.htm",
+      "date": "2026-09-16"
+    },
     {
       "id": "see:104961",
       "source_id": "see",
