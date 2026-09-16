@@ -3,10 +3,24 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-16T11:13:48.154090Z",
-    "total_notices": 165
+    "last_scraped": "2026-09-16T16:32:57.142147Z",
+    "total_notices": 167
   },
   "notices": [
+    {
+      "id": "ste:16466",
+      "source_id": "ste",
+      "title": "通信工程学院关于2026年12月申请统招硕士研究生学位  相关事项的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/16466.htm",
+      "date": "2026-09-16"
+    },
+    {
+      "id": "ste:16456",
+      "source_id": "ste",
+      "title": "通信工程学院关于2026年12月申请博士研究生学位  相关事项的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/16456.htm",
+      "date": "2026-09-16"
+    },
     {
       "id": "ste:16436",
       "source_id": "ste",
