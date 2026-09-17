@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-16T21:06:23.423330Z",
-    "total_notices": 89
+    "last_scraped": "2026-09-17T11:21:36.518584Z",
+    "total_notices": 90
   },
   "notices": [
+    {
+      "id": "ygb:13543",
+      "source_id": "ygb",
+      "title": "关于开展2026年研究生国家奖学金评审工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13543.htm",
+      "date": "2026-09-17"
+    },
     {
       "id": "ygb:13533",
       "source_id": "ygb",

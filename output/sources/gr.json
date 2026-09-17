@@ -3,10 +3,24 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-09-16T21:06:09.458880Z",
-    "total_notices": 130
+    "last_scraped": "2026-09-17T11:21:14.506965Z",
+    "total_notices": 132
   },
   "notices": [
+    {
+      "id": "gr:20624",
+      "source_id": "gr",
+      "title": "关于推荐上报2026年研究生各类课程与教材建设项目的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/20624.htm",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "gr:20614",
+      "source_id": "gr",
+      "title": "关于开展2024年度、2025年度研究生各类课程与教材建设项目的结题及中期验收工作的...",
+      "url": "https://gr.xidian.edu.cn/info/1073/20614.htm",
+      "date": "2026-09-17"
+    },
     {
       "id": "gr:20544",
       "source_id": "gr",
