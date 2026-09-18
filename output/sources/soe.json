@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-09-17T21:08:33.473488Z",
-    "total_notices": 95
+    "last_scraped": "2026-09-18T04:03:00.222518Z",
+    "total_notices": 96
   },
   "notices": [
+    {
+      "id": "soe:18035",
+      "source_id": "soe",
+      "title": "关于开展2025级电子科学与技术卓越班补录工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/18035.htm",
+      "date": "2026-09-18"
+    },
     {
       "id": "soe:17985",
       "source_id": "soe",

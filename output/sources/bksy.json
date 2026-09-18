@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-17T21:08:42.334156Z",
-    "total_notices": 405
+    "last_scraped": "2026-09-18T04:03:13.617685Z",
+    "total_notices": 406
   },
   "notices": [
+    {
+      "id": "bksy:35732",
+      "source_id": "bksy",
+      "title": "关于西安电子科技大学第六届教师教学创新大赛拟获奖...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35732.htm",
+      "date": "2026-09-18"
+    },
     {
       "id": "bksy:35722",
       "source_id": "bksy",

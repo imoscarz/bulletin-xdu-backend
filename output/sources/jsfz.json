@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-17T21:08:56.174312Z",
-    "total_notices": 99
+    "last_scraped": "2026-09-18T04:03:42.013710Z",
+    "total_notices": 100
   },
   "notices": [
+    {
+      "id": "jsfz:12232",
+      "source_id": "jsfz",
+      "title": "关于西安电子科技大学第六届教师教学创新大赛拟获奖名单的公示",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12232.htm",
+      "date": "2026-09-18"
+    },
     {
       "id": "jsfz:12222",
       "source_id": "jsfz",
