@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-18T04:03:42.013710Z",
-    "total_notices": 100
+    "last_scraped": "2026-09-18T10:55:13.820509Z",
+    "total_notices": 101
   },
   "notices": [
+    {
+      "id": "jsfz:12242",
+      "source_id": "jsfz",
+      "title": "【西电课程介绍】教育部2026年秋季学期中西部高校青年教师融合式教学进修项目",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12242.htm",
+      "date": "2026-09-18"
+    },
     {
       "id": "jsfz:12232",
       "source_id": "jsfz",

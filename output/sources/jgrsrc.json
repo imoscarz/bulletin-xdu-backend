@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-09-18T04:03:17.186448Z",
-    "total_notices": 97
+    "last_scraped": "2026-09-18T10:54:59.647656Z",
+    "total_notices": 98
   },
   "notices": [
+    {
+      "id": "jgrsrc:18398",
+      "source_id": "jgrsrc",
+      "title": "西安电子科技大学2026年省直转业军官“直通车”安置公告",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18398.htm",
+      "date": "2026-09-18"
+    },
     {
       "id": "jgrsrc:18348",
       "source_id": "jgrsrc",

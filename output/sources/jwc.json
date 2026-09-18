@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-18T04:02:50.845202Z",
-    "total_notices": 114
+    "last_scraped": "2026-09-18T10:54:30.712461Z",
+    "total_notices": 115
   },
   "notices": [
+    {
+      "id": "jwc:23373",
+      "source_id": "jwc",
+      "title": "关于2026~2027学年第一学期部分通识教育选修课停开的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23373.htm",
+      "date": "2026-09-18"
+    },
     {
       "id": "jwc:23353",
       "source_id": "jwc",

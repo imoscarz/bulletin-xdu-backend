@@ -3,10 +3,24 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-09-18T04:03:54.516179Z",
-    "total_notices": 259
+    "last_scraped": "2026-09-18T10:55:25.391247Z",
+    "total_notices": 261
   },
   "notices": [
+    {
+      "id": "sme:3713",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2026年研究生国家奖学金评审工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0918/3713.html",
+      "date": "2026-09-18"
+    },
+    {
+      "id": "sme:3712",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2025-2026学年研究生学年总评工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0918/3712.html",
+      "date": "2026-09-18"
+    },
     {
       "id": "sme:3711",
       "source_id": "sme",

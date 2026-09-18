@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-18T04:03:13.617685Z",
-    "total_notices": 406
+    "last_scraped": "2026-09-18T10:54:55.569670Z",
+    "total_notices": 408
   },
   "notices": [
+    {
+      "id": "bksy:35752",
+      "source_id": "bksy",
+      "title": "【西电课程介绍】教育部2026年秋季学期中西部高校青...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35752.htm",
+      "date": "2026-09-18"
+    },
+    {
+      "id": "bksy:35742",
+      "source_id": "bksy",
+      "title": "关于2026~2027学年第一学期部分通识教育选修课停开的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35742.htm",
+      "date": "2026-09-18"
+    },
     {
       "id": "bksy:35732",
       "source_id": "bksy",
