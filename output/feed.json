@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-09-20T04:19:45.300663+00:00",
-  "total_notices": 3486,
+  "generated_at": "2026-09-20T11:01:16.974141+00:00",
+  "total_notices": 3488,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:12123",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260920-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12123.htm",
+      "date": "2026-09-20",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "jwc:23393",
       "source_id": "jwc",
@@ -26,6 +34,14 @@
       "url": "https://eme.xidian.edu.cn/info/1012/16356.htm",
       "date": "2026-09-20",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:35792",
+      "source_id": "bksy",
+      "title": "西安电子科技大学CANN挑战赛校内赛",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35792.htm",
+      "date": "2026-09-20",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:35782",

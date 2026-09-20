@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-20T04:19:11.852591Z",
-    "total_notices": 409
+    "last_scraped": "2026-09-20T11:00:48.979136Z",
+    "total_notices": 410
   },
   "notices": [
+    {
+      "id": "bksy:35792",
+      "source_id": "bksy",
+      "title": "西安电子科技大学CANN挑战赛校内赛",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35792.htm",
+      "date": "2026-09-20"
+    },
     {
       "id": "bksy:35782",
       "source_id": "bksy",
