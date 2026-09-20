@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-09-19T20:20:29.635391Z",
-    "total_notices": 174
+    "last_scraped": "2026-09-20T04:19:16.386790Z",
+    "total_notices": 175
   },
   "notices": [
+    {
+      "id": "eme:16356",
+      "source_id": "eme",
+      "title": "关于机电工程学院2027级推荐免试研究生国家推免服务系统填报的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/16356.htm",
+      "date": "2026-09-20"
+    },
     {
       "id": "eme:16316",
       "source_id": "eme",
