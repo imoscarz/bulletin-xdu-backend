@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T04:18:15.806968+00:00",
-  "total_notices": 3492,
+  "generated_at": "2026-09-21T12:28:07.210482+00:00",
+  "total_notices": 3496,
   "content_limit": 5000,
   "notices": [
     {
@@ -20,6 +20,14 @@
       "source_name": "党委研究生工作部"
     },
     {
+      "id": "xgc:14364",
+      "source_id": "xgc",
+      "title": "关于开展2026年本科生校园地国家助学贷款办理工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14364.htm",
+      "date": "2026-09-21",
+      "source_name": "学生工作处"
+    },
+    {
       "id": "see:105501",
       "source_id": "see",
       "title": "关于遴选2025级本科卓越班科研导师的通知",
@@ -28,12 +36,36 @@
       "source_name": "电子工程学院"
     },
     {
+      "id": "sai:28582",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2026年研究生国家奖学金申报的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/28582.htm",
+      "date": "2026-09-21",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "eme:16406",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息",
+      "url": "https://eme.xidian.edu.cn/info/1012/16406.htm",
+      "date": "2026-09-21",
+      "source_name": "机电工程学院"
+    },
+    {
       "id": "eme:16376",
       "source_id": "eme",
       "title": "机电工程学院关于2025级机器人工程卓越班补录学生结果的公示",
       "url": "https://eme.xidian.edu.cn/info/1012/16376.htm",
       "date": "2026-09-21",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:35802",
+      "source_id": "bksy",
+      "title": "关于开展2026年本科生校园地国家助学贷款办理工作的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35802.htm",
+      "date": "2026-09-21",
+      "source_name": "本科生院"
     },
     {
       "id": "phy:12123",
