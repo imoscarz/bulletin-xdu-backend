@@ -3,10 +3,24 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-20T20:34:43.153815Z",
-    "total_notices": 90
+    "last_scraped": "2026-09-21T04:17:51.063288Z",
+    "total_notices": 92
   },
   "notices": [
+    {
+      "id": "ygb:13563",
+      "source_id": "ygb",
+      "title": "关于申请2026~2027学年“特困研究生专项资助”的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13563.htm",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "ygb:13553",
+      "source_id": "ygb",
+      "title": "关于开展2026～2027学年（秋季）研究生学业奖学金评定工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13553.htm",
+      "date": "2026-09-21"
+    },
     {
       "id": "ygb:13543",
       "source_id": "ygb",

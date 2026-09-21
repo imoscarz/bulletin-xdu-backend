@@ -3,10 +3,17 @@
     "source_id": "see",
     "name": "电子工程学院",
     "url": "https://see.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-20T20:34:08.244671Z",
-    "total_notices": 267
+    "last_scraped": "2026-09-21T04:17:14.709650Z",
+    "total_notices": 268
   },
   "notices": [
+    {
+      "id": "see:105501",
+      "source_id": "see",
+      "title": "关于遴选2025级本科卓越班科研导师的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/105501.htm",
+      "date": "2026-09-21"
+    },
     {
       "id": "see:105451",
       "source_id": "see",
