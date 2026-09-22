@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-22T04:12:18.743103Z",
-    "total_notices": 116
+    "last_scraped": "2026-09-22T11:17:51.283190Z",
+    "total_notices": 117
   },
   "notices": [
+    {
+      "id": "jwc:23403",
+      "source_id": "jwc",
+      "title": "西安电子科技大学关于公布2026年秋季实验班录取学生名单的通知",
+      "url": "https://jwc.xidian.edu.cn/2j-ce-nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1012&wbnewsid=23403",
+      "date": "2026-09-22"
+    },
     {
       "id": "jwc:23393",
       "source_id": "jwc",

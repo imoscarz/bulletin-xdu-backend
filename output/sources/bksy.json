@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-22T04:12:42.045056Z",
-    "total_notices": 411
+    "last_scraped": "2026-09-22T11:18:12.295155Z",
+    "total_notices": 412
   },
   "notices": [
+    {
+      "id": "bksy:35862",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于公布2026年秋季实验班录取学生...",
+      "url": "https://bksy.xidian.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=35862",
+      "date": "2026-09-22"
+    },
     {
       "id": "bksy:35802",
       "source_id": "bksy",

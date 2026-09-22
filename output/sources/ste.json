@@ -3,10 +3,31 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-22T04:13:05.956385Z",
-    "total_notices": 167
+    "last_scraped": "2026-09-22T11:18:36.960930Z",
+    "total_notices": 170
   },
   "notices": [
+    {
+      "id": "ste:16496",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16496.htm",
+      "date": "2026-09-22"
+    },
+    {
+      "id": "ste:16486",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16486.htm",
+      "date": "2026-09-22"
+    },
+    {
+      "id": "ste:16476",
+      "source_id": "ste",
+      "title": "关于申报2026年秋季  优秀博士学位论文资助基金的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/16476.htm",
+      "date": "2026-09-22"
+    },
     {
       "id": "ste:16466",
       "source_id": "ste",

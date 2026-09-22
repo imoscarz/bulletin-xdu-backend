@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-22T04:13:17.470975+00:00",
-  "total_notices": 3499,
+  "generated_at": "2026-09-22T11:18:50.088624+00:00",
+  "total_notices": 3506,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:13593",
+      "source_id": "ygb",
+      "title": "关于举办2026~2027学年校园地国家助学贷款政策宣讲会的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13593.htm",
+      "date": "2026-09-22",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "xdwy:11154",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学关于高等学历继续教育在籍生学习平台迁移的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11154.htm",
+      "date": "2026-09-22",
+      "source_name": "网络与继续教育学院"
+    },
     {
       "id": "xdwy:11144",
       "source_id": "xdwy",
@@ -20,12 +36,52 @@
       "source_name": "网络与继续教育学院"
     },
     {
+      "id": "ste:16496",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16496.htm",
+      "date": "2026-09-22",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16486",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16486.htm",
+      "date": "2026-09-22",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16476",
+      "source_id": "ste",
+      "title": "关于申报2026年秋季  优秀博士学位论文资助基金的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/16476.htm",
+      "date": "2026-09-22",
+      "source_name": "通信工程学院"
+    },
+    {
       "id": "see:105531",
       "source_id": "see",
       "title": "电子工程学院2026年中秋节假期值班安排",
       "url": "https://see.xidian.edu.cn/info/1052/105531.htm",
       "date": "2026-09-22",
       "source_name": "电子工程学院"
+    },
+    {
+      "id": "jwc:23403",
+      "source_id": "jwc",
+      "title": "西安电子科技大学关于公布2026年秋季实验班录取学生名单的通知",
+      "url": "https://jwc.xidian.edu.cn/2j-ce-nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1012&wbnewsid=23403",
+      "date": "2026-09-22",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:35862",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于公布2026年秋季实验班录取学生...",
+      "url": "https://bksy.xidian.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=35862",
+      "date": "2026-09-22",
+      "source_name": "本科生院"
     },
     {
       "id": "ygb:13563",

@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-22T04:12:59.769591Z",
-    "total_notices": 110
+    "last_scraped": "2026-09-22T11:18:29.082623Z",
+    "total_notices": 111
   },
   "notices": [
+    {
+      "id": "xdwy:11154",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学关于高等学历继续教育在籍生学习平台迁移的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11154.htm",
+      "date": "2026-09-22"
+    },
     {
       "id": "xdwy:11144",
       "source_id": "xdwy",
