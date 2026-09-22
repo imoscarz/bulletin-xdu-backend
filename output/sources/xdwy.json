@@ -3,10 +3,24 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-21T21:51:29.407760Z",
-    "total_notices": 108
+    "last_scraped": "2026-09-22T04:12:59.769591Z",
+    "total_notices": 110
   },
   "notices": [
+    {
+      "id": "xdwy:11144",
+      "source_id": "xdwy",
+      "title": "2026年网教院国庆节值班安排",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11144.htm",
+      "date": "2026-09-22"
+    },
+    {
+      "id": "xdwy:11134",
+      "source_id": "xdwy",
+      "title": "2026年网教院中秋节值班安排",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11134.htm",
+      "date": "2026-09-22"
+    },
     {
       "id": "xdwy:11084",
       "source_id": "xdwy",
