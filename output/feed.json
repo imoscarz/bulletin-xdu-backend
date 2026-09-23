@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-23T04:10:16.855112+00:00",
-  "total_notices": 3509,
+  "generated_at": "2026-09-23T11:10:38.323167+00:00",
+  "total_notices": 3512,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:11184",
+      "source_id": "xdwy",
+      "title": "关于做好全国同等学力人员申请硕士学位管理信息平台个人信息填报工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11184.htm",
+      "date": "2026-09-23",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "soe:18085",
+      "source_id": "soe",
+      "title": "关于2025级电子科学与技术卓越班补录拟录取名单公示的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/18085.htm",
+      "date": "2026-09-23",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sai:28612",
+      "source_id": "sai",
+      "title": "人工智能学院关于评选2026年本科生国家奖学金的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/28612.htm",
+      "date": "2026-09-23",
+      "source_name": "人工智能学院"
+    },
     {
       "id": "ygb:13593",
       "source_id": "ygb",

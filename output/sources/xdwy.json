@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-23T04:09:56.559802Z",
-    "total_notices": 111
+    "last_scraped": "2026-09-23T11:10:17.852068Z",
+    "total_notices": 112
   },
   "notices": [
+    {
+      "id": "xdwy:11184",
+      "source_id": "xdwy",
+      "title": "关于做好全国同等学力人员申请硕士学位管理信息平台个人信息填报工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11184.htm",
+      "date": "2026-09-23"
+    },
     {
       "id": "xdwy:11154",
       "source_id": "xdwy",
