@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-09-24T04:04:56.881010Z",
-    "total_notices": 129
+    "last_scraped": "2026-09-24T11:26:35.396587Z",
+    "total_notices": 130
   },
   "notices": [
+    {
+      "id": "sast:21997",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年中秋节、国庆节值班安排表",
+      "url": "https://sast.xidian.edu.cn/info/1014/21997.htm",
+      "date": "2026-09-24"
+    },
     {
       "id": "sast:21767",
       "source_id": "sast",

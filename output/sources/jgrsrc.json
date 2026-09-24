@@ -3,10 +3,24 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-09-24T04:04:54.303780Z",
-    "total_notices": 98
+    "last_scraped": "2026-09-24T11:26:30.583914Z",
+    "total_notices": 100
   },
   "notices": [
+    {
+      "id": "jgrsrc:18618",
+      "source_id": "jgrsrc",
+      "title": "党委教师工作部/人力资源部2026年中秋假期值班表",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18618.htm",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "jgrsrc:18528",
+      "source_id": "jgrsrc",
+      "title": "关于开展新一批  “华山学者”岗位校内遴选工作的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=18528",
+      "date": "2026-09-24"
+    },
     {
       "id": "jgrsrc:18398",
       "source_id": "jgrsrc",

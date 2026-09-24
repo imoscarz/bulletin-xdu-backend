@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-09-24T04:04:36.221129Z",
-    "total_notices": 73
+    "last_scraped": "2026-09-24T11:26:00.224099Z",
+    "total_notices": 74
   },
   "notices": [
+    {
+      "id": "math:23782",
+      "source_id": "math",
+      "title": "数学与统计学院2026年中秋节假期值班安排",
+      "url": "https://math.xidian.edu.cn/info/1020/23782.htm",
+      "date": "2026-09-24"
+    },
     {
       "id": "math:23702",
       "source_id": "math",

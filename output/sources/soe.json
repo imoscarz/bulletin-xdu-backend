@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-09-24T04:04:40.885789Z",
-    "total_notices": 97
+    "last_scraped": "2026-09-24T11:26:09.344340Z",
+    "total_notices": 98
   },
   "notices": [
+    {
+      "id": "soe:18095",
+      "source_id": "soe",
+      "title": "光电工程学院2026年中秋节假期值班安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/18095.htm",
+      "date": "2026-09-24"
+    },
     {
       "id": "soe:18085",
       "source_id": "soe",

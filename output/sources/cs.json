@@ -3,10 +3,24 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-24T04:04:34.716597Z",
-    "total_notices": 143
+    "last_scraped": "2026-09-24T11:25:58.238954Z",
+    "total_notices": 145
   },
   "notices": [
+    {
+      "id": "cs:26114",
+      "source_id": "cs",
+      "title": "2026年计算机科学与技术学院中秋节国庆节值班安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/26114.htm",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "cs:26104",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025级和2024级计算机拔尖班学生补录工作方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/26104.htm",
+      "date": "2026-09-24"
+    },
     {
       "id": "cs:26014",
       "source_id": "cs",
