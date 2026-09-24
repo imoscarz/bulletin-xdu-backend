@@ -3,10 +3,17 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-23T21:19:29.430059Z",
-    "total_notices": 101
+    "last_scraped": "2026-09-24T04:04:46.530998Z",
+    "total_notices": 102
   },
   "notices": [
+    {
+      "id": "amn:19972",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年中秋国庆假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/19972.htm",
+      "date": "2026-09-24"
+    },
     {
       "id": "amn:19902",
       "source_id": "amn",
