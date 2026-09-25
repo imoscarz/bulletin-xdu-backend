@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-24T21:21:29.488162Z",
-    "total_notices": 112
+    "last_scraped": "2026-09-25T04:19:07.797592Z",
+    "total_notices": 113
   },
   "notices": [
+    {
+      "id": "xdwy:11194",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学网络与继续教育学院2026年秋季同等学力申硕人员线上报到及选课通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11194.htm",
+      "date": "2026-09-24"
+    },
     {
       "id": "xdwy:11184",
       "source_id": "xdwy",

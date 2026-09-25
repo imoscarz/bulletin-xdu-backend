@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-24T21:21:54.422358+00:00",
-  "total_notices": 3531,
+  "generated_at": "2026-09-25T04:19:29.351857+00:00",
+  "total_notices": 3533,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "life:17611",
+      "source_id": "life",
+      "title": "生命科学技术学院中秋节、国庆节值班安排",
+      "url": "https://life.xidian.edu.cn/info/1048/17611.htm",
+      "date": "2026-09-25",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "xdwy:11194",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学网络与继续教育学院2026年秋季同等学力申硕人员线上报到及选课通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11194.htm",
+      "date": "2026-09-24",
+      "source_name": "网络与继续教育学院"
+    },
     {
       "id": "ste:16516",
       "source_id": "ste",
