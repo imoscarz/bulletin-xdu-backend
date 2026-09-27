@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-09-27T04:41:00.090954+00:00",
-  "total_notices": 3533,
+  "generated_at": "2026-09-27T11:46:05.293938+00:00",
+  "total_notices": 3534,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jgrsrc:18628",
+      "source_id": "jgrsrc",
+      "title": "西安电子科技大学2026年专任教师招聘公告（一）",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18628.htm",
+      "date": "2026-09-27",
+      "source_name": "人才招聘"
+    },
     {
       "id": "life:17611",
       "source_id": "life",
