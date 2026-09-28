@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-09-27T21:08:54.537657Z",
-    "total_notices": 178
+    "last_scraped": "2026-09-28T04:42:10.672430Z",
+    "total_notices": 179
   },
   "notices": [
+    {
+      "id": "eme:16476",
+      "source_id": "eme",
+      "title": "机电工程学院博士研究生国家奖学金公开答辩、 博硕国家奖学金申请材料公示安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/16476.htm",
+      "date": "2026-09-28"
+    },
     {
       "id": "eme:16456",
       "source_id": "eme",
