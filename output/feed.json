@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-28T04:42:41.309248+00:00",
-  "total_notices": 3537,
+  "generated_at": "2026-09-28T13:25:59.701209+00:00",
+  "total_notices": 3541,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:11204",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学2026年同等学力申硕专业能力提升班资格审查通过人员名单公示（网络与继续教育学院第三批）",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11204.htm",
+      "date": "2026-09-28",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "phy:12163",
+      "source_id": "phy",
+      "title": "物理学院2026年本科生国家奖学金、国家励志奖学金评定结果公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/12163.htm",
+      "date": "2026-09-28",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:12153",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260928-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12153.htm",
+      "date": "2026-09-28",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "eme:16476",
       "source_id": "eme",
@@ -66,6 +90,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/18095.htm",
       "date": "2026-09-24",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3722",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0928/3722.html",
+      "date": "2026-09-24",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3721",
