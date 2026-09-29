@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-28T23:05:47.768131+00:00",
-  "total_notices": 3541,
+  "generated_at": "2026-09-29T05:09:47.876689+00:00",
+  "total_notices": 3544,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:18165",
+      "source_id": "soe",
+      "title": "光电工程学院关于受理2026年12月硕士学位申请工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/18165.htm",
+      "date": "2026-09-29",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "soe:18155",
+      "source_id": "soe",
+      "title": "光电工程学院关于受理2026年12月博士学位申请工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/18155.htm",
+      "date": "2026-09-29",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "see:105551",
+      "source_id": "see",
+      "title": "电子工程学院2026年国庆节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/105551.htm",
+      "date": "2026-09-29",
+      "source_name": "电子工程学院"
+    },
     {
       "id": "xdwy:11204",
       "source_id": "xdwy",

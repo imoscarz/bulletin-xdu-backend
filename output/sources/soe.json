@@ -3,10 +3,24 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-09-28T23:05:13.317198Z",
-    "total_notices": 98
+    "last_scraped": "2026-09-29T05:08:39.908406Z",
+    "total_notices": 100
   },
   "notices": [
+    {
+      "id": "soe:18165",
+      "source_id": "soe",
+      "title": "光电工程学院关于受理2026年12月硕士学位申请工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/18165.htm",
+      "date": "2026-09-29"
+    },
+    {
+      "id": "soe:18155",
+      "source_id": "soe",
+      "title": "光电工程学院关于受理2026年12月博士学位申请工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/18155.htm",
+      "date": "2026-09-29"
+    },
     {
       "id": "soe:18095",
       "source_id": "soe",
