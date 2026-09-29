@@ -3,10 +3,31 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-29T05:08:58.339902Z",
-    "total_notices": 414
+    "last_scraped": "2026-09-29T12:29:16.775203Z",
+    "total_notices": 417
   },
   "notices": [
+    {
+      "id": "bksy:35952",
+      "source_id": "bksy",
+      "title": "【公开课】非遗民俗体育研究公开课及",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35952.htm",
+      "date": "2026-09-29"
+    },
+    {
+      "id": "bksy:35942",
+      "source_id": "bksy",
+      "title": "【教学培训】“科技英语读写”课程思政",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35942.htm",
+      "date": "2026-09-29"
+    },
+    {
+      "id": "bksy:35932",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于做好 2023级本科生毕业设计（论...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35932.htm",
+      "date": "2026-09-29"
+    },
     {
       "id": "bksy:35902",
       "source_id": "bksy",

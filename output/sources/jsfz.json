@@ -3,10 +3,24 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-29T05:09:19.572201Z",
-    "total_notices": 101
+    "last_scraped": "2026-09-29T12:29:46.522251Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "jsfz:12282",
+      "source_id": "jsfz",
+      "title": "【公开课】非遗民俗体育研究公开课及",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12282.htm",
+      "date": "2026-09-29"
+    },
+    {
+      "id": "jsfz:12272",
+      "source_id": "jsfz",
+      "title": "【教学培训】“科技英语读写”课程思政",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12272.htm",
+      "date": "2026-09-29"
+    },
     {
       "id": "jsfz:12242",
       "source_id": "jsfz",

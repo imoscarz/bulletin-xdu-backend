@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-29T05:08:29.278190Z",
-    "total_notices": 117
+    "last_scraped": "2026-09-29T12:28:49.827291Z",
+    "total_notices": 118
   },
   "notices": [
+    {
+      "id": "jwc:23423",
+      "source_id": "jwc",
+      "title": "西安电子科技大学关于做好 2023级本科生毕业设计（论文）工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23423.htm",
+      "date": "2026-09-29"
+    },
     {
       "id": "jwc:23403",
       "source_id": "jwc",
