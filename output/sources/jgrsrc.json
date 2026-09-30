@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-09-30T04:57:04.216586Z",
-    "total_notices": 101
+    "last_scraped": "2026-09-30T12:15:11.502514Z",
+    "total_notices": 102
   },
   "notices": [
+    {
+      "id": "jgrsrc:18668",
+      "source_id": "jgrsrc",
+      "title": "党委教师工作部/人力资源部2026年国庆假期值班表",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18668.htm",
+      "date": "2026-09-30"
+    },
     {
       "id": "jgrsrc:18628",
       "source_id": "jgrsrc",

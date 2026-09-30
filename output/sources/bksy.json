@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-30T04:57:00.791757Z",
-    "total_notices": 418
+    "last_scraped": "2026-09-30T12:15:07.483856Z",
+    "total_notices": 420
   },
   "notices": [
+    {
+      "id": "bksy:36012",
+      "source_id": "bksy",
+      "title": "本科生院2026年国庆节值班安排",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36012.htm",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "bksy:36002",
+      "source_id": "bksy",
+      "title": "关于2026“外研社·国才杯”“理解当代中国”全国大学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36002.htm",
+      "date": "2026-09-30"
+    },
     {
       "id": "bksy:35992",
       "source_id": "bksy",

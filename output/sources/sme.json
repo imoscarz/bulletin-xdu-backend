@@ -3,16 +3,58 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-09-30T04:57:34.429223Z",
-    "total_notices": 272
+    "last_scraped": "2026-09-30T12:15:46.161528Z",
+    "total_notices": 278
   },
   "notices": [
+    {
+      "id": "sme:3732",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0930/3732.html",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "sme:3731",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0930/3731.html",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "sme:3730",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0930/3730.html",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "sme:3729",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0930/3729.html",
+      "date": "2026-09-29"
+    },
+    {
+      "id": "sme:3728",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0930/3728.html",
+      "date": "2026-09-29"
+    },
     {
       "id": "sme:3724",
       "source_id": "sme",
       "title": "科研协作信息公示",
       "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0929/3724.html",
       "date": "2026-09-29"
+    },
+    {
+      "id": "sme:3727",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0930/3727.html",
+      "date": "2026-09-28"
     },
     {
       "id": "sme:3723",
