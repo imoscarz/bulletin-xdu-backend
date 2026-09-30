@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-09-29T22:04:29.891351Z",
-    "total_notices": 172
+    "last_scraped": "2026-09-30T04:57:22.063174Z",
+    "total_notices": 173
   },
   "notices": [
+    {
+      "id": "ste:16536",
+      "source_id": "ste",
+      "title": "通信工程学院2026年国庆假期值班安排",
+      "url": "https://ste.xidian.edu.cn/info/1145/16536.htm",
+      "date": "2026-09-30"
+    },
     {
       "id": "ste:16516",
       "source_id": "ste",

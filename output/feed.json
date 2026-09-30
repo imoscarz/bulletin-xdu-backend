@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-09-29T22:04:39.480093+00:00",
-  "total_notices": 3555,
+  "generated_at": "2026-09-30T04:57:34.450908+00:00",
+  "total_notices": 3562,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14414",
+      "source_id": "xgc",
+      "title": "关于公布2026年本科毕业生基层就业学费补偿和国家助学贷款代偿学校初审通过名单（第二批）的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14414.htm",
+      "date": "2026-09-30",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "ste:16536",
+      "source_id": "ste",
+      "title": "通信工程学院2026年国庆假期值班安排",
+      "url": "https://ste.xidian.edu.cn/info/1145/16536.htm",
+      "date": "2026-09-30",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:18225",
+      "source_id": "soe",
+      "title": "光电工程学院2026年国庆节假期值班安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/18225.htm",
+      "date": "2026-09-30",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "rwxy:17854",
+      "source_id": "rwxy",
+      "title": "人文学院工作简讯2026年第5期",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17854.htm",
+      "date": "2026-09-30",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "bksy:35992",
+      "source_id": "bksy",
+      "title": "关于公布2026年本科毕业生基层就业学费补偿和国家助...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/35992.htm",
+      "date": "2026-09-30",
+      "source_name": "本科生院"
+    },
     {
       "id": "soe:18165",
       "source_id": "soe",
@@ -482,6 +522,22 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14364.htm",
       "date": "2026-09-21",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "sme:3726",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0930/3726.html",
+      "date": "2026-09-21",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3725",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0930/3725.html",
+      "date": "2026-09-21",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3718",
