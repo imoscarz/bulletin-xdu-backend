@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-10-07T05:17:16.770530+00:00",
-  "total_notices": 3573,
+  "generated_at": "2026-10-07T13:01:15.108677+00:00",
+  "total_notices": 3575,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:18235",
+      "source_id": "soe",
+      "title": "关于开展2026年博士研究生国家奖学金公开答辩的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/18235.htm",
+      "date": "2026-10-07",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sast:22217",
+      "source_id": "sast",
+      "title": "空间科学与技术学院研究生国家奖学金公开答辩通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/22217.htm",
+      "date": "2026-10-07",
+      "source_name": "空间科学与技术学院"
+    },
     {
       "id": "xgc:14414",
       "source_id": "xgc",

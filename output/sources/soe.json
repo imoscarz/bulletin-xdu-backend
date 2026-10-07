@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-10-07T05:16:16.711588Z",
-    "total_notices": 101
+    "last_scraped": "2026-10-07T12:59:56.682325Z",
+    "total_notices": 102
   },
   "notices": [
+    {
+      "id": "soe:18235",
+      "source_id": "soe",
+      "title": "关于开展2026年博士研究生国家奖学金公开答辩的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/18235.htm",
+      "date": "2026-10-07"
+    },
     {
       "id": "soe:18225",
       "source_id": "soe",

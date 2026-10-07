@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-10-07T05:16:44.564266Z",
-    "total_notices": 130
+    "last_scraped": "2026-10-07T13:00:35.689603Z",
+    "total_notices": 131
   },
   "notices": [
+    {
+      "id": "sast:22217",
+      "source_id": "sast",
+      "title": "空间科学与技术学院研究生国家奖学金公开答辩通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/22217.htm",
+      "date": "2026-10-07"
+    },
     {
       "id": "sast:21997",
       "source_id": "sast",
