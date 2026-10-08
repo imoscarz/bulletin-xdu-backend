@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-10-08T05:25:52.392460Z",
-    "total_notices": 102
+    "last_scraped": "2026-10-08T13:07:31.247229Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "soe:18245",
+      "source_id": "soe",
+      "title": "光电工程学院2026年研究生国家奖学金评审结果公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/18245.htm",
+      "date": "2026-10-08"
+    },
     {
       "id": "soe:18235",
       "source_id": "soe",

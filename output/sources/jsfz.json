@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-08T05:26:29.339728Z",
-    "total_notices": 103
+    "last_scraped": "2026-10-08T13:08:24.830571Z",
+    "total_notices": 104
   },
   "notices": [
+    {
+      "id": "jsfz:12292",
+      "source_id": "jsfz",
+      "title": "火热报名|FACULTY教师教学核心素养研习营",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12292.htm",
+      "date": "2026-10-08"
+    },
     {
       "id": "jsfz:12282",
       "source_id": "jsfz",
