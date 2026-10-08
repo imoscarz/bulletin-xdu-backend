@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-07T22:55:33.551966Z",
-    "total_notices": 118
+    "last_scraped": "2026-10-08T05:25:40.388039Z",
+    "total_notices": 119
   },
   "notices": [
+    {
+      "id": "jwc:23453",
+      "source_id": "jwc",
+      "title": "关于认真做好2026～2027学年第一学期期中考试工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23453.htm",
+      "date": "2026-10-08"
+    },
     {
       "id": "jwc:23423",
       "source_id": "jwc",

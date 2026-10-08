@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-10-07T22:56:21.050902+00:00",
-  "total_notices": 3575,
+  "generated_at": "2026-10-08T05:26:47.955947+00:00",
+  "total_notices": 3580,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:12213",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261008-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12213.htm",
+      "date": "2026-10-08",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:12203",
+      "source_id": "phy",
+      "title": "物理学院关于2026年研究生国家奖学金评审结果的公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/12203.htm",
+      "date": "2026-10-08",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jwc:23453",
+      "source_id": "jwc",
+      "title": "关于认真做好2026～2027学年第一学期期中考试工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23453.htm",
+      "date": "2026-10-08",
+      "source_name": "教务处"
+    },
+    {
+      "id": "eme:16496",
+      "source_id": "eme",
+      "title": "机电工程学院2026年国家奖学金评定结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16496.htm",
+      "date": "2026-10-08",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:36022",
+      "source_id": "bksy",
+      "title": "关于认真做好2026～2027学年第一学期期中考试工作的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36022.htm",
+      "date": "2026-10-08",
+      "source_name": "本科生院"
+    },
     {
       "id": "soe:18235",
       "source_id": "soe",

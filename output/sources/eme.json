@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-10-07T22:55:57.764394Z",
-    "total_notices": 179
+    "last_scraped": "2026-10-08T05:26:10.087223Z",
+    "total_notices": 180
   },
   "notices": [
+    {
+      "id": "eme:16496",
+      "source_id": "eme",
+      "title": "机电工程学院2026年国家奖学金评定结果公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16496.htm",
+      "date": "2026-10-08"
+    },
     {
       "id": "eme:16476",
       "source_id": "eme",

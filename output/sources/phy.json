@@ -3,10 +3,24 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-07T22:55:42.758804Z",
-    "total_notices": 131
+    "last_scraped": "2026-10-08T05:25:49.090526Z",
+    "total_notices": 133
   },
   "notices": [
+    {
+      "id": "phy:12213",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261008-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12213.htm",
+      "date": "2026-10-08"
+    },
+    {
+      "id": "phy:12203",
+      "source_id": "phy",
+      "title": "物理学院关于2026年研究生国家奖学金评审结果的公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/12203.htm",
+      "date": "2026-10-08"
+    },
     {
       "id": "phy:12173",
       "source_id": "phy",
