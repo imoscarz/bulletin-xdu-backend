@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-10-08T23:09:02.716764+00:00",
-  "total_notices": 3593,
+  "generated_at": "2026-10-09T05:30:13.019427+00:00",
+  "total_notices": 3595,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3736",
+      "source_id": "sme",
+      "title": "集成电路学部2026年研究生国家奖学金公开答辩安排的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/1009/3736.html",
+      "date": "2026-10-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "phy:12253",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261009-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12253.htm",
+      "date": "2026-10-09",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "ste:16566",
       "source_id": "ste",
