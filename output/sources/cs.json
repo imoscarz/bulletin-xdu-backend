@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-09T05:29:16.632394Z",
-    "total_notices": 145
+    "last_scraped": "2026-10-09T12:54:36.865420Z",
+    "total_notices": 146
   },
   "notices": [
+    {
+      "id": "cs:26164",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年研究生国家奖学金评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/26164.htm",
+      "date": "2026-10-09"
+    },
     {
       "id": "cs:26114",
       "source_id": "cs",

@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-10-09T05:30:13.019427+00:00",
-  "total_notices": 3595,
+  "generated_at": "2026-10-09T12:55:52.142879+00:00",
+  "total_notices": 3604,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16596",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16596.htm",
+      "date": "2026-10-09",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16586",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16586.htm",
+      "date": "2026-10-09",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16576",
+      "source_id": "ste",
+      "title": "关于做好通信工程学院2026年下半年研究生学位论文开题和中期考核工作的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/16576.htm",
+      "date": "2026-10-09",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3738",
+      "source_id": "sme",
+      "title": "科研外协信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1009/3738.html",
+      "date": "2026-10-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3737",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1009/3737.html",
+      "date": "2026-10-09",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3736",
       "source_id": "sme",
@@ -12,12 +52,44 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "sast:22417",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年研究生国家奖学金评审结果公示",
+      "url": "https://sast.xidian.edu.cn/info/1014/22417.htm",
+      "date": "2026-10-09",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:22407",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年研究生国家奖学金推荐人员名单公示",
+      "url": "https://sast.xidian.edu.cn/info/1014/22407.htm",
+      "date": "2026-10-09",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sai:29292",
+      "source_id": "sai",
+      "title": "人工智能学院2026年研究生国家奖学金评审结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/29292.htm",
+      "date": "2026-10-09",
+      "source_name": "人工智能学院"
+    },
+    {
       "id": "phy:12253",
       "source_id": "phy",
       "title": "科研协作项目公示信息20261009-1",
       "url": "https://phy.xidian.edu.cn/info/1012/12253.htm",
       "date": "2026-10-09",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "cs:26164",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年研究生国家奖学金评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/26164.htm",
+      "date": "2026-10-09",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "ste:16566",

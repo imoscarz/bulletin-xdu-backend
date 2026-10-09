@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-09T05:29:32.888491Z",
-    "total_notices": 148
+    "last_scraped": "2026-10-09T12:55:00.611287Z",
+    "total_notices": 149
   },
   "notices": [
+    {
+      "id": "sai:29292",
+      "source_id": "sai",
+      "title": "人工智能学院2026年研究生国家奖学金评审结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/29292.htm",
+      "date": "2026-10-09"
+    },
     {
       "id": "sai:28622",
       "source_id": "sai",
