@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-10-10T05:14:20.270504+00:00",
-  "total_notices": 3607,
+  "generated_at": "2026-10-10T12:12:59.617610+00:00",
+  "total_notices": 3614,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3740",
+      "source_id": "sme",
+      "title": "集成电路学部关于组织开展2026年度“本科生科研训练资助计划（URTP）”项目的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/1010/3740.html",
+      "date": "2026-10-10",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3739",
       "source_id": "sme",
@@ -12,12 +20,60 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "see:105661",
+      "source_id": "see",
+      "title": "关于学校2026年度研究生赴国（境）外参加高水平国际会议资助第二批次申请的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/105661.htm",
+      "date": "2026-10-10",
+      "source_name": "电子工程学院"
+    },
+    {
       "id": "phy:12273",
       "source_id": "phy",
       "title": "科研协作项目公示信息20261010-1",
       "url": "https://phy.xidian.edu.cn/info/1012/12273.htm",
       "date": "2026-10-10",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jwc:23493",
+      "source_id": "jwc",
+      "title": "关于开展2026~2027学年本科生学籍电子注册的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23493.htm",
+      "date": "2026-10-10",
+      "source_name": "教务处"
+    },
+    {
+      "id": "jsfz:12302",
+      "source_id": "jsfz",
+      "title": "【教学示范】计科院青年教师拜师结对活动暨“离散数学”课程教学示范",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12302.htm",
+      "date": "2026-10-10",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "cs:26184",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025级卓越班补录工作方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/26184.htm",
+      "date": "2026-10-10",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:36102",
+      "source_id": "bksy",
+      "title": "关于开展2026~2027学年本科生学籍电子注册的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36102.htm",
+      "date": "2026-10-10",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36042",
+      "source_id": "bksy",
+      "title": "【教学示范】计科院青年教师拜师结对活动暨“离散数...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36042.htm",
+      "date": "2026-10-10",
+      "source_name": "本科生院"
     },
     {
       "id": "ste:16596",

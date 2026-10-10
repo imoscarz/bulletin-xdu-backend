@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-10T05:13:21.703684Z",
-    "total_notices": 119
+    "last_scraped": "2026-10-10T12:12:02.902539Z",
+    "total_notices": 120
   },
   "notices": [
+    {
+      "id": "jwc:23493",
+      "source_id": "jwc",
+      "title": "关于开展2026~2027学年本科生学籍电子注册的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23493.htm",
+      "date": "2026-10-10"
+    },
     {
       "id": "jwc:23453",
       "source_id": "jwc",

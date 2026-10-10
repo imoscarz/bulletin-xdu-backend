@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-10T05:13:23.055437Z",
-    "total_notices": 146
+    "last_scraped": "2026-10-10T12:12:04.116287Z",
+    "total_notices": 147
   },
   "notices": [
+    {
+      "id": "cs:26184",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025级卓越班补录工作方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/26184.htm",
+      "date": "2026-10-10"
+    },
     {
       "id": "cs:26164",
       "source_id": "cs",

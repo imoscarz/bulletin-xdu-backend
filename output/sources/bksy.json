@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-10T05:13:39.735993Z",
-    "total_notices": 422
+    "last_scraped": "2026-10-10T12:12:23.845121Z",
+    "total_notices": 424
   },
   "notices": [
+    {
+      "id": "bksy:36102",
+      "source_id": "bksy",
+      "title": "关于开展2026~2027学年本科生学籍电子注册的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36102.htm",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "bksy:36042",
+      "source_id": "bksy",
+      "title": "【教学示范】计科院青年教师拜师结对活动暨“离散数...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36042.htm",
+      "date": "2026-10-10"
+    },
     {
       "id": "bksy:36032",
       "source_id": "bksy",

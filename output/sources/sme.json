@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-10-10T05:14:20.254531Z",
-    "total_notices": 285
+    "last_scraped": "2026-10-10T12:12:59.594961Z",
+    "total_notices": 286
   },
   "notices": [
+    {
+      "id": "sme:3740",
+      "source_id": "sme",
+      "title": "集成电路学部关于组织开展2026年度“本科生科研训练资助计划（URTP）”项目的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/1010/3740.html",
+      "date": "2026-10-10"
+    },
     {
       "id": "sme:3739",
       "source_id": "sme",

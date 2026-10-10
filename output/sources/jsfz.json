@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-10T05:14:01.269415Z",
-    "total_notices": 104
+    "last_scraped": "2026-10-10T12:12:41.548796Z",
+    "total_notices": 105
   },
   "notices": [
+    {
+      "id": "jsfz:12302",
+      "source_id": "jsfz",
+      "title": "【教学示范】计科院青年教师拜师结对活动暨“离散数学”课程教学示范",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12302.htm",
+      "date": "2026-10-10"
+    },
     {
       "id": "jsfz:12292",
       "source_id": "jsfz",
