@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-12T05:18:11.194539Z",
-    "total_notices": 426
+    "last_scraped": "2026-10-12T14:57:14.420610Z",
+    "total_notices": 427
   },
   "notices": [
+    {
+      "id": "bksy:36132",
+      "source_id": "bksy",
+      "title": "关于面向全校征集2027年度校级大学生创新训练计划命...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36132.htm",
+      "date": "2026-10-12"
+    },
     {
       "id": "bksy:36122",
       "source_id": "bksy",

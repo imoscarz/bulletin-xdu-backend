@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-10-12T05:18:47.835785+00:00",
-  "total_notices": 3621,
+  "generated_at": "2026-10-12T14:58:02.858631+00:00",
+  "total_notices": 3628,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:13743",
+      "source_id": "ygb",
+      "title": "关于开展2025～2026学年研究生评优工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13743.htm",
+      "date": "2026-10-12",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "xdwy:11234",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学关于2026年秋季学期高等学历继续教育本科毕业论文（设计）答辩安排的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11234.htm",
+      "date": "2026-10-12",
+      "source_name": "网络与继续教育学院"
+    },
     {
       "id": "ste:16606",
       "source_id": "ste",
@@ -10,6 +26,14 @@
       "url": "https://ste.xidian.edu.cn/info/1338/16606.htm",
       "date": "2026-10-12",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3745",
+      "source_id": "sme",
+      "title": "集成电路学部2026年度本科生科研训练计划项目(URTP)选题通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/1012/3745.html",
+      "date": "2026-10-12",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3741",
@@ -42,6 +66,38 @@
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/18718.htm",
       "date": "2026-10-12",
       "source_name": "人才招聘"
+    },
+    {
+      "id": "eme:16556",
+      "source_id": "eme",
+      "title": "机电工程学院关于2023级本科生毕业设计（论文）出题工作的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/16556.htm",
+      "date": "2026-10-12",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:26204",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于基层部门负责人拟聘任人员公示的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/26204.htm",
+      "date": "2026-10-12",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:26194",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026～2028年专业技术岗位聘任特设岗负责人拟聘任人员公示的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/26194.htm",
+      "date": "2026-10-12",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:36132",
+      "source_id": "bksy",
+      "title": "关于面向全校征集2027年度校级大学生创新训练计划命...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36132.htm",
+      "date": "2026-10-12",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:36122",
