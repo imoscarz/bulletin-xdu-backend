@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-10-11T21:42:01.790212Z",
-    "total_notices": 286
+    "last_scraped": "2026-10-12T05:18:47.813298Z",
+    "total_notices": 287
   },
   "notices": [
+    {
+      "id": "sme:3741",
+      "source_id": "sme",
+      "title": "集成电路学部2026-2027学年第一学期推优入党名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/dz/2026/1012/3741.html",
+      "date": "2026-10-12"
+    },
     {
       "id": "sme:3740",
       "source_id": "sme",

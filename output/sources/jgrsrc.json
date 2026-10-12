@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-10-11T21:41:39.113177Z",
-    "total_notices": 102
+    "last_scraped": "2026-10-12T05:18:13.905515Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "jgrsrc:18718",
+      "source_id": "jgrsrc",
+      "title": "关于2026年秋季普通话水平测试报名的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18718.htm",
+      "date": "2026-10-12"
+    },
     {
       "id": "jgrsrc:18668",
       "source_id": "jgrsrc",

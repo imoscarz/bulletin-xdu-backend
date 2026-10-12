@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-11T21:41:36.834141Z",
-    "total_notices": 424
+    "last_scraped": "2026-10-12T05:18:11.194539Z",
+    "total_notices": 426
   },
   "notices": [
+    {
+      "id": "bksy:36122",
+      "source_id": "bksy",
+      "title": "关于2026-2027学年第一学期  2026级学生转专业先修课...",
+      "url": "https://bksy.xidian.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=36122",
+      "date": "2026-10-12"
+    },
+    {
+      "id": "bksy:36112",
+      "source_id": "bksy",
+      "title": "关于2026年度西安电子科技大学 学生体质健康测试安排...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36112.htm",
+      "date": "2026-10-12"
+    },
     {
       "id": "bksy:36102",
       "source_id": "bksy",
