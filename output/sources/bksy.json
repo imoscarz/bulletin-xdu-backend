@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-13T00:24:17.803632Z",
-    "total_notices": 427
+    "last_scraped": "2026-10-13T13:54:30.418697Z",
+    "total_notices": 429
   },
   "notices": [
+    {
+      "id": "bksy:36162",
+      "source_id": "bksy",
+      "title": "关于报送2026年度服兵役学生国家教育资助申请材料的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36162.htm",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "bksy:36152",
+      "source_id": "bksy",
+      "title": "关于组织开展2026年校级高等教育（本科）教学成果奖...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36152.htm",
+      "date": "2026-10-13"
+    },
     {
       "id": "bksy:36132",
       "source_id": "bksy",

@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-10-13T00:24:16.757824Z",
-    "total_notices": 128
+    "last_scraped": "2026-10-13T13:54:24.533296Z",
+    "total_notices": 129
   },
   "notices": [
+    {
+      "id": "xgc:14434",
+      "source_id": "xgc",
+      "title": "关于报送2026年度服兵役学生国家教育资助申请材料的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14434.htm",
+      "date": "2026-10-13"
+    },
     {
       "id": "xgc:14414",
       "source_id": "xgc",

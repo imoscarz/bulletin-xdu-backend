@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-10-13T00:24:41.804819+00:00",
-  "total_notices": 3628,
+  "generated_at": "2026-10-13T13:55:18.775146+00:00",
+  "total_notices": 3636,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14434",
+      "source_id": "xgc",
+      "title": "关于报送2026年度服兵役学生国家教育资助申请材料的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14434.htm",
+      "date": "2026-10-13",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "phy:12303",
+      "source_id": "phy",
+      "title": "关于首届“王中林原创科学奖”评选结果公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12303.htm",
+      "date": "2026-10-13",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jwc:23523",
+      "source_id": "jwc",
+      "title": "关于组织开展2026年校级高等教育（本科）教学成果奖申报工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23523.htm",
+      "date": "2026-10-13",
+      "source_name": "教务处"
+    },
+    {
+      "id": "cs:26214",
+      "source_id": "cs",
+      "title": "关于计算机科学与技术学院2025级卓越班学生补录面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/26214.htm",
+      "date": "2026-10-13",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:36162",
+      "source_id": "bksy",
+      "title": "关于报送2026年度服兵役学生国家教育资助申请材料的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36162.htm",
+      "date": "2026-10-13",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36152",
+      "source_id": "bksy",
+      "title": "关于组织开展2026年校级高等教育（本科）教学成果奖...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36152.htm",
+      "date": "2026-10-13",
+      "source_name": "本科生院"
+    },
     {
       "id": "ygb:13743",
       "source_id": "ygb",
@@ -26,6 +74,22 @@
       "url": "https://ste.xidian.edu.cn/info/1338/16606.htm",
       "date": "2026-10-12",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3747",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1013/3747.html",
+      "date": "2026-10-12",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3746",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1013/3746.html",
+      "date": "2026-10-12",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3745",

@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-13T00:24:08.217203Z",
-    "total_notices": 138
+    "last_scraped": "2026-10-13T13:54:01.397782Z",
+    "total_notices": 139
   },
   "notices": [
+    {
+      "id": "phy:12303",
+      "source_id": "phy",
+      "title": "关于首届“王中林原创科学奖”评选结果公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12303.htm",
+      "date": "2026-10-13"
+    },
     {
       "id": "phy:12273",
       "source_id": "phy",

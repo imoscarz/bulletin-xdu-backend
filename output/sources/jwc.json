@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-13T00:24:03.191438Z",
-    "total_notices": 122
+    "last_scraped": "2026-10-13T13:53:49.374745Z",
+    "total_notices": 123
   },
   "notices": [
+    {
+      "id": "jwc:23523",
+      "source_id": "jwc",
+      "title": "关于组织开展2026年校级高等教育（本科）教学成果奖申报工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23523.htm",
+      "date": "2026-10-13"
+    },
     {
       "id": "jwc:23513",
       "source_id": "jwc",
