@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-10-14T11:31:44.631777Z",
-    "total_notices": 133
+    "last_scraped": "2026-10-14T16:53:21.059788Z",
+    "total_notices": 134
   },
   "notices": [
+    {
+      "id": "sast:22527",
+      "source_id": "sast",
+      "title": "关于对空间科学与技术学院2026-2027学年第一学期推荐优秀共青团员作入党积极分子人选结果公示的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/22527.htm",
+      "date": "2026-10-14"
+    },
     {
       "id": "sast:22417",
       "source_id": "sast",
