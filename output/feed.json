@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-10-13T22:28:20.288691+00:00",
-  "total_notices": 3636,
+  "generated_at": "2026-10-14T04:18:56.050146+00:00",
+  "total_notices": 3643,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jsfz:12332",
+      "source_id": "jsfz",
+      "title": "【公开课】运动生理学",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12332.htm",
+      "date": "2026-10-14",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12322",
+      "source_id": "jsfz",
+      "title": "【教学培训】机电院学科竞赛指导与基地建设研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12322.htm",
+      "date": "2026-10-14",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12312",
+      "source_id": "jsfz",
+      "title": "【教学示范】数学信号处理基础",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12312.htm",
+      "date": "2026-10-14",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:36202",
+      "source_id": "bksy",
+      "title": "【公开课】运动生理学",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36202.htm",
+      "date": "2026-10-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36192",
+      "source_id": "bksy",
+      "title": "【教学培训】机电院学科竞赛指导与基地建设研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36192.htm",
+      "date": "2026-10-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36182",
+      "source_id": "bksy",
+      "title": "【教学示范】数学信号处理基础",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36182.htm",
+      "date": "2026-10-14",
+      "source_name": "本科生院"
+    },
     {
       "id": "xgc:14434",
       "source_id": "xgc",
@@ -10,6 +58,14 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14434.htm",
       "date": "2026-10-13",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "sme:3748",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1014/3748.html",
+      "date": "2026-10-13",
+      "source_name": "集成电路学部"
     },
     {
       "id": "phy:12303",

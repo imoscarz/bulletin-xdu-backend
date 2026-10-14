@@ -3,10 +3,31 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-13T22:28:08.239315Z",
-    "total_notices": 105
+    "last_scraped": "2026-10-14T04:18:41.870483Z",
+    "total_notices": 108
   },
   "notices": [
+    {
+      "id": "jsfz:12332",
+      "source_id": "jsfz",
+      "title": "【公开课】运动生理学",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12332.htm",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "jsfz:12322",
+      "source_id": "jsfz",
+      "title": "【教学培训】机电院学科竞赛指导与基地建设研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12322.htm",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "jsfz:12312",
+      "source_id": "jsfz",
+      "title": "【教学示范】数学信号处理基础",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12312.htm",
+      "date": "2026-10-14"
+    },
     {
       "id": "jsfz:12302",
       "source_id": "jsfz",

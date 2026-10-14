@@ -3,10 +3,31 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-13T22:27:54.894835Z",
-    "total_notices": 429
+    "last_scraped": "2026-10-14T04:18:27.039782Z",
+    "total_notices": 432
   },
   "notices": [
+    {
+      "id": "bksy:36202",
+      "source_id": "bksy",
+      "title": "【公开课】运动生理学",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36202.htm",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "bksy:36192",
+      "source_id": "bksy",
+      "title": "【教学培训】机电院学科竞赛指导与基地建设研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36192.htm",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "bksy:36182",
+      "source_id": "bksy",
+      "title": "【教学示范】数学信号处理基础",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36182.htm",
+      "date": "2026-10-14"
+    },
     {
       "id": "bksy:36162",
       "source_id": "bksy",
