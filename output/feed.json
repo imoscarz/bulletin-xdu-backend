@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-14T21:27:44.184275+00:00",
-  "total_notices": 3645,
+  "generated_at": "2026-10-15T04:01:39.359874+00:00",
+  "total_notices": 3650,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jgrsrc:18728",
+      "source_id": "jgrsrc",
+      "title": "西安电子科技大学专任教师招聘公告  （机械、智能、控制、仪器学科）",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18728.htm",
+      "date": "2026-10-15",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "xgc:14454",
+      "source_id": "xgc",
+      "title": "关于开展2026年度港澳及华侨学生奖学金、台湾学生奖学金评审工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14454.htm",
+      "date": "2026-10-14",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "xgc:14444",
+      "source_id": "xgc",
+      "title": "关于对2025~2026学年本科生奖学金及荣誉称号拟获奖学生名单进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14444.htm",
+      "date": "2026-10-14",
+      "source_name": "学生工作处"
+    },
     {
       "id": "sast:22527",
       "source_id": "sast",
@@ -42,6 +66,22 @@
       "url": "https://cs.xidian.edu.cn/info/1003/26224.htm",
       "date": "2026-10-14",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:36252",
+      "source_id": "bksy",
+      "title": "关于开展2026年度港澳及华侨学生奖学金、台湾学生奖...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36252.htm",
+      "date": "2026-10-14",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36232",
+      "source_id": "bksy",
+      "title": "关于对2025~2026学年本科生奖学金及荣誉称号拟获奖学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36232.htm",
+      "date": "2026-10-14",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:36202",

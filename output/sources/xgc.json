@@ -3,10 +3,24 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-10-14T21:27:15.262940Z",
-    "total_notices": 129
+    "last_scraped": "2026-10-15T04:00:44.215499Z",
+    "total_notices": 131
   },
   "notices": [
+    {
+      "id": "xgc:14454",
+      "source_id": "xgc",
+      "title": "关于开展2026年度港澳及华侨学生奖学金、台湾学生奖学金评审工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14454.htm",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "xgc:14444",
+      "source_id": "xgc",
+      "title": "关于对2025~2026学年本科生奖学金及荣誉称号拟获奖学生名单进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14444.htm",
+      "date": "2026-10-14"
+    },
     {
       "id": "xgc:14434",
       "source_id": "xgc",
