@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-16T03:57:31.741381Z",
-    "total_notices": 151
+    "last_scraped": "2026-10-16T11:03:21.860777Z",
+    "total_notices": 152
   },
   "notices": [
+    {
+      "id": "cs:26234",
+      "source_id": "cs",
+      "title": "关于计算机科学与技术学院2027届（2023级）本科毕业设计整体安排的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/26234.htm",
+      "date": "2026-10-16"
+    },
     {
       "id": "cs:26224",
       "source_id": "cs",

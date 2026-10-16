@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-10-16T03:58:30.857165+00:00",
-  "total_notices": 3654,
+  "generated_at": "2026-10-16T11:04:12.035376+00:00",
+  "total_notices": 3663,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:18305",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20261016-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/18305.htm",
+      "date": "2026-10-16",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3754",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1016/3754.html",
+      "date": "2026-10-16",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3752",
       "source_id": "sme",
@@ -12,12 +28,52 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "jwc:23573",
+      "source_id": "jwc",
+      "title": "陕西省普通本科高校精品教学资源 （教案、课件）推荐入库项目公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23573.htm",
+      "date": "2026-10-16",
+      "source_name": "教务处"
+    },
+    {
       "id": "eme:16566",
       "source_id": "eme",
       "title": "科研协作项目公示信息",
       "url": "https://eme.xidian.edu.cn/info/1012/16566.htm",
       "date": "2026-10-16",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:26234",
+      "source_id": "cs",
+      "title": "关于计算机科学与技术学院2027届（2023级）本科毕业设计整体安排的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/26234.htm",
+      "date": "2026-10-16",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:36312",
+      "source_id": "bksy",
+      "title": "陕西省普通本科高校精品教学资源 （教案、课件）推荐...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36312.htm",
+      "date": "2026-10-16",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36302",
+      "source_id": "bksy",
+      "title": "关于2026“外研社·国才杯”“理解当代中国”全国大学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36302.htm",
+      "date": "2026-10-16",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36292",
+      "source_id": "bksy",
+      "title": "陕西省普通本科高校精品教学资源 （教案、课件）推荐...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36292.htm",
+      "date": "2026-10-16",
+      "source_name": "本科生院"
     },
     {
       "id": "sme:3753",
@@ -42,6 +98,22 @@
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/18728.htm",
       "date": "2026-10-15",
       "source_name": "人才招聘"
+    },
+    {
+      "id": "bksy:36282",
+      "source_id": "bksy",
+      "title": "关于组织开展2026中国大学生英语辩论赛（CUDC）校内...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36282.htm",
+      "date": "2026-10-15",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36272",
+      "source_id": "bksy",
+      "title": "关于举办大学生物理学术竞赛西电校赛的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36272.htm",
+      "date": "2026-10-15",
+      "source_name": "本科生院"
     },
     {
       "id": "xgc:14454",
