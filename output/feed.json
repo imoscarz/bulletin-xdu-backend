@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-10-18T10:43:11.131587+00:00",
-  "total_notices": 3664,
+  "generated_at": "2026-10-18T15:39:58.345448+00:00",
+  "total_notices": 3665,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sem:15481",
+      "source_id": "sem",
+      "title": "中国运筹学会企业运筹学分会第十九届学术年会会议通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/15481.htm",
+      "date": "2026-10-18",
+      "source_name": "经济与管理学院"
+    },
     {
       "id": "ste:16626",
       "source_id": "ste",

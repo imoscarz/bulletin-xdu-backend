@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-18T10:42:12.980523Z",
-    "total_notices": 127
+    "last_scraped": "2026-10-18T15:39:01.689822Z",
+    "total_notices": 128
   },
   "notices": [
+    {
+      "id": "sem:15481",
+      "source_id": "sem",
+      "title": "中国运筹学会企业运筹学分会第十九届学术年会会议通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/15481.htm",
+      "date": "2026-10-18"
+    },
     {
       "id": "sem:15381",
       "source_id": "sem",
