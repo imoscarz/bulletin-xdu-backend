@@ -3,10 +3,24 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-19T04:03:15.695342Z",
-    "total_notices": 108
+    "last_scraped": "2026-10-19T12:41:45.827309Z",
+    "total_notices": 110
   },
   "notices": [
+    {
+      "id": "jsfz:12352",
+      "source_id": "jsfz",
+      "title": "【教学培训】马院青年教师讲课竞赛经验分享",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12352.htm",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "jsfz:12342",
+      "source_id": "jsfz",
+      "title": "【公开课】大学体育—篮球课教学",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12342.htm",
+      "date": "2026-10-19"
+    },
     {
       "id": "jsfz:12332",
       "source_id": "jsfz",

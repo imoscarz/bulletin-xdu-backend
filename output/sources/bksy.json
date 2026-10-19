@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-19T04:02:59.953836Z",
-    "total_notices": 440
+    "last_scraped": "2026-10-19T12:41:18.556058Z",
+    "total_notices": 442
   },
   "notices": [
+    {
+      "id": "bksy:36352",
+      "source_id": "bksy",
+      "title": "【教学培训】马院青年教师讲课竞赛经验分享",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36352.htm",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "bksy:36342",
+      "source_id": "bksy",
+      "title": "【公开课】大学体育—篮球课教学",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36342.htm",
+      "date": "2026-10-19"
+    },
     {
       "id": "bksy:36322",
       "source_id": "bksy",

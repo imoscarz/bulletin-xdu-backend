@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T04:03:28.021551+00:00",
-  "total_notices": 3667,
+  "generated_at": "2026-10-19T12:42:05.940113+00:00",
+  "total_notices": 3676,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,70 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14464.htm",
       "date": "2026-10-19",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "phy:12353",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261019-2",
+      "url": "https://phy.xidian.edu.cn/info/1012/12353.htm",
+      "date": "2026-10-19",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:12343",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261019-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12343.htm",
+      "date": "2026-10-19",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jsfz:12352",
+      "source_id": "jsfz",
+      "title": "【教学培训】马院青年教师讲课竞赛经验分享",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12352.htm",
+      "date": "2026-10-19",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12342",
+      "source_id": "jsfz",
+      "title": "【公开课】大学体育—篮球课教学",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12342.htm",
+      "date": "2026-10-19",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "gr:21044",
+      "source_id": "gr",
+      "title": "关于开展2026年陕西省研究生课程思政精品课程推荐工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/21044.htm",
+      "date": "2026-10-19",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "eme:16596",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息261019",
+      "url": "https://eme.xidian.edu.cn/info/1012/16596.htm",
+      "date": "2026-10-19",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:36352",
+      "source_id": "bksy",
+      "title": "【教学培训】马院青年教师讲课竞赛经验分享",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36352.htm",
+      "date": "2026-10-19",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36342",
+      "source_id": "bksy",
+      "title": "【公开课】大学体育—篮球课教学",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36342.htm",
+      "date": "2026-10-19",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:36322",
@@ -106,6 +170,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/36292.htm",
       "date": "2026-10-16",
       "source_name": "本科生院"
+    },
+    {
+      "id": "sme:3755",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1019/3755.html",
+      "date": "2026-10-15",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3753",
