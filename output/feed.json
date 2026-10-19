@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-10-18T20:22:51.247398+00:00",
-  "total_notices": 3665,
+  "generated_at": "2026-10-19T04:03:28.021551+00:00",
+  "total_notices": 3667,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14464",
+      "source_id": "xgc",
+      "title": "关于开展2026年国家助学金评定工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14464.htm",
+      "date": "2026-10-19",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "bksy:36322",
+      "source_id": "bksy",
+      "title": "关于开展2026年国家助学金评定工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36322.htm",
+      "date": "2026-10-19",
+      "source_name": "本科生院"
+    },
     {
       "id": "sem:15481",
       "source_id": "sem",
