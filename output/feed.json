@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-10-20T04:16:57.662722+00:00",
-  "total_notices": 3679,
+  "generated_at": "2026-10-20T11:13:29.128524+00:00",
+  "total_notices": 3683,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3759",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1020/3759.html",
+      "date": "2026-10-20",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3758",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1020/3758.html",
+      "date": "2026-10-20",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3756",
       "source_id": "sme",
@@ -20,6 +36,14 @@
       "source_name": "教师发展中心"
     },
     {
+      "id": "eme:16646",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息",
+      "url": "https://eme.xidian.edu.cn/info/1012/16646.htm",
+      "date": "2026-10-20",
+      "source_name": "机电工程学院"
+    },
+    {
       "id": "bksy:36372",
       "source_id": "bksy",
       "title": "【人工智能赋能】AI赋能“创新设计理论与方法”专业...",
@@ -34,6 +58,14 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14464.htm",
       "date": "2026-10-19",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "sme:3757",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1020/3757.html",
+      "date": "2026-10-19",
+      "source_name": "集成电路学部"
     },
     {
       "id": "phy:12353",
