@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-19T22:10:07.146137Z",
-    "total_notices": 442
+    "last_scraped": "2026-10-20T04:16:14.423015Z",
+    "total_notices": 443
   },
   "notices": [
+    {
+      "id": "bksy:36372",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI赋能“创新设计理论与方法”专业...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36372.htm",
+      "date": "2026-10-20"
+    },
     {
       "id": "bksy:36352",
       "source_id": "bksy",

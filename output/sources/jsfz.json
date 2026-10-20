@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-19T22:10:21.101446Z",
-    "total_notices": 110
+    "last_scraped": "2026-10-20T04:16:42.614675Z",
+    "total_notices": 111
   },
   "notices": [
+    {
+      "id": "jsfz:12382",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】AI赋能“创新设计理论与方法”专业核心课程教学专题研讨暨成果展",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12382.htm",
+      "date": "2026-10-20"
+    },
     {
       "id": "jsfz:12352",
       "source_id": "jsfz",
