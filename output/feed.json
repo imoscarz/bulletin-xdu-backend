@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-20T21:25:57.867202+00:00",
-  "total_notices": 3683,
+  "generated_at": "2026-10-21T04:04:48.580166+00:00",
+  "total_notices": 3686,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:11274",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学关于高等学历继续教育学生学籍预警的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11274.htm",
+      "date": "2026-10-21",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "xdwy:11264",
+      "source_id": "xdwy",
+      "title": "关于办理2026年秋季学期期末考试预约工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11264.htm",
+      "date": "2026-10-21",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "phy:12383",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261021-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12383.htm",
+      "date": "2026-10-21",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "sme:3759",
       "source_id": "sme",
