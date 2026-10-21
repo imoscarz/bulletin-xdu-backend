@@ -3,10 +3,38 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-21T04:04:33.888341Z",
-    "total_notices": 111
+    "last_scraped": "2026-10-21T11:29:25.439542Z",
+    "total_notices": 115
   },
   "notices": [
+    {
+      "id": "jsfz:12422",
+      "source_id": "jsfz",
+      "title": "【教学培训】电子机械系微专业课程研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12422.htm",
+      "date": "2026-10-21"
+    },
+    {
+      "id": "jsfz:12412",
+      "source_id": "jsfz",
+      "title": "【教学培训】机械专业培养方案及课程体系沟通会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12412.htm",
+      "date": "2026-10-21"
+    },
+    {
+      "id": "jsfz:12402",
+      "source_id": "jsfz",
+      "title": "【教学培训】“传帮带”经验交流座谈会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12402.htm",
+      "date": "2026-10-21"
+    },
+    {
+      "id": "jsfz:12392",
+      "source_id": "jsfz",
+      "title": "【教学培训】机械设计课程教学研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12392.htm",
+      "date": "2026-10-21"
+    },
     {
       "id": "jsfz:12382",
       "source_id": "jsfz",
