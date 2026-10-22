@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T11:29:31.851613+00:00",
-  "total_notices": 3706,
+  "generated_at": "2026-10-22T16:55:51.311345+00:00",
+  "total_notices": 3707,
   "content_limit": 5000,
   "notices": [
     {
@@ -18,6 +18,14 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1022/3762.html",
       "date": "2026-10-22",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "sast:22707",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/22707.htm",
+      "date": "2026-10-22",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "rwxy:17914",
