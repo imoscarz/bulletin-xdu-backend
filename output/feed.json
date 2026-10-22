@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-10-22T04:05:28.401733+00:00",
-  "total_notices": 3699,
+  "generated_at": "2026-10-22T11:29:31.851613+00:00",
+  "total_notices": 3706,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14474",
+      "source_id": "xgc",
+      "title": "关于对2026年度港澳及华侨学生奖学金、台湾学生奖学金拟推荐学生名单进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14474.htm",
+      "date": "2026-10-22",
+      "source_name": "学生工作处"
+    },
     {
       "id": "sme:3762",
       "source_id": "sme",
@@ -10,6 +18,54 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1022/3762.html",
       "date": "2026-10-22",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "rwxy:17914",
+      "source_id": "rwxy",
+      "title": "关于开展2026-2027学年第一学期通识选修课程遴选工作的通知",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/17914.htm",
+      "date": "2026-10-22",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "jsfz:12442",
+      "source_id": "jsfz",
+      "title": "【教学示范】信息论基础",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12442.htm",
+      "date": "2026-10-22",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:12432",
+      "source_id": "jsfz",
+      "title": "【教学培训】计科院青年教师拜师结对活动 暨青年教师讲课竞赛经验专题分享",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12432.htm",
+      "date": "2026-10-22",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:36452",
+      "source_id": "bksy",
+      "title": "【教学示范】信息论基础",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36452.htm",
+      "date": "2026-10-22",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36442",
+      "source_id": "bksy",
+      "title": "【教学培训】计科院青年教师拜师结对活动 暨青年教师...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36442.htm",
+      "date": "2026-10-22",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36422",
+      "source_id": "bksy",
+      "title": "关于对2026年度港澳及华侨学生奖学金、台湾学生奖学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36422.htm",
+      "date": "2026-10-22",
+      "source_name": "本科生院"
     },
     {
       "id": "xdwy:11274",

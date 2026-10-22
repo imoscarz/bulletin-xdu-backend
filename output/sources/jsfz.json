@@ -3,10 +3,24 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-22T04:05:15.037565Z",
-    "total_notices": 115
+    "last_scraped": "2026-10-22T11:29:11.315298Z",
+    "total_notices": 117
   },
   "notices": [
+    {
+      "id": "jsfz:12442",
+      "source_id": "jsfz",
+      "title": "【教学示范】信息论基础",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12442.htm",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "jsfz:12432",
+      "source_id": "jsfz",
+      "title": "【教学培训】计科院青年教师拜师结对活动 暨青年教师讲课竞赛经验专题分享",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12432.htm",
+      "date": "2026-10-22"
+    },
     {
       "id": "jsfz:12422",
       "source_id": "jsfz",

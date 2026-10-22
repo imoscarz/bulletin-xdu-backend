@@ -3,10 +3,31 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-22T04:04:59.896503Z",
-    "total_notices": 447
+    "last_scraped": "2026-10-22T11:28:49.296964Z",
+    "total_notices": 450
   },
   "notices": [
+    {
+      "id": "bksy:36452",
+      "source_id": "bksy",
+      "title": "【教学示范】信息论基础",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36452.htm",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "bksy:36442",
+      "source_id": "bksy",
+      "title": "【教学培训】计科院青年教师拜师结对活动 暨青年教师...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36442.htm",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "bksy:36422",
+      "source_id": "bksy",
+      "title": "关于对2026年度港澳及华侨学生奖学金、台湾学生奖学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36422.htm",
+      "date": "2026-10-22"
+    },
     {
       "id": "bksy:36412",
       "source_id": "bksy",
