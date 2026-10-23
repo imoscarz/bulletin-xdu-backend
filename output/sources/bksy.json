@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-23T04:08:34.634448Z",
-    "total_notices": 450
+    "last_scraped": "2026-10-23T11:18:28.296209Z",
+    "total_notices": 451
   },
   "notices": [
+    {
+      "id": "bksy:36462",
+      "source_id": "bksy",
+      "title": "【教学培训】openEuler AI Agent 可靠性 & 软件工程 ...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36462.htm",
+      "date": "2026-10-23"
+    },
     {
       "id": "bksy:36452",
       "source_id": "bksy",

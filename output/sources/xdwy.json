@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-23T04:08:45.542037Z",
-    "total_notices": 117
+    "last_scraped": "2026-10-23T11:18:40.557793Z",
+    "total_notices": 118
   },
   "notices": [
+    {
+      "id": "xdwy:11304",
+      "source_id": "xdwy",
+      "title": "关于办理2026年秋季学期网络教育统考预约及统考免考工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11304.htm",
+      "date": "2026-10-23"
+    },
     {
       "id": "xdwy:11274",
       "source_id": "xdwy",

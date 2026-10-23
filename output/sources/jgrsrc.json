@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-10-23T04:08:37.167839Z",
-    "total_notices": 104
+    "last_scraped": "2026-10-23T11:18:30.918874Z",
+    "total_notices": 105
   },
   "notices": [
+    {
+      "id": "jgrsrc:18738",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年第二批单位选派出国留学项目申报的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18738.htm",
+      "date": "2026-10-23"
+    },
     {
       "id": "jgrsrc:18728",
       "source_id": "jgrsrc",

@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-23T04:08:50.681866Z",
-    "total_notices": 117
+    "last_scraped": "2026-10-23T11:18:50.796307Z",
+    "total_notices": 118
   },
   "notices": [
+    {
+      "id": "jsfz:12452",
+      "source_id": "jsfz",
+      "title": "【教学培训】openEuler AI Agent 可靠性 & 软件工程 Meetup 赋能高校人才培养专题培训会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12452.htm",
+      "date": "2026-10-23"
+    },
     {
       "id": "jsfz:12442",
       "source_id": "jsfz",

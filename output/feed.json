@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-23T04:09:03.443613+00:00",
-  "total_notices": 3708,
+  "generated_at": "2026-10-23T11:19:02.809294+00:00",
+  "total_notices": 3714,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:11304",
+      "source_id": "xdwy",
+      "title": "关于办理2026年秋季学期网络教育统考预约及统考免考工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11304.htm",
+      "date": "2026-10-23",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "soe:18385",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20261023-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/18385.htm",
+      "date": "2026-10-23",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3764",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1023/3764.html",
+      "date": "2026-10-23",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sai:32392",
       "source_id": "sai",
@@ -10,6 +34,30 @@
       "url": "https://sai.xidian.edu.cn/info/1106/32392.htm",
       "date": "2026-10-23",
       "source_name": "人工智能学院"
+    },
+    {
+      "id": "jsfz:12452",
+      "source_id": "jsfz",
+      "title": "【教学培训】openEuler AI Agent 可靠性 & 软件工程 Meetup 赋能高校人才培养专题培训会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12452.htm",
+      "date": "2026-10-23",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jgrsrc:18738",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年第二批单位选派出国留学项目申报的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18738.htm",
+      "date": "2026-10-23",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "bksy:36462",
+      "source_id": "bksy",
+      "title": "【教学培训】openEuler AI Agent 可靠性 & 软件工程 ...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36462.htm",
+      "date": "2026-10-23",
+      "source_name": "本科生院"
     },
     {
       "id": "xgc:14474",
