@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-26T04:06:43.638908Z",
-    "total_notices": 180
+    "last_scraped": "2026-10-26T12:35:40.623420Z",
+    "total_notices": 181
   },
   "notices": [
+    {
+      "id": "ste:16666",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16666.htm",
+      "date": "2026-10-26"
+    },
     {
       "id": "ste:16626",
       "source_id": "ste",
