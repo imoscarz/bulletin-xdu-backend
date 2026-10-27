@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-27T04:26:27.399154Z",
-    "total_notices": 453
+    "last_scraped": "2026-10-27T11:52:32.511625Z",
+    "total_notices": 454
   },
   "notices": [
+    {
+      "id": "bksy:36492",
+      "source_id": "bksy",
+      "title": "关于“中国电子杯”第三届高校 ICT 产教融合创新大赛...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36492.htm",
+      "date": "2026-10-27"
+    },
     {
       "id": "bksy:36482",
       "source_id": "bksy",

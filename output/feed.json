@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-10-27T04:27:01.493434+00:00",
-  "total_notices": 3725,
+  "generated_at": "2026-10-27T11:53:07.388920+00:00",
+  "total_notices": 3730,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16686",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16686.htm",
+      "date": "2026-10-27",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16676",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16676.htm",
+      "date": "2026-10-27",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sast:22967",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/22967.htm",
+      "date": "2026-10-27",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "phy:12413",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261027-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12413.htm",
+      "date": "2026-10-27",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "jsfz:12462",
       "source_id": "jsfz",
@@ -10,6 +42,14 @@
       "url": "https://jsfz.xidian.edu.cn/info/1022/12462.htm",
       "date": "2026-10-27",
       "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:36492",
+      "source_id": "bksy",
+      "title": "关于“中国电子杯”第三届高校 ICT 产教融合创新大赛...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36492.htm",
+      "date": "2026-10-27",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:36482",
