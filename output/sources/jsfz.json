@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-26T22:29:24.363347Z",
-    "total_notices": 118
+    "last_scraped": "2026-10-27T04:26:47.051120Z",
+    "total_notices": 119
   },
   "notices": [
+    {
+      "id": "jsfz:12462",
+      "source_id": "jsfz",
+      "title": "【教学活动】集成电路学部“集成电路制造技术”核心课程建设教学研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12462.htm",
+      "date": "2026-10-27"
+    },
     {
       "id": "jsfz:12452",
       "source_id": "jsfz",

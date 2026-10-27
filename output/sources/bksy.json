@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-26T22:29:08.077593Z",
-    "total_notices": 452
+    "last_scraped": "2026-10-27T04:26:27.399154Z",
+    "total_notices": 453
   },
   "notices": [
+    {
+      "id": "bksy:36482",
+      "source_id": "bksy",
+      "title": "【教学活动】集成电路学部“集成电路制造技术”核心...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36482.htm",
+      "date": "2026-10-27"
+    },
     {
       "id": "bksy:36472",
       "source_id": "bksy",
