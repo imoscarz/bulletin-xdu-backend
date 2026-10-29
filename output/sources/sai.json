@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-28T22:23:37.350955Z",
-    "total_notices": 150
+    "last_scraped": "2026-10-29T05:09:07.886997Z",
+    "total_notices": 151
   },
   "notices": [
+    {
+      "id": "sai:32412",
+      "source_id": "sai",
+      "title": "人工智能学院图灵人工智能科学实验班学生补录工作通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/32412.htm",
+      "date": "2026-10-29"
+    },
     {
       "id": "sai:32392",
       "source_id": "sai",
