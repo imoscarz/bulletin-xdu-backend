@@ -3,10 +3,38 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-30T05:08:13.221687Z",
-    "total_notices": 145
+    "last_scraped": "2026-10-30T12:28:59.259505Z",
+    "total_notices": 149
   },
   "notices": [
+    {
+      "id": "phy:12463",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261030-4",
+      "url": "https://phy.xidian.edu.cn/info/1012/12463.htm",
+      "date": "2026-10-30"
+    },
+    {
+      "id": "phy:12453",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261030-3",
+      "url": "https://phy.xidian.edu.cn/info/1012/12453.htm",
+      "date": "2026-10-30"
+    },
+    {
+      "id": "phy:12443",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261030-2",
+      "url": "https://phy.xidian.edu.cn/info/1012/12443.htm",
+      "date": "2026-10-30"
+    },
+    {
+      "id": "phy:12433",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261030-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12433.htm",
+      "date": "2026-10-30"
+    },
     {
       "id": "phy:12423",
       "source_id": "phy",

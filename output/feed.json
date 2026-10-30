@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-30T05:09:13.307758+00:00",
-  "total_notices": 3738,
+  "generated_at": "2026-10-30T12:30:18.965390+00:00",
+  "total_notices": 3749,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3779",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1030/3779.html",
+      "date": "2026-10-30",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3778",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1030/3778.html",
+      "date": "2026-10-30",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3777",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1030/3777.html",
+      "date": "2026-10-30",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3771",
       "source_id": "sme",
@@ -10,6 +34,38 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1030/3771.html",
       "date": "2026-10-30",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "phy:12463",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261030-4",
+      "url": "https://phy.xidian.edu.cn/info/1012/12463.htm",
+      "date": "2026-10-30",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:12453",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261030-3",
+      "url": "https://phy.xidian.edu.cn/info/1012/12453.htm",
+      "date": "2026-10-30",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:12443",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261030-2",
+      "url": "https://phy.xidian.edu.cn/info/1012/12443.htm",
+      "date": "2026-10-30",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:12433",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261030-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12433.htm",
+      "date": "2026-10-30",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "jsfz:12472",
@@ -74,6 +130,38 @@
       "url": "https://ste.xidian.edu.cn/info/1338/16676.htm",
       "date": "2026-10-27",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3776",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1030/3776.html",
+      "date": "2026-10-27",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3775",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1030/3775.html",
+      "date": "2026-10-27",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3774",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1030/3774.html",
+      "date": "2026-10-27",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3773",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1030/3773.html",
+      "date": "2026-10-27",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3770",
