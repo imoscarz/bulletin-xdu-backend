@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-10-29T22:37:04.273496Z",
-    "total_notices": 119
+    "last_scraped": "2026-10-30T05:08:56.100659Z",
+    "total_notices": 120
   },
   "notices": [
+    {
+      "id": "jsfz:12472",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】AI时代工科课程教学改革的思考与实践",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12472.htm",
+      "date": "2026-10-30"
+    },
     {
       "id": "jsfz:12462",
       "source_id": "jsfz",
