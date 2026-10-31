@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-10-30T22:06:13.077674+00:00",
-  "total_notices": 3750,
+  "generated_at": "2026-10-31T04:55:10.612334+00:00",
+  "total_notices": 3751,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sast:23117",
+      "source_id": "sast",
+      "title": "关于开展第二届“钱学森实验班创新奖”评选的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/23117.htm",
+      "date": "2026-10-31",
+      "source_name": "空间科学与技术学院"
+    },
     {
       "id": "sme:3779",
       "source_id": "sme",

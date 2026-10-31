@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-10-30T22:05:39.526373Z",
-    "total_notices": 138
+    "last_scraped": "2026-10-31T04:54:39.850031Z",
+    "total_notices": 139
   },
   "notices": [
+    {
+      "id": "sast:23117",
+      "source_id": "sast",
+      "title": "关于开展第二届“钱学森实验班创新奖”评选的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/23117.htm",
+      "date": "2026-10-31"
+    },
     {
       "id": "sast:23127",
       "source_id": "sast",
