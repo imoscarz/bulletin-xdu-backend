@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-02T05:20:27.078587Z",
-    "total_notices": 94
+    "last_scraped": "2026-11-02T15:16:04.915624Z",
+    "total_notices": 95
   },
   "notices": [
+    {
+      "id": "ygb:13903",
+      "source_id": "ygb",
+      "title": "关于开展2026年研究生社会奖（助）学金申报评选工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13903.htm",
+      "date": "2026-11-02"
+    },
     {
       "id": "ygb:13743",
       "source_id": "ygb",

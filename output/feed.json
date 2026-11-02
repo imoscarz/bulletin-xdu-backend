@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-11-02T05:20:50.863569+00:00",
-  "total_notices": 3752,
+  "generated_at": "2026-11-02T15:16:24.116591+00:00",
+  "total_notices": 3756,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:13903",
+      "source_id": "ygb",
+      "title": "关于开展2026年研究生社会奖（助）学金申报评选工作的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/13903.htm",
+      "date": "2026-11-02",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "sai:32462",
+      "source_id": "sai",
+      "title": "人工智能学院2027届本科毕业设计工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/32462.htm",
+      "date": "2026-11-02",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "eme:16836",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息",
+      "url": "https://eme.xidian.edu.cn/info/1012/16836.htm",
+      "date": "2026-11-02",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:16826",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息",
+      "url": "https://eme.xidian.edu.cn/info/1012/16826.htm",
+      "date": "2026-11-02",
+      "source_name": "机电工程学院"
+    },
     {
       "id": "sast:23117",
       "source_id": "sast",

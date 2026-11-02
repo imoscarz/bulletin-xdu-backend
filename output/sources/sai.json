@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-02T05:20:06.858988Z",
-    "total_notices": 151
+    "last_scraped": "2026-11-02T15:15:40.891516Z",
+    "total_notices": 152
   },
   "notices": [
+    {
+      "id": "sai:32462",
+      "source_id": "sai",
+      "title": "人工智能学院2027届本科毕业设计工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/32462.htm",
+      "date": "2026-11-02"
+    },
     {
       "id": "sai:32412",
       "source_id": "sai",
