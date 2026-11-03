@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-11-03T00:47:01.496055Z",
-    "total_notices": 133
+    "last_scraped": "2026-11-03T13:55:09.609662Z",
+    "total_notices": 134
   },
   "notices": [
+    {
+      "id": "xgc:14484",
+      "source_id": "xgc",
+      "title": "关于对2026～2027学年本科生国家助学金拟获得学生名单进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14484.htm",
+      "date": "2026-11-03"
+    },
     {
       "id": "xgc:14474",
       "source_id": "xgc",

@@ -3,10 +3,24 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-03T00:47:00.478775Z",
-    "total_notices": 152
+    "last_scraped": "2026-11-03T13:55:04.899427Z",
+    "total_notices": 154
   },
   "notices": [
+    {
+      "id": "sai:32502",
+      "source_id": "sai",
+      "title": "人工智能学院2028届优秀本科毕业生推荐免试攻读硕士学位研究生工作实施方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/32502.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "sai:32472",
+      "source_id": "sai",
+      "title": "关于开展2026年研究生社会奖（助）学金申报评选工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/32472.htm",
+      "date": "2026-11-03"
+    },
     {
       "id": "sai:32462",
       "source_id": "sai",

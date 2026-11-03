@@ -3,10 +3,73 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-03T00:47:02.523311Z",
-    "total_notices": 455
+    "last_scraped": "2026-11-03T13:55:11.083427Z",
+    "total_notices": 464
   },
   "notices": [
+    {
+      "id": "bksy:36602",
+      "source_id": "bksy",
+      "title": "【教学示范】古代汉语（下）",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36602.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "bksy:36592",
+      "source_id": "bksy",
+      "title": "【教学培训】毕业要求观测点的科学分解与课程支撑矩...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36592.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "bksy:36582",
+      "source_id": "bksy",
+      "title": "【教学培训】操作系统内核设计与实现教学专题研讨会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36582.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "bksy:36572",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】从信息化到智能化-信管专业的时代使...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36572.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "bksy:36562",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI 赋能程序设计类作业智能考核创新...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36562.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "bksy:36552",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】知识图谱与“智财小精灵”协同赋能...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36552.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "bksy:36542",
+      "source_id": "bksy",
+      "title": "【教学培训】“习近平经济思想概论”课程教学设计研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36542.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "bksy:36532",
+      "source_id": "bksy",
+      "title": "【教学培训】经管类“科研创新课堂”实施研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36532.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "bksy:36512",
+      "source_id": "bksy",
+      "title": "关于对2026～2027学年本科生国家助学金拟获得学生名...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36512.htm",
+      "date": "2026-11-03"
+    },
     {
       "id": "bksy:36502",
       "source_id": "bksy",
