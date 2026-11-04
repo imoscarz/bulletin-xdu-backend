@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-03T23:03:17.148889Z",
-    "total_notices": 154
+    "last_scraped": "2026-11-04T05:40:05.960875Z",
+    "total_notices": 155
   },
   "notices": [
+    {
+      "id": "sai:32522",
+      "source_id": "sai",
+      "title": "人工智能学院2029届优秀本科毕业生推荐免试攻读硕士学位研究生工作实施方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/32522.htm",
+      "date": "2026-11-04"
+    },
     {
       "id": "sai:32502",
       "source_id": "sai",

@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-11-03T23:03:42.228337Z",
-    "total_notices": 319
+    "last_scraped": "2026-11-04T05:40:58.015805Z",
+    "total_notices": 320
   },
   "notices": [
+    {
+      "id": "sme:3782",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1104/3782.html",
+      "date": "2026-11-03"
+    },
     {
       "id": "sme:3781",
       "source_id": "sme",

@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-03T23:03:30.696131Z",
-    "total_notices": 128
+    "last_scraped": "2026-11-04T05:40:40.688295Z",
+    "total_notices": 129
   },
   "notices": [
+    {
+      "id": "jsfz:12572",
+      "source_id": "jsfz",
+      "title": "关于举办2026年西安电子科技大学实验类  教师教学竞赛的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12572.htm",
+      "date": "2026-11-04"
+    },
     {
       "id": "jsfz:12552",
       "source_id": "jsfz",

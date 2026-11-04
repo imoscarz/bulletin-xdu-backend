@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-03T23:03:31.660800Z",
-    "total_notices": 186
+    "last_scraped": "2026-11-04T05:40:43.831622Z",
+    "total_notices": 187
   },
   "notices": [
+    {
+      "id": "ste:16726",
+      "source_id": "ste",
+      "title": "通信工程学院2026年硕士M3模块评审结果公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/16726.htm",
+      "date": "2026-11-04"
+    },
     {
       "id": "ste:16716",
       "source_id": "ste",
