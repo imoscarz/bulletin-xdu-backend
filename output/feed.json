@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-11-04T05:40:58.039189+00:00",
-  "total_notices": 3788,
+  "generated_at": "2026-11-04T14:05:28.817282+00:00",
+  "total_notices": 3791,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16746",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16746.htm",
+      "date": "2026-11-04",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16736",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16736.htm",
+      "date": "2026-11-04",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "ste:16726",
       "source_id": "ste",
@@ -26,6 +42,14 @@
       "url": "https://jsfz.xidian.edu.cn/info/1022/12572.htm",
       "date": "2026-11-04",
       "source_name": "教师发展中心"
+    },
+    {
+      "id": "eme:16896",
+      "source_id": "eme",
+      "title": "机电工程学院全日制博士研究生、硕士研究生  2026-2027学年学业奖学金公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16896.htm",
+      "date": "2026-11-04",
+      "source_name": "机电工程学院"
     },
     {
       "id": "bksy:36612",
