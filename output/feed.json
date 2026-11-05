@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-11-05T05:58:37.002416+00:00",
-  "total_notices": 3793,
+  "generated_at": "2026-11-05T14:30:34.556773+00:00",
+  "total_notices": 3795,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sai:32532",
+      "source_id": "sai",
+      "title": "人工智能学院关于2025～2026学年研究生评优工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/32532.htm",
+      "date": "2026-11-05",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "rwxy:18074",
+      "source_id": "rwxy",
+      "title": "人文学院工作简讯2026年第6期",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/18074.htm",
+      "date": "2026-11-05",
+      "source_name": "人文学院"
+    },
     {
       "id": "phy:12503",
       "source_id": "phy",

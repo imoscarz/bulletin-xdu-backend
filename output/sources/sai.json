@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-05T05:57:44.249261Z",
-    "total_notices": 155
+    "last_scraped": "2026-11-05T14:29:54.357298Z",
+    "total_notices": 156
   },
   "notices": [
+    {
+      "id": "sai:32532",
+      "source_id": "sai",
+      "title": "人工智能学院关于2025～2026学年研究生评优工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/32532.htm",
+      "date": "2026-11-05"
+    },
     {
       "id": "sai:32522",
       "source_id": "sai",
