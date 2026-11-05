@@ -3,10 +3,17 @@
     "source_id": "hqbzb",
     "name": "后勤保障部",
     "url": "https://hqbzb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-04T23:27:05.881395Z",
-    "total_notices": 86
+    "last_scraped": "2026-11-05T05:58:19.080573Z",
+    "total_notices": 87
   },
   "notices": [
+    {
+      "id": "hqbzb:8806",
+      "source_id": "hqbzb",
+      "title": "关于拟将罗超同志转为中共正式党员的公示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8806.htm",
+      "date": "2026-11-04"
+    },
     {
       "id": "hqbzb:J88WgtsPbzV4ipmbttF7SA",
       "source_id": "hqbzb",
