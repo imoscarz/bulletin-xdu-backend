@@ -3,10 +3,66 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-06T05:54:24.058014Z",
-    "total_notices": 466
+    "last_scraped": "2026-11-06T13:59:56.799016Z",
+    "total_notices": 474
   },
   "notices": [
+    {
+      "id": "bksy:36722",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI赋能《管理学》教学改革与教改论...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36722.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "bksy:36712",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI赋能信号与系统课程改革",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36712.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "bksy:36702",
+      "source_id": "bksy",
+      "title": "【教学示范】中国花鸟画赏析与实践",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36702.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "bksy:36692",
+      "source_id": "bksy",
+      "title": "【教学示范】习近平经济思想概论",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36692.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "bksy:36682",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI赋能程序设计基础及数据库原理课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36682.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "bksy:36672",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI赋能“造型材料与工艺”专业核心...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36672.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "bksy:36662",
+      "source_id": "bksy",
+      "title": "【教学培训】项目管理视角下的电商及大数据专业",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36662.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "bksy:36652",
+      "source_id": "bksy",
+      "title": "公开课【音频程序设计与应用(I)】",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36652.htm",
+      "date": "2026-11-06"
+    },
     {
       "id": "bksy:36642",
       "source_id": "bksy",
