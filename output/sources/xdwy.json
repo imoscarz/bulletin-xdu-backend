@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-05T23:28:46.444797Z",
-    "total_notices": 118
+    "last_scraped": "2026-11-06T05:54:43.665976Z",
+    "total_notices": 119
   },
   "notices": [
+    {
+      "id": "xdwy:11464",
+      "source_id": "xdwy",
+      "title": "关于开展2026年高等学历继续教育校外教学点检查工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11464.htm",
+      "date": "2026-11-05"
+    },
     {
       "id": "xdwy:11304",
       "source_id": "xdwy",

@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-05T23:28:51.315841Z",
-    "total_notices": 129
+    "last_scraped": "2026-11-06T05:54:49.664177Z",
+    "total_notices": 130
   },
   "notices": [
+    {
+      "id": "jsfz:12582",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】AI赋能的概率论与数理统计课程“教‑学‑评”体系研究与实践培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12582.htm",
+      "date": "2026-11-06"
+    },
     {
       "id": "jsfz:12572",
       "source_id": "jsfz",

@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-11-05T23:29:05.161499+00:00",
-  "total_notices": 3795,
+  "generated_at": "2026-11-06T05:55:03.820755+00:00",
+  "total_notices": 3801,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:12523",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261106-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12523.htm",
+      "date": "2026-11-06",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jsfz:12582",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】AI赋能的概率论与数理统计课程“教‑学‑评”体系研究与实践培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12582.htm",
+      "date": "2026-11-06",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "bksy:36642",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】AI赋能的概率论与数理统计课程“教...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36642.htm",
+      "date": "2026-11-06",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "xdwy:11464",
+      "source_id": "xdwy",
+      "title": "关于开展2026年高等学历继续教育校外教学点检查工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11464.htm",
+      "date": "2026-11-05",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "sme:3786",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1106/3786.html",
+      "date": "2026-11-05",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3785",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1106/3785.html",
+      "date": "2026-11-05",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sai:32532",
       "source_id": "sai",
