@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-08T21:51:58.803732Z",
-    "total_notices": 128
+    "last_scraped": "2026-11-09T05:35:42.225943Z",
+    "total_notices": 129
   },
   "notices": [
+    {
+      "id": "sem:15611",
+      "source_id": "sem",
+      "title": "赛事通知｜关于举办第十三届全国大学生能源经济学术创意大赛（陕西赛区）的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/15611.htm",
+      "date": "2026-11-09"
+    },
     {
       "id": "sem:15481",
       "source_id": "sem",

@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-11-08T21:52:07.962401Z",
-    "total_notices": 134
+    "last_scraped": "2026-11-09T05:35:50.384263Z",
+    "total_notices": 135
   },
   "notices": [
+    {
+      "id": "xgc:14504",
+      "source_id": "xgc",
+      "title": "关于开展2026年本科生社会奖助学金申报评选工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14504.htm",
+      "date": "2026-11-09"
+    },
     {
       "id": "xgc:14484",
       "source_id": "xgc",

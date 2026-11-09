@@ -3,10 +3,24 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-08T21:52:29.518915Z",
-    "total_notices": 138
+    "last_scraped": "2026-11-09T05:36:13.039271Z",
+    "total_notices": 140
   },
   "notices": [
+    {
+      "id": "jsfz:12682",
+      "source_id": "jsfz",
+      "title": "关于开展2027年度教师教学鉴定工作的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12682.htm",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "jsfz:12672",
+      "source_id": "jsfz",
+      "title": "关于开展2026年下学期本科教学准入证办理工作的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12672.htm",
+      "date": "2026-11-09"
+    },
     {
       "id": "jsfz:12662",
       "source_id": "jsfz",

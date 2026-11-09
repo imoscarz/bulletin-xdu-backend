@@ -3,10 +3,31 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-08T21:52:10.224166Z",
-    "total_notices": 474
+    "last_scraped": "2026-11-09T05:35:51.859953Z",
+    "total_notices": 477
   },
   "notices": [
+    {
+      "id": "bksy:36742",
+      "source_id": "bksy",
+      "title": "关于开展2027年度教师教学鉴定工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36742.htm",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "bksy:36732",
+      "source_id": "bksy",
+      "title": "关于开展2026年下学期本科教学准入证办理工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36732.htm",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "bksy:36622",
+      "source_id": "bksy",
+      "title": "关于开展2026年本科生社会奖助学金申报评选工作的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36622.htm",
+      "date": "2026-11-09"
+    },
     {
       "id": "bksy:36722",
       "source_id": "bksy",
