@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-09T05:36:10.574883Z",
-    "total_notices": 95
+    "last_scraped": "2026-11-09T15:44:51.165352Z",
+    "total_notices": 96
   },
   "notices": [
+    {
+      "id": "ygb:14103",
+      "source_id": "ygb",
+      "title": "关于申报2026年研究生国防科技奖学金的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/14103.htm",
+      "date": "2026-11-09"
+    },
     {
       "id": "ygb:13903",
       "source_id": "ygb",

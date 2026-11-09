@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-11-09T05:36:29.359285+00:00",
-  "total_notices": 3831,
+  "generated_at": "2026-11-09T15:45:11.345396+00:00",
+  "total_notices": 3834,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:14103",
+      "source_id": "ygb",
+      "title": "关于申报2026年研究生国防科技奖学金的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/14103.htm",
+      "date": "2026-11-09",
+      "source_name": "党委研究生工作部"
+    },
     {
       "id": "xgc:14504",
       "source_id": "xgc",
@@ -12,12 +20,28 @@
       "source_name": "学生工作处"
     },
     {
+      "id": "ste:16776",
+      "source_id": "ste",
+      "title": "通信工程学院2026级秋季博士新生学业奖学金答辩工作安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/16776.htm",
+      "date": "2026-11-09",
+      "source_name": "通信工程学院"
+    },
+    {
       "id": "sem:15611",
       "source_id": "sem",
       "title": "赛事通知｜关于举办第十三届全国大学生能源经济学术创意大赛（陕西赛区）的通知",
       "url": "https://sem.xidian.edu.cn/info/1536/15611.htm",
       "date": "2026-11-09",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "phy:12543",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261109-2",
+      "url": "https://phy.xidian.edu.cn/info/1012/12543.htm",
+      "date": "2026-11-09",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "phy:12533",

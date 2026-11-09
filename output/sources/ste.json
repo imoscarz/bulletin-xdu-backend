@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-09T05:36:14.241619Z",
-    "total_notices": 190
+    "last_scraped": "2026-11-09T15:44:55.750977Z",
+    "total_notices": 191
   },
   "notices": [
+    {
+      "id": "ste:16776",
+      "source_id": "ste",
+      "title": "通信工程学院2026级秋季博士新生学业奖学金答辩工作安排",
+      "url": "https://ste.xidian.edu.cn/info/1337/16776.htm",
+      "date": "2026-11-09"
+    },
     {
       "id": "ste:16756",
       "source_id": "ste",
