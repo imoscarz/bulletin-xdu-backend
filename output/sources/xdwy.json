@@ -3,16 +3,44 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-10T01:21:37.596972Z",
-    "total_notices": 120
+    "last_scraped": "2026-11-10T14:38:11.855444Z",
+    "total_notices": 124
   },
   "notices": [
+    {
+      "id": "xdwy:11604",
+      "source_id": "xdwy",
+      "title": "关于2026年秋季学期高等学历继续教育开展线下面授教学的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11604.htm",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "xdwy:11594",
+      "source_id": "xdwy",
+      "title": "关于西安电子科技大学2026年秋季学期高等教育自学考试毕业论文（设计）报名的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11594.htm",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "xdwy:11584",
+      "source_id": "xdwy",
+      "title": "关于2026年秋季学期高等学历继续教育本科毕业论文（设计）批次选择的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11584.htm",
+      "date": "2026-11-09"
+    },
     {
       "id": "xdwy:11504",
       "source_id": "xdwy",
       "title": "关于2026年秋季学期课程考核的通知",
       "url": "https://xdwy.xidian.edu.cn/info/1194/11504.htm",
       "date": "2026-11-06"
+    },
+    {
+      "id": "xdwy:11614",
+      "source_id": "xdwy",
+      "title": "【招生通知】| 西安电子科技大学同等学力申硕人员专业能力提升班2027年报名开启",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11614.htm",
+      "date": "2026-11-05"
     },
     {
       "id": "xdwy:11464",

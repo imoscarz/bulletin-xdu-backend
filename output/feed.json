@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-11-10T01:22:01.023319+00:00",
-  "total_notices": 3834,
+  "generated_at": "2026-11-10T14:38:37.067009+00:00",
+  "total_notices": 3843,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:18475",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20261110-2",
+      "url": "https://soe.xidian.edu.cn/info/1095/18475.htm",
+      "date": "2026-11-10",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "soe:18465",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20261110-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/18465.htm",
+      "date": "2026-11-10",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3791",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1110/3791.html",
+      "date": "2026-11-10",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3790",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1110/3790.html",
+      "date": "2026-11-10",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3789",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1110/3789.html",
+      "date": "2026-11-10",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "ygb:14103",
       "source_id": "ygb",
@@ -18,6 +58,30 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14504.htm",
       "date": "2026-11-09",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "xdwy:11604",
+      "source_id": "xdwy",
+      "title": "关于2026年秋季学期高等学历继续教育开展线下面授教学的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11604.htm",
+      "date": "2026-11-09",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "xdwy:11594",
+      "source_id": "xdwy",
+      "title": "关于西安电子科技大学2026年秋季学期高等教育自学考试毕业论文（设计）报名的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11594.htm",
+      "date": "2026-11-09",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "xdwy:11584",
+      "source_id": "xdwy",
+      "title": "关于2026年秋季学期高等学历继续教育本科毕业论文（设计）批次选择的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11584.htm",
+      "date": "2026-11-09",
+      "source_name": "网络与继续教育学院"
     },
     {
       "id": "ste:16776",
@@ -290,6 +354,14 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/36642.htm",
       "date": "2026-11-06",
       "source_name": "本科生院"
+    },
+    {
+      "id": "xdwy:11614",
+      "source_id": "xdwy",
+      "title": "【招生通知】| 西安电子科技大学同等学力申硕人员专业能力提升班2027年报名开启",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11614.htm",
+      "date": "2026-11-05",
+      "source_name": "网络与继续教育学院"
     },
     {
       "id": "xdwy:11464",
