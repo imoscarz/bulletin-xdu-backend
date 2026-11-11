@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-11-11T05:33:46.609486+00:00",
-  "total_notices": 3846,
+  "generated_at": "2026-11-11T13:53:52.783949+00:00",
+  "total_notices": 3850,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:16826",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16826.htm",
+      "date": "2026-11-11",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16816",
+      "source_id": "ste",
+      "title": "通信工程学院2026年度“段宝岩科教创新奖”（学生）评审结果公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/16816.htm",
+      "date": "2026-11-11",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:16806",
+      "source_id": "ste",
+      "title": "通信工程学院2026年研究生社会奖学金评审结果公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/16806.htm",
+      "date": "2026-11-11",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3793",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1111/3793.html",
+      "date": "2026-11-11",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "phy:12573",
       "source_id": "phy",
