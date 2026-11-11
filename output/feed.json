@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-10T23:02:05.611093+00:00",
-  "total_notices": 3843,
+  "generated_at": "2026-11-11T05:33:46.609486+00:00",
+  "total_notices": 3846,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:12573",
+      "source_id": "phy",
+      "title": "物理学院关于2026年研究生社会奖学金评审结果公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/12573.htm",
+      "date": "2026-11-11",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jgrsrc:18838",
+      "source_id": "jgrsrc",
+      "title": "西安电子科技大学专任教师招聘公告（数学、生物医学工程、应用经济学、马克思主义理论、哲学）",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18838.htm",
+      "date": "2026-11-11",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "cs:26564",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于受理2027年1月研究生结业申请的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/26564.htm",
+      "date": "2026-11-11",
+      "source_name": "计算机科学与技术学院"
+    },
     {
       "id": "soe:18475",
       "source_id": "soe",
