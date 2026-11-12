@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-12T00:18:50.662324Z",
-    "total_notices": 477
+    "last_scraped": "2026-11-12T14:54:54.089369Z",
+    "total_notices": 478
   },
   "notices": [
+    {
+      "id": "bksy:36762",
+      "source_id": "bksy",
+      "title": "关于2026年度“人工智能+”虚拟仿真实验教学项目推荐...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36762.htm",
+      "date": "2026-11-12"
+    },
     {
       "id": "bksy:36742",
       "source_id": "bksy",
