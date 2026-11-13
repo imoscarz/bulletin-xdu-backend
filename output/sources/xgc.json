@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-11-13T05:56:02.451694Z",
-    "total_notices": 135
+    "last_scraped": "2026-11-13T14:22:02.920654Z",
+    "total_notices": 136
   },
   "notices": [
+    {
+      "id": "xgc:14514",
+      "source_id": "xgc",
+      "title": "关于开展2026年新生冬寒补助申请工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14514.htm",
+      "date": "2026-11-13"
+    },
     {
       "id": "xgc:14504",
       "source_id": "xgc",

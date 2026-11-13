@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-13T05:56:03.891410Z",
-    "total_notices": 478
+    "last_scraped": "2026-11-13T14:22:06.480572Z",
+    "total_notices": 480
   },
   "notices": [
+    {
+      "id": "bksy:36782",
+      "source_id": "bksy",
+      "title": "关于开展2026年新生冬寒补助申请工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36782.htm",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "bksy:36772",
+      "source_id": "bksy",
+      "title": "关于开展第七届陕西本科高校教师教学创新大赛校内遴...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36772.htm",
+      "date": "2026-11-13"
+    },
     {
       "id": "bksy:36762",
       "source_id": "bksy",

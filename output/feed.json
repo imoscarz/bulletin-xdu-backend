@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-11-13T05:56:55.355106+00:00",
-  "total_notices": 3858,
+  "generated_at": "2026-11-13T14:23:10.734767+00:00",
+  "total_notices": 3864,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14514",
+      "source_id": "xgc",
+      "title": "关于开展2026年新生冬寒补助申请工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14514.htm",
+      "date": "2026-11-13",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "ste:16836",
+      "source_id": "ste",
+      "title": "通信工程学院2026级秋季博士新生学业奖学金公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/16836.htm",
+      "date": "2026-11-13",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "phy:12593",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261113-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12593.htm",
+      "date": "2026-11-13",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jsfz:12692",
+      "source_id": "jsfz",
+      "title": "关于开展第七届陕西本科高校教师教学创新大赛校内遴选工作的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12692.htm",
+      "date": "2026-11-13",
+      "source_name": "教师发展中心"
+    },
     {
       "id": "eme:16986",
       "source_id": "eme",
@@ -10,6 +42,22 @@
       "url": "https://eme.xidian.edu.cn/info/1012/16986.htm",
       "date": "2026-11-13",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:36782",
+      "source_id": "bksy",
+      "title": "关于开展2026年新生冬寒补助申请工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36782.htm",
+      "date": "2026-11-13",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36772",
+      "source_id": "bksy",
+      "title": "关于开展第七届陕西本科高校教师教学创新大赛校内遴...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36772.htm",
+      "date": "2026-11-13",
+      "source_name": "本科生院"
     },
     {
       "id": "soe:18495",

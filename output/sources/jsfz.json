@@ -3,10 +3,17 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-13T05:56:36.206185Z",
-    "total_notices": 140
+    "last_scraped": "2026-11-13T14:22:52.939012Z",
+    "total_notices": 141
   },
   "notices": [
+    {
+      "id": "jsfz:12692",
+      "source_id": "jsfz",
+      "title": "关于开展第七届陕西本科高校教师教学创新大赛校内遴选工作的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12692.htm",
+      "date": "2026-11-13"
+    },
     {
       "id": "jsfz:12682",
       "source_id": "jsfz",
