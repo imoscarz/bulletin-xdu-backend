@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-11-12T23:23:24.798833Z",
-    "total_notices": 195
+    "last_scraped": "2026-11-13T05:56:09.563357Z",
+    "total_notices": 196
   },
   "notices": [
+    {
+      "id": "eme:16986",
+      "source_id": "eme",
+      "title": "机电工程学院2026年研究生社会奖（助）学金拟推荐候选人公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/16986.htm",
+      "date": "2026-11-13"
+    },
     {
       "id": "eme:16936",
       "source_id": "eme",
