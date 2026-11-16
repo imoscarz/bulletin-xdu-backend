@@ -3,10 +3,24 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-16T05:44:14.543979Z",
-    "total_notices": 124
+    "last_scraped": "2026-11-16T15:18:34.747708Z",
+    "total_notices": 126
   },
   "notices": [
+    {
+      "id": "jwc:23943",
+      "source_id": "jwc",
+      "title": "关于2026年课程思政精品课程  （本科教育）拟推荐名单的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23943.htm",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "jwc:23933",
+      "source_id": "jwc",
+      "title": "2026年下半年全国大学英语四六级口语考试考生须知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23933.htm",
+      "date": "2026-11-16"
+    },
     {
       "id": "jwc:23573",
       "source_id": "jwc",

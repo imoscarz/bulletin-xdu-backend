@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-16T05:44:26.653945Z",
-    "total_notices": 156
+    "last_scraped": "2026-11-16T15:18:49.195654Z",
+    "total_notices": 157
   },
   "notices": [
+    {
+      "id": "phy:12613",
+      "source_id": "phy",
+      "title": "物理学院关于2026年社会奖学金拟推荐候选人公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/12613.htm",
+      "date": "2026-11-16"
+    },
     {
       "id": "phy:12593",
       "source_id": "phy",

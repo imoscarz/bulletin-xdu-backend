@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T05:45:30.389308+00:00",
-  "total_notices": 3865,
+  "generated_at": "2026-11-16T15:19:50.611735+00:00",
+  "total_notices": 3870,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,46 @@
       "url": "https://xdwy.xidian.edu.cn/info/1194/11654.htm",
       "date": "2026-11-16",
       "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "phy:12613",
+      "source_id": "phy",
+      "title": "物理学院关于2026年社会奖学金拟推荐候选人公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/12613.htm",
+      "date": "2026-11-16",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jwc:23943",
+      "source_id": "jwc",
+      "title": "关于2026年课程思政精品课程  （本科教育）拟推荐名单的公示",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23943.htm",
+      "date": "2026-11-16",
+      "source_name": "教务处"
+    },
+    {
+      "id": "jwc:23933",
+      "source_id": "jwc",
+      "title": "2026年下半年全国大学英语四六级口语考试考生须知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23933.htm",
+      "date": "2026-11-16",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:36812",
+      "source_id": "bksy",
+      "title": "关于2026年课程思政精品课程  （本科教育）拟推荐名...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36812.htm",
+      "date": "2026-11-16",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:36802",
+      "source_id": "bksy",
+      "title": "2026年下半年全国大学英语四六级口语考试考生须知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36802.htm",
+      "date": "2026-11-16",
+      "source_name": "本科生院"
     },
     {
       "id": "xgc:14514",
