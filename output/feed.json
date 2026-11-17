@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-11-17T01:46:33.402764+00:00",
-  "total_notices": 3873,
+  "generated_at": "2026-11-17T15:46:28.406753+00:00",
+  "total_notices": 3879,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:11674",
+      "source_id": "xdwy",
+      "title": "关于公布2026年秋季学期高等学历继续教育毕业论文（设计）成绩的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11674.htm",
+      "date": "2026-11-17",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "jwc:23963",
+      "source_id": "jwc",
+      "title": "关于开展2026年度校级教材建设资助项目立项工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23963.htm",
+      "date": "2026-11-17",
+      "source_name": "教务处"
+    },
     {
       "id": "jwc:23953",
       "source_id": "jwc",
@@ -10,6 +26,38 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/23953.htm",
       "date": "2026-11-17",
       "source_name": "教务处"
+    },
+    {
+      "id": "jgrsrc:18858",
+      "source_id": "jgrsrc",
+      "title": "关于西安电子科技大学非教师岗位2027届校园招聘的有关公告",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18858.htm",
+      "date": "2026-11-17",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "eme:17026",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息",
+      "url": "https://eme.xidian.edu.cn/info/1012/17026.htm",
+      "date": "2026-11-17",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:26594",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年研究生社会奖（助）学金评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/26594.htm",
+      "date": "2026-11-17",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:36832",
+      "source_id": "bksy",
+      "title": "关于开展2026年度校级教材建设资助项目立项工作的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36832.htm",
+      "date": "2026-11-17",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:36822",

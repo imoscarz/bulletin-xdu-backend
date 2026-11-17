@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-17T01:46:06.345678Z",
-    "total_notices": 125
+    "last_scraped": "2026-11-17T15:45:43.068012Z",
+    "total_notices": 126
   },
   "notices": [
+    {
+      "id": "xdwy:11674",
+      "source_id": "xdwy",
+      "title": "关于公布2026年秋季学期高等学历继续教育毕业论文（设计）成绩的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/11674.htm",
+      "date": "2026-11-17"
+    },
     {
       "id": "xdwy:11654",
       "source_id": "xdwy",

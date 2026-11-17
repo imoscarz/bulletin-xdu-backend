@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-17T01:45:30.438779Z",
-    "total_notices": 153
+    "last_scraped": "2026-11-17T15:44:53.716325Z",
+    "total_notices": 154
   },
   "notices": [
+    {
+      "id": "cs:26594",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年研究生社会奖（助）学金评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/26594.htm",
+      "date": "2026-11-17"
+    },
     {
       "id": "cs:26564",
       "source_id": "cs",

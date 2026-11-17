@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-17T01:45:28.936553Z",
-    "total_notices": 127
+    "last_scraped": "2026-11-17T15:44:48.467670Z",
+    "total_notices": 128
   },
   "notices": [
+    {
+      "id": "jwc:23963",
+      "source_id": "jwc",
+      "title": "关于开展2026年度校级教材建设资助项目立项工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23963.htm",
+      "date": "2026-11-17"
+    },
     {
       "id": "jwc:23953",
       "source_id": "jwc",

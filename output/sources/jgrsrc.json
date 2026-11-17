@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-11-17T01:45:55.899510Z",
-    "total_notices": 107
+    "last_scraped": "2026-11-17T15:45:26.988473Z",
+    "total_notices": 108
   },
   "notices": [
+    {
+      "id": "jgrsrc:18858",
+      "source_id": "jgrsrc",
+      "title": "关于西安电子科技大学非教师岗位2027届校园招聘的有关公告",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18858.htm",
+      "date": "2026-11-17"
+    },
     {
       "id": "jgrsrc:18838",
       "source_id": "jgrsrc",
