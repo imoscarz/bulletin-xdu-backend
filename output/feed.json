@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-11-16T15:19:50.611735+00:00",
-  "total_notices": 3870,
+  "generated_at": "2026-11-17T01:46:33.402764+00:00",
+  "total_notices": 3873,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "jwc:23953",
+      "source_id": "jwc",
+      "title": "关于2026年西安电子科技大学学生体质测试补测的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/23953.htm",
+      "date": "2026-11-17",
+      "source_name": "教务处"
+    },
+    {
+      "id": "bksy:36822",
+      "source_id": "bksy",
+      "title": "关于2026年西安电子科技大学学生体质测试补测的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36822.htm",
+      "date": "2026-11-17",
+      "source_name": "本科生院"
+    },
     {
       "id": "xdwy:11654",
       "source_id": "xdwy",
@@ -10,6 +26,14 @@
       "url": "https://xdwy.xidian.edu.cn/info/1194/11654.htm",
       "date": "2026-11-16",
       "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:16846",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/16846.htm",
+      "date": "2026-11-16",
+      "source_name": "通信工程学院"
     },
     {
       "id": "phy:12613",

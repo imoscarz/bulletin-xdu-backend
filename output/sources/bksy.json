@@ -3,10 +3,17 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-16T15:19:07.329769Z",
-    "total_notices": 482
+    "last_scraped": "2026-11-17T01:45:53.241243Z",
+    "total_notices": 483
   },
   "notices": [
+    {
+      "id": "bksy:36822",
+      "source_id": "bksy",
+      "title": "关于2026年西安电子科技大学学生体质测试补测的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36822.htm",
+      "date": "2026-11-17"
+    },
     {
       "id": "bksy:36812",
       "source_id": "bksy",
