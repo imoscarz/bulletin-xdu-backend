@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-11-18T00:47:03.362269Z",
-    "total_notices": 108
+    "last_scraped": "2026-11-18T15:25:14.701471Z",
+    "total_notices": 109
   },
   "notices": [
+    {
+      "id": "jgrsrc:18868",
+      "source_id": "jgrsrc",
+      "title": "关于2026年陕西省高校教师岗前培训验收暨教师资格教育基础理论知识考试报名及工作安排的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/18868.htm",
+      "date": "2026-11-18"
+    },
     {
       "id": "jgrsrc:18858",
       "source_id": "jgrsrc",
