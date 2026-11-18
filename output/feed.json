@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-11-17T15:46:28.406753+00:00",
-  "total_notices": 3879,
+  "generated_at": "2026-11-18T00:47:38.281137+00:00",
+  "total_notices": 3880,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:12623",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261118-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12623.htm",
+      "date": "2026-11-18",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "xdwy:11674",
       "source_id": "xdwy",
