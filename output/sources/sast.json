@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-11-19T00:04:36.171516Z",
-    "total_notices": 142
+    "last_scraped": "2026-11-19T15:30:52.566599Z",
+    "total_notices": 143
   },
   "notices": [
+    {
+      "id": "sast:23557",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026～2027学年（秋季）2024级硕士、2025级硕士及博士研究生学业奖学金评选结果公示",
+      "url": "https://sast.xidian.edu.cn/info/1014/23557.htm",
+      "date": "2026-11-19"
+    },
     {
       "id": "sast:23537",
       "source_id": "sast",

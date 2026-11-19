@@ -3,10 +3,31 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-19T00:04:45.204121Z",
-    "total_notices": 141
+    "last_scraped": "2026-11-19T15:31:11.860532Z",
+    "total_notices": 144
   },
   "notices": [
+    {
+      "id": "jsfz:12752",
+      "source_id": "jsfz",
+      "title": "【名师西电】我校教师在第六届RIGOL杯·全国高校电子信息类专业课程实验教学案例设计竞赛中喜获佳绩",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12752.htm",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "jsfz:12742",
+      "source_id": "jsfz",
+      "title": "西电在第三届电子信息类专业高校教师智慧教学案例竞赛全国总决赛中获佳绩",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12742.htm",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "jsfz:12702",
+      "source_id": "jsfz",
+      "title": "【教学培训】“概率论与数理统计”两个教学点的剖析与补充",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/12702.htm",
+      "date": "2026-11-19"
+    },
     {
       "id": "jsfz:12692",
       "source_id": "jsfz",

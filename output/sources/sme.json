@@ -3,10 +3,45 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-11-19T00:05:00.106435Z",
-    "total_notices": 328
+    "last_scraped": "2026-11-19T15:31:30.470986Z",
+    "total_notices": 333
   },
   "notices": [
+    {
+      "id": "sme:3800",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2026年北方华创奖学金（第二批） 申报评选工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/1119/3800.html",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "sme:3804",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1119/3804.html",
+      "date": "2026-11-18"
+    },
+    {
+      "id": "sme:3803",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1119/3803.html",
+      "date": "2026-11-18"
+    },
+    {
+      "id": "sme:3802",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1119/3802.html",
+      "date": "2026-11-18"
+    },
+    {
+      "id": "sme:3801",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1119/3801.html",
+      "date": "2026-11-16"
+    },
     {
       "id": "sme:3794",
       "source_id": "sme",

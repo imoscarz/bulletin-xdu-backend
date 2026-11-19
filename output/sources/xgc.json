@@ -3,10 +3,24 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-11-19T00:04:26.678386Z",
-    "total_notices": 136
+    "last_scraped": "2026-11-19T15:30:34.526658Z",
+    "total_notices": 138
   },
   "notices": [
+    {
+      "id": "xgc:14544",
+      "source_id": "xgc",
+      "title": "关于2025-2026学年先进班级评选结果的公示",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14544.htm",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "xgc:14534",
+      "source_id": "xgc",
+      "title": "关于2025-2026学年“四好”宿舍评选结果的公示",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14534.htm",
+      "date": "2026-11-19"
+    },
     {
       "id": "xgc:14514",
       "source_id": "xgc",
