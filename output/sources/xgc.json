@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-11-20T00:27:28.872498Z",
-    "total_notices": 138
+    "last_scraped": "2026-11-20T15:08:43.472209Z",
+    "total_notices": 139
   },
   "notices": [
+    {
+      "id": "xgc:14554",
+      "source_id": "xgc",
+      "title": "第84期大学生党校高级班结业名单公示",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14554.htm",
+      "date": "2026-11-20"
+    },
     {
       "id": "xgc:14544",
       "source_id": "xgc",

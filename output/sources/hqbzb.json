@@ -3,10 +3,17 @@
     "source_id": "hqbzb",
     "name": "后勤保障部",
     "url": "https://hqbzb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-20T00:27:53.611107Z",
-    "total_notices": 87
+    "last_scraped": "2026-11-20T15:09:18.388066Z",
+    "total_notices": 88
   },
   "notices": [
+    {
+      "id": "hqbzb:8846",
+      "source_id": "hqbzb",
+      "title": "关于长安校区部分体育场地维修改造的施工公告",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8846.htm",
+      "date": "2026-11-20"
+    },
     {
       "id": "hqbzb:8806",
       "source_id": "hqbzb",

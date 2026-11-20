@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-11-20T00:27:36.210140Z",
-    "total_notices": 197
+    "last_scraped": "2026-11-20T15:08:57.144412Z",
+    "total_notices": 198
   },
   "notices": [
+    {
+      "id": "eme:17056",
+      "source_id": "eme",
+      "title": "机电工程学院2026级深圳技术大学联合培养博士专项计划 2026-2027学年学业奖学金公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/17056.htm",
+      "date": "2026-11-19"
+    },
     {
       "id": "eme:17026",
       "source_id": "eme",

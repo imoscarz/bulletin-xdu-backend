@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-11-20T00:28:04.824943+00:00",
-  "total_notices": 3900,
+  "generated_at": "2026-11-20T15:09:38.453233+00:00",
+  "total_notices": 3910,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xgc:14554",
+      "source_id": "xgc",
+      "title": "第84期大学生党校高级班结业名单公示",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14554.htm",
+      "date": "2026-11-20",
+      "source_name": "学生工作处"
+    },
+    {
+      "id": "ste:16856",
+      "source_id": "ste",
+      "title": "通信工程学院2026～2027学年（秋季）硕士(老生)学业奖学金评审结果公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/16856.htm",
+      "date": "2026-11-20",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3806",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1120/3806.html",
+      "date": "2026-11-20",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sast:23587",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/23587.htm",
+      "date": "2026-11-20",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:23577",
+      "source_id": "sast",
+      "title": "科研协作项目公示信息",
+      "url": "https://sast.xidian.edu.cn/info/1014/23577.htm",
+      "date": "2026-11-20",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "phy:12653",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20261120-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/12653.htm",
+      "date": "2026-11-20",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "hqbzb:8846",
+      "source_id": "hqbzb",
+      "title": "关于长安校区部分体育场地维修改造的施工公告",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/8846.htm",
+      "date": "2026-11-20",
+      "source_name": "后勤保障部"
+    },
+    {
+      "id": "bksy:36922",
+      "source_id": "bksy",
+      "title": "第84期大学生党校高级班结业名单公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36922.htm",
+      "date": "2026-11-20",
+      "source_name": "本科生院"
+    },
     {
       "id": "xgc:14544",
       "source_id": "xgc",
@@ -58,6 +122,14 @@
       "url": "https://jsfz.xidian.edu.cn/info/1022/12702.htm",
       "date": "2026-11-19",
       "source_name": "教师发展中心"
+    },
+    {
+      "id": "eme:17056",
+      "source_id": "eme",
+      "title": "机电工程学院2026级深圳技术大学联合培养博士专项计划 2026-2027学年学业奖学金公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/17056.htm",
+      "date": "2026-11-19",
+      "source_name": "机电工程学院"
     },
     {
       "id": "bksy:36902",
@@ -306,6 +378,14 @@
       "url": "https://ste.xidian.edu.cn/info/1337/16836.htm",
       "date": "2026-11-13",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3805",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1120/3805.html",
+      "date": "2026-11-13",
+      "source_name": "集成电路学部"
     },
     {
       "id": "phy:12593",

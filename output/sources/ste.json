@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-20T00:27:52.215805Z",
-    "total_notices": 196
+    "last_scraped": "2026-11-20T15:09:16.059623Z",
+    "total_notices": 197
   },
   "notices": [
+    {
+      "id": "ste:16856",
+      "source_id": "ste",
+      "title": "通信工程学院2026～2027学年（秋季）硕士(老生)学业奖学金评审结果公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/16856.htm",
+      "date": "2026-11-20"
+    },
     {
       "id": "ste:16846",
       "source_id": "ste",
