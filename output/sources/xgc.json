@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-11-25T21:25:46.565614Z",
-    "total_notices": 139
+    "last_scraped": "2026-11-26T07:41:28.597529Z",
+    "total_notices": 140
   },
   "notices": [
+    {
+      "id": "xgc:14564",
+      "source_id": "xgc",
+      "title": "关于对2025-2026学年“优秀班主任”评选结果进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14564.htm",
+      "date": "2026-11-26"
+    },
     {
       "id": "xgc:14554",
       "source_id": "xgc",

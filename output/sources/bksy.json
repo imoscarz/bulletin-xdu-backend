@@ -3,10 +3,24 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-25T21:25:47.870705Z",
-    "total_notices": 491
+    "last_scraped": "2026-11-26T07:41:30.894491Z",
+    "total_notices": 493
   },
   "notices": [
+    {
+      "id": "bksy:36982",
+      "source_id": "bksy",
+      "title": "关于2025级“大学生物理实验能力达标测试（C1-2）”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36982.htm",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "bksy:36962",
+      "source_id": "bksy",
+      "title": "关于对2025-2026学年“优秀班主任”评选结果进行公示...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/36962.htm",
+      "date": "2026-11-26"
+    },
     {
       "id": "bksy:36952",
       "source_id": "bksy",

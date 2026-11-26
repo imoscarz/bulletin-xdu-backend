@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-11-25T21:25:28.588570Z",
-    "total_notices": 128
+    "last_scraped": "2026-11-26T07:41:10.043755Z",
+    "total_notices": 129
   },
   "notices": [
+    {
+      "id": "jwc:24003",
+      "source_id": "jwc",
+      "title": "关于2025级“大学生物理实验能力达标测试（C1-2）”的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/24003.htm",
+      "date": "2026-11-26"
+    },
     {
       "id": "jwc:23963",
       "source_id": "jwc",
