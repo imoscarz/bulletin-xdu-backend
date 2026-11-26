@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T07:42:02.818883+00:00",
-  "total_notices": 3929,
+  "generated_at": "2026-11-26T21:13:18.017900+00:00",
+  "total_notices": 3934,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,30 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/14564.htm",
       "date": "2026-11-26",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "ste:16896",
+      "source_id": "ste",
+      "title": "通信工程学院2025～2026学年研究生评优公示",
+      "url": "https://ste.xidian.edu.cn/info/1337/16896.htm",
+      "date": "2026-11-26",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3819",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1126/3819.html",
+      "date": "2026-11-26",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3818",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/1126/3818.html",
+      "date": "2026-11-26",
+      "source_name": "集成电路学部"
     },
     {
       "id": "phy:12683",
@@ -26,6 +50,22 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/24003.htm",
       "date": "2026-11-26",
       "source_name": "教务处"
+    },
+    {
+      "id": "eme:17146",
+      "source_id": "eme",
+      "title": "西安电子科技大学机电工程学院/国家级科技创新基地2026年度教师岗位招聘公告",
+      "url": "https://eme.xidian.edu.cn/info/1012/17146.htm",
+      "date": "2026-11-26",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:17126",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息",
+      "url": "https://eme.xidian.edu.cn/info/1012/17126.htm",
+      "date": "2026-11-26",
+      "source_name": "机电工程学院"
     },
     {
       "id": "bksy:36982",
