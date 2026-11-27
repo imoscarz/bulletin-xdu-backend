@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-11-26T21:12:43.744355Z",
-    "total_notices": 140
+    "last_scraped": "2026-11-27T07:40:32.107134Z",
+    "total_notices": 141
   },
   "notices": [
+    {
+      "id": "xgc:14574",
+      "source_id": "xgc",
+      "title": "关于对2026年冬寒补助拟推荐名单进行公示的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/14574.htm",
+      "date": "2026-11-27"
+    },
     {
       "id": "xgc:14564",
       "source_id": "xgc",
