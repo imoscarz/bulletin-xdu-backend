@@ -3,8 +3,8 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-11-27T20:56:11.055104Z",
-    "total_notices": 344
+    "last_scraped": "2026-11-28T07:08:44.695722Z",
+    "total_notices": 345
   },
   "notices": [
     {
@@ -12,6 +12,13 @@
       "source_id": "sme",
       "title": "科研协作公示",
       "url": "https://sme.xidian.edu.cn/html/tzgg/2026/1127/3821.html",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "sme:3820",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026年北方华创奖学金评审结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/1127/3820.html",
       "date": "2026-11-27"
     },
     {
